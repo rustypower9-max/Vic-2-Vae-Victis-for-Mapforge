@@ -1796,50 +1796,6 @@ assimilation_chance = {
 				has_country_flag = belgae_assim
 			}
 		}
-
-	#Persian Assim - Temp bonus for Persia until I figure out more details for them
-		modifier = {
-			factor = 7.5
-			location = {
-				continent = central_asia
-			}
-			country = {
-				has_country_flag = cyrus_legacy
-			}
-
-		}
-		modifier = {
-			factor = -6.925
-			has_culture_core = no
-			location = {
-				continent = central_asia
-			}
-			country = {
-				has_country_flag = cyrus_legacy
-			}
-		}
-		modifier = {
-			factor = 7.5
-			location = {
-				continent = central_asia
-			}
-			year = 710
-			country = {
-				has_country_flag = cyrus_legacy
-			}
-
-		}
-		modifier = {
-			factor = -6.925
-			has_culture_core = no
-			location = {
-				continent = central_asia
-			}
-			year = 710
-			country = {
-				has_country_flag = cyrus_legacy
-			}
-		}
 	#Illyro-Dacian
 		modifier = {
 			factor = 10

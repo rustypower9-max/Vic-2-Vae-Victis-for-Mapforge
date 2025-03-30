@@ -10,7 +10,6 @@ civilized = yes
 prestige = 50
 
 set_country_flag = zoroastrian_nation
-set_country_flag = cryus_legacy
 
 ruling_party = PER_conservative
 upper_house = {
