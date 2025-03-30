@@ -1,0 +1,17 @@
+
+
+
+
+trade_goods = iron
+life_rating = 25 
+
+1836.1.2 = {
+	remove_core = COM
+	
+	
+	add_core = CAN
+	colonial = 0
+}
+1861.1.1 = {
+	naval_base = 1
+}

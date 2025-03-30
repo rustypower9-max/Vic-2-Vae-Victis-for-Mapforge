@@ -80,5 +80,9 @@
 	South Han
 	Yemaek
 
+*JAPONIC
+	Wa
+	Byeohan
+
 *BARBARIAN
 	Barbarian (NOTE: HAS AN INNATE ASSIM PENALTY FOR ALL CULTURES)

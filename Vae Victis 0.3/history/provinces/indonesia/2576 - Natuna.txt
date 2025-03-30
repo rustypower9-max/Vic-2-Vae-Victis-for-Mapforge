@@ -1,8 +1,0 @@
-owner = POR
-controller = POR
-colonial = 2
-trade_goods = fish
-life_rating = 30
-
- 
-

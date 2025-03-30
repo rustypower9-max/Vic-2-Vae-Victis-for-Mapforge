@@ -1,6 +1,0 @@
-owner = ZIL
-controller = ZIL
-add_core = ZIL
-trade_goods = wool
-life_rating = 35
-

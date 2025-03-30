@@ -1,0 +1,123 @@
+#Americas LR buffed once annexation is possible
+country_event = {
+	id = 776603
+	title = "Americas LR buff"
+	desc = "Buffs America's LR mid game once annexation is possible"
+	picture = "american_colonization_society"
+
+	trigger = {
+		tag = LCT
+		year = 710
+	}
+	
+	fire_only_once = yes
+	
+	mean_time_to_happen = { days = 1 }
+	
+	option = {
+		name = "Nice" 
+			any_country = {
+				any_owned = {
+					limit = {
+						life_rating = 30
+						NOT = { life_rating = 31 }
+						OR = {
+							continent = north_amerikkka
+							continent = south_amerikkka
+							continent = australia
+						}
+					}
+					life_rating = 5				
+					}
+				}
+			any_country = {
+				any_owned = {
+					limit = {
+						life_rating = 25
+						NOT = { life_rating = 26 }
+							OR = {
+								continent = north_amerikkka
+								continent = south_amerikkka
+								continent = australia
+							}
+						}
+					life_rating = 10				
+					}
+				}
+			any_country = {
+				any_owned = {
+					limit = {
+						life_rating = 20
+						NOT = { life_rating = 21 }
+							OR = {
+								continent = north_amerikkka
+								continent = south_amerikkka
+								continent = australia
+							}
+						}
+					life_rating = 15				
+					}
+				}
+			}
+		}
+		
+#India LR buff at mid game, being saved for later if India turns out to need it
+country_event = {
+	id = 776604
+	title = "India Buff"
+	desc = "Mid Game this buffs up India's LR"
+	picture = "begin_tpg"
+
+	trigger = {
+		tag = LCT
+		year = 700
+	}
+	
+	fire_only_once = yes
+	
+	mean_time_to_happen = { days = 1 }
+	
+	option = {
+		name = "Zased" 
+			any_country = {
+				any_owned = {
+					limit = {
+						OR = {
+							continent = india
+							continent = china
+						}
+					}
+					life_rating = 3				
+					}
+				}
+			}
+		}
+
+country_event = {
+	id = 776605
+	title = "China Buff"
+	desc = "Mid Game this buffs up China's LR"
+	picture = "begin_tpg"
+
+	trigger = {
+		tag = LCT
+		year = 748
+	}
+	
+	fire_only_once = yes
+	
+	mean_time_to_happen = { days = 1 }
+	
+	option = {
+		name = "Zased" 
+			any_country = {
+				any_owned = {
+					limit = {
+						continent = china
+						}
+					}
+					life_rating = 3				
+					}
+				}
+			}
+		}

@@ -1,0 +1,99 @@
+political_decisions = {
+    form_briton = {
+		picture = wyvern
+        potential = { 
+            primary_culture = briton
+            ENG = { exists = no }
+            NOT = { has_global_flag = britons_united }
+        }
+    
+		allow = {
+			state_n_government = 1
+            war = no
+			owns = 275
+			TRG = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							vassal_of = THIS
+						}
+					}
+				}
+			}
+            DUM = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							vassal_of = THIS
+						}
+					}
+				}
+			}
+            CRN = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							vassal_of = THIS
+						}
+					}
+				}
+			}
+			BRG = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							vassal_of = THIS
+						}
+					}
+				}
+			}
+		}
+		effect = {
+			prestige = 2
+			set_global_flag = britons_united
+            all_core = { add_core = ENG }
+            change_tag = ENG
+			inherit = TRG
+            inherit = DUM
+            inherit = CRN
+			inherit = BRG
+			ENG_273 = { add_core = ENG }
+			TRG = {
+				all_core = {
+					add_core = THIS
+					secede_province = THIS
+                    remove_core = TRG
+				}
+			}
+            DUM = {
+				all_core = {
+					add_core = THIS
+					secede_province = THIS
+                    remove_core = DUM
+				}
+			}
+            CRN = {
+				all_core = {
+					add_core = THIS
+					secede_province = THIS
+                    remove_core = CRN
+				}
+			}
+			BRG = {
+				all_core = {
+					add_core = THIS
+					secede_province = THIS
+                    remove_core = BRG
+				}
+			}
+		}
+    
+        ai_will_do = {
+            factor = 1
+        }
+    }
+}

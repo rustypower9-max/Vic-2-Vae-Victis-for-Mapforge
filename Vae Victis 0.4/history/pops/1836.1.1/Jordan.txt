@@ -1,0 +1,280 @@
+#Suriye Region (36000)  #see Syria.txt & Lebanon.txt for balance of region
+#under the rule of Egypt in 1836
+#Amman (20000/5000 POPS) #now part of Jordan
+908 = {
+    aristocrats = {
+        culture = greco-syrian
+        religion = placeholder
+        size = 166
+    }
+
+    clergymen = {
+        culture = greco-syrian
+        religion = placeholder
+        size = 166
+    }
+
+    artisans = {
+        culture = greco-syrian
+        religion = placeholder
+        size = 199
+    }
+
+    soldiers = {
+        culture = greco-syrian
+        religion = placeholder
+        size = 166
+    }
+
+    farmers = {
+        culture = greco-syrian
+        religion = placeholder
+        size = 4089
+    }
+
+    aristocrats = {
+        culture = greco-syrian
+        religion = placeholder
+        size = 199
+    }
+
+    clergymen = {
+        culture = greco-syrian
+        religion = placeholder
+        size = 232
+    }
+
+    artisans = {
+        culture = greco-syrian
+        religion = placeholder
+        size = 1562
+    }
+
+    soldiers = {
+        culture = greco-syrian
+        religion = placeholder
+        size = 166
+    }
+
+    farmers = {
+        culture = greco-syrian
+        religion = placeholder
+        size = 14197
+    }
+}
+#Jerash (16000/4000 POPS) #now part of Jordan
+909 = {
+    aristocrats = {
+        culture = greco-syrian
+        religion = placeholder
+        size = 179
+    }
+
+    clergymen = {
+        culture = greco-syrian
+        religion = placeholder
+        size = 232
+    }
+
+    artisans = {
+        culture = greco-syrian
+        religion = placeholder
+        size = 1529
+    }
+
+    soldiers = {
+        culture = greco-syrian
+        religion = placeholder
+        size = 166
+    }
+
+    farmers = {
+        culture = greco-syrian
+        religion = placeholder
+        size = 7600
+    }
+
+    aristocrats = {
+        culture = greco-syrian
+        religion = placeholder
+        size = 152
+    }
+
+    clergymen = {
+        culture = greco-syrian
+        religion = placeholder
+        size = 152
+    }
+
+    artisans = {
+        culture = greco-syrian
+        religion = placeholder
+        size = 179
+    }
+
+    soldiers = {
+        culture = greco-syrian
+        religion = placeholder
+        size = 166
+    }
+
+    farmers = {
+        culture = greco-syrian
+        religion = placeholder
+        size = 7860
+    }
+}
+#Badiyat al-Sham Region (40000)  #see Syria.txt, Iraq.txt & Saudi Arabia.txt for balance of region
+#under the "rule" of Egypt in 1836
+#Ruwayshid (12000/3000 POPS) #now part of Jordan
+910 = {
+    aristocrats = {
+        culture = zeraphite
+        religion = placeholder
+        size = 597
+    }
+
+    clergymen = {
+        culture = zeraphite
+        religion = placeholder
+        size = 597
+    }
+
+    artisans = {
+        culture = zeraphite
+        religion = placeholder
+        size = 4488
+    }
+
+    soldiers = {
+        culture = zeraphite
+        religion = placeholder
+        size = 597
+    }
+
+    farmers = {
+        culture = zeraphite
+        religion = placeholder
+        size = 22842
+    }
+}
+#Maan (28000/7000 POPS) #now part of Jordan
+911 = {
+    aristocrats = {
+        culture = zeraphite
+        religion = placeholder
+        size = 150
+    }
+
+    clergymen = {
+        culture = zeraphite
+        religion = placeholder
+        size = 300
+    }
+
+    artisans = {
+        culture = zeraphite
+        religion = placeholder
+        size = 900
+    }
+
+    soldiers = {
+        culture = zeraphite
+        religion = placeholder
+        size = 150
+    }
+
+    farmers = {
+        culture = zeraphite
+        religion = placeholder
+        size = 16500
+    }
+
+    aristocrats = {
+        culture = zeraphite
+        religion = placeholder
+        size = 300
+    }
+
+    clergymen = {
+        culture = zeraphite
+        religion = placeholder
+        size = 450
+    }
+
+    artisans = {
+        culture = zeraphite
+        religion = placeholder
+        size = 900
+    }
+
+    soldiers = {
+        culture = zeraphite
+        religion = placeholder
+        size = 300
+    }
+
+    farmers = {
+        culture = zeraphite
+        religion = placeholder
+        size = 22050
+    }
+}
+#Palestine Region (20000)  #see Israel-Palestine.txt for balance of region
+#under the rule of Egypt in 1836
+#Aqaba (20000/5000 POPS) #now part of Jordan
+922 = {
+    clergymen = {
+        culture = zeraphite
+        religion = placeholder
+        size = 150
+    }
+
+    artisans = {
+        culture = zeraphite
+        religion = placeholder
+        size = 300
+    }
+
+    soldiers = {
+        culture = zeraphite
+        religion = placeholder
+        size = 150
+    }
+
+    farmers = {
+        culture = zeraphite
+        religion = placeholder
+        size = 5400
+    }
+
+    aristocrats = {
+        culture = zeraphite
+        religion = placeholder
+        size = 150
+    }
+
+    clergymen = {
+        culture = zeraphite
+        religion = placeholder
+        size = 150
+    }
+
+    artisans = {
+        culture = zeraphite
+        religion = placeholder
+        size = 900
+    }
+
+    soldiers = {
+        culture = zeraphite
+        religion = placeholder
+        size = 150
+    }
+
+    farmers = {
+        culture = zeraphite
+        religion = placeholder
+        size = 22650
+    }
+}

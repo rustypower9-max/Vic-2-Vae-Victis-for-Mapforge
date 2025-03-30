@@ -1,0 +1,8 @@
+owner = CAR
+controller = CAR
+add_core = CAR
+trade_goods = iron
+life_rating = 37
+railroad = 1
+
+  

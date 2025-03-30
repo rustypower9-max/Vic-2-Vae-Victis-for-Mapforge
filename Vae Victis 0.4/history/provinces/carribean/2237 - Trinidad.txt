@@ -1,0 +1,7 @@
+owner = YEM
+controller = YEM
+colonial = 2 
+naval_base = 1
+trade_goods = cotton
+life_rating = 35
+  

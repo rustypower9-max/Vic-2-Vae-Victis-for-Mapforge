@@ -1,0 +1,8 @@
+owner = XBI
+controller = XBI
+add_core = XBI
+add_core = TPG
+trade_goods = fish
+life_rating = 32
+
+ 

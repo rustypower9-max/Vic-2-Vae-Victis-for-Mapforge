@@ -1,4 +1,0 @@
-#WIP no ideas for Yemen yet
-#political_decisions = {
-#
-#}

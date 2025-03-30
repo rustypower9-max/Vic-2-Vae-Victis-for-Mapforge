@@ -1,8 +1,0 @@
-owner = YEM
-controller = YEM
-add_core = CHI
-colonial = 2
-#add_core = GNG
-trade_goods = coal
-life_rating = 35
-

@@ -1,0 +1,6 @@
+owner = ING
+controller = ING
+add_core = ING
+trade_goods = timber
+life_rating = 32
+

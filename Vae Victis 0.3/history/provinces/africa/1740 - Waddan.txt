@@ -1,8 +1,0 @@
-owner = CAR
-controller = CAR
-add_core = CAR
-add_core = ALD
-trade_goods = wool
-life_rating = 35
-
- 

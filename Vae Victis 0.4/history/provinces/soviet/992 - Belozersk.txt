@@ -1,0 +1,6 @@
+owner = ASG
+controller = ASG
+add_core = ASG
+trade_goods = cattle
+life_rating = 35
+

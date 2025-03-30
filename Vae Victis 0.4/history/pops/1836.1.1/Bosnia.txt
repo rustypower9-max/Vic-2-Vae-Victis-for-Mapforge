@@ -1,0 +1,550 @@
+#Bosnia Region (864000)
+#under the rule of Ottoman Empire in 1836
+#Sarajevo (148000/37000 POPS)
+783 = {
+    aristocrats = {
+        culture = illyrian
+        religion = placeholder
+        size = 1300
+    }
+
+    bureaucrats = {
+        culture = illyrian
+        religion = placeholder
+        size = 2750
+    }
+
+    officers = {
+        culture = illyrian
+        religion = placeholder
+        size = 450
+    }
+
+    clergymen = {
+        culture = illyrian
+        religion = placeholder
+        size = 400
+    }
+
+    artisans = {
+        culture = illyrian
+        religion = placeholder
+        size = 8000
+    }
+
+    soldiers = {
+        culture = illyrian
+        religion = placeholder
+        size = 550
+    }
+
+    farmers = {
+        culture = illyrian
+        religion = placeholder
+        size = 31150
+    }
+
+    clergymen = {
+        culture = illyrian
+        religion = placeholder
+        size = 200
+    }
+
+    artisans = {
+        culture = illyrian
+        religion = placeholder
+        size = 3500
+    }
+
+    soldiers = {
+        culture = illyrian
+        religion = placeholder
+        size = 200
+    }
+
+    farmers = {
+        culture = illyrian
+        religion = placeholder
+        size = 18100
+    }
+
+    clergymen = {
+        culture = illyrian
+        religion = placeholder
+        size = 150
+    }
+
+    artisans = {
+        culture = illyrian
+        religion = placeholder
+        size = 950
+    }
+
+    farmers = {
+        culture = illyrian
+        religion = placeholder
+        size = 6900
+    }
+
+    clergymen = {
+        culture = punic
+        religion = placeholder
+        size = 50
+    }
+
+    artisans = {
+        culture = punic
+        religion = placeholder
+        size = 1550
+    }
+}
+#Bihac (100000/25000 POPS)
+784 = {
+    aristocrats = {
+        culture = illyrian
+        religion = placeholder
+        size = 800
+    }
+
+    clergymen = {
+        culture = illyrian
+        religion = placeholder
+        size = 350
+    }
+
+    artisans = {
+        culture = illyrian
+        religion = placeholder
+        size = 1500
+    }
+
+    soldiers = {
+        culture = illyrian
+        religion = placeholder
+        size = 500
+    }
+
+    farmers = {
+        culture = illyrian
+        religion = placeholder
+        size = 32850
+    }
+
+    clergymen = {
+        culture = illyrian
+        religion = placeholder
+        size = 150
+    }
+
+    artisans = {
+        culture = illyrian
+        religion = placeholder
+        size = 600
+    }
+
+    soldiers = {
+        culture = illyrian
+        religion = placeholder
+        size = 200
+    }
+
+    farmers = {
+        culture = illyrian
+        religion = placeholder
+        size = 7050
+    }
+
+    clergymen = {
+        culture = illyrian
+        religion = placeholder
+        size = 100
+    }
+
+    artisans = {
+        culture = illyrian
+        religion = placeholder
+        size = 400
+    }
+
+    farmers = {
+        culture = illyrian
+        religion = placeholder
+        size = 5500
+    }
+}
+#Banja Luka (116000/29000 POPS)
+785 = {
+    aristocrats = {
+        culture = illyrian
+        religion = placeholder
+        size = 1000
+    }
+
+    clergymen = {
+        culture = illyrian
+        religion = placeholder
+        size = 100
+    }
+
+    artisans = {
+        culture = illyrian
+        religion = placeholder
+        size = 1600
+    }
+
+    soldiers = {
+        culture = illyrian
+        religion = placeholder
+        size = 200
+    }
+
+    farmers = {
+        culture = illyrian
+        religion = placeholder
+        size = 9100
+    }
+
+    clergymen = {
+        culture = illyrian
+        religion = placeholder
+        size = 350
+    }
+
+    artisans = {
+        culture = illyrian
+        religion = placeholder
+        size = 1000
+    }
+
+    soldiers = {
+        culture = illyrian
+        religion = placeholder
+        size = 200
+    }
+
+    farmers = {
+        culture = illyrian
+        religion = placeholder
+        size = 36450
+    }
+
+    clergymen = {
+        culture = illyrian
+        religion = placeholder
+        size = 150
+    }
+
+    artisans = {
+        culture = illyrian
+        religion = placeholder
+        size = 300
+    }
+
+    soldiers = {
+        culture = illyrian
+        religion = placeholder
+        size = 200
+    }
+
+    farmers = {
+        culture = illyrian
+        religion = placeholder
+        size = 7350
+    }
+}
+#Tuzla (168000/42000 POPS)
+786 = {
+    aristocrats = {
+        culture = illyrian
+        religion = placeholder
+        size = 1400
+    }
+
+    clergymen = {
+        culture = illyrian
+        religion = placeholder
+        size = 350
+    }
+
+    artisans = {
+        culture = illyrian
+        religion = placeholder
+        size = 2300
+    }
+
+    soldiers = {
+        culture = illyrian
+        religion = placeholder
+        size = 500
+    }
+
+    farmers = {
+        culture = illyrian
+        religion = placeholder
+        size = 29450
+    }
+
+    clergymen = {
+        culture = illyrian
+        religion = placeholder
+        size = 350
+    }
+
+    artisans = {
+        culture = illyrian
+        religion = placeholder
+        size = 1400
+    }
+
+    soldiers = {
+        culture = illyrian
+        religion = placeholder
+        size = 200
+    }
+
+    farmers = {
+        culture = illyrian
+        religion = placeholder
+        size = 38050
+    }
+
+    clergymen = {
+        culture = illyrian
+        religion = placeholder
+        size = 150
+    }
+
+    artisans = {
+        culture = illyrian
+        religion = placeholder
+        size = 500
+    }
+
+    soldiers = {
+        culture = illyrian
+        religion = placeholder
+        size = 200
+    }
+
+    farmers = {
+        culture = illyrian
+        religion = placeholder
+        size = 9150
+    }
+}
+#Foca (92000/23000 POPS)
+787 = {
+    aristocrats = {
+        culture = illyrian
+        religion = placeholder
+        size = 800
+    }
+
+    clergymen = {
+        culture = illyrian
+        religion = placeholder
+        size = 150
+    }
+
+    artisans = {
+        culture = illyrian
+        religion = placeholder
+        size = 1200
+    }
+
+    soldiers = {
+        culture = illyrian
+        religion = placeholder
+        size = 200
+    }
+
+    farmers = {
+        culture = illyrian
+        religion = placeholder
+        size = 11650
+    }
+
+    clergymen = {
+        culture = illyrian
+        religion = placeholder
+        size = 300
+    }
+
+    artisans = {
+        culture = illyrian
+        religion = placeholder
+        size = 1100
+    }
+
+    soldiers = {
+        culture = illyrian
+        religion = placeholder
+        size = 200
+    }
+
+    farmers = {
+        culture = illyrian
+        religion = placeholder
+        size = 30400
+    }
+}
+#Mostar (104000/26000 POPS)
+788 = {
+    aristocrats = {
+        culture = illyrian
+        religion = placeholder
+        size = 900
+    }
+
+    clergymen = {
+        culture = illyrian
+        religion = placeholder
+        size = 100
+    }
+
+    artisans = {
+        culture = illyrian
+        religion = placeholder
+        size = 1200
+    }
+
+    soldiers = {
+        culture = illyrian
+        religion = placeholder
+        size = 100
+    }
+
+    farmers = {
+        culture = illyrian
+        religion = placeholder
+        size = 7700
+    }
+
+    clergymen = {
+        culture = illyrian
+        religion = placeholder
+        size = 250
+    }
+
+    artisans = {
+        culture = illyrian
+        religion = placeholder
+        size = 1000
+    }
+
+    soldiers = {
+        culture = illyrian
+        religion = placeholder
+        size = 200
+    }
+
+    farmers = {
+        culture = illyrian
+        religion = placeholder
+        size = 28550
+    }
+
+    clergymen = {
+        culture = illyrian
+        religion = placeholder
+        size = 100
+    }
+
+    artisans = {
+        culture = illyrian
+        religion = placeholder
+        size = 400
+    }
+
+    soldiers = {
+        culture = illyrian
+        religion = placeholder
+        size = 200
+    }
+
+    farmers = {
+        culture = illyrian
+        religion = placeholder
+        size = 11300
+    }
+}
+#Livno (136000/34000 POPS)
+789 = {
+    aristocrats = {
+        culture = illyrian
+        religion = placeholder
+        size = 700
+    }
+
+    clergymen = {
+        culture = illyrian
+        religion = placeholder
+        size = 50
+    }
+
+    artisans = {
+        culture = illyrian
+        religion = placeholder
+        size = 500
+    }
+
+    soldiers = {
+        culture = illyrian
+        religion = placeholder
+        size = 100
+    }
+
+    farmers = {
+        culture = illyrian
+        religion = placeholder
+        size = 2700
+    }
+
+    clergymen = {
+        culture = illyrian
+        religion = placeholder
+        size = 250
+    }
+
+    artisans = {
+        culture = illyrian
+        religion = placeholder
+        size = 1600
+    }
+
+    soldiers = {
+        culture = illyrian
+        religion = placeholder
+        size = 200
+    }
+
+    farmers = {
+        culture = illyrian
+        religion = placeholder
+        size = 27950
+    }
+
+    clergymen = {
+        culture = illyrian
+        religion = placeholder
+        size = 300
+    }
+
+    artisans = {
+        culture = illyrian
+        religion = placeholder
+        size = 1300
+    }
+
+    farmers = {
+        culture = illyrian
+        religion = placeholder
+        size = 200
+    }
+
+    farmers = {
+        culture = illyrian
+        religion = placeholder
+        size = 32400
+    }
+}

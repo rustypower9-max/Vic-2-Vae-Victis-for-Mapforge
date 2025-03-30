@@ -1,0 +1,140 @@
+political_decisions = {
+	form_romqart_federation = {
+		picture = map_italy
+		potential = {
+			NOT = { has_global_flag = romqart_federation_destroyed }
+			OR = {
+				tag = RWM
+				tag = CAT
+				tag = CRO
+			}
+			NOT = {
+				exists = AIT
+			}
+		}
+		
+		allow = {
+		OR = {
+			AND = {
+			tag = RWM
+			year = 670
+			RWM = {
+			check_variable = { which = VP's value = 8 }
+			}
+			}
+			AND = {
+			tag = RWM
+			year = 675
+			RWM = {
+			check_variable = { which = VP's value = 7 }
+			}
+			}
+			AND = {
+			tag = RWM
+			year = 680
+			RWM = {
+			check_variable = { which = VP's value = 6 }
+			}
+			}
+			AND = {
+			tag = RWM
+			year = 685
+			RWM = {
+			check_variable = { which = VP's value = 5 }
+			}
+			CAT = {  
+	 		 NOT = { check_variable = { which = VP's value = 2 } }
+			}
+			CRO = {  
+	 		 NOT = { check_variable = { which = VP's value = 2 } }
+			}
+			}
+			AND = {
+			tag = CAT
+			year = 670
+			CAT = {
+			check_variable = { which = VP's value = 8 }
+			}
+			}
+			AND = {
+			tag = CAT
+			year = 675
+			CAT = {
+			check_variable = { which = VP's value = 7 }
+			}
+			}
+			AND = {
+			tag = CAT
+			year = 680
+			CAT = {
+			check_variable = { which = VP's value = 6 }
+			}
+			}
+			AND = {
+			tag = CAT
+			year = 685
+			CAT = { 
+			check_variable = { which = VP's value = 5 }
+			}
+			RWM = {  
+	 		 NOT = { check_variable = { which = VP's value = 2 } }
+			}
+			CRO = {  
+	 		 NOT = { check_variable = { which = VP's value = 2 } }
+			}
+			}
+			AND = {
+			tag = CRO
+			year = 670
+			CRO = {
+			check_variable = { which = VP's value = 8 }
+			}
+			}
+			AND = {
+			tag = CRO
+			year = 675
+			CRO = {
+			check_variable = { which = VP's value = 7 }
+			}
+			}
+			AND = {
+			tag = CRO
+			year = 680
+			CRO = {
+			check_variable = { which = VP's value = 6 }
+			}
+			}
+			AND = {
+			tag = CRO
+			year = 685
+			CRO = { 
+			check_variable = { which = VP's value = 5 }
+			}
+			RWM = {  
+	 		 NOT = { check_variable = { which = VP's value = 2 } }
+			}
+			CAT = {  
+	 		 NOT = { check_variable = { which = VP's value = 2 } }
+			}
+			}
+			}
+		}
+		effect = {
+			prestige = 30
+			change_tag = AIT
+			set_country_flag = romaboo
+			set_global_flag = romqart_federation_destroyed
+			RWM = { all_core = { remove_core = RWM add_core = AIT } }
+			LOM = { all_core = { remove_core = LOM add_core = AIT } }
+			SAR = { all_core = { remove_core = SAR add_core = AIT } }
+			SIC = { all_core = { remove_core = SIC add_core = AIT } }
+			inherit = RWM
+			inherit = LOM
+			capital = 749
+			749 = { assimilate = yes }
+		}
+		ai_will_do = {
+			factor = 1
+			}
+		}
+	}

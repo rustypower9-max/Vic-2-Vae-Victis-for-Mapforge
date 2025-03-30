@@ -1,0 +1,3 @@
+add_core = CUB
+trade_goods = tobacco
+life_rating = 30

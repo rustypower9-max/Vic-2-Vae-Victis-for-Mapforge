@@ -1,9 +1,0 @@
-owner = MAC
-controller = MAC
-add_core = MAC
-trade_goods = fruit
-life_rating = 40
-1861.1.1 = {
-	naval_base = 1
-}
-

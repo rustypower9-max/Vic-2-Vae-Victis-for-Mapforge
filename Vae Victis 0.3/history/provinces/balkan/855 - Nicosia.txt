@@ -1,7 +1,0 @@
-owner = CAP
-controller = CAP
-add_core = CAP
-trade_goods = sulphur
-life_rating = 38
-naval_base = 1 
- 

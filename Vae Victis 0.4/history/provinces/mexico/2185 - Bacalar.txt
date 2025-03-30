@@ -1,0 +1,5 @@
+owner = NPH
+controller = NPH
+add_core = NPH
+trade_goods = timber
+life_rating = 35

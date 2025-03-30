@@ -1,0 +1,8 @@
+owner = MAC
+controller = MAC
+add_core = MAC
+#add_core = ROM
+ 
+trade_goods = grain
+life_rating = 36
+

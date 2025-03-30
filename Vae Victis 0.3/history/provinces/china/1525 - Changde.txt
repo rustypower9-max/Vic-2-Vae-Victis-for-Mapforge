@@ -1,7 +1,0 @@
-add_core = CHI
-#add_core = HNN
-add_core = MGL
-trade_goods = silk
-life_rating = 30
-owner = MGL
-controller = MGL

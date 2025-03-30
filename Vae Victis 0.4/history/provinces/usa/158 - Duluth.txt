@@ -1,0 +1,8 @@
+add_core = TEX
+
+
+trade_goods = iron
+life_rating = 20 
+
+
+

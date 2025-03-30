@@ -1,0 +1,502 @@
+#Bayrut Region (52000)  #see Lebanon.txt for balance of region
+#under the rule of Egypt in 1836
+#Acre (52000/13000 POPS) #now part of Israel-Palestine  mashriqi-placeholder = druze
+916 = {
+    aristocrats = {
+        culture = canaanite
+        religion = placeholder
+        size = 225
+    }
+
+    clergymen = {
+        culture = canaanite
+        religion = placeholder
+        size = 150
+    }
+
+    artisans = {
+        culture = canaanite
+        religion = placeholder
+        size = 750
+    }
+
+    soldiers = {
+        culture = canaanite
+        religion = placeholder
+        size = 1150
+    }
+
+    farmers = {
+        culture = canaanite
+        religion = placeholder
+        size = 13725
+    }
+
+    clergymen = {
+        culture = canaanite
+        religion = placeholder
+        size = 75
+    }
+
+    artisans = {
+        culture = canaanite
+        religion = placeholder
+        size = 300
+    }
+
+    farmers = {
+        culture = canaanite
+        religion = placeholder
+        size = 5625
+    }
+
+    clergymen = {
+        culture = canaanite
+        religion = placeholder
+        size = 150
+    }
+
+    artisans = {
+        culture = canaanite
+        religion = placeholder
+        size = 600
+    }
+
+    farmers = {
+        culture = canaanite
+        religion = placeholder
+        size = 11250
+    }
+
+    clergymen = {
+        culture = canaanite
+        religion = placeholder
+        size = 150
+    }
+
+    artisans = {
+        culture = canaanite
+        religion = placeholder
+        size = 3300
+    }
+
+    farmers = {
+        culture = canaanite
+        religion = placeholder
+        size = 5550
+    }
+
+    artisans = {
+        culture = canaanite
+        religion = placeholder
+        size = 9300
+    }
+
+    farmers = {
+        culture = canaanite
+        religion = placeholder
+        size = 11550
+    }
+}
+#Palestine Region (236000)  #see Jordan.txt for balance of region
+#under the rule of Egypt in 1836
+#Jerusalem (68000/17000 POPS)
+917 = {
+    aristocrats = {
+        culture = canaanite
+        religion = placeholder
+        size = 600
+    }
+
+    bureaucrats = {
+        culture = canaanite
+        religion = placeholder
+        size = 750
+    }
+
+    officers = {
+        culture = canaanite
+        religion = placeholder
+        size = 225
+    }
+
+    clergymen = {
+        culture = canaanite
+        religion = placeholder
+        size = 300
+    }
+
+    artisans = {
+        culture = canaanite
+        religion = placeholder
+        size = 6900
+    }
+
+    soldiers = {
+        culture = canaanite
+        religion = placeholder
+        size = 1525
+    }
+
+    soldiers = {
+        culture = greco-syrian
+        religion = placeholder
+        size = 1525
+    }
+
+    farmers = {
+        culture = canaanite
+        religion = placeholder
+        size = 48300
+    }
+
+    clergymen = {
+        culture = canaanite
+        religion = placeholder
+        size = 225
+    }
+
+    artisans = {
+        culture = canaanite
+        religion = placeholder
+        size = 2475
+    }
+
+    farmers = {
+        culture = canaanite
+        religion = placeholder
+        size = 18300
+    }
+
+    clergymen = {
+        culture = greco-syrian
+        religion = placeholder
+        size = 150
+    }
+
+    artisans = {
+        culture = greco-syrian
+        religion = placeholder
+        size = 5625
+    }
+
+    farmers = {
+        culture = greco-syrian
+        religion = placeholder
+        size = 6825
+    }
+
+    clergymen = {
+        culture = greco-syrian
+        religion = placeholder
+        size = 150
+    }
+
+    artisans = {
+        culture = greco-syrian
+        religion = placeholder
+        size = 5625
+    }
+
+    farmers = {
+        culture = greco-syrian
+        religion = placeholder
+        size = 6825
+    }
+}
+#Nablus (44000/11000 POPS)
+918 = {
+    aristocrats = {
+        culture = canaanite
+        religion = placeholder
+        size = 375
+    }
+
+    clergymen = {
+        culture = canaanite
+        religion = placeholder
+        size = 300
+    }
+
+    artisans = {
+        culture = canaanite
+        religion = placeholder
+        size = 3075
+    }
+
+    soldiers = {
+        culture = canaanite
+        religion = placeholder
+        size = 1375
+    }
+
+    soldiers = {
+        culture = greco-syrian
+        religion = placeholder
+        size = 1375
+    }
+
+    farmers = {
+        culture = canaanite
+        religion = placeholder
+        size = 22875
+    }
+
+    clergymen = {
+        culture = canaanite
+        religion = placeholder
+        size = 75
+    }
+
+    artisans = {
+        culture = canaanite
+        religion = placeholder
+        size = 375
+    }
+
+    farmers = {
+        culture = canaanite
+        religion = placeholder
+        size = 2550
+    }
+
+    clergymen = {
+        culture = canaanite
+        religion = placeholder
+        size = 75
+    }
+
+    artisans = {
+        culture = canaanite
+        religion = placeholder
+        size = 300
+    }
+
+    farmers = {
+        culture = canaanite
+        religion = placeholder
+        size = 2625
+    }
+
+    clergymen = {
+        culture = greco-syrian
+        religion = placeholder
+        size = 150
+    }
+
+    artisans = {
+        culture = greco-syrian
+        religion = placeholder
+        size = 5625
+    }
+
+    farmers = {
+        culture = greco-syrian
+        religion = placeholder
+        size = 6825
+    }
+}
+#Jaffa (48000/12000 POPS)
+919 = {
+    aristocrats = {
+        culture = canaanite
+        religion = placeholder
+        size = 375
+    }
+
+    clergymen = {
+        culture = canaanite
+        religion = placeholder
+        size = 300
+    }
+
+    artisans = {
+        culture = canaanite
+        religion = placeholder
+        size = 3300
+    }
+
+    soldiers = {
+        culture = canaanite
+        religion = placeholder
+        size = 1375
+    }
+
+   soldiers = {
+        culture = greco-syrian
+        religion = placeholder
+        size = 1375
+    }
+
+    farmers = {
+        culture = canaanite
+        religion = placeholder
+        size = 22650
+    }
+
+    clergymen = {
+        culture = canaanite
+        religion = placeholder
+        size = 75
+    }
+
+    artisans = {
+        culture = canaanite
+        religion = placeholder
+        size = 300
+    }
+
+    farmers = {
+        culture = canaanite
+        religion = placeholder
+        size = 2625
+    }
+
+    clergymen = {
+        culture = greco-syrian
+        religion = placeholder
+        size = 150
+    }
+
+    artisans = {
+        culture = greco-syrian
+        religion = placeholder
+        size = 2625
+    }
+
+    farmers = {
+        culture = greco-syrian
+        religion = placeholder
+        size = 3525
+    }
+
+    clergymen = {
+        culture = greco-syrian
+        religion = placeholder
+        size = 150
+    }
+
+    artisans = {
+        culture = greco-syrian
+        religion = placeholder
+        size = 2625
+    }
+
+    farmers = {
+        culture = greco-syrian
+        religion = placeholder
+        size = 3525
+    }
+}
+#Gaza (44000/11000 POPS)
+920 = {
+    aristocrats = {
+        culture = canaanite
+        religion = placeholder
+        size = 375
+    }
+
+    clergymen = {
+        culture = canaanite
+        religion = placeholder
+        size = 300
+    }
+
+    artisans = {
+        culture = canaanite
+        religion = placeholder
+        size = 3750
+    }
+
+    soldiers = {
+        culture = canaanite
+        religion = placeholder
+        size = 1375
+    }
+
+    farmers = {
+        culture = canaanite
+        religion = placeholder
+        size = 22200
+    }
+
+    clergymen = {
+        culture = canaanite
+        religion = placeholder
+        size = 75
+    }
+
+    artisans = {
+        culture = canaanite
+        religion = placeholder
+        size = 750
+    }
+
+    farmers = {
+        culture = canaanite
+        religion = placeholder
+        size = 5175
+    }
+}
+#Beersheba (36000/9000 POPS)
+921 = {
+    aristocrats = {
+        culture = canaanite
+        religion = placeholder
+        size = 225
+    }
+
+    clergymen = {
+        culture = canaanite
+        religion = placeholder
+        size = 150
+    }
+
+    artisans = {
+        culture = canaanite
+        religion = placeholder
+        size = 1050
+    }
+
+    soldiers = {
+        culture = canaanite
+        religion = placeholder
+        size = 500
+    }
+
+    farmers = {
+        culture = canaanite
+        religion = placeholder
+        size = 19275
+    }
+
+    aristocrats = {
+        culture = canaanite
+        religion = placeholder
+        size = 93
+    }
+
+    clergymen = {
+        culture = canaanite
+        religion = placeholder
+        size = 93
+    }
+
+    artisans = {
+        culture = canaanite
+        religion = placeholder
+        size = 279
+    }
+
+    soldiers = {
+        culture = canaanite
+        religion = placeholder
+        size = 93
+    }
+
+    farmers = {
+        culture = canaanite
+        religion = placeholder
+        size = 6936
+    }
+}

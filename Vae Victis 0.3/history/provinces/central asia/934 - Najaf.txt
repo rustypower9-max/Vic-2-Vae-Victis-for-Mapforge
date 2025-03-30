@@ -1,6 +1,0 @@
-owner = SEL
-controller = SEL
-add_core = SEL
-trade_goods = wool
-life_rating = 35
-

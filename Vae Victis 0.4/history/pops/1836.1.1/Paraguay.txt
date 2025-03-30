@@ -1,0 +1,462 @@
+#Chaco Region (16000) #see Argentina.txt for balance of region
+#Under loose authority of Paraguay 1836
+#Fortin Falcon (8000/2000 POPS)
+2337 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 39
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 84
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 170
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 39
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 3084
+    }
+}
+#Puerto platinean (8000/2000 POPS)
+2338 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 39
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 84
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 170
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 39
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 3084
+    }
+}
+#Paraguay Region (636000) #see Brazil.txt & Argentina.txt for balance of region
+#Under rule of Paraguay 1836
+#Asuncion (368000/92000 POPS)
+2339 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 3168
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 342
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 254
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 1327
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 5483
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 18849
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 13372
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 211
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 2055
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 426
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 38424
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 46
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 245
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 46
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 3127
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 1488
+    }
+}
+#Pilar (68000/17000 POPS)
+2340 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 597
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 170
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 342
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 84
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 5654
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 84
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 1027
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 211
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 19232
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 39
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 84
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 23
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 1558
+    }
+}
+#Encarnacion (100000/25000 POPS)
+2341 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 856
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 211
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 342
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 84
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 5352
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 170
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 1884
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 1884
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 33072
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 39
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 84
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 23
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 1558
+    }
+}
+#San Pedro (84000/21000 POPS)
+2342 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 725
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 211
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 342
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 84
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 5483
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 127
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 1370
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 1884
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 24201
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 39
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 84
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 23
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 1558
+    }
+}
+#Concepcion (16000/4000 POPS)
+2343 = {
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 39
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 84
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 39
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 1542
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 84
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 127
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 254
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 39
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 4626
+    }
+}

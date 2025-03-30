@@ -1,0 +1,6 @@
+owner = CAR
+controller = CAR
+colonial = 2
+trade_goods = fruit
+life_rating = 35
+add_core = SAF

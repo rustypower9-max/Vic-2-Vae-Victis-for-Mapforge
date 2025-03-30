@@ -1,0 +1,6 @@
+owner = YEM
+controller = YEM
+trade_goods = coffee
+life_rating = 32
+colonial = 2
+naval_base = 1 

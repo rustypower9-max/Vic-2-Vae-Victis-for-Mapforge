@@ -1,6 +1,0 @@
-add_core = TEX
-
-
-trade_goods = cotton
-life_rating = 20
-

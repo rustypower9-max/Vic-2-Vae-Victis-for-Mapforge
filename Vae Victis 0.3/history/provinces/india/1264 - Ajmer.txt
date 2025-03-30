@@ -1,6 +1,0 @@
-owner = ING
-controller = ING
-add_core = ING
-trade_goods = sulphur
-life_rating = 32
-

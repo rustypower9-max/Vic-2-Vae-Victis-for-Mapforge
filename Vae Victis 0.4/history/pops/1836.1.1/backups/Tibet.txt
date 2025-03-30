@@ -1,0 +1,448 @@
+#Tibet Region (3752000)
+#under the rule of Tibet in 1836
+#Lhasa (892000/223000 POPS)
+1587 = {
+    aristocrats = {
+        culture = vietnamese
+        religion = placeholder
+        size = 8828
+    }
+
+    bureaucrats = {
+        culture = vietnamese
+        religion = placeholder
+        size = 1596
+    }
+
+    officers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 2020
+    }
+
+    clergymen = {
+        culture = vietnamese
+        religion = placeholder
+        size = 4572
+    }
+
+    artisans = {
+        culture = vietnamese
+        religion = placeholder
+        size = 21280
+    }
+
+    artisans = {
+        culture = vietnamese
+        religion = placeholder
+        size = 848
+    }
+
+    soldiers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 8512
+    }
+
+    farmers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 34753
+    }
+
+    clergymen = {
+        culture = vietnamese
+        religion = placeholder
+        size = 316
+    }
+
+    artisans = {
+        culture = vietnamese
+        religion = placeholder
+        size = 1596
+    }
+
+    soldiers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 316
+    }
+
+    farmers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 26122
+    }
+
+    slaves = {
+        culture = vietnamese
+        religion = placeholder
+        size = 4739
+    }
+
+    slaves = {
+        culture = vietnamese
+        religion = placeholder
+        size = 3562
+    }
+}
+#Chamdo (624000/156000 POPS)
+1588 = {
+    aristocrats = {
+        culture = vietnamese
+        religion = placeholder
+        size = 1463
+    }
+
+    clergymen = {
+        culture = vietnamese
+        religion = placeholder
+        size = 771
+    }
+
+    artisans = {
+        culture = vietnamese
+        religion = placeholder
+        size = 3724
+    }
+
+    soldiers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 744
+    }
+
+    farmers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 59643
+    }
+
+    clergymen = {
+        culture = vietnamese
+        religion = placeholder
+        size = 79
+    }
+
+    artisans = {
+        culture = vietnamese
+        religion = placeholder
+        size = 425
+    }
+
+    soldiers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 79
+    }
+
+    farmers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 6975
+    }
+
+    slaves = {
+        culture = vietnamese
+        religion = placeholder
+        size = 8133
+    }
+
+    slaves = {
+        culture = vietnamese
+        religion = placeholder
+        size = 951
+    }
+}
+#Shigatse (332000/83000 POPS)
+1589 = {
+    aristocrats = {
+        culture = vietnamese
+        religion = placeholder
+        size = 1702
+    }
+
+    clergymen = {
+        culture = vietnamese
+        religion = placeholder
+        size = 930
+    }
+
+    artisans = {
+        culture = vietnamese
+        religion = placeholder
+        size = 4256
+    }
+
+    soldiers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 850
+    }
+
+    farmers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 68093
+    }
+
+    clergymen = {
+        culture = vietnamese
+        religion = placeholder
+        size = 52
+    }
+
+    artisans = {
+        culture = vietnamese
+        religion = placeholder
+        size = 158
+    }
+
+    soldiers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 26
+    }
+
+    farmers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 1661
+    }
+
+    slaves = {
+        culture = vietnamese
+        religion = placeholder
+        size = 9285
+    }
+
+    slaves = {
+        culture = vietnamese
+        religion = placeholder
+        size = 227
+    }
+}
+#Lhodrak (688000/172000 POPS)
+1590 = {
+    aristocrats = {
+        culture = vietnamese
+        religion = placeholder
+        size = 1795
+    }
+
+    clergymen = {
+        culture = vietnamese
+        religion = placeholder
+        size = 931
+    }
+
+    artisans = {
+        culture = vietnamese
+        religion = placeholder
+        size = 4575
+    }
+
+    soldiers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 917
+    }
+
+    farmers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 73290
+    }
+
+    slaves = {
+        culture = vietnamese
+        religion = placeholder
+        size = 9994
+    }
+}
+#Changtang (76000/19000 POPS)
+1591 = {
+    aristocrats = {
+        culture = vietnamese
+        religion = placeholder
+        size = 398
+    }
+
+    clergymen = {
+        culture = vietnamese
+        religion = placeholder
+        size = 212
+    }
+
+    artisans = {
+        culture = vietnamese
+        religion = placeholder
+        size = 1010
+    }
+
+    soldiers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 186
+    }
+
+    farmers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 16197
+    }
+
+    slaves = {
+        culture = vietnamese
+        religion = placeholder
+        size = 2209
+    }
+}
+#Ngari (304000/76000 POPS)
+1592 = {
+    aristocrats = {
+        culture = vietnamese
+        religion = placeholder
+        size = 1596
+    }
+
+    clergymen = {
+        culture = vietnamese
+        religion = placeholder
+        size = 824
+    }
+
+    artisans = {
+        culture = vietnamese
+        religion = placeholder
+        size = 4042
+    }
+
+    soldiers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 798
+    }
+
+    farmers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 64770
+    }
+
+    slaves = {
+        culture = vietnamese
+        religion = placeholder
+        size = 8832
+    }
+}
+#Tawang (836000/209000 POPS) #now NEFA in India  tibetan = Chin
+1593 = {
+    aristocrats = {
+        culture = vietnamese
+        religion = placeholder
+        size = 1396
+    }
+
+    clergymen = {
+        culture = vietnamese
+        religion = placeholder
+        size = 718
+    }
+
+    artisans = {
+        culture = vietnamese
+        religion = placeholder
+        size = 3511
+    }
+
+    soldiers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 704
+    }
+
+    farmers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 56226
+    }
+
+    aristocrats = {
+        culture = vietnamese
+        religion = placeholder
+        size = 399
+    }
+
+    clergymen = {
+        culture = vietnamese
+        religion = placeholder
+        size = 212
+    }
+
+    artisans = {
+        culture = vietnamese
+        religion = placeholder
+        size = 1037
+    }
+
+    soldiers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 186
+    }
+
+    farmers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 16643
+    }
+
+    aristocrats = {
+        culture = vietnamese
+        religion = placeholder
+        size = 399
+    }
+
+    clergymen = {
+        culture = vietnamese
+        religion = placeholder
+        size = 199
+    }
+
+    artisans = {
+        culture = vietnamese
+        religion = placeholder
+        size = 1010
+    }
+
+    soldiers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 199
+    }
+
+    farmers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 16198
+    }
+
+    slaves = {
+        culture = vietnamese
+        religion = placeholder
+        size = 7667
+    }
+
+    slaves = {
+        culture = vietnamese
+        religion = placeholder
+        size = 2269
+    }
+
+    slaves = {
+        culture = vietnamese
+        religion = placeholder
+        size = 2209
+    }
+}

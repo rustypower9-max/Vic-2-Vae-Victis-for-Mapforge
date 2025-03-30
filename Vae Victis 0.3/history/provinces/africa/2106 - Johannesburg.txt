@@ -1,7 +1,0 @@
-owner = CAR
-controller = CAR
-add_core = SAF
-colonial = 2
-trade_goods = wool
-life_rating = 35
-

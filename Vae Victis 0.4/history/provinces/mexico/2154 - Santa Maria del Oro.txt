@@ -1,0 +1,6 @@
+add_core = MEX
+
+
+trade_goods = sulphur
+life_rating = 25 
+

@@ -1,0 +1,150 @@
+#Taiwan Region (149000)
+#under the rule of China in 91
+#Taipei (72600/18150 POPS) #now part of Taiwan
+1485 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 198
+    }
+
+    bureaucrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 52
+    }
+
+    officers = {
+        culture = barbarian
+        religion = placeholder
+        size = 94
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 162
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 816
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 176
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 14712
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 398
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 318
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 1330
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 266
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 342
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 55886
+    }
+}
+#Tainan (76400/19100 POPS) #now part of Taiwan
+2562 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 202
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 174
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 876
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 188
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 16122
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 464
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 332
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 1330
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 332
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 356
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 57056
+    }
+}

@@ -1,0 +1,857 @@
+#Luzon Region (2176000)
+#Ruled by Spain in 1836
+#Manila (780000/195000 POPS)
+1455 = {
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 150
+    }
+
+    bureaucrats = {
+        culture = asherite
+        religion = placeholder
+        size = 300
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 187
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 787
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 75
+    }
+
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 1562
+    }
+
+    bureaucrats = {
+        culture = asherite
+        religion = placeholder
+        size = 562
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 937
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 12500
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 12500
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 11250
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 5000
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 170687
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 1500
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 1000
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 93
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 1375
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 250
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 22156
+    }
+
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 200
+    }
+
+    bureaucrats = {
+        culture = asherite
+        religion = placeholder
+        size = 400
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 250
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 1050
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 100
+    }
+}
+#Vigan (608000/152000 POPS)
+1456 = {
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 1375
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 781
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 9187
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 1875
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 168156
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 62
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 312
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 62
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 8312
+    }
+}
+#Legazpi (564000/141000 POPS)
+1457 = {
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 1375
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 781
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 8125
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 1687
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 153156
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 62
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 625
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 125
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 10437
+    }
+}
+#Mindoro (224000/56000 POPS)
+1458 = {
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 500
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 218
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 2625
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 562
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 48593
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 156
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 937
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 125
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 13781
+    }
+}
+#Visayas Region (1044000 POPS)
+#under rule of Spain 1836
+#Palawan (80000/20000 POPS)
+1459 = {
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 31
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 31
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 250
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 62
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 4625
+    }
+
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 93
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 62
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 375
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 93
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 6875
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 93
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 562
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 125
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 11718
+    }
+}
+#Iloilo (312000/78000 POPS)
+1460 = {
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 812
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 437
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 4375
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 937
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 80937
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 93
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 625
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 125
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 9156
+    }
+}
+#Tacloban (348000/87000 POPS)
+1461 = {
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 937
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 781
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 5312
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 1062
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 100156
+    }
+}
+#Cebu (304000/76000 POPS)
+2565 = {
+    bureaucrats = {
+        culture = asherite
+        religion = placeholder
+        size = 93
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 37
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 18
+    }
+
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 843
+    }
+
+    bureaucrats = {
+        culture = asherite
+        religion = placeholder
+        size = 468
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 562
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 4375
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 937
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 80062
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 62
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 625
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 93
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 6718
+    }
+
+    bureaucrats = {
+        culture = asherite
+        religion = placeholder
+        size = 125
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 50
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 25
+    }
+}
+#Mindanao Region (496000)
+#Under Spanish "Rule" 1836
+#Davao (152000/38000 POPS)
+1463 = {
+    bureaucrats = {
+        culture = asherite
+        religion = placeholder
+        size = 56
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 37
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 18
+    }
+
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 125
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 125
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 1062
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 1375
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 18500
+    }
+
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 125
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 125
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 750
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 125
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 13875
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 1375
+    }
+
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 125
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 93
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 437
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 125
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 9218
+    }
+
+    bureaucrats = {
+        culture = asherite
+        religion = placeholder
+        size = 75
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 50
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 25
+    }
+}
+#Under rule of Sultans of Sulu in 1836
+#Zamboanga (300000/75000 POPS)
+1462 = {
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 750
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 625
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 3125
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 625
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 56125
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 62
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 937
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 15250
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 5000
+    }
+
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 125
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 93
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 375
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 125
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 10656
+    }
+}
+#Jolo (44000/11000 POPS)
+1464 = {
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 125
+    }
+
+    bureaucrats = {
+        culture = asherite
+        religion = placeholder
+        size = 93
+    }
+
+    officers = {
+        culture = asherite
+        religion = placeholder
+        size = 93
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 125
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 750
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 281
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 12281
+    }
+}

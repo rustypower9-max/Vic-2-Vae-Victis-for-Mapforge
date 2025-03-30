@@ -1,9 +1,0 @@
-owner = MGL
-controller = MGL
-#add_core = SZC
-add_core = MGL
-#add_core = YNN
-add_core = CHI
-trade_goods = tea
-life_rating = 30
-

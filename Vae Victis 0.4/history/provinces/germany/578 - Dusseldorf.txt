@@ -1,0 +1,21 @@
+owner = SAX
+controller = SAX
+add_core = SAX
+#add_core = GER
+trade_goods = grain
+life_rating = 35
+1861.1.1 = {
+	state_building = {
+		level = 2
+		building = cement_factory
+		upgrade = yes
+	}
+
+	state_building = {
+		level = 1
+		building = artillery_factory
+		upgrade = yes
+	}
+}
+1861.1.1 = { railroad = 3 }
+

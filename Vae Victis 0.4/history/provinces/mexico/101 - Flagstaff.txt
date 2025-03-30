@@ -1,0 +1,11 @@
+add_core = CAL
+
+
+#add_core = DES
+trade_goods = iron
+life_rating = 30
+1861.1.1 = {
+	controller = USA
+	owner = USA
+	add_core = USA
+}

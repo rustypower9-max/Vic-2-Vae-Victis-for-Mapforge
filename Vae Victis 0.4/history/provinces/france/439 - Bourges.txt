@@ -1,0 +1,6 @@
+owner = GAU
+controller = GAU
+add_core = GAU
+trade_goods = timber
+life_rating = 36
+

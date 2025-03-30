@@ -1,7 +1,0 @@
-owner = SEL
-controller = SEL
-add_core = SEL
-trade_goods = fruit
-life_rating = 37
-terrain = farmlands 
-

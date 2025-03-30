@@ -1,0 +1,23 @@
+#690 country flag clear
+political_decisions = {
+	unciv_protection_off = {
+		picture = "development_bio_weapons"
+		alert = yes
+		potential = {
+			has_country_flag = conquerable_690
+			NOT = { has_country_flag = chose_no_protection }
+		}
+		
+		allow = { 
+			has_country_flag = conquerable_690
+			NOT = { has_country_flag = chose_no_protection }
+			ai = no
+			war = no
+		}
+		
+		effect = {
+			clr_country_flag = conquerable_690
+			set_country_flag = chose_no_protection
+		}
+	}
+}

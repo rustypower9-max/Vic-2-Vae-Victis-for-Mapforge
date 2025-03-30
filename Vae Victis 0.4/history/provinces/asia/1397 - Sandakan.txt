@@ -1,0 +1,5 @@
+owner = MYS
+controller = MYS
+colonial = 2
+trade_goods = grain
+life_rating = 32

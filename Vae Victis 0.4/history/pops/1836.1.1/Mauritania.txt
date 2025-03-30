@@ -1,0 +1,851 @@
+#Trarza-Brakna Region (276000)
+#uncolonized in 1836/ruled by Emir of Trarza
+#Nouakchott (92000/23000 POPS)
+1775 = {
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 675
+    }
+
+    bureaucrats = {
+        culture = berber
+        religion = placeholder
+        size = 30
+    }
+
+    officers = {
+        culture = berber
+        religion = placeholder
+        size = 7
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 337
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 1387
+    }
+
+    soldiers = {
+        culture = berber
+        religion = placeholder
+        size = 375
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 21532
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 4500
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 3262
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 2393
+    }
+}
+#Rosso (72000/18000 POPS)
+1776 = {
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 157
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 79
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 405
+    }
+
+    soldiers = {
+        culture = berber
+        religion = placeholder
+        size = 79
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 4514
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 2250
+    }
+
+    aristocrats = {
+        culture = hannoic
+        religion = placeholder
+        size = 460
+    }
+
+    clergymen = {
+        culture = hannoic
+        religion = placeholder
+        size = 228
+    }
+
+    artisans = {
+        culture = hannoic
+        religion = placeholder
+        size = 1181
+    }
+
+    soldiers = {
+        culture = hannoic
+        religion = placeholder
+        size = 228
+    }
+
+    farmers = {
+        culture = hannoic
+        religion = placeholder
+        size = 13167
+    }
+
+    slaves = {
+        culture = hannoic
+        religion = placeholder
+        size = 6562
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 616
+    }
+
+    slaves = {
+        culture = hannoic
+        religion = placeholder
+        size = 1795
+    }
+}
+#uncolonized in 1836/ruled by Emir of Brakna
+#Aleg (84000/21000 POPS)
+1777 = {
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 356
+    }
+
+    bureaucrats = {
+        culture = berber
+        religion = placeholder
+        size = 9
+    }
+
+    officers = {
+        culture = berber
+        religion = placeholder
+        size = 4
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 183
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 775
+    }
+
+    soldiers = {
+        culture = berber
+        religion = placeholder
+        size = 200
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 10701
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 5476
+    }
+
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 126
+    }
+
+    bureaucrats = {
+        culture = berber
+        religion = placeholder
+        size = 2
+    }
+
+    officers = {
+        culture = berber
+        religion = placeholder
+        size = 2
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 64
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 274
+    }
+
+    soldiers = {
+        culture = berber
+        religion = placeholder
+        size = 71
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 3773
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 1930
+    }
+
+    aristocrats = {
+        culture = hannoic
+        religion = placeholder
+        size = 125
+    }
+
+    bureaucrats = {
+        culture = hannoic
+        religion = placeholder
+        size = 3
+    }
+
+    officers = {
+        culture = hannoic
+        religion = placeholder
+        size = 1
+    }
+
+    clergymen = {
+        culture = hannoic
+        religion = placeholder
+        size = 63
+    }
+
+    artisans = {
+        culture = hannoic
+        religion = placeholder
+        size = 273
+    }
+
+    soldiers = {
+        culture = hannoic
+        religion = placeholder
+        size = 71
+    }
+
+    farmers = {
+        culture = hannoic
+        religion = placeholder
+        size = 3773
+    }
+
+    slaves = {
+        culture = hannoic
+        religion = placeholder
+        size = 1930
+    }
+
+    aristocrats = {
+        culture = hannoic
+        religion = placeholder
+        size = 43
+    }
+
+    bureaucrats = {
+        culture = hannoic
+        religion = placeholder
+        size = 1
+    }
+
+    officers = {
+        culture = hannoic
+        religion = placeholder
+        size = 10
+    }
+
+    clergymen = {
+        culture = hannoic
+        religion = placeholder
+        size = 22
+    }
+
+    artisans = {
+        culture = hannoic
+        religion = placeholder
+        size = 96
+    }
+
+    soldiers = {
+        culture = hannoic
+        religion = placeholder
+        size = 25
+    }
+
+    farmers = {
+        culture = hannoic
+        religion = placeholder
+        size = 1330
+    }
+
+    slaves = {
+        culture = hannoic
+        religion = placeholder
+        size = 681
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 1459
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 514
+    }
+
+    slaves = {
+        culture = hannoic
+        religion = placeholder
+        size = 514
+    }
+
+    slaves = {
+        culture = hannoic
+        religion = placeholder
+        size = 181
+    }
+}
+#Maghama (28000/7000 POPS)
+1778 = {
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 91
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 68
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 250
+    }
+
+    soldiers = {
+        culture = berber
+        religion = placeholder
+        size = 68
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 2790
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 2738
+    }
+
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 32
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 24
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 88
+    }
+
+    soldiers = {
+        culture = berber
+        religion = placeholder
+        size = 24
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 984
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 965
+    }
+
+    aristocrats = {
+        culture = hannoic
+        religion = placeholder
+        size = 32
+    }
+
+    clergymen = {
+        culture = hannoic
+        religion = placeholder
+        size = 23
+    }
+
+    artisans = {
+        culture = hannoic
+        religion = placeholder
+        size = 88
+    }
+
+    soldiers = {
+        culture = hannoic
+        religion = placeholder
+        size = 23
+    }
+
+    farmers = {
+        culture = hannoic
+        religion = placeholder
+        size = 983
+    }
+
+    slaves = {
+        culture = hannoic
+        religion = placeholder
+        size = 965
+    }
+
+    aristocrats = {
+        culture = hannoic
+        religion = placeholder
+        size = 11
+    }
+
+    clergymen = {
+        culture = hannoic
+        religion = placeholder
+        size = 8
+    }
+
+    artisans = {
+        culture = hannoic
+        religion = placeholder
+        size = 31
+    }
+
+    soldiers = {
+        culture = hannoic
+        religion = placeholder
+        size = 8
+    }
+
+    farmers = {
+        culture = hannoic
+        religion = placeholder
+        size = 346
+    }
+
+    slaves = {
+        culture = hannoic
+        religion = placeholder
+        size = 340
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 381
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 134
+    }
+
+    slaves = {
+        culture = hannoic
+        religion = placeholder
+        size = 134
+    }
+
+    slaves = {
+        culture = hannoic
+        religion = placeholder
+        size = 47
+    }
+}
+#Adrar-Hodh Region (52000)
+#uncolonized in 1836/ruled by Emirs of Adrar
+#Shingit (12000/3000 POPS)
+1779 = {
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 60
+    }
+
+    bureaucrats = {
+        culture = berber
+        religion = placeholder
+        size = 4
+    }
+
+    officers = {
+        culture = berber
+        religion = placeholder
+        size = 10
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 112
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 225
+    }
+
+    soldiers = {
+        culture = berber
+        religion = placeholder
+        size = 37
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 3208
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 486
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 356
+    }
+}
+#Tichit (12000/3000 POPS)
+1780 = {
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 75
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 112
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 225
+    }
+
+    soldiers = {
+        culture = berber
+        religion = placeholder
+        size = 37
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 3208
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 486
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 356
+    }
+}
+#Walata (28000/7000 POPS)
+1781 = {
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 75
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 112
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 225
+    }
+
+    soldiers = {
+        culture = berber
+        religion = placeholder
+        size = 37
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 3208
+    }
+
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 112
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 150
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 300
+    }
+
+    soldiers = {
+        culture = berber
+        religion = placeholder
+        size = 75
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 4366
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 486
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 661
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 356
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 485
+    }
+}
+#Rio de Oro Region (16000) #see West Sahara.txt for balance of region
+#uncolonized in 1836
+#Bir Maghrein (16000/4000 POPS) #now part of Mauritania
+1782 = {
+    aristocrats = {
+        culture = punic
+        religion = placeholder
+        size = 7
+    }
+
+    clergymen = {
+        culture = punic
+        religion = placeholder
+        size = 10
+    }
+
+    artisans = {
+        culture = punic
+        religion = placeholder
+        size = 33
+    }
+
+    soldiers = {
+        culture = punic
+        religion = placeholder
+        size = 25
+    }
+
+    farmers = {
+        culture = punic
+        religion = placeholder
+        size = 504
+    }
+
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 75
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 112
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 225
+    }
+
+    soldiers = {
+        culture = berber
+        religion = placeholder
+        size = 37
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 3208
+    }
+
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 3
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 5
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 17
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 235
+    }
+
+    slaves = {
+        culture = punic
+        religion = placeholder
+        size = 72
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 486
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 36
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 356
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 26
+    }
+
+    slaves = {
+        culture = punic
+        religion = placeholder
+        size = 27
+    }
+}

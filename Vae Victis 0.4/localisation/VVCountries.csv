@@ -1,0 +1,305 @@
+########################Vae Victus Countries#######################;;;;;;;x,,,,,,,,,,,,,,,,
+QUE;Gimradh;;x
+QUE_ADJ;Gimradh;;x
+POL;Wendia;;x
+POL_ADJ;Wendish;;x
+MAN;Avalonia;;x
+MAN_ADJ;Avalonian;;x
+CSA;Prasutaga;;x
+CSA_ADJ;Prasutagan;;x
+TEX;Enokai;;x
+TEX_ADJ;Enokai;;x
+MEX;Malaika;;x
+MEX_ADJ;Malaika;;x
+CAL;Ponnimari;;x
+CAL_ADJ;Ponnimari;;x
+COL;Zaqia;;x
+COL_ADJ;Zaqian;;x
+CUB;Nessos;;x
+CUB_ADJ;Nesso;;x
+BRZ;Eparan;;x
+BRZ_ADJ;Eparan;;x
+PRG;Torea;;x
+PRG_ADJ;Torean;;x
+GCO;Tiodash;;x
+GCO_ADJ;Tiodash;;x
+ARG;Qart-Gadir;;x
+ARG;Qart-Gadir;;x
+NZL;Neu-Swebia;;x
+NZL_ADJ;Swebian;;x
+ZAN;Zanjiver;;x
+ZAN_ADJ;Zanj;;x
+ITA_democracy;Res Publica Romana;;;;
+ITA_absolute_monarchy;Imperivm Romanvm;;;;
+ITA_prussian_constitutionalism;Imperivm Romanvm;;;;
+ITA_hms_government;Imperivm Romanvm;;;;
+ITA_bourgeois_dictatorship;Dictatura Romana;;;;
+ITA_bourgeois_dictatorship_ADJ;Roman;;;;
+ITA_proletarian_dictatorship;Populares Dictatura Romana;;;;
+ITA_proletarian_dictatorship_ADJ;Roman;;;;
+ITA;Rome;;;;
+ITA_ADJ;Roman;;;;
+ITA_communist;Partito Comunista de Roma;;;;
+ITA_fascist;Partito Nazionale Fascista;;;;
+GAU;Gaul;x;;;;
+GAU_ADJ;Gallic;x;;;
+BEL;Nervia;x;;
+BEL_ADJ;Nervian;x;;
+SCO;Caledonia;;x
+SCO;Caledonian;;x
+NET;Lagrlond;x;;
+NET_ADJ;Lagr;x;;
+SAR;Sardin;;x
+SAR_ADJ;Nuragic;;x
+BAV;Markland;x;;
+BAV_ADJ;Marklander;x;;
+ALE;Alemannia;;x
+ALE_ADJ;Alemannian;;x
+RUS;Suurtel;x;;
+RUS_ADK;Suurteli;x;;
+KSH;Kashubia;x;;
+KSH_ADJ;Kashubian;x;;
+KSH_anarcho_liberal_1;Zasciankowcy;x
+KSH_anarcho_liberal_2;Ruch Albesanów;x
+KSH_communist;KPRP;x
+KSH_conservative_1;Popularysci;x
+KSH_conservative_2;Obóz Patriotyczny;x
+KSH_fascist;Obóz Obrony Narodowej;x
+KSH_liberal_1;Stronnictwo Reform;x
+KSH_liberal_2;Ruch Wolnosciowy;x
+KSH_reactionary_1;Karmazyni;x
+KSH_reactionary_2;Partia Tradycjonalistyczna;x
+KSH_socialist;Socjaldemokracja;x
+KRA;Silesia;x;;
+KRA_ADJ;Silesian;x;;
+RUT;Anteans;x;;
+RUT_ADJ;Antean;x;;
+BYE;Venetia;x;;
+BYE_ADJ;Veneti;x;;
+KOR;Lelang Commandery;;x
+KOR_ADJ;Lelang;;x
+CAR;Carthage;;;;;;;;;;;;x
+CAR_ADJ;Carthaginian;;;;;;;;;;;;x
+CAR_fascist_dictatorship;Carthaginian Empire;;;;;;;;;;;;x
+CAR_absolute_monarchy;Carthaginian Empire;;;;;;;;;;;;x
+CAR_liberal;Republican Progressive Party;;;;;;;;;;;;x
+RME_Kyriarchia;Democratic Union;;;;;;;;;;;;x
+CAR_socialist;SPC;;;;;;;;;;;;x
+CAR_reactionary;Hannoic Front;;;;;;;;;;;;x
+CAR_communist;CDI;;;;;;;;;;;;x
+CAR_varangian_guard;Baal-Hammon Front;;;;;;;;;;;;x
+DON;Donuk;;;;;;;;;;;;x
+DON_ADJ;Donuki;;;;;;;;;;;;x
+SEL;Seleucia;;x
+SEL_ADJ;Seleucid;;x
+CAP;Cappadocia;;x
+CAP_ADJ;Cappadocian;;x
+AUS;Ostholm;;x
+AUS_ADJ;Ostholm;;x
+AUS;Ostholm;;x
+AUS_ADJ;Ostholm;;x
+HUN;Vildheim;;x
+HUN_ADJ;Vildheim;;x
+QRM;Qaraqala;;x
+QRM_ADJ;Qaraqala;;x
+BOH;Sudeten;;x
+BOH_ADJ;Sudeten;;x
+CZH;Olmuka;;x
+CZH_ADJ;Olmukan;;x
+SLV;Bergaland;;x
+SLV_ADJ;Berga;;x
+SIE;Strigodol;;x
+SIE_ADJ;Strigodoli;;x
+MOL;Dunavija;;x
+MOL_ADJ;Dunaviji;;x
+WAL;Dacros;;x
+WAL_ADJ;Dacro;;x
+ROM;Dacia;;x
+ROM_ADJ;Dacian;;x
+BUL;Bulgur;;x
+BUL_ADJ;Bulgur;;x
+ZIL;Zilant;;x
+ZIL_ADJ;Zilant;;x
+SER;Orisdeme;;x
+SER_ADJ;Orisdeme;;x
+MNT;Sylphoria;;x
+MTN_ADJ;Sylphorian;;x
+ALB;Nekharot;;x
+ALB_ADJ;Nekharot;;x
+GRE;Delian League;x
+GRE_ADJ;Delian;x
+FRI;Frisia;;x
+FRI_ADJ;Frisian;;x
+TRV;Tarvalia;;x
+TRV_ADJ;Tarvalian;;x
+ELY;Elysionia;;x
+ELY_ADJ;Elysionian;;x
+LOM;Italia;;x
+LOM_ADJ;Italic;;x
+RWM;Rewm;;x
+RWM_ADJ;Rewm;;x
+MAC;Macedonia;;x
+MAC_ADJ;Macedonian;;x
+EGY;Aegyptos;;x
+EGY_ADJ;Aegyptian;;x
+BRG;Brigantes;;x
+BRG_ADJ;Brigantes;;x
+CRN;Cornovi;;x
+CRN_ADJ;Cornovi;;x
+TRG;Trinovantes;;x
+TRG_ADJ;Trinovantes;;x
+DUM;Dumnoni;;x
+DUM_ADJ;Dumnoni;;x
+MGL;Ashina Khaganate;;x
+MGL_ADJ;Ashina;;x
+CRI;Qirim;;x
+CRI_ADJ;Qirimi;;x
+BRT;Barut;;x
+BRT_ADJ;Baruti;;x
+ASG;Ashig;;x
+ASG_ADJ;Ashig;;x
+NOG;Nogai;;x
+NOG_ADJ;Nogai;;x
+FRA;Frankia;;x
+FRA_ADJ;Frank;;x
+TRA;Travalia;;
+TRA_ADJ;Travalian;;
+DEN;Jutland;;x
+DEN_ADJ;Jute;;x
+SWE;Geatland;;x
+SWE_ADJ;Geat;;x
+NOR;Thule;;x
+NOR_ADJ;Thule;;x
+FIN;Sitones;;x
+FIN_ADJ;Sitones;;x
+EST;Galdija;;x
+EST_ADJ;Galdijan;;x
+LAT;Rytvinia;;x
+LAT_ADJ;Rytvinian;;x
+LIT;Aestiia;;x
+LIT_ADJ;Aesti;;x
+TRT;Tartessia;;x
+TRT_ADJ;Tartessian;;x
+GAD;Gadiria;;x
+GAD_ADJ;Gadirian;;x
+CAT;Punicum;;x
+CAT_ADJ;Punicum;;x
+POR;Suebia;;x
+POR_ADJ;Suebian;;x
+MOR;Mauritania;;x
+MOR_ADJ;Mauritanian;;x
+PON;Pontus;;x
+PON_ADJ;Pontic;;x
+SIC;Carthilune;;x
+SIC_ADJ;Carthilune;;x
+TUS;Etrusci;;x
+TUS_ADJ;Etruscan;;x
+BUK;Bactria;;x
+BUK_ADJ;Bactrian;;x
+ING;Yavana;;x
+ING_ADJ;Indo-Greek;;x
+MUG;Mauryan Empire;;x
+MUG_ADJ;Mauryan;;x
+KHU;Khuzestan;;x
+KHU_ADJ;Khuzestani;;x
+KHO;Parthia;;x
+KHO_ADJ;Parthian;;x
+AZB;Alarion;;x
+AZB_ADJ;Alarion;;x
+CIR;Albania;;x
+CIR_ADJ;Albanian;;x
+TRE;Karthalis;;x
+TRE_ADJ;Karthali;;x
+NEJ;Dilmun;;x
+NEJ_ADJ;Dilmun;;;x
+OMA;Maka;;x
+OMA_ADJ;Makan;;x
+YEM;Yamnat;;x
+YEM_ADJ;Yamnati;;x
+HDJ;Theodokos;;x
+HDJ_ADJ;Theodokos;;x
+SUD;Kush;;x
+SUD_ADJ;Kushite;;x
+ETH;Aksum;;x
+ETH_ADJ;Aksumite;;x
+CRO;Illyria;;x
+CRO_ADJ;Illyrian;;x
+SIN;Simylla;;x
+SIN_ADJ;Simyllan;;x
+MYS;Sevasam;;x
+MYS_ADJ;Sevasam;;x
+ORI;Kalinga;;x
+ORI_ADJ;Kalingan;;x
+BNI;Bornu Imamke;;x
+BNI_ADJ;Bornu;;x
+HNB;Hannonica;;x
+HNB_ADJ;Hannonican;;x
+LAM;Lehi;;x
+LAM_ADJ;Lamanite;;x
+NPH;Nephi;;x
+NPH_ADJ;Nephite;;x
+PEU;Amissae Legiones;;x
+PEU_ADJ;Legionairre;;x
+SAF;Khoikhoi Federation;;x
+SAF_ADJ;Khoisan;;x
+KOK;Türgesh Qaghanate;;x
+KOK_ADJ;Türgesh;;x
+IRE;Hibernia;;x
+IRE_republic;Celtic League;;x
+IRE_ADJ;Hibernian;;x
+TIB;Qiang;;x
+TIB_ADJ;Qiang;;x
+BUR;Pyu;;x
+BUR_ADJ;Pyu;;x
+SIA;Dvaravati;;x
+SIA_ADJ;Dvaravati;;x
+CAM;Chenla;;x
+CAM_ADJ;Chenla;;x
+DAI;Champa;;x
+DAI_ADJ;Champa;;x
+PHL;Hpilaitpine;;x
+PHL_ADJ;Hpilaitpine;;x
+OTU;Öteukko;;x
+OTU_ADJ;Öte;;x
+HYP;Hyperborea;;x
+HYP_ADJ;Hyperborean;;x
+SCY;Skifiýa;;x
+SCY_ADJ;Skifian;;x
+AIT;Romqart Federation;;x
+AIT_ADJ;Romqart;;x
+SWI;Rhaetia;;x
+SWI_ADJ;Rhaetian;;x
+SPA;Iber League;;x
+SPA_ADJ;Iber;;x
+ALD;Numidia;;x
+ALD_ADJ;Numidian;;x
+PHO;Phoenicia;;x
+PHO_ADJ;Phoenician;;x
+PER;Parthia;;x
+PER_ADJ;Parthian;;x
+RHI;Huldheim;;x
+RHI_ADJ;Huldheim;;x
+FRM;Frankia;;x
+FRM_ADJ;Frankish;;x
+MEC;Semnonia;;x
+MEC_ADJ;Semnonian;;x
+HAN;Feldthor;;x
+HAN_ADJ;Feldthor;;x
+HAM;Chatti;;x
+HAM_ADJ;Chatti;;x
+SGF;Donova;;x
+SGF_ADJ;Donovan;;x
+NGF;Ingvaeones;;x
+NGF;Ingwine;;x
+JAV;Asher;;x
+JAV_ADJ;Asher;;x
+CHI;Serike;;x
+CHI_ADJ;Serike;;x
+TPG;Xia;;x
+TPG_ADJ;Xia;;x
+XBI;Zhao;;x
+XBI_ADJ;Zhao;;x
+GXI;Yue;;x
+GXI_ADJ;Yue;;x
+WIA;Min;;x
+WIA_ADJ;Min;;x

@@ -1,0 +1,598 @@
+#Afghanistan Region (3672000)
+#under the rule of Afghanistan in 1836
+#Kabul (996000/249000 POPS)
+1209 = {
+    aristocrats = {
+        culture = aryan
+        religion = placeholder
+        size = 4312
+    }
+
+    bureaucrats = {
+        culture = aryan
+        religion = placeholder
+        size = 7110
+    }
+
+    officers = {
+        culture = aryan
+        religion = placeholder
+        size = 841
+    }
+
+    clergymen = {
+        culture = aryan
+        religion = placeholder
+        size = 2146
+    }
+
+    artisans = {
+        culture = aryan
+        religion = placeholder
+        size = 9573
+    }
+
+    soldiers = {
+        culture = aryan
+        religion = placeholder
+        size = 10565
+    }
+
+    farmers = {
+        culture = aryan
+        religion = placeholder
+        size = 186698
+    }
+
+    aristocrats = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 1937
+    }
+
+    bureaucrats = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 3200
+    }
+
+    officers = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 377
+    }
+
+    clergymen = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 963
+    }
+
+    artisans = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 4301
+    }
+
+    soldiers = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 4747
+    }
+
+    farmers = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 83878
+    }
+}
+#Balkh (516000/129000 POPS)
+1211 = {
+    aristocrats = {
+        culture = aryan
+        religion = placeholder
+        size = 2695
+    }
+
+    clergymen = {
+        culture = aryan
+        religion = placeholder
+        size = 1388
+    }
+
+    artisans = {
+        culture = aryan
+        religion = placeholder
+        size = 4365
+    }
+
+    soldiers = {
+        culture = aryan
+        religion = placeholder
+        size = 1401
+    }
+
+    farmers = {
+        culture = aryan
+        religion = placeholder
+        size = 129225
+    }
+
+    aristocrats = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 1210
+    }
+
+    clergymen = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 625
+    }
+
+    artisans = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 1962
+    }
+
+    soldiers = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 628
+    }
+
+    farmers = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 58057
+    }
+}
+#Herat (324000/81000 POPS)
+1212 = {
+    aristocrats = {
+        culture = aryan
+        religion = placeholder
+        size = 1697
+    }
+
+    clergymen = {
+        culture = aryan
+        religion = placeholder
+        size = 876
+    }
+
+    artisans = {
+        culture = aryan
+        religion = placeholder
+        size = 4365
+    }
+
+    soldiers = {
+        culture = aryan
+        religion = placeholder
+        size = 5497
+    }
+
+    farmers = {
+        culture = aryan
+        religion = placeholder
+        size = 74996
+    }
+
+    aristocrats = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 762
+    }
+
+    clergymen = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 393
+    }
+
+    artisans = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 1962
+    }
+
+    soldiers = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 2470
+    }
+
+    farmers = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 33693
+    }
+}
+#Bamyan (412000/103000 POPS)
+1213 = {
+    aristocrats = {
+        culture = aryan
+        religion = placeholder
+        size = 2128
+    }
+
+    clergymen = {
+        culture = aryan
+        religion = placeholder
+        size = 1078
+    }
+
+    artisans = {
+        culture = aryan
+        religion = placeholder
+        size = 5497
+    }
+
+    soldiers = {
+        culture = aryan
+        religion = placeholder
+        size = 4122
+    }
+
+    farmers = {
+        culture = aryan
+        religion = placeholder
+        size = 98538
+    }
+
+    aristocrats = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 956
+    }
+
+    clergymen = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 483
+    }
+
+    artisans = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 2470
+    }
+
+    soldiers = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 1852
+    }
+
+    farmers = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 44271
+    }
+}
+#Farrah (464000/116000 POPS)
+1214 = {
+    aristocrats = {
+        culture = aryan
+        religion = placeholder
+        size = 2452
+    }
+
+    clergymen = {
+        culture = aryan
+        religion = placeholder
+        size = 1252
+    }
+
+    artisans = {
+        culture = aryan
+        religion = placeholder
+        size = 6252
+    }
+
+    soldiers = {
+        culture = aryan
+        religion = placeholder
+        size = 2371
+    }
+
+    farmers = {
+        culture = aryan
+        religion = placeholder
+        size = 112946
+    }
+
+    aristocrats = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 1101
+    }
+
+    clergymen = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 563
+    }
+
+    artisans = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 2808
+    }
+
+    soldiers = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 1065
+    }
+
+    farmers = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 50743
+    }
+}
+#Qandahar (368000/92000 POPS)
+1215 = {
+    aristocrats = {
+        culture = aryan
+        religion = placeholder
+        size = 1913
+    }
+
+    clergymen = {
+        culture = aryan
+        religion = placeholder
+        size = 1010
+    }
+
+    artisans = {
+        culture = aryan
+        religion = placeholder
+        size = 4932
+    }
+
+    soldiers = {
+        culture = aryan
+        religion = placeholder
+        size = 2478
+    }
+
+    farmers = {
+        culture = aryan
+        religion = placeholder
+        size = 89282
+    }
+
+    aristocrats = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 858
+    }
+
+    clergymen = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 453
+    }
+
+    artisans = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 2215
+    }
+
+    soldiers = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 1113
+    }
+
+    farmers = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 40112
+    }
+}
+#Jalalabad (268000/67000 POPS)
+1216 = {
+    aristocrats = {
+        culture = aryan
+        religion = placeholder
+        size = 1401
+    }
+
+    clergymen = {
+        culture = aryan
+        religion = placeholder
+        size = 727
+    }
+
+    artisans = {
+        culture = aryan
+        religion = placeholder
+        size = 3610
+    }
+
+    soldiers = {
+        culture = aryan
+        religion = placeholder
+        size = 4312
+    }
+
+    farmers = {
+        culture = aryan
+        religion = placeholder
+        size = 62515
+    }
+
+    aristocrats = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 628
+    }
+
+    clergymen = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 326
+    }
+
+    artisans = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 1622
+    }
+
+    soldiers = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 1937
+    }
+
+    farmers = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 28085
+    }
+}
+#Ghzani (324000/81000 POPS)
+1217 = {
+    aristocrats = {
+        culture = aryan
+        religion = placeholder
+        size = 1670
+    }
+
+    clergymen = {
+        culture = aryan
+        religion = placeholder
+        size = 863
+    }
+
+    artisans = {
+        culture = aryan
+        religion = placeholder
+        size = 4365
+    }
+
+    soldiers = {
+        culture = aryan
+        religion = placeholder
+        size = 862
+    }
+
+    farmers = {
+        culture = aryan
+        religion = placeholder
+        size = 66721
+    }
+
+    farmers = {
+        culture = aryan
+        religion = placeholder
+        size = 12841
+    }
+
+    aristocrats = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 751
+    }
+
+    clergymen = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 387
+    }
+
+    artisans = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 1962
+    }
+
+    soldiers = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 387
+    }
+
+    farmers = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 29976
+    }
+
+    farmers = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 5770
+    }
+}
+#Badakhshan Region (340000)
+#under the rule of Afghanistan in 1836
+#Faizabad (340000/85000 POPS)
+1210 = {
+    aristocrats = {
+        culture = turkic
+        religion = placeholder
+        size = 1531
+    }
+
+    clergymen = {
+        culture = turkic
+        religion = placeholder
+        size = 722
+    }
+
+    artisans = {
+        culture = turkic
+        religion = placeholder
+        size = 3536
+    }
+
+    soldiers = {
+        culture = turkic
+        religion = placeholder
+        size = 4398
+    }
+
+    farmers = {
+        culture = turkic
+        religion = placeholder
+        size = 63253
+    }
+
+    aristocrats = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 687
+    }
+
+    clergymen = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 325
+    }
+
+    artisans = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 1588
+    }
+
+    soldiers = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 1976
+    }
+
+    farmers = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 28417
+    }
+}

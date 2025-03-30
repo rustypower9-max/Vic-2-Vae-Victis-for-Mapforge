@@ -1,0 +1,15 @@
+add_core = TEX
+
+
+trade_goods = grain
+life_rating = 20
+1861.1.1 = {
+	
+	
+	add_core = CSA
+#	state_building = {
+#		level = 1
+#		building = lumber_mill
+#		upgrade = yes
+#	}
+}

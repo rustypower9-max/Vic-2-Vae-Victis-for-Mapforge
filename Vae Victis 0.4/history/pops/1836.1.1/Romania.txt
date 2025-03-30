@@ -1,0 +1,2458 @@
+#Partium Region (1288000) #See Hungary.txt for balance of region
+#under the rule of Austria in 1836
+#Oradea (844000/211000 POPS) #part of Romania today
+647 = {
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 502
+    }
+
+    bureaucrats = {
+        culture = dacian
+        religion = placeholder
+        size = 1507
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 2613
+    }
+
+    soldiers = {
+        culture = dacian
+        religion = placeholder
+        size = 810
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 51013
+    }
+
+    aristocrats = {
+        culture = veneti
+        religion = placeholder
+        size = 1005
+    }
+
+    bureaucrats = {
+        culture = veneti
+        religion = placeholder
+        size = 2110
+    }
+
+    officers = {
+        culture = veneti
+        religion = placeholder
+        size = 120
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 120
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 562
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 180
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 8944
+    }
+
+    aristocrats = {
+        culture = veneti
+        religion = placeholder
+        size = 804
+    }
+
+    officers = {
+        culture = veneti
+        religion = placeholder
+        size = 140
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 150
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 844
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 240
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 13577
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 20
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 442
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 15
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 331
+    }
+
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 20
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 180
+    }
+
+    soldiers = {
+        culture = dacian
+        religion = placeholder
+        size = 45
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 2180
+    }
+}
+#Szatmare (444000/111000 POPS) #part of Romania today
+651 = {
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 201
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 1005
+    }
+
+    soldiers = {
+        culture = dacian
+        religion = placeholder
+        size = 330
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 20280
+    }
+
+    aristocrats = {
+        culture = veneti
+        religion = placeholder
+        size = 502
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 70
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 361
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 120
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 6220
+    }
+
+    aristocrats = {
+        culture = veneti
+        religion = placeholder
+        size = 603
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 90
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 522
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 150
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 8733
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 20
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 442
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 15
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 331
+    }
+
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 20
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 180
+    }
+
+    soldiers = {
+        culture = dacian
+        religion = placeholder
+        size = 45
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 2582
+    }
+
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 20
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 301
+    }
+
+    soldiers = {
+        culture = dacian
+        religion = placeholder
+        size = 30
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 1668
+    }
+}
+#Banat-Bacska Region (1240000) #See Serbia.txt and Croatia.txt for balance of region
+#under the rule of Austria in 1836
+#Temesvar (940000/235000 POPS) #part of Romania today
+652 = {
+    clergymen = {
+        culture = south_german
+        religion = placeholder
+        size = 110
+    }
+
+    artisans = {
+        culture = south_german
+        religion = placeholder
+        size = 562
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = placeholder
+        size = 180
+    }
+
+    farmers = {
+        culture = south_german
+        religion = placeholder
+        size = 10501
+    }
+
+    aristocrats = {
+        culture = south_german
+        religion = placeholder
+        size = 40
+    }
+
+    bureaucrats = {
+        culture = south_german
+        religion = placeholder
+        size = 804
+    }
+
+    officers = {
+        culture = south_german
+        religion = placeholder
+        size = 90
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = placeholder
+        size = 60
+    }
+
+    artisans = {
+        culture = south_german
+        religion = placeholder
+        size = 281
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = placeholder
+        size = 90
+    }
+
+    farmers = {
+        culture = south_german
+        religion = placeholder
+        size = 4522
+    }
+
+    aristocrats = {
+        culture = south_german
+        religion = placeholder
+        size = 60
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = placeholder
+        size = 90
+    }
+
+    artisans = {
+        culture = south_german
+        religion = placeholder
+        size = 482
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = placeholder
+        size = 90
+    }
+
+    farmers = {
+        culture = south_german
+        religion = placeholder
+        size = 7697
+    }
+
+    aristocrats = {
+        culture = south_german
+        religion = placeholder
+        size = 140
+    }
+
+    bureaucrats = {
+        culture = south_german
+        religion = placeholder
+        size = 954
+    }
+
+    officers = {
+        culture = south_german
+        religion = placeholder
+        size = 140
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = placeholder
+        size = 321
+    }
+
+    artisans = {
+        culture = south_german
+        religion = placeholder
+        size = 1809
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = placeholder
+        size = 510
+    }
+
+    farmers = {
+        culture = south_german
+        religion = placeholder
+        size = 27144
+    }
+
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 60
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 341
+    }
+
+    soldiers = {
+        culture = dacian
+        religion = placeholder
+        size = 120
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 6801
+    }
+
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 221
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 1206
+    }
+
+    soldiers = {
+        culture = dacian
+        religion = placeholder
+        size = 450
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 21961
+    }
+
+    slaves = {
+        culture = south_german
+        religion = placeholder
+        size = 1552
+    }
+
+    slaves = {
+        culture = south_german
+        religion = placeholder
+        size = 668
+    }
+
+    slaves = {
+        culture = south_german
+        religion = placeholder
+        size = 1137
+    }
+
+    slaves = {
+        culture = south_german
+        religion = placeholder
+        size = 4011
+    }
+
+    slaves = {
+        culture = dacian
+        religion = placeholder
+        size = 1005
+    }
+
+    slaves = {
+        culture = dacian
+        religion = placeholder
+        size = 3245
+    }
+}
+#Orsova (376000/94000 POPS) #part of Romania today
+653 = {
+    clergymen = {
+        culture = south_german
+        religion = placeholder
+        size = 241
+    }
+
+    artisans = {
+        culture = south_german
+        religion = placeholder
+        size = 1206
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = placeholder
+        size = 360
+    }
+
+    farmers = {
+        culture = south_german
+        religion = placeholder
+        size = 23010
+    }
+
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 60
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 301
+    }
+
+    soldiers = {
+        culture = dacian
+        religion = placeholder
+        size = 120
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 5843
+    }
+
+    aristocrats = {
+        culture = south_german
+        religion = placeholder
+        size = 442
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = placeholder
+        size = 60
+    }
+
+    artisans = {
+        culture = south_german
+        religion = placeholder
+        size = 321
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = placeholder
+        size = 90
+    }
+
+    farmers = {
+        culture = south_german
+        religion = placeholder
+        size = 4666
+    }
+
+    slaves = {
+        culture = south_german
+        religion = placeholder
+        size = 3400
+    }
+
+    slaves = {
+        culture = dacian
+        religion = placeholder
+        size = 863
+    }
+
+    slaves = {
+        culture = south_german
+        religion = placeholder
+        size = 690
+    }
+}
+#Transylvania Region (2060000)
+#under the rule of Austria in 1836
+#Cluj (156000/44000 POPS)
+654 = {
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 90
+    }
+
+    bureaucrats = {
+        culture = dacian
+        religion = placeholder
+        size = 904
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 482
+    }
+
+    soldiers = {
+        culture = dacian
+        religion = placeholder
+        size = 150
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 8974
+    }
+
+    aristocrats = {
+        culture = veneti
+        religion = placeholder
+        size = 100
+    }
+
+    bureaucrats = {
+        culture = veneti
+        religion = placeholder
+        size = 753
+    }
+
+    officers = {
+        culture = veneti
+        religion = placeholder
+        size = 100
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 20
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 261
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 30
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 954
+    }
+
+    aristocrats = {
+        culture = veneti
+        religion = placeholder
+        size = 201
+    }
+
+    bureaucrats = {
+        culture = veneti
+        religion = placeholder
+        size = 552
+    }
+
+    officers = {
+        culture = veneti
+        religion = placeholder
+        size = 100
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 30
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 603
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 60
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 2532
+    }
+
+    aristocrats = {
+        culture = dacian
+        religion = placeholder
+        size = 140
+    }
+
+    bureaucrats = {
+        culture = dacian
+        religion = placeholder
+        size = 502
+    }
+
+    officers = {
+        culture = dacian
+        religion = placeholder
+        size = 40
+    }
+
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 32
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 341
+    }
+
+    soldiers = {
+        culture = dacian
+        religion = placeholder
+        size = 30
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 1334
+    }
+
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 20
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 321
+    }
+
+    soldiers = {
+        culture = dacian
+        religion = placeholder
+        size = 15
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 472
+    }
+}
+#Gyulafehervar/Alba Iulia (316000/79000 POPS)
+655 = {
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 211
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 1125
+    }
+
+    soldiers = {
+        culture = dacian
+        religion = placeholder
+        size = 1330
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 20954
+    }
+
+    aristocrats = {
+        culture = dacian
+        religion = placeholder
+        size = 241
+    }
+
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 20
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 80
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 1246
+    }
+
+    aristocrats = {
+        culture = dacian
+        religion = placeholder
+        size = 341
+    }
+
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 30
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 201
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 3406
+    }
+
+    aristocrats = {
+        culture = veneti
+        religion = placeholder
+        size = 140
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 20
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 140
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 45
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 2482
+    }
+
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 20
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 321
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 472
+    }
+}
+#Deva (252000/63000 POPS)
+656 = {
+    clergymen = {
+        culture = south_german
+        religion = placeholder
+        size = 170
+    }
+
+    artisans = {
+        culture = south_german
+        religion = placeholder
+        size = 1005
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = placeholder
+        size = 360
+    }
+
+    farmers = {
+        culture = south_german
+        religion = placeholder
+        size = 16851
+    }
+
+    aristocrats = {
+        culture = south_german
+        religion = placeholder
+        size = 221
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = placeholder
+        size = 30
+    }
+
+    artisans = {
+        culture = south_german
+        religion = placeholder
+        size = 60
+    }
+
+    farmers = {
+        culture = south_german
+        religion = placeholder
+        size = 787
+    }
+
+    aristocrats = {
+        culture = south_german
+        religion = placeholder
+        size = 281
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = placeholder
+        size = 20
+    }
+
+    artisans = {
+        culture = south_german
+        religion = placeholder
+        size = 120
+    }
+
+    farmers = {
+        culture = south_german
+        religion = placeholder
+        size = 1772
+    }
+
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 10
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 40
+    }
+
+    soldiers = {
+        culture = dacian
+        religion = placeholder
+        size = 1115
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 1338
+    }
+
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 20
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 321
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 1028
+    }
+
+    slaves = {
+        culture = south_german
+        religion = placeholder
+        size = 2489
+    }
+
+    slaves = {
+        culture = south_german
+        religion = placeholder
+        size = 115
+    }
+
+    slaves = {
+        culture = south_german
+        religion = placeholder
+        size = 262
+    }
+
+    slaves = {
+        culture = dacian
+        religion = placeholder
+        size = 198
+    }
+
+    slaves = {
+        culture = dacian
+        religion = placeholder
+        size = 151
+    }
+}
+#Nagyszeben/Sibiu (276000/69000 POPS)
+657 = {
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 186
+    }
+
+    bureaucrats = {
+        culture = dacian
+        religion = placeholder
+        size = 2004
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 961
+    }
+
+    soldiers = {
+        culture = dacian
+        religion = placeholder
+        size = 279
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 17911
+    }
+
+    aristocrats = {
+        culture = veneti
+        religion = placeholder
+        size = 106
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 26
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 66
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 19
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 1122
+    }
+
+    aristocrats = {
+        culture = veneti
+        religion = placeholder
+        size = 186
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 39
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 133
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 39
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 2017
+    }
+
+    aristocrats = {
+        culture = dacian
+        religion = placeholder
+        size = 506
+    }
+
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 119
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 667
+    }
+
+    soldiers = {
+        culture = dacian
+        religion = placeholder
+        size = 199
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 11400
+    }
+
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 26
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 426
+    }
+
+    soldiers = {
+        culture = dacian
+        religion = placeholder
+        size = 19
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 627
+    }
+}
+#Brasso/Brasov (168000/42000 POPS)
+659 = {
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 90
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 502
+    }
+
+    soldiers = {
+        culture = dacian
+        religion = placeholder
+        size = 150
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 9356
+    }
+
+    aristocrats = {
+        culture = veneti
+        religion = placeholder
+        size = 80
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 20
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 160
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 15
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 532
+    }
+
+    aristocrats = {
+        culture = veneti
+        religion = placeholder
+        size = 100
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 30
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 321
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 30
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 1135
+    }
+
+    aristocrats = {
+        culture = dacian
+        religion = placeholder
+        size = 140
+    }
+
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 30
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 964
+    }
+
+    soldiers = {
+        culture = dacian
+        religion = placeholder
+        size = 60
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 2442
+    }
+
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 20
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 321
+    }
+
+    soldiers = {
+        culture = dacian
+        religion = placeholder
+        size = 15
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 472
+    }
+}
+#Udvarhely (228000/57000 POPS)
+660 = {
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 30
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 160
+    }
+
+    soldiers = {
+        culture = dacian
+        religion = placeholder
+        size = 45
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 2994
+    }
+
+    aristocrats = {
+        culture = veneti
+        religion = placeholder
+        size = 120
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 60
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 301
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 90
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 5487
+    }
+
+    aristocrats = {
+        culture = veneti
+        religion = placeholder
+        size = 241
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 120
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 623
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 180
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 11356
+    }
+
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 20
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 60
+    }
+
+    soldiers = {
+        culture = dacian
+        religion = placeholder
+        size = 15
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 713
+    }
+
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 20
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 321
+    }
+
+    soldiers = {
+        culture = dacian
+        religion = placeholder
+        size = 15
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 472
+    }
+}
+#Beszterce (300000/75000 POPS)
+661 = {
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 201
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 1005
+    }
+
+    soldiers = {
+        culture = dacian
+        religion = placeholder
+        size = 300
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 19899
+    }
+
+    aristocrats = {
+        culture = veneti
+        religion = placeholder
+        size = 140
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 20
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 80
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 30
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 1346
+    }
+
+    aristocrats = {
+        culture = veneti
+        religion = placeholder
+        size = 241
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 30
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 160
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 45
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 2753
+    }
+
+    aristocrats = {
+        culture = dacian
+        religion = placeholder
+        size = 160
+    }
+
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 30
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 170
+    }
+
+    soldiers = {
+        culture = dacian
+        religion = placeholder
+        size = 45
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 2824
+    }
+
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 20
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 321
+    }
+
+    soldiers = {
+        culture = dacian
+        religion = placeholder
+        size = 15
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 472
+    }
+}
+#Targu Mures (344000/86000 POPS)
+2533 = {
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 100
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 522
+    }
+
+    soldiers = {
+        culture = dacian
+        religion = placeholder
+        size = 180
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 10512
+    }
+
+    aristocrats = {
+        culture = veneti
+        religion = placeholder
+        size = 281
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 60
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 321
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 105
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 5698
+    }
+
+    aristocrats = {
+        culture = veneti
+        religion = placeholder
+        size = 361
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 120
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 643
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 195
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 11607
+    }
+
+    aristocrats = {
+        culture = dacian
+        religion = placeholder
+        size = 80
+    }
+
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 20
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 140
+    }
+
+    soldiers = {
+        culture = dacian
+        religion = placeholder
+        size = 30
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 2150
+    }
+
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 20
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 321
+    }
+
+    soldiers = {
+        culture = dacian
+        religion = placeholder
+        size = 15
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 472
+    }
+}
+#Bukovina Region (204000) #See Ukraine.txt for balance of region
+#under the rule of Austria in 1836
+#Suceava (204000/51000 POPS)
+663 = {
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 133
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 667
+    }
+
+    soldiers = {
+        culture = dacian
+        religion = placeholder
+        size = 199
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 12964
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 66
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 373
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 119
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 7498
+    }
+
+    aristocrats = {
+        culture = dacian
+        religion = placeholder
+        size = 320
+    }
+
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 39
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 93
+    }
+
+    soldiers = {
+        culture = dacian
+        religion = placeholder
+        size = 39
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 1122
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = placeholder
+        size = 26
+    }
+
+    artisans = {
+        culture = south_german
+        religion = placeholder
+        size = 320
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = placeholder
+        size = 39
+    }
+
+    farmers = {
+        culture = south_german
+        religion = placeholder
+        size = 2298
+    }
+
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 26
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 426
+    }
+
+    soldiers = {
+        culture = dacian
+        religion = placeholder
+        size = 19
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 601
+    }
+}
+#Wallachia Region (1228000)
+#under the rule of Wallachia in 1836
+#Bucharest (260000/65000 POPS)
+664 = {
+    aristocrats = {
+        culture = dacian
+        religion = placeholder
+        size = 660
+    }
+
+    bureaucrats = {
+        culture = dacian
+        religion = placeholder
+        size = 210
+    }
+
+    officers = {
+        culture = dacian
+        religion = placeholder
+        size = 180
+    }
+
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 360
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 6000
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 6000
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 600
+    }
+
+    soldiers = {
+        culture = dacian
+        religion = placeholder
+        size = 2640
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 24390
+    }
+}
+#Tirgu Jiu (172000/43000 POPS)
+665 = {
+    aristocrats = {
+        culture = dacian
+        religion = placeholder
+        size = 450
+    }
+
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 240
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 1170
+    }
+
+    soldiers = {
+        culture = dacian
+        religion = placeholder
+        size = 960
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 23700
+    }
+}
+#Craiova (196000/49000 POPS)
+666 = {
+    aristocrats = {
+        culture = dacian
+        religion = placeholder
+        size = 540
+    }
+
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 270
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 1350
+    }
+
+    soldiers = {
+        culture = dacian
+        religion = placeholder
+        size = 1080
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 26970
+    }
+}
+#Tirgoviste (188000/47000 POPS)
+667 = {
+    aristocrats = {
+        culture = dacian
+        religion = placeholder
+        size = 450
+    }
+
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 255
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 1290
+    }
+
+    soldiers = {
+        culture = dacian
+        religion = placeholder
+        size = 1080
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 24735
+    }
+}
+#Braila (272000/68000 POPS)
+668 = {
+    aristocrats = {
+        culture = dacian
+        religion = placeholder
+        size = 720
+    }
+
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 375
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 1860
+    }
+
+    soldiers = {
+        culture = dacian
+        religion = placeholder
+        size = 5040
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 36645
+    }
+}
+#Calarasi (140000/35000 POPS)
+669 = {
+    aristocrats = {
+        culture = dacian
+        religion = placeholder
+        size = 390
+    }
+
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 195
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 960
+    }
+
+    soldiers = {
+        culture = dacian
+        religion = placeholder
+        size = 2640
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 18855
+    }
+}
+#Moldavia Region (1356000)
+#under the rule of Moldavia in 1836
+#Iasi (468000/117000 POPS)
+670 = {
+    aristocrats = {
+        culture = dacian
+        religion = placeholder
+        size = 542
+    }
+
+    bureaucrats = {
+        culture = dacian
+        religion = placeholder
+        size = 138
+    }
+
+    officers = {
+        culture = dacian
+        religion = placeholder
+        size = 84
+    }
+
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 283
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 2412
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 1206
+    }
+
+    soldiers = {
+        culture = dacian
+        religion = placeholder
+        size = 3600
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 27587
+    }
+}
+#Botosani (176000/44000 POPS)
+671 = {
+    aristocrats = {
+        culture = dacian
+        religion = placeholder
+        size = 205
+    }
+
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 108
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 530
+    }
+
+    soldiers = {
+        culture = dacian
+        religion = placeholder
+        size = 396
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 9660
+    }
+}
+#Bacau (440000/110000 POPS)
+672 = {
+    aristocrats = {
+        culture = dacian
+        religion = placeholder
+        size = 482
+    }
+
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 253
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 1326
+    }
+
+    soldiers = {
+        culture = dacian
+        religion = placeholder
+        size = 2160
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 23746
+    }
+}
+#Galati (272000/68000 POPS)
+673 = {
+    aristocrats = {
+        culture = dacian
+        religion = placeholder
+        size = 313
+    }
+
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 162
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 1326
+    }
+
+    soldiers = {
+        culture = dacian
+        religion = placeholder
+        size = 1512
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 14116
+    }
+}
+#Dobruja Region (168000) #see Bulgaria.txt for balance of Region
+#under the rule of the Ottoman Empire in 1836
+#Constanta (128000/32000 POPS)
+674 = {
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 1320
+    }
+
+    soldiers = {
+        culture = dacian
+        religion = placeholder
+        size = 240
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 25080
+    }
+
+    artisans = {
+        culture = hellene
+        religion = placeholder
+        size = 1560
+    }
+
+    soldiers = {
+        culture = hellene
+        religion = placeholder
+        size = 240
+    }
+
+    farmers = {
+        culture = hellene
+        religion = placeholder
+        size = 29400
+    }
+
+    clergymen = {
+        culture = hellene
+        religion = placeholder
+        size = 600
+    }
+
+    artisans = {
+        culture = hellene
+        religion = placeholder
+        size = 600
+    }
+
+    farmers = {
+        culture = hellene
+        religion = placeholder
+        size = 1200
+    }
+
+    aristocrats = {
+        culture = hellene
+        religion = placeholder
+        size = 1560
+    }
+
+    bureaucrats = {
+        culture = hellene
+        religion = placeholder
+        size = 900
+    }
+
+    officers = {
+        culture = hellene
+        religion = placeholder
+        size = 84
+    }
+
+    clergymen = {
+        culture = hellene
+        religion = placeholder
+        size = 180
+    }
+
+    artisans = {
+        culture = hellene
+        religion = placeholder
+        size = 2640
+    }
+
+    soldiers = {
+        culture = hellene
+        religion = placeholder
+        size = 240
+    }
+
+    farmers = {
+        culture = hellene
+        religion = placeholder
+        size = 12396
+    }
+}
+#Tulcea (40000/10000 POPS)
+675 = {
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 120
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 600
+    }
+
+    soldiers = {
+        culture = dacian
+        religion = placeholder
+        size = 240
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 11040
+    }
+
+    aristocrats = {
+        culture = hellene
+        religion = placeholder
+        size = 360
+    }
+
+    clergymen = {
+        culture = hellene
+        religion = placeholder
+        size = 120
+    }
+
+    artisans = {
+        culture = hellene
+        religion = placeholder
+        size = 480
+    }
+
+    farmers = {
+        culture = hellene
+        religion = placeholder
+        size = 4080
+    }
+
+    clergymen = {
+        culture = hellene
+        religion = placeholder
+        size = 60
+    }
+
+    artisans = {
+        culture = hellene
+        religion = placeholder
+        size = 360
+    }
+
+    farmers = {
+        culture = hellene
+        religion = placeholder
+        size = 6780
+    }
+}

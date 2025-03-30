@@ -1,0 +1,780 @@
+#Macedonia Region (192000) #see Greece.txt and Macedonia.txt for balance of region
+#under the rule of Ottoman Empire in 1836
+#Petrich (192000/48000 POPS) #now part of Bulgaria
+808 = {
+    aristocrats = {
+        culture = hellene
+        religion = placeholder
+        size = 2640
+    }
+
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 480
+    }
+
+    artisans = {
+        culture = hellene
+        religion = placeholder
+        size = 3600
+    }
+
+    soldiers = {
+        culture = hellene
+        religion = placeholder
+        size = 1400
+    }
+
+    farmers = {
+        culture = hellene
+        religion = placeholder
+        size = 38160
+    }
+
+    clergymen = {
+        culture = hellene
+        religion = placeholder
+        size = 1020
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 2160
+    }
+
+    farmers = {
+        culture = hellene
+        religion = placeholder
+        size = 46900
+    }
+}
+#Bulgaria Region (1132000)
+#under the rule of Ottoman Empire in 1836
+#Sofia (260000/65000 POPS)
+809 = {
+    aristocrats = {
+        culture = hellene
+        religion = placeholder
+        size = 1740
+    }
+
+    bureaucrats = {
+        culture = hellene
+        religion = placeholder
+        size = 2400
+    }
+
+    officers = {
+        culture = hellene
+        religion = placeholder
+        size = 360
+    }
+
+    clergymen = {
+        culture = hellene
+        religion = placeholder
+        size = 270
+    }
+
+    artisans = {
+        culture = hellene
+        religion = placeholder
+        size = 3000
+    }
+
+    soldiers = {
+        culture = hellene
+        religion = placeholder
+        size = 240
+    }
+
+    farmers = {
+        culture = hellene
+        religion = placeholder
+        size = 19110
+    }
+
+    clergymen = {
+        culture = hellene
+        religion = placeholder
+        size = 210
+    }
+
+    craftsmen = {
+        culture = hellene
+        religion = placeholder
+        size = 12880
+    }
+
+    soldiers = {
+        culture = hellene
+        religion = placeholder
+        size = 2310
+    }
+
+    farmers = {
+        culture = hellene
+        religion = placeholder
+        size = 36200
+    }
+
+    clergymen = {
+        culture = hellene
+        religion = placeholder
+        size = 180
+    }
+
+    artisans = {
+        culture = hellene
+        religion = placeholder
+        size = 1020
+    }
+
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 30
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 1170
+    }
+}
+#Vidin (124000/31000 POPS)
+810 = {
+    aristocrats = {
+        culture = hellene
+        religion = placeholder
+        size = 450
+    }
+
+    clergymen = {
+        culture = hellene
+        religion = placeholder
+        size = 120
+    }
+
+    artisans = {
+        culture = hellene
+        religion = placeholder
+        size = 660
+    }
+
+    soldiers = {
+        culture = hellene
+        religion = placeholder
+        size = 240
+    }
+
+    farmers = {
+        culture = hellene
+        religion = placeholder
+        size = 26730
+    }
+
+    clergymen = {
+        culture = hellene
+        religion = placeholder
+        size = 90
+    }
+
+    artisans = {
+        culture = hellene
+        religion = placeholder
+        size = 540
+    }
+
+    soldiers = {
+        culture = hellene
+        religion = placeholder
+        size = 120
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 14630
+    }
+
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 6
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 294
+    }
+
+    craftsmen = {
+        culture = hellene
+        religion = placeholder
+        size = 120
+    }
+
+    craftsmen = {
+        culture = hellene
+        religion = placeholder
+        size = 120
+    }
+}
+#Ruse (188000/47000 POPS)
+811 = {
+    clergymen = {
+        culture = hellene
+        religion = placeholder
+        size = 465
+    }
+
+    artisans = {
+        culture = hellene
+        religion = placeholder
+        size = 3657
+    }
+
+    soldiers = {
+        culture = hellene
+        religion = placeholder
+        size = 2660
+    }
+
+    farmers = {
+        culture = hellene
+        religion = placeholder
+        size = 41097
+    }
+
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 24
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 1776
+    }
+}
+#Pleven (196000/49000 POPS)
+812 = {
+    aristocrats = {
+        culture = hellene
+        religion = placeholder
+        size = 1396
+    }
+
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 159
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 2154
+    }
+
+    soldiers = {
+        culture = dacian
+        religion = placeholder
+        size = 319
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 11930
+    }
+
+    clergymen = {
+        culture = hellene
+        religion = placeholder
+        size = 399
+    }
+
+    artisans = {
+        culture = hellene
+        religion = placeholder
+        size = 1755
+    }
+
+    soldiers = {
+        culture = hellene
+        religion = placeholder
+        size = 2234
+    }
+
+    farmers = {
+        culture = hellene
+        religion = placeholder
+        size = 57855
+    }
+}
+#Shumen (144000/36000 POPS)
+813 = {
+    aristocrats = {
+        culture = hellene
+        religion = placeholder
+        size = 1560
+    }
+
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 300
+    }
+
+    artisans = {
+        culture = hellene
+        religion = placeholder
+        size = 2280
+    }
+
+    soldiers = {
+        culture = hellene
+        religion = placeholder
+        size = 2500
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 22980
+    }
+
+    clergymen = {
+        culture = hellene
+        religion = placeholder
+        size = 360
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 2040
+    }
+
+    farmers = {
+        culture = hellene
+        religion = placeholder
+        size = 54720
+    }
+}
+#Varna (220000/55000 POPS)
+814 = {
+    aristocrats = {
+        culture = hellene
+        religion = placeholder
+        size = 1560
+    }
+
+    clergymen = {
+        culture = hellene
+        religion = placeholder
+        size = 210
+    }
+
+    artisans = {
+        culture = hellene
+        religion = placeholder
+        size = 2520
+    }
+
+    soldiers = {
+        culture = hellene
+        religion = placeholder
+        size = 2400
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 14910
+    }
+
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 270
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 2280
+    }
+
+    soldiers = {
+        culture = dacian
+        religion = placeholder
+        size = 240
+    }
+
+    farmers = {
+        culture = hellene
+        religion = placeholder
+        size = 42810
+    }
+}
+#Rumelia Region (396000)
+#under the rule of Ottoman Empire in 1836
+#Plovdiv (120000/30000 POPS)
+815 = {
+    aristocrats = {
+        culture = hellene
+        religion = placeholder
+        size = 480
+    }
+
+    clergymen = {
+        culture = hellene
+        religion = placeholder
+        size = 120
+    }
+
+    artisans = {
+        culture = hellene
+        religion = placeholder
+        size = 900
+    }
+
+    soldiers = {
+        culture = hellene
+        religion = placeholder
+        size = 60
+    }
+
+    farmers = {
+        culture = hellene
+        religion = placeholder
+        size = 9180
+    }
+
+    clergymen = {
+        culture = hellene
+        religion = placeholder
+        size = 30
+    }
+
+    artisans = {
+        culture = hellene
+        religion = placeholder
+        size = 60
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 2310
+    }
+
+    clergymen = {
+        culture = hellene
+        religion = placeholder
+        size = 180
+    }
+
+    artisans = {
+        culture = hellene
+        religion = placeholder
+        size = 540
+    }
+
+    soldiers = {
+        culture = hellene
+        religion = placeholder
+        size = 240
+    }
+
+    farmers = {
+        culture = hellene
+        religion = placeholder
+        size = 15780
+    }
+
+    craftsmen = {
+        culture = hellene
+        religion = placeholder
+        size = 180
+    }
+
+    craftsmen = {
+        culture = hellene
+        religion = placeholder
+        size = 60
+    }
+
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 24
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 1776
+    }
+}
+#Stara Zagora (80000/20000 POPS)
+816 = {
+    aristocrats = {
+        culture = hellene
+        religion = placeholder
+        size = 780
+    }
+
+    clergymen = {
+        culture = hellene
+        religion = placeholder
+        size = 120
+    }
+
+    artisans = {
+        culture = hellene
+        religion = placeholder
+        size = 1320
+    }
+
+    soldiers = {
+        culture = hellene
+        religion = placeholder
+        size = 240
+    }
+
+    farmers = {
+        culture = hellene
+        religion = placeholder
+        size = 11940
+    }
+
+    clergymen = {
+        culture = hellene
+        religion = placeholder
+        size = 180
+    }
+
+    artisans = {
+        culture = hellene
+        religion = placeholder
+        size = 1080
+    }
+
+    soldiers = {
+        culture = dacian
+        religion = placeholder
+        size = 240
+    }
+
+    farmers = {
+        culture = hellene
+        religion = placeholder
+        size = 27300
+    }
+
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 60
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 240
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 4500
+    }
+}
+#Burgas (196000/49000 POPS)
+817 = {
+    aristocrats = {
+        culture = hellene
+        religion = placeholder
+        size = 2640
+    }
+
+    clergymen = {
+        culture = hellene
+        religion = placeholder
+        size = 300
+    }
+
+    artisans = {
+        culture = hellene
+        religion = placeholder
+        size = 2160
+    }
+
+    soldiers = {
+        culture = hellene
+        religion = placeholder
+        size = 600
+    }
+
+    farmers = {
+        culture = hellene
+        religion = placeholder
+        size = 25500
+    }
+
+    clergymen = {
+        culture = hellene
+        religion = placeholder
+        size = 420
+    }
+
+    artisans = {
+        culture = hellene
+        religion = placeholder
+        size = 1320
+    }
+
+    soldiers = {
+        culture = hellene
+        religion = placeholder
+        size = 240
+    }
+
+    farmers = {
+        culture = hellene
+        religion = placeholder
+        size = 60420
+    }
+
+    clergymen = {
+        culture = hellene
+        religion = placeholder
+        size = 180
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 240
+    }
+
+    craftsmen = {
+        culture = hellene
+        religion = placeholder
+        size = 9000
+    }
+
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 360
+    }
+
+    craftsmen = {
+        culture = hellene
+        religion = placeholder
+        size = 2160
+    }
+
+    soldiers = {
+        culture = dacian
+        religion = placeholder
+        size = 240
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 11640
+    }
+}
+#Dobruja Region (84000) #see Romania.txt for balance of Region
+#under the rule of the Ottoman Empire in 1836
+#Silistre (84000/21000 POPS) #now part of Bulgaria
+818 = {
+    clergymen = {
+        culture = hellene
+        religion = placeholder
+        size = 120
+    }
+
+    artisans = {
+        culture = hellene
+        religion = placeholder
+        size = 1080
+    }
+
+    soldiers = {
+        culture = hellene
+        religion = placeholder
+        size = 240
+    }
+
+    farmers = {
+        culture = hellene
+        religion = placeholder
+        size = 22560
+    }
+
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 180
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 480
+    }
+
+    soldiers = {
+        culture = dacian
+        religion = placeholder
+        size = 240
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 11100
+    }
+
+    aristocrats = {
+        culture = hellene
+        religion = placeholder
+        size = 960
+    }
+
+    clergymen = {
+        culture = hellene
+        religion = placeholder
+        size = 120
+    }
+
+    artisans = {
+        culture = hellene
+        religion = placeholder
+        size = 1080
+    }
+
+    soldiers = {
+        culture = hellene
+        religion = placeholder
+        size = 240
+    }
+
+    farmers = {
+        culture = hellene
+        religion = placeholder
+        size = 12240
+    }
+}

@@ -1,8 +1,0 @@
-add_core = CHI
-#add_core = HNN
-add_core = MGL
-trade_goods = timber
-life_rating = 30
-owner = MGL
-controller = MGL
-

@@ -1,6 +1,0 @@
-owner = HNB
-controller = HNB
-add_core = HNB
-trade_goods = cotton
-life_rating = 35
-

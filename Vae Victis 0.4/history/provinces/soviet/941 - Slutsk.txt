@@ -1,0 +1,6 @@
+owner = ZIL
+controller = ZIL
+add_core = ZIL
+trade_goods = cattle
+life_rating = 35
+ 

@@ -1,6 +1,0 @@
-owner = NPH
-controller = NPH
-add_core = NPH
-trade_goods = coffee
-life_rating = 35
-

@@ -1,5 +1,0 @@
-add_core = PRG
-
-
-trade_goods = tea
-life_rating = 20

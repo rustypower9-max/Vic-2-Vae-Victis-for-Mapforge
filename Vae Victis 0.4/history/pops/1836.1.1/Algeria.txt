@@ -1,0 +1,3277 @@
+#Algiers Region (1136000)
+#Ruled by France 1836
+#Algiers (280000/70000 POPS)
+1700 = {
+    aristocrats = {
+        culture = punic
+        religion = placeholder
+        size = 378
+    }
+
+    bureaucrats = {
+        culture = punic
+        religion = placeholder
+        size = 7847
+    }
+
+    clergymen = {
+        culture = punic
+        religion = placeholder
+        size = 94
+    }
+
+    artisans = {
+        culture = punic
+        religion = placeholder
+        size = 5670
+    }
+
+    soldiers = {
+        culture = punic
+        religion = placeholder
+        size = 5450
+    }
+
+    farmers = {
+        culture = punic
+        religion = placeholder
+        size = 850
+    }
+
+    clergymen = {
+        culture = punic
+        religion = placeholder
+        size = 1134
+    }
+
+    craftsmen = {
+        culture = punic
+        religion = placeholder
+        size = 17010
+    }
+
+    farmers = {
+        culture = punic
+        religion = placeholder
+        size = 55000
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 61
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 614
+    }
+
+    soldiers = {
+        culture = berber
+        religion = placeholder
+        size = 189
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 9669
+    }
+
+    clergymen = {
+        culture = punic
+        religion = placeholder
+        size = 94
+    }
+
+    artisans = {
+        culture = punic
+        religion = placeholder
+        size = 5575
+    }
+
+    clergymen = {
+        culture = punic
+        religion = placeholder
+        size = 33
+    }
+
+    artisans = {
+        culture = punic
+        religion = placeholder
+        size = 331
+    }
+
+    farmers = {
+        culture = punic
+        religion = placeholder
+        size = 5207
+    }
+}
+#Ruled by Aljaziar 1836
+#Bougie (448000/112000 POPS)
+1701 = {
+    aristocrats = {
+        culture = punic
+        religion = placeholder
+        size = 2158
+    }
+
+    officers = {
+        culture = punic
+        religion = placeholder
+        size = 756
+    }
+
+    bureaucrats = {
+        culture = punic
+        religion = placeholder
+        size = 3863
+    }
+
+    clergymen = {
+        culture = punic
+        religion = placeholder
+        size = 3307
+    }
+
+    artisans = {
+        culture = punic
+        religion = placeholder
+        size = 16443
+    }
+
+    soldiers = {
+        culture = punic
+        religion = placeholder
+        size = 2158
+    }
+
+    farmers = {
+        culture = punic
+        religion = placeholder
+        size = 152477
+    }
+
+    craftsmen = {
+        culture = punic
+        religion = placeholder
+        size = 40000
+    }
+
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 412
+    }
+
+    officers = {
+        culture = berber
+        religion = placeholder
+        size = 184
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 614
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 3317
+    }
+
+    soldiers = {
+        culture = berber
+        religion = placeholder
+        size = 1323
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 28126
+    }
+
+    aristocrats = {
+        culture = punic
+        religion = placeholder
+        size = 222
+    }
+
+    officers = {
+        culture = punic
+        religion = placeholder
+        size = 99
+    }
+
+    clergymen = {
+        culture = punic
+        religion = placeholder
+        size = 331
+    }
+
+    artisans = {
+        culture = punic
+        religion = placeholder
+        size = 1786
+    }
+
+    farmers = {
+        culture = punic
+        religion = placeholder
+        size = 15145
+    }
+}
+#Setif (240000/60000 POPS)
+1702 = {
+    aristocrats = {
+        culture = punic
+        religion = placeholder
+        size = 2400
+    }
+
+    clergymen = {
+        culture = punic
+        religion = placeholder
+        size = 2000
+    }
+
+    artisans = {
+        culture = punic
+        religion = placeholder
+        size = 19600
+    }
+
+    soldiers = {
+        culture = punic
+        religion = placeholder
+        size = 6000
+    }
+
+    farmers = {
+        culture = punic
+        religion = placeholder
+        size = 145800
+    }
+
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 260
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 260
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 1560
+    }
+
+    soldiers = {
+        culture = berber
+        religion = placeholder
+        size = 800
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 28600
+    }
+
+    aristocrats = {
+        culture = punic
+        religion = placeholder
+        size = 140
+    }
+
+    clergymen = {
+        culture = punic
+        religion = placeholder
+        size = 140
+    }
+
+    artisans = {
+        culture = punic
+        religion = placeholder
+        size = 840
+    }
+
+    farmers = {
+        culture = punic
+        religion = placeholder
+        size = 13860
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 16200
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 1540
+    }
+}
+#Medea (168000/42000 POPS)
+1703 = {
+    aristocrats = {
+        culture = punic
+        religion = placeholder
+        size = 1200
+    }
+
+    clergymen = {
+        culture = punic
+        religion = placeholder
+        size = 800
+    }
+
+    craftsmen = {
+        culture = punic
+        religion = placeholder
+        size = 34400
+    }
+
+    soldiers = {
+        culture = punic
+        religion = placeholder
+        size = 5940
+    }
+
+    farmers = {
+        culture = punic
+        religion = placeholder
+        size = 36000
+    }
+
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 520
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 520
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 2860
+    }
+
+    soldiers = {
+        culture = berber
+        religion = placeholder
+        size = 2860
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 50700
+    }
+
+    aristocrats = {
+        culture = punic
+        religion = placeholder
+        size = 280
+    }
+
+    clergymen = {
+        culture = punic
+        religion = placeholder
+        size = 280
+    }
+
+    artisans = {
+        culture = punic
+        religion = placeholder
+        size = 1540
+    }
+
+    farmers = {
+        culture = punic
+        religion = placeholder
+        size = 24570
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 4000
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 2730
+    }
+}
+#Oranais Region (577600)
+#French in 1836 :
+#Oran (108000/27000 POPS)
+1704 = {
+    aristocrats = {
+        culture = punic
+        religion = placeholder
+        size = 189
+    }
+
+    bureaucrats = {
+        culture = punic
+        religion = placeholder
+        size = 415
+    }
+
+    clergymen = {
+        culture = punic
+        religion = placeholder
+        size = 94
+    }
+
+    artisans = {
+        culture = punic
+        religion = placeholder
+        size = 3024
+    }
+
+    soldiers = {
+        culture = punic
+        religion = placeholder
+        size = 2096
+    }
+
+    craftsmen = {
+        culture = punic
+        religion = placeholder
+        size = 2756
+    }
+
+    clergymen = {
+        culture = punic
+        religion = placeholder
+        size = 378
+    }
+
+    craftsmen = {
+        culture = punic
+        religion = placeholder
+        size = 4158
+    }
+
+    farmers = {
+        culture = punic
+        religion = placeholder
+        size = 74088
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 61
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 246
+    }
+
+    soldiers = {
+        culture = berber
+        religion = placeholder
+        size = 61
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 6388
+    }
+
+    clergymen = {
+        culture = punic
+        religion = placeholder
+        size = 75
+    }
+
+    artisans = {
+        culture = punic
+        religion = placeholder
+        size = 4649
+    }
+
+    clergymen = {
+        culture = punic
+        religion = placeholder
+        size = 33
+    }
+
+    artisans = {
+        culture = punic
+        religion = placeholder
+        size = 132
+    }
+
+    craftsmen = {
+        culture = punic
+        religion = placeholder
+        size = 3440
+    }
+}
+#Aljazair-ruled in 1836 :
+#Tilimsan (221600/55400 POPS)
+1705 = {
+    aristocrats = {
+        culture = punic
+        religion = placeholder
+        size = 1890
+    }
+
+    officers = {
+        culture = punic
+        religion = placeholder
+        size = 378
+    }
+
+    bureaucrats = {
+        culture = punic
+        religion = placeholder
+        size = 831
+    }
+
+    clergymen = {
+        culture = punic
+        religion = placeholder
+        size = 1890
+    }
+
+    artisans = {
+        culture = punic
+        religion = placeholder
+        size = 18505
+    }
+
+    soldiers = {
+        culture = punic
+        religion = placeholder
+        size = 5318
+    }
+
+    farmers = {
+        culture = punic
+        religion = placeholder
+        size = 141939
+    }
+
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 246
+    }
+
+    officers = {
+        culture = berber
+        religion = placeholder
+        size = 123
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 246
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 860
+    }
+
+    soldiers = {
+        culture = berber
+        religion = placeholder
+        size = 369
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 22727
+    }
+
+    artisans = {
+        culture = punic
+        religion = placeholder
+        size = 1512
+    }
+
+    aristocrats = {
+        culture = punic
+        religion = placeholder
+        size = 132
+    }
+
+    officers = {
+        culture = punic
+        religion = placeholder
+        size = 66
+    }
+
+    clergymen = {
+        culture = punic
+        religion = placeholder
+        size = 132
+    }
+
+    artisans = {
+        culture = punic
+        religion = placeholder
+        size = 463
+    }
+
+    farmers = {
+        culture = punic
+        religion = placeholder
+        size = 12238
+    }
+}
+#Mustaghanem (188000/47000 POPS)
+1706 = {
+    aristocrats = {
+        culture = punic
+        religion = placeholder
+        size = 1134
+    }
+
+    clergymen = {
+        culture = punic
+        religion = placeholder
+        size = 1134
+    }
+
+    artisans = {
+        culture = punic
+        religion = placeholder
+        size = 5670
+    }
+
+    soldiers = {
+        culture = punic
+        religion = placeholder
+        size = 1586
+    }
+
+    farmers = {
+        culture = punic
+        religion = placeholder
+        size = 104139
+    }
+
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 491
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 430
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 2088
+    }
+
+    soldiers = {
+        culture = berber
+        religion = placeholder
+        size = 491
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 38267
+    }
+
+    aristocrats = {
+        culture = punic
+        religion = placeholder
+        size = 265
+    }
+
+    clergymen = {
+        culture = punic
+        religion = placeholder
+        size = 231
+    }
+
+    artisans = {
+        culture = punic
+        religion = placeholder
+        size = 1125
+    }
+
+    farmers = {
+        culture = punic
+        religion = placeholder
+        size = 20606
+    }
+}
+#Mascara (60000/15000 POPS)
+1707 = {
+    aristocrats = {
+        culture = punic
+        religion = placeholder
+        size = 400
+    }
+
+    clergymen = {
+        culture = punic
+        religion = placeholder
+        size = 300
+    }
+
+    artisans = {
+        culture = punic
+        religion = placeholder
+        size = 1600
+    }
+
+    soldiers = {
+        culture = punic
+        religion = placeholder
+        size = 4505
+    }
+
+    farmers = {
+        culture = punic
+        religion = placeholder
+        size = 23130
+    }
+
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 195
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 195
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 910
+    }
+
+    soldiers = {
+        culture = berber
+        religion = placeholder
+        size = 195
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 16705
+    }
+
+    aristocrats = {
+        culture = punic
+        religion = placeholder
+        size = 105
+    }
+
+    clergymen = {
+        culture = punic
+        religion = placeholder
+        size = 105
+    }
+
+    artisans = {
+        culture = punic
+        religion = placeholder
+        size = 490
+    }
+
+    farmers = {
+        culture = punic
+        religion = placeholder
+        size = 8095
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 2570
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 900
+    }
+}
+#Constantinois Region (344000)
+#Ruled by France 1836
+#Bone (68000/17000 POPS)
+1709 = {
+    aristocrats = {
+        culture = punic
+        religion = placeholder
+        size = 94
+    }
+
+    bureaucrats = {
+        culture = punic
+        religion = placeholder
+        size = 415
+    }
+
+    clergymen = {
+        culture = punic
+        religion = placeholder
+        size = 94
+    }
+
+    artisans = {
+        culture = punic
+        religion = placeholder
+        size = 2268
+    }
+
+    soldiers = {
+        culture = punic
+        religion = placeholder
+        size = 2725
+    }
+
+    farmers = {
+        culture = punic
+        religion = placeholder
+        size = 2776
+    }
+
+    clergymen = {
+        culture = punic
+        religion = placeholder
+        size = 189
+    }
+
+    artisans = {
+        culture = punic
+        religion = placeholder
+        size = 2268
+    }
+
+    farmers = {
+        culture = punic
+        religion = placeholder
+        size = 72336
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 24
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 123
+    }
+
+    soldiers = {
+        culture = berber
+        religion = placeholder
+        size = 36
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 15272
+    }
+
+    clergymen = {
+        culture = punic
+        religion = placeholder
+        size = 13
+    }
+
+    artisans = {
+        culture = punic
+        religion = placeholder
+        size = 66
+    }
+
+    farmers = {
+        culture = punic
+        religion = placeholder
+        size = 8224
+    }
+}
+#Ruled by Aljazair 1836
+#Constantine (176000/44000 POPS)
+1708 = {
+    aristocrats = {
+        culture = punic
+        religion = placeholder
+        size = 1000
+    }
+
+    officers = {
+        culture = punic
+        religion = placeholder
+        size = 200
+    }
+
+    bureaucrats = {
+        culture = punic
+        religion = placeholder
+        size = 9460
+    }
+
+    clergymen = {
+        culture = punic
+        religion = placeholder
+        size = 852
+    }
+
+    artisans = {
+        culture = punic
+        religion = placeholder
+        size = 4400
+    }
+
+    soldiers = {
+        culture = punic
+        religion = placeholder
+        size = 5940
+    }
+
+    farmers = {
+        culture = punic
+        religion = placeholder
+        size = 65923
+    }
+
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 520
+    }
+
+    officers = {
+        culture = berber
+        religion = placeholder
+        size = 65
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 520
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 2665
+    }
+
+    soldiers = {
+        culture = berber
+        religion = placeholder
+        size = 2860
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 50830
+    }
+
+    clergymen = {
+        culture = punic
+        religion = placeholder
+        size = 100
+    }
+
+    artisans = {
+        culture = punic
+        religion = placeholder
+        size = 3900
+    }
+
+    aristocrats = {
+        culture = punic
+        religion = placeholder
+        size = 280
+    }
+
+    officers = {
+        culture = punic
+        religion = placeholder
+        size = 35
+    }
+
+    clergymen = {
+        culture = punic
+        religion = placeholder
+        size = 280
+    }
+
+    artisans = {
+        culture = punic
+        religion = placeholder
+        size = 1435
+    }
+
+    farmers = {
+        culture = punic
+        religion = placeholder
+        size = 24633
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 7325
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 2737
+    }
+}
+#Biskra (100000/25000 POPS)
+1710 = {
+    aristocrats = {
+        culture = punic
+        religion = placeholder
+        size = 600
+    }
+
+    clergymen = {
+        culture = punic
+        religion = placeholder
+        size = 600
+    }
+
+    artisans = {
+        culture = punic
+        religion = placeholder
+        size = 3000
+    }
+
+    soldiers = {
+        culture = punic
+        religion = placeholder
+        size = 4540
+    }
+
+    farmers = {
+        culture = punic
+        religion = placeholder
+        size = 46620
+    }
+
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 260
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 260
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 1300
+    }
+
+    soldiers = {
+        culture = berber
+        religion = placeholder
+        size = 260
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 23920
+    }
+
+    aristocrats = {
+        culture = punic
+        religion = placeholder
+        size = 140
+    }
+
+    clergymen = {
+        culture = punic
+        religion = placeholder
+        size = 140
+    }
+
+    artisans = {
+        culture = punic
+        religion = placeholder
+        size = 700
+    }
+
+    farmers = {
+        culture = punic
+        religion = placeholder
+        size = 11592
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 5180
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 1288
+    }
+}
+#Wargla Region (152000)
+#uncolonized in 1836
+#Ouargla (36000/9000 POPS)
+1711 = {
+    aristocrats = {
+        culture = punic
+        religion = placeholder
+        size = 67
+    }
+
+    clergymen = {
+        culture = punic
+        religion = placeholder
+        size = 174
+    }
+
+    artisans = {
+        culture = punic
+        religion = placeholder
+        size = 402
+    }
+
+    soldiers = {
+        culture = punic
+        religion = placeholder
+        size = 225
+    }
+
+    farmers = {
+        culture = punic
+        religion = placeholder
+        size = 7316
+    }
+
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 78
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 182
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 390
+    }
+
+    soldiers = {
+        culture = berber
+        religion = placeholder
+        size = 130
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 8658
+    }
+
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 65
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 39
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 91
+    }
+
+    soldiers = {
+        culture = berber
+        religion = placeholder
+        size = 65
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 4446
+    }
+
+    aristocrats = {
+        culture = punic
+        religion = placeholder
+        size = 28
+    }
+
+    clergymen = {
+        culture = punic
+        religion = placeholder
+        size = 66
+    }
+
+    artisans = {
+        culture = punic
+        religion = placeholder
+        size = 141
+    }
+
+    farmers = {
+        culture = punic
+        religion = placeholder
+        size = 3471
+    }
+
+    aristocrats = {
+        culture = punic
+        religion = placeholder
+        size = 23
+    }
+
+    clergymen = {
+        culture = punic
+        religion = placeholder
+        size = 14
+    }
+
+    artisans = {
+        culture = punic
+        religion = placeholder
+        size = 33
+    }
+
+    farmers = {
+        culture = punic
+        religion = placeholder
+        size = 1782
+    }
+
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 33
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 86
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 198
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 3244
+    }
+
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 14
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 32
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 69
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 1538
+    }
+
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 12
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 7
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 16
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 790
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 962
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 494
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 360
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 171
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 88
+    }
+}
+#Tuggurt (12000/3000 POPS)
+1712 = {
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 52
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 78
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 208
+    }
+
+    soldiers = {
+        culture = berber
+        religion = placeholder
+        size = 52
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 4329
+    }
+
+    aristocrats = {
+        culture = punic
+        religion = placeholder
+        size = 27
+    }
+
+    clergymen = {
+        culture = punic
+        religion = placeholder
+        size = 54
+    }
+
+    artisans = {
+        culture = punic
+        religion = placeholder
+        size = 134
+    }
+
+    soldiers = {
+        culture = punic
+        religion = placeholder
+        size = 80
+    }
+
+    farmers = {
+        culture = punic
+        religion = placeholder
+        size = 2412
+    }
+
+    aristocrats = {
+        culture = punic
+        religion = placeholder
+        size = 19
+    }
+
+    clergymen = {
+        culture = punic
+        religion = placeholder
+        size = 28
+    }
+
+    artisans = {
+        culture = punic
+        religion = placeholder
+        size = 75
+    }
+
+    soldiers = {
+        culture = punic
+        religion = placeholder
+        size = 28
+    }
+
+    farmers = {
+        culture = punic
+        religion = placeholder
+        size = 1735
+    }
+
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 13
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 26
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 66
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 1069
+    }
+
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 9
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 14
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 37
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 769
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 481
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 119
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 86
+    }
+}
+#Laghwat (104000/26000 POPS)
+1713 = {
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 260
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 260
+    }
+
+    craftsmen = {
+        culture = berber
+        religion = placeholder
+        size = 16900
+    }
+
+    soldiers = {
+        culture = berber
+        religion = placeholder
+        size = 2860
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 28080
+    }
+
+    aristocrats = {
+        culture = punic
+        religion = placeholder
+        size = 335
+    }
+
+    clergymen = {
+        culture = punic
+        religion = placeholder
+        size = 335
+    }
+
+    artisans = {
+        culture = punic
+        religion = placeholder
+        size = 1474
+    }
+
+    farmers = {
+        culture = punic
+        religion = placeholder
+        size = 26934
+    }
+
+    aristocrats = {
+        culture = punic
+        religion = placeholder
+        size = 54
+    }
+
+    clergymen = {
+        culture = punic
+        religion = placeholder
+        size = 107
+    }
+
+    artisans = {
+        culture = punic
+        religion = placeholder
+        size = 268
+    }
+
+    farmers = {
+        culture = punic
+        religion = placeholder
+        size = 4824
+    }
+
+    aristocrats = {
+        culture = punic
+        religion = placeholder
+        size = 94
+    }
+
+    clergymen = {
+        culture = punic
+        religion = placeholder
+        size = 94
+    }
+
+    artisans = {
+        culture = punic
+        religion = placeholder
+        size = 6097
+    }
+
+    soldiers = {
+        culture = punic
+        religion = placeholder
+        size = 2300
+    }
+
+    farmers = {
+        culture = punic
+        religion = placeholder
+        size = 11256
+    }
+
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 165
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 165
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 726
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 11939
+    }
+
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 26
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 53
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 132
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 2138
+    }
+
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 46
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 46
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 3003
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 4990
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 3120
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 1327
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 238
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 554
+    }
+}
+#Jibal Bashar Region (128000)
+#uncolonized in 1836
+#Bechar (20000/5000 POPS)
+1714 = {
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 10
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 14
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 39
+    }
+
+    soldiers = {
+        culture = berber
+        religion = placeholder
+        size = 14
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 807
+    }
+
+    aristocrats = {
+        culture = punic
+        religion = placeholder
+        size = 32
+    }
+
+    clergymen = {
+        culture = punic
+        religion = placeholder
+        size = 64
+    }
+
+    artisans = {
+        culture = punic
+        religion = placeholder
+        size = 161
+    }
+
+    soldiers = {
+        culture = punic
+        religion = placeholder
+        size = 72
+    }
+
+    farmers = {
+        culture = punic
+        religion = placeholder
+        size = 2764
+    }
+
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 24
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 14
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 34
+    }
+
+    soldiers = {
+        culture = berber
+        religion = placeholder
+        size = 24
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 1667
+    }
+
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 23
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 47
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 117
+    }
+
+    soldiers = {
+        culture = berber
+        religion = placeholder
+        size = 35
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 1906
+    }
+
+    aristocrats = {
+        culture = punic
+        religion = placeholder
+        size = 3
+    }
+
+    clergymen = {
+        culture = punic
+        religion = placeholder
+        size = 5
+    }
+
+    artisans = {
+        culture = punic
+        religion = placeholder
+        size = 14
+    }
+
+    soldiers = {
+        culture = punic
+        religion = placeholder
+        size = 8
+    }
+
+    farmers = {
+        culture = punic
+        religion = placeholder
+        size = 308
+    }
+
+    aristocrats = {
+        culture = punic
+        religion = placeholder
+        size = 9
+    }
+
+    clergymen = {
+        culture = punic
+        religion = placeholder
+        size = 5
+    }
+
+    artisans = {
+        culture = punic
+        religion = placeholder
+        size = 12
+    }
+
+    soldiers = {
+        culture = punic
+        religion = placeholder
+        size = 13
+    }
+
+    farmers = {
+        culture = punic
+        religion = placeholder
+        size = 636
+    }
+
+    aristocrats = {
+        culture = punic
+        religion = placeholder
+        size = 9
+    }
+
+    clergymen = {
+        culture = punic
+        religion = placeholder
+        size = 17
+    }
+
+    artisans = {
+        culture = punic
+        religion = placeholder
+        size = 42
+    }
+
+    soldiers = {
+        culture = punic
+        religion = placeholder
+        size = 19
+    }
+
+    farmers = {
+        culture = punic
+        religion = placeholder
+        size = 726
+    }
+
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 16
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 32
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 79
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 1291
+    }
+
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 2
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 3
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 7
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 143
+    }
+
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 4
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 3
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 6
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 296
+    }
+
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 4
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 8
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 21
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 338
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 90
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 185
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 212
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 143
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 16
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 33
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 38
+    }
+
+    slaves = {
+        culture = punic
+        religion = placeholder
+        size = 146
+    }
+
+    slaves = {
+        culture = punic
+        religion = placeholder
+        size = 16
+    }
+
+    slaves = {
+        culture = punic
+        religion = placeholder
+        size = 33
+    }
+
+    slaves = {
+        culture = punic
+        religion = placeholder
+        size = 38
+    }
+}
+#Naama (92000/23000 POPS)
+1715 = {
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 260
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 260
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 1560
+    }
+
+    soldiers = {
+        culture = berber
+        religion = placeholder
+        size = 2860
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 23868
+    }
+
+    aristocrats = {
+        culture = punic
+        religion = placeholder
+        size = 268
+    }
+
+    clergymen = {
+        culture = punic
+        religion = placeholder
+        size = 335
+    }
+
+    artisans = {
+        culture = punic
+        religion = placeholder
+        size = 1474
+    }
+
+    farmers = {
+        culture = punic
+        religion = placeholder
+        size = 27068
+    }
+
+    aristocrats = {
+        culture = punic
+        religion = placeholder
+        size = 94
+    }
+
+    clergymen = {
+        culture = punic
+        religion = placeholder
+        size = 94
+    }
+
+    artisans = {
+        culture = punic
+        religion = placeholder
+        size = 563
+    }
+
+    soldiers = {
+        culture = punic
+        religion = placeholder
+        size = 2040
+    }
+
+    farmers = {
+        culture = punic
+        religion = placeholder
+        size = 9568
+    }
+
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 132
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 165
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 726
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 11999
+    }
+
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 46
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 46
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 277
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 4241
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 2652
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 1333
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 471
+    }
+}
+#Tindouf (8000/2000 POPS)
+1716 = {
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 24
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 14
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 34
+    }
+
+    soldiers = {
+        culture = berber
+        religion = placeholder
+        size = 24
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 1667
+    }
+
+    aristocrats = {
+        culture = punic
+        religion = placeholder
+        size = 9
+    }
+
+    clergymen = {
+        culture = punic
+        religion = placeholder
+        size = 5
+    }
+
+    artisans = {
+        culture = punic
+        religion = placeholder
+        size = 12
+    }
+
+    soldiers = {
+        culture = punic
+        religion = placeholder
+        size = 13
+    }
+
+    farmers = {
+        culture = punic
+        religion = placeholder
+        size = 636
+    }
+
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 4
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 3
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 6
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 296
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 185
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 33
+    }
+
+    slaves = {
+        culture = punic
+        religion = placeholder
+        size = 33
+    }
+}
+#Chenachene (8000/2000 POPS)
+1717 = {
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 24
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 14
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 34
+    }
+
+    soldiers = {
+        culture = berber
+        religion = placeholder
+        size = 24
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 1667
+    }
+
+    aristocrats = {
+        culture = punic
+        religion = placeholder
+        size = 9
+    }
+
+    clergymen = {
+        culture = punic
+        religion = placeholder
+        size = 5
+    }
+
+    artisans = {
+        culture = punic
+        religion = placeholder
+        size = 12
+    }
+
+    soldiers = {
+        culture = punic
+        religion = placeholder
+        size = 13
+    }
+
+    farmers = {
+        culture = punic
+        religion = placeholder
+        size = 636
+    }
+
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 4
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 3
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 6
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 296
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 185
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 33
+    }
+
+    slaves = {
+        culture = punic
+        religion = placeholder
+        size = 33
+    }
+}
+#Tuat Region (32000)
+#uncolonized in 1836
+#Tuat (8000/2000 POPS)
+1718 = {
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 65
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 39
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 91
+    }
+
+    soldiers = {
+        culture = berber
+        religion = placeholder
+        size = 65
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 4446
+    }
+
+    aristocrats = {
+        culture = punic
+        religion = placeholder
+        size = 23
+    }
+
+    clergymen = {
+        culture = punic
+        religion = placeholder
+        size = 14
+    }
+
+    artisans = {
+        culture = punic
+        religion = placeholder
+        size = 33
+    }
+
+    soldiers = {
+        culture = punic
+        religion = placeholder
+        size = 35
+    }
+
+    farmers = {
+        culture = punic
+        religion = placeholder
+        size = 1782
+    }
+
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 12
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 7
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 16
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 790
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 494
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 88
+    }
+}
+#Illizi (8000/2000 POPS)
+1719 = {
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 65
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 39
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 91
+    }
+
+    soldiers = {
+        culture = berber
+        religion = placeholder
+        size = 65
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 4446
+    }
+
+    aristocrats = {
+        culture = punic
+        religion = placeholder
+        size = 23
+    }
+
+    clergymen = {
+        culture = punic
+        religion = placeholder
+        size = 14
+    }
+
+    artisans = {
+        culture = punic
+        religion = placeholder
+        size = 33
+    }
+
+    soldiers = {
+        culture = punic
+        religion = placeholder
+        size = 35
+    }
+
+    farmers = {
+        culture = punic
+        religion = placeholder
+        size = 1782
+    }
+
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 12
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 7
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 16
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 790
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 494
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 88
+    }
+}
+#Timimoun (16000/4000 POPS)
+1720 = {
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 130
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 78
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 182
+    }
+
+    soldiers = {
+        culture = berber
+        religion = placeholder
+        size = 130
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 8892
+    }
+
+    aristocrats = {
+        culture = punic
+        religion = placeholder
+        size = 47
+    }
+
+    clergymen = {
+        culture = punic
+        religion = placeholder
+        size = 28
+    }
+
+    artisans = {
+        culture = punic
+        religion = placeholder
+        size = 66
+    }
+
+    soldiers = {
+        culture = punic
+        religion = placeholder
+        size = 70
+    }
+
+    farmers = {
+        culture = punic
+        religion = placeholder
+        size = 3564
+    }
+
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 23
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 14
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 32
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 1580
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 988
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 176
+    }
+}
+#Hoggar Region (40000)
+#uncolonized in 1836
+#In Guezzam (8000/2000 POPS)
+1721 = {
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 65
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 39
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 91
+    }
+
+    soldiers = {
+        culture = berber
+        religion = placeholder
+        size = 65
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 4446
+    }
+
+    aristocrats = {
+        culture = punic
+        religion = placeholder
+        size = 23
+    }
+
+    clergymen = {
+        culture = punic
+        religion = placeholder
+        size = 14
+    }
+
+    artisans = {
+        culture = punic
+        religion = placeholder
+        size = 33
+    }
+
+    soldiers = {
+        culture = punic
+        religion = placeholder
+        size = 35
+    }
+
+    farmers = {
+        culture = punic
+        religion = placeholder
+        size = 1782
+    }
+
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 12
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 7
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 16
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 790
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 494
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 88
+    }
+}
+#Tin Zawatene (16000/4000 POPS)
+1722 = {
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 130
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 78
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 182
+    }
+
+    soldiers = {
+        culture = berber
+        religion = placeholder
+        size = 130
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 8892
+    }
+
+    aristocrats = {
+        culture = punic
+        religion = placeholder
+        size = 47
+    }
+
+    clergymen = {
+        culture = punic
+        religion = placeholder
+        size = 28
+    }
+
+    artisans = {
+        culture = punic
+        religion = placeholder
+        size = 66
+    }
+
+    soldiers = {
+        culture = punic
+        religion = placeholder
+        size = 70
+    }
+
+    farmers = {
+        culture = punic
+        religion = placeholder
+        size = 3564
+    }
+
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 23
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 14
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 32
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 1580
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 988
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 176
+    }
+}
+#Tamanrasset (16000/4000 POPS)
+1724 = {
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 65
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 52
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 208
+    }
+
+    soldiers = {
+        culture = berber
+        religion = placeholder
+        size = 65
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 4329
+    }
+
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 65
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 39
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 91
+    }
+
+    soldiers = {
+        culture = berber
+        religion = placeholder
+        size = 65
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 4446
+    }
+
+    aristocrats = {
+        culture = punic
+        religion = placeholder
+        size = 23
+    }
+
+    clergymen = {
+        culture = punic
+        religion = placeholder
+        size = 19
+    }
+
+    artisans = {
+        culture = punic
+        religion = placeholder
+        size = 75
+    }
+
+    soldiers = {
+        culture = punic
+        religion = placeholder
+        size = 35
+    }
+
+    farmers = {
+        culture = punic
+        religion = placeholder
+        size = 1735
+    }
+
+    aristocrats = {
+        culture = punic
+        religion = placeholder
+        size = 23
+    }
+
+    clergymen = {
+        culture = punic
+        religion = placeholder
+        size = 14
+    }
+
+    artisans = {
+        culture = punic
+        religion = placeholder
+        size = 33
+    }
+
+    soldiers = {
+        culture = punic
+        religion = placeholder
+        size = 35
+    }
+
+    farmers = {
+        culture = punic
+        religion = placeholder
+        size = 1782
+    }
+
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 12
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 9
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 37
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 769
+    }
+
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 12
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 7
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 16
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 790
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 481
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 494
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 86
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 88
+    }
+}
+#Hagerstown (56000/14000 POPS)
+221 = {
+    aristocrats = {
+        culture = punic
+        religion = placeholder
+        size = 567
+    }
+
+    clergymen = {
+        culture = punic
+        religion = placeholder
+        size = 189
+    }
+
+    artisans = {
+        culture = punic
+        religion = placeholder
+        size = 1228
+    }
+
+    craftsmen = {
+        culture = punic
+        religion = placeholder
+        size = 1134
+    }
+
+    craftsmen = {
+        culture = punic
+        religion = placeholder
+        size = 17671
+    }
+
+    soldiers = {
+        culture = punic
+        religion = placeholder
+        size = 567
+    }
+
+    farmers = {
+        culture = punic
+        religion = placeholder
+        size = 26554
+    }
+
+    clergymen = {
+        culture = punic
+        religion = placeholder
+        size = 378
+    }
+
+    craftsmen = {
+        culture = punic
+        religion = placeholder
+        size = 378
+    }
+
+    artisans = {
+        culture = punic
+        religion = placeholder
+        size = 756
+    }
+
+    farmers = {
+        culture = punic
+        religion = placeholder
+        size = 59828
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 22680
+    }
+}

@@ -1,8 +1,0 @@
-owner = CAR
-controller = CAR
-add_core = CAR
-naval_base = 1
-colonial = 2
-trade_goods = fish
-life_rating = 35
-

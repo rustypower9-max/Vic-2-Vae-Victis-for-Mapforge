@@ -1,9 +1,0 @@
-owner = MAC
-controller = MAC
-add_core = MAC
-trade_goods = grain
-life_rating = 36
-1861.1.1 = {
-	remove_core = WAL
-}
-

@@ -1,0 +1,7 @@
+owner = KOR
+controller = KOR
+add_core = KOR
+add_core = JAP
+trade_goods = wool
+life_rating = 35
+

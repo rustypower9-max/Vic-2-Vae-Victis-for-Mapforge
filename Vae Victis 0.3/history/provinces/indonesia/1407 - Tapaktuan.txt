@@ -1,6 +1,0 @@
-owner = YEM
-controller = YEM
-trade_goods = tea
-life_rating = 30
-colonial = 2 
-
