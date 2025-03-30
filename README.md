@@ -1,6 +1,6 @@
 # Vic-2-Vae-Victis
 
-Current Release = 0.4 (Alpha Release, approaching stability but still unproven in MP. Recommended to wait until 1.0 if you want a stable experience)
+Current Release = 0.4.1 (Alpha Release, approaching stability but still unproven in MP. Recommended to wait until 1.0 if you want a stable experience)
 
 Based loosely on the 'Post Finem' Eu4 mod but with many changes.
 
