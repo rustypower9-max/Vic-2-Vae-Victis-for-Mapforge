@@ -39,6 +39,7 @@ Future plans and ideas:
 * Late game decisions to shake up the end game of a campaign such as Hellenic nations with the 'Diadochi' flag getting special CBs on states of Alexander's Empire. Can be enabled or disabled by Host Nation.
 * Replacement for the Liberal Revolt where Hellenic and Punic nations deal with a great 'religious awakening' of their subjects trying to preserve or return to their old traditions, with a few nations able to take advantage of this chaos and go down alternative paths (Such as Seleucia embracing Babylonian/Assyrian gods and building Ziggurats although abandoning their Diadochi claim if they do so.)
 * Reworks of some nations with placeholder content (Parthia for example) and finishing out Asia
+* Rework and rebalance of country laws and adding in a new Slavery System
 * Expanding upon LDA's colony system. Probably add ways to invest in your colony more
 * Adding navigable waterways in America, Kongo, China, etc.
 * Adding content for 6 optionally playable nations:
@@ -46,5 +47,3 @@ Future plans and ideas:
 	* Finland/Suomi
 	* Nephi/Lehi (yes this is Mormon LARP)
 	* Ammissae Legiones 
-	* Ashina Khaganate (Turkic China)
-	* Leland Commandery (Korea)
