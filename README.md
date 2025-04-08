@@ -22,7 +22,7 @@ General Changes:
     * Certain decisions with certain countries will either expand this bonus to other culture groups or give a targeted modifier to assimilate a single culture(s) that is often even stronger
     * Getting extra accepted by decisions is extremely rare, the most a country will ever have is 1 extra culture and they usually will start with it. Assimilation is the focus
 * Imported LDA's New World colony system and added a new colony you can set up East Africa (Zanzibar) instead of South Africa
-* Testing removing Mobilization buffs. Flat 2-4% the entire game since assimilation is a big focus instead of just growing your core pop group.
+* Mobilization now increases the Economic Impact of mobing which makes it more of a choice later in the game.
 * Most of Northern Europe is unciv although they get a temporary Army buff to help them resist colonization for the first 10 years.
 * Extra Decisions from LDA but now based per Country and Religion and they last like 3-4 years at least.
 * RGO changes. North europe nerfed and a lot of coal and sulphur moved to the 'civilized' world. 
