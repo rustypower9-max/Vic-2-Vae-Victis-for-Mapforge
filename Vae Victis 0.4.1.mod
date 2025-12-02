@@ -1,4 +1,4 @@
-name = "Vae Victis 0.4.1" 
+name = "Vae Victis for mapforge 0.4.1" 
 path = "mod/Vae Victis 0.4.1" 
 user_dir = "Vae Victis 0.4.1" 
 replace_path = "common"
