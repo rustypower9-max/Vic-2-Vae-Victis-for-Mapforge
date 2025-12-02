@@ -219,7 +219,7 @@ colonial_recruitment = {
 }
 
 baby_boom = {
-	population_growth = 0.001
+	population_growth = 0.002
 	icon = 19
 }
 
@@ -1506,7 +1506,7 @@ golden_age = {
 
 saxon_fury = {
 	research_points_on_conquer = 0.1
-	badboy = 0.04
+	badboy = 0.02
 	icon = 17
 }
 
@@ -1540,11 +1540,11 @@ prosperity = {
 parthian_centralization = {
 	prestige = 0.01
 	cb_generation_speed_modifier = -0.3
-	badboy = 0.1
+	badboy = 0.12
 	education_efficiency_modifier = 0.3
-	industry_tech_research_bonus = 0.15
+	industry_tech_research_bonus = 0.5
 	commerce_tech_research_bonus = 0.1
-	army_tech_research_bonus = 0.1
+	#army_tech_research_bonus = 0.1
 	navy_tech_research_bonus = 0.15
 	global_population_growth = 0.001
 	icon = 8

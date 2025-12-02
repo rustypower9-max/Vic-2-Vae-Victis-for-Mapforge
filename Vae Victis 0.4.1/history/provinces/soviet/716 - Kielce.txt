@@ -3,6 +3,6 @@ controller = KSH
 add_core = KSH
 trade_goods = sulphur
 
-life_rating = 35
+life_rating = 40
 1861.1.1 = { railroad = 3 }
 
