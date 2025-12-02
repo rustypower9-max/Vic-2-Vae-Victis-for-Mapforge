@@ -1298,7 +1298,7 @@ tribal_fury = {
 	land_organisation = 0.05
 	land_unit_start_experience = 10
 	supply_consumption = -0.15
-	mobilisation_size = 0.01
+	mobilisation_size = 0.02
 	icon = 15
 }
 
