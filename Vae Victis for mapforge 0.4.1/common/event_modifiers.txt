@@ -219,7 +219,7 @@ colonial_recruitment = {
 }
 
 baby_boom = {
-	population_growth = 0.001
+	population_growth = 0.002
 	icon = 19
 }
 
