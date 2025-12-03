@@ -1,0 +1,64 @@
+country_event = {
+
+	id = 77700
+
+	trigger = {
+		tag = EGY
+		year = 666	
+	}
+	
+	fire_only_once = yes
+ 
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	title = "Pharoah's Canal"
+	desc = "Ptolemy II completed and perfected the Canal of the Pharaohs, linking the Mediterranean and the Red Sea. This canal could only fall into disrepair upon a hypothetical conquest by Arabs, but such a silly event never happened..."
+	picture = "suez_canal"
+
+	option = {
+		name = "Excellent" 
+		enable_canal = 2
+		1755 = { set_province_flag = suez_canal }
+		prestige = 2
+		set_global_flag = suez_canal_built
+	}
+}
+
+country_event = {
+
+	id = 77701
+
+	trigger = {
+		tag = GHO
+		year = 666	
+	}
+	
+	fire_only_once = yes
+ 
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	title = "Ebin buildings"
+	desc = "Adds the initial buildings/'crimes' to provinces"
+	picture = "suez_canal"
+
+	option = {
+		name = "Excellent" 
+		1725 = { add_crime = grand_cothon }
+		1745 = { add_crime = memphite_pyramids }
+		1135 = { add_crime = tomb_of_cyrus }
+		1751 = { add_crime = library_of_alexandria }
+		781 = { add_crime = hall_of_pantheons }
+		454 = { add_crime = temple_of_tanit }
+		489 = { add_crime = mines_of_toleda }
+		298 = { add_crime = cadbury_castle } 
+		549 = { add_crime = grove_of_fetters }
+		3253 = { add_crime = city_of_spices }
+		1303 = { add_crime = city_of_spices }
+		1312 = { add_crime = city_of_spices }
+		3251 = { add_crime = city_of_spices }
+	}
+}

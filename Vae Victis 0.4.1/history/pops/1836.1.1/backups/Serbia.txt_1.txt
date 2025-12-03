@@ -1,0 +1,931 @@
+#Banat-Bacska Region (760000) #See Romania.txt and Croatia.txt for balance of region
+#under the rule of Austria in 1836
+#Mitrovica (108000/27000 POPS) #part of Serbia today
+791 = {
+    clergymen = {
+        culture = illyrian
+        religion = placeholder
+        size = 474
+    }
+
+    artisans = {
+        culture = illyrian
+        religion = placeholder
+        size = 787
+    }
+
+    soldiers = {
+        culture = illyrian
+        religion = placeholder
+        size = 726
+    }
+
+    farmers = {
+        culture = illyrian
+        religion = placeholder
+        size = 16421
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = placeholder
+        size = 18
+    }
+
+    artisans = {
+        culture = south_german
+        religion = placeholder
+        size = 84
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = placeholder
+        size = 36
+    }
+
+    farmers = {
+        culture = south_german
+        religion = placeholder
+        size = 1802
+    }
+
+    aristocrats = {
+        culture = illyrian
+        religion = placeholder
+        size = 789
+    }
+
+    clergymen = {
+        culture = illyrian
+        religion = placeholder
+        size = 60
+    }
+
+    artisans = {
+        culture = illyrian
+        religion = placeholder
+        size = 301
+    }
+
+    soldiers = {
+        culture = illyrian
+        religion = placeholder
+        size = 150
+    }
+
+    farmers = {
+        culture = illyrian
+        religion = placeholder
+        size = 6371
+    }
+
+    clergymen = {
+        culture = illyrian
+        religion = placeholder
+        size = 30
+    }
+
+    artisans = {
+        culture = illyrian
+        religion = placeholder
+        size = 80
+    }
+
+    soldiers = {
+        culture = illyrian
+        religion = placeholder
+        size = 30
+    }
+
+    farmers = {
+        culture = illyrian
+        religion = placeholder
+        size = 1477
+    }
+
+    aristocrats = {
+        culture = south_german
+        religion = placeholder
+        size = 120
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = placeholder
+        size = 20
+    }
+
+    artisans = {
+        culture = south_german
+        religion = placeholder
+        size = 140
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = placeholder
+        size = 45
+    }
+
+    farmers = {
+        culture = south_german
+        religion = placeholder
+        size = 2100
+    }
+}
+#Pancevo (268000/67000 POPS) #part of Serbia today
+792 = {
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 100
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 442
+    }
+
+    soldiers = {
+        culture = dacian
+        religion = placeholder
+        size = 180
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 9778
+    }
+
+    aristocrats = {
+        culture = south_german
+        religion = placeholder
+        size = 241
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = placeholder
+        size = 40
+    }
+
+    artisans = {
+        culture = south_german
+        religion = placeholder
+        size = 201
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = placeholder
+        size = 60
+    }
+
+    farmers = {
+        culture = south_german
+        religion = placeholder
+        size = 3497
+    }
+
+    aristocrats = {
+        culture = south_german
+        religion = placeholder
+        size = 442
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = placeholder
+        size = 80
+    }
+
+    artisans = {
+        culture = south_german
+        religion = placeholder
+        size = 442
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = placeholder
+        size = 120
+    }
+
+    farmers = {
+        culture = south_german
+        religion = placeholder
+        size = 7075
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = placeholder
+        size = 40
+    }
+
+    artisans = {
+        culture = south_german
+        religion = placeholder
+        size = 201
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = placeholder
+        size = 60
+    }
+
+    farmers = {
+        culture = south_german
+        religion = placeholder
+        size = 4140
+    }
+}
+#Novi Sad (384000/96000 POPS) #part of Serbia today
+2538 = {
+    officers = {
+        culture = dacian
+        religion = placeholder
+        size = 30
+    }
+
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 110
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 502
+    }
+
+    soldiers = {
+        culture = dacian
+        religion = placeholder
+        size = 180
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 10522
+    }
+
+    aristocrats = {
+        culture = south_german
+        religion = placeholder
+        size = 562
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = placeholder
+        size = 120
+    }
+
+    artisans = {
+        culture = south_german
+        religion = placeholder
+        size = 603
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = placeholder
+        size = 180
+    }
+
+    farmers = {
+        culture = south_german
+        religion = placeholder
+        size = 10653
+    }
+
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 30
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 100
+    }
+
+    soldiers = {
+        culture = dacian
+        religion = placeholder
+        size = 30
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 1859
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = placeholder
+        size = 30
+    }
+
+    artisans = {
+        culture = south_german
+        religion = placeholder
+        size = 180
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = placeholder
+        size = 60
+    }
+
+    farmers = {
+        culture = south_german
+        religion = placeholder
+        size = 3768
+    }
+
+    aristocrats = {
+        culture = south_german
+        religion = placeholder
+        size = 442
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = placeholder
+        size = 90
+    }
+
+    artisans = {
+        culture = south_german
+        religion = placeholder
+        size = 462
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = placeholder
+        size = 150
+    }
+
+    farmers = {
+        culture = south_german
+        religion = placeholder
+        size = 8190
+    }
+}
+#Serbia Region (1288000)
+#under the rule of Serbia in 1836
+#Belgrade (328000/82000 POPS)
+794 = {
+    aristocrats = {
+        culture = illyrian
+        religion = placeholder
+        size = 550
+    }
+
+    clergymen = {
+        culture = illyrian
+        religion = placeholder
+        size = 250
+    }
+
+    artisans = {
+        culture = illyrian
+        religion = placeholder
+        size = 1300
+    }
+
+    soldiers = {
+        culture = illyrian
+        religion = placeholder
+        size = 250
+    }
+
+    farmers = {
+        culture = illyrian
+        religion = placeholder
+        size = 23050
+    }
+
+    clergymen = {
+        culture = illyrian
+        religion = placeholder
+        size = 200
+    }
+
+    artisans = {
+        culture = illyrian
+        religion = placeholder
+        size = 1100
+    }
+
+    soldiers = {
+        culture = illyrian
+        religion = placeholder
+        size = 250
+    }
+
+    farmers = {
+        culture = illyrian
+        religion = placeholder
+        size = 20450
+    }
+}
+#Bor (220000/55000 POPS)
+795 = {
+    clergymen = {
+        culture = illyrian
+        religion = placeholder
+        size = 1100
+    }
+
+    artisans = {
+        culture = illyrian
+        religion = placeholder
+        size = 5500
+    }
+
+    soldiers = {
+        culture = illyrian
+        religion = placeholder
+        size = 12200
+    }
+
+    farmers = {
+        culture = illyrian
+        religion = placeholder
+        size = 101400
+    }
+}
+#Kragujevac (188000/47000 POPS)
+796 = {
+    clergymen = {
+        culture = illyrian
+        religion = placeholder
+        size = 900
+    }
+
+    artisans = {
+        culture = illyrian
+        religion = placeholder
+        size = 4700
+    }
+
+    soldiers = {
+        culture = illyrian
+        religion = placeholder
+        size = 6600
+    }
+
+    farmers = {
+        culture = illyrian
+        religion = placeholder
+        size = 86400
+    }
+}
+#Uzice (72000/18000 POPS)
+797 = {
+    clergymen = {
+        culture = illyrian
+        religion = placeholder
+        size = 350
+    }
+
+    artisans = {
+        culture = illyrian
+        religion = placeholder
+        size = 1800
+    }
+
+    soldiers = {
+        culture = illyrian
+        religion = placeholder
+        size = 6600
+    }
+
+    farmers = {
+        culture = illyrian
+        religion = placeholder
+        size = 31850
+    }
+}
+#under the rule of Ottoman Empire in 1836
+#Nis (260000/65000 POPS)
+798 = {
+    clergymen = {
+        culture = illyrian
+        religion = placeholder
+        size = 540
+    }
+
+    artisans = {
+        culture = illyrian
+        religion = placeholder
+        size = 2400
+    }
+
+    soldiers = {
+        culture = illyrian
+        religion = placeholder
+        size = 2400
+    }
+
+    farmers = {
+        culture = illyrian
+        religion = placeholder
+        size = 57060
+    }
+
+    clergymen = {
+        culture = hellene
+        religion = placeholder
+        size = 60
+    }
+
+    artisans = {
+        culture = hellene
+        religion = placeholder
+        size = 180
+    }
+
+    farmers = {
+        culture = hellene
+        religion = placeholder
+        size = 4560
+    }
+
+    aristocrats = {
+        culture = hellene
+        religion = placeholder
+        size = 1410
+    }
+
+    bureaucrats = {
+        culture = hellene
+        religion = placeholder
+        size = 900
+    }
+
+    officers = {
+        culture = hellene
+        religion = placeholder
+        size = 180
+    }
+
+    clergymen = {
+        culture = hellene
+        religion = placeholder
+        size = 90
+    }
+
+    artisans = {
+        culture = hellene
+        religion = placeholder
+        size = 3600
+    }
+
+    soldiers = {
+        culture = hellene
+        religion = placeholder
+        size = 120
+    }
+
+    farmers = {
+        culture = hellene
+        religion = placeholder
+        size = 5340
+    }
+}
+#Leskovac (220000/55000 POPS)
+799 = {
+    clergymen = {
+        culture = illyrian
+        religion = placeholder
+        size = 390
+    }
+
+    artisans = {
+        culture = illyrian
+        religion = placeholder
+        size = 1800
+    }
+
+    soldiers = {
+        culture = illyrian
+        religion = placeholder
+        size = 150
+    }
+
+    farmers = {
+        culture = illyrian
+        religion = placeholder
+        size = 47040
+    }
+
+    clergymen = {
+        culture = hellene
+        religion = placeholder
+        size = 60
+    }
+
+    artisans = {
+        culture = hellene
+        religion = placeholder
+        size = 300
+    }
+
+    farmers = {
+        culture = hellene
+        religion = placeholder
+        size = 9660
+    }
+
+    aristocrats = {
+        culture = hellene
+        religion = placeholder
+        size = 1020
+    }
+
+    clergymen = {
+        culture = hellene
+        religion = placeholder
+        size = 90
+    }
+
+    artisans = {
+        culture = hellene
+        religion = placeholder
+        size = 3000
+    }
+
+    soldiers = {
+        culture = hellene
+        religion = placeholder
+        size = 1920
+    }
+
+    farmers = {
+        culture = hellene
+        religion = placeholder
+        size = 3690
+    }
+}
+#Kosovo-Sanjak Region (466000)
+#under the rule of Ottoman Empire in 1836
+#Pristina (208000/52000 POPS)
+802 = {
+    clergymen = {
+        culture = illyrian
+        religion = placeholder
+        size = 240
+    }
+
+    artisans = {
+        culture = illyrian
+        religion = placeholder
+        size = 1080
+    }
+
+    soldiers = {
+        culture = illyrian
+        religion = placeholder
+        size = 300
+    }
+
+    farmers = {
+        culture = illyrian
+        religion = placeholder
+        size = 27180
+    }
+
+    aristocrats = {
+        culture = hellene
+        religion = placeholder
+        size = 1020
+    }
+
+    bureaucrats = {
+        culture = hellene
+        religion = placeholder
+        size = 900
+    }
+
+    officers = {
+        culture = hellene
+        religion = placeholder
+        size = 180
+    }
+
+    clergymen = {
+        culture = hellene
+        religion = placeholder
+        size = 60
+    }
+
+    artisans = {
+        culture = hellene
+        religion = placeholder
+        size = 2400
+    }
+
+    farmers = {
+        culture = hellene
+        religion = placeholder
+        size = 3480
+    }
+
+    clergymen = {
+        culture = illyrian
+        religion = placeholder
+        size = 240
+    }
+
+    artisans = {
+        culture = illyrian
+        religion = placeholder
+        size = 1320
+    }
+
+    soldiers = {
+        culture = illyrian
+        religion = placeholder
+        size = 480
+    }
+
+    farmers = {
+        culture = illyrian
+        religion = placeholder
+        size = 24600
+    }
+}
+#Prizren (186000/46000 POPS)
+803 = {
+    clergymen = {
+        culture = illyrian
+        religion = placeholder
+        size = 120
+    }
+
+    artisans = {
+        culture = illyrian
+        religion = placeholder
+        size = 720
+    }
+
+    soldiers = {
+        culture = illyrian
+        religion = placeholder
+        size = 120
+    }
+
+    farmers = {
+        culture = illyrian
+        religion = placeholder
+        size = 18000
+    }
+
+    aristocrats = {
+        culture = hellene
+        religion = placeholder
+        size = 900
+    }
+
+    clergymen = {
+        culture = hellene
+        religion = placeholder
+        size = 60
+    }
+
+    artisans = {
+        culture = hellene
+        religion = placeholder
+        size = 2100
+    }
+
+    soldiers = {
+        culture = hellene
+        religion = placeholder
+        size = 120
+    }
+
+    farmers = {
+        culture = hellene
+        religion = placeholder
+        size = 6180
+    }
+
+    clergymen = {
+        culture = illyrian
+        religion = placeholder
+        size = 240
+    }
+
+    artisans = {
+        culture = illyrian
+        religion = placeholder
+        size = 1320
+    }
+
+    soldiers = {
+        culture = illyrian
+        religion = placeholder
+        size = 480
+    }
+
+    farmers = {
+        culture = illyrian
+        religion = placeholder
+        size = 29100
+    }
+
+    clergymen = {
+        culture = hellene
+        religion = placeholder
+        size = 90
+    }
+
+    artisans = {
+        culture = hellene
+        religion = placeholder
+        size = 120
+    }
+
+    farmers = {
+        culture = hellene
+        religion = placeholder
+        size = 2190
+    }
+}
+#Novi Pazar (72000/18000 POPS)
+804 = {
+    clergymen = {
+        culture = illyrian
+        religion = placeholder
+        size = 400
+    }
+
+    artisans = {
+        culture = illyrian
+        religion = placeholder
+        size = 1600
+    }
+
+    soldiers = {
+        culture = illyrian
+        religion = placeholder
+        size = 1600
+    }
+
+    farmers = {
+        culture = illyrian
+        religion = placeholder
+        size = 100400
+    }
+
+    aristocrats = {
+        culture = illyrian
+        religion = placeholder
+        size = 1000
+    }
+
+    aristocrats = {
+        culture = hellene
+        religion = placeholder
+        size = 1000
+    }
+
+    clergymen = {
+        culture = hellene
+        religion = placeholder
+        size = 200
+    }
+
+    artisans = {
+        culture = hellene
+        religion = placeholder
+        size = 4000
+    }
+
+    soldiers = {
+        culture = hellene
+        religion = placeholder
+        size = 1400
+    }
+
+    farmers = {
+        culture = hellene
+        religion = placeholder
+        size = 40200
+    }
+}

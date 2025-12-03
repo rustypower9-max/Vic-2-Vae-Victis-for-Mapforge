@@ -1,0 +1,11 @@
+add_core = CSA
+
+
+trade_goods = fruit
+life_rating = 25
+1861.1.1 = {
+	colony = 0
+	
+	
+	add_core = CSA
+}

@@ -1,0 +1,16 @@
+add_core = CSA
+
+
+trade_goods = tobacco
+life_rating = 25
+1861.1.1 = {
+	
+	
+	add_core = CSA
+	#state_building = {
+	#	level = 1
+	#	building = regular_clothes_factory
+	#	upgrade = yes
+	#}
+}
+

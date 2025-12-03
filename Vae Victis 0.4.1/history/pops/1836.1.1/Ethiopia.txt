@@ -1,0 +1,2107 @@
+#Abyssinia Region (2172000)
+#under the rule of Ethiopia in 1836
+#Gonder (452000/113000 POPS)
+1852 = {
+    aristocrats = {
+        culture = aksum
+        religion = placeholder
+        size = 1500
+    }
+
+    bureaucrats = {
+        culture = aksum
+        religion = placeholder
+        size = 650
+    }
+
+    officers = {
+        culture = aksum
+        religion = placeholder
+        size = 300
+    }
+
+    clergymen = {
+        culture = aksum
+        religion = placeholder
+        size = 825
+    }
+
+    artisans = {
+        culture = aksum
+        religion = placeholder
+        size = 4050
+    }
+
+    soldiers = {
+        culture = aksum
+        religion = placeholder
+        size = 1100
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 65000
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 7840
+    }
+
+    aristocrats = {
+        culture = aksum
+        religion = placeholder
+        size = 50
+    }
+
+    clergymen = {
+        culture = aksum
+        religion = placeholder
+        size = 75
+    }
+
+    artisans = {
+        culture = aksum
+        religion = placeholder
+        size = 250
+    }
+
+    soldiers = {
+        culture = aksum
+        religion = placeholder
+        size = 25
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 2600
+    }
+
+    aristocrats = {
+        culture = yamnat
+        religion = placeholder
+        size = 550
+    }
+
+    officers = {
+        culture = yamnat
+        religion = placeholder
+        size = 250
+    }
+
+    clergymen = {
+        culture = yamnat
+        religion = placeholder
+        size = 275
+    }
+
+    artisans = {
+        culture = yamnat
+        religion = placeholder
+        size = 1175
+    }
+
+    soldiers = {
+        culture = yamnat
+        religion = placeholder
+        size = 300
+    }
+
+    farmers = {
+        culture = yamnat
+        religion = placeholder
+        size = 20450
+    }
+
+    craftsmen = {
+        culture = yamnat
+        religion = placeholder
+        size = 5960
+    }
+
+    bureaucrats = {
+        culture = aksum
+        religion = placeholder
+        size = 640
+    }
+
+    bureaucrats = {
+        culture = yamnat
+        religion = placeholder
+        size = 160
+    }
+}
+#Debre Tabor (468000/117000 POPS)
+1853 = {
+    aristocrats = {
+        culture = aksum
+        religion = placeholder
+        size = 1100
+    }
+
+    clergymen = {
+        culture = aksum
+        religion = placeholder
+        size = 500
+    }
+
+    artisans = {
+        culture = aksum
+        religion = placeholder
+        size = 2050
+    }
+
+    soldiers = {
+        culture = aksum
+        religion = placeholder
+        size = 1100
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 39450
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 6860
+    }
+
+    aristocrats = {
+        culture = yamnat
+        religion = placeholder
+        size = 1300
+    }
+
+    clergymen = {
+        culture = yamnat
+        religion = placeholder
+        size = 675
+    }
+
+    artisans = {
+        culture = yamnat
+        religion = placeholder
+        size = 2750
+    }
+
+    soldiers = {
+        culture = yamnat
+        religion = placeholder
+        size = 675
+    }
+
+    farmers = {
+        culture = yamnat
+        religion = placeholder
+        size = 48600
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 11760
+    }
+
+    bureaucrats = {
+        culture = yamnat
+        religion = placeholder
+        size = 560
+    }
+
+    bureaucrats = {
+        culture = aksum
+        religion = placeholder
+        size = 960
+    }
+}
+#Matamma (464000/116000 POPS)
+1854 = {
+    aristocrats = {
+        culture = yamnat
+        religion = placeholder
+        size = 1025
+    }
+
+    clergymen = {
+        culture = yamnat
+        religion = placeholder
+        size = 525
+    }
+
+    artisans = {
+        culture = yamnat
+        religion = placeholder
+        size = 2100
+    }
+
+    soldiers = {
+        culture = yamnat
+        religion = placeholder
+        size = 1100
+    }
+
+    farmers = {
+        culture = yamnat
+        religion = placeholder
+        size = 43350
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 3920
+    }
+
+    aristocrats = {
+        culture = aksum
+        religion = placeholder
+        size = 100
+    }
+
+    clergymen = {
+        culture = aksum
+        religion = placeholder
+        size = 75
+    }
+
+    artisans = {
+        culture = aksum
+        religion = placeholder
+        size = 550
+    }
+
+    soldiers = {
+        culture = aksum
+        religion = placeholder
+        size = 100
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 8175
+    }
+
+    aristocrats = {
+        culture = aksum
+        religion = placeholder
+        size = 1050
+    }
+
+    clergymen = {
+        culture = aksum
+        religion = placeholder
+        size = 550
+    }
+
+    artisans = {
+        culture = aksum
+        religion = placeholder
+        size = 2225
+    }
+
+    soldiers = {
+        culture = aksum
+        religion = placeholder
+        size = 550
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 46600
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 3920
+    }
+
+    bureaucrats = {
+        culture = aksum
+        religion = placeholder
+        size = 320
+    }
+
+    bureaucrats = {
+        culture = aksum
+        religion = placeholder
+        size = 320
+    }
+}
+#Debre Markos (788000/197000 POPS)
+1855 = {
+    aristocrats = {
+        culture = yamnat
+        religion = placeholder
+        size = 1050
+    }
+
+    clergymen = {
+        culture = yamnat
+        religion = placeholder
+        size = 550
+    }
+
+    artisans = {
+        culture = yamnat
+        religion = placeholder
+        size = 2200
+    }
+
+    soldiers = {
+        culture = yamnat
+        religion = placeholder
+        size = 1100
+    }
+
+    farmers = {
+        culture = yamnat
+        religion = placeholder
+        size = 44200
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 4900
+    }
+
+    aristocrats = {
+        culture = aksum
+        religion = placeholder
+        size = 2800
+    }
+
+    clergymen = {
+        culture = aksum
+        religion = placeholder
+        size = 1425
+    }
+
+    artisans = {
+        culture = aksum
+        religion = placeholder
+        size = 5725
+    }
+
+    soldiers = {
+        culture = aksum
+        religion = placeholder
+        size = 4025
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 122025
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 6860
+    }
+
+    bureaucrats = {
+        culture = aksum
+        religion = placeholder
+        size = 400
+    }
+
+    bureaucrats = {
+        culture = aksum
+        religion = placeholder
+        size = 560
+    }
+}
+#Tigray Region (316000)
+#under the rule of Ethiopia in 1836
+#Aksum (140000/35000 POPS)
+1856 = {
+    aristocrats = {
+        culture = aksum
+        religion = placeholder
+        size = 1575
+    }
+
+    bureaucrats = {
+        culture = aksum
+        religion = placeholder
+        size = 1100
+    }
+
+    officers = {
+        culture = aksum
+        religion = placeholder
+        size = 150
+    }
+
+    clergymen = {
+        culture = aksum
+        religion = placeholder
+        size = 1300
+    }
+
+    artisans = {
+        culture = aksum
+        religion = placeholder
+        size = 11250
+    }
+
+    soldiers = {
+        culture = aksum
+        religion = placeholder
+        size = 1100
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 21775
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 14900
+    }
+
+    aristocrats = {
+        culture = yamnat
+        religion = placeholder
+        size = 350
+    }
+
+    officers = {
+        culture = yamnat
+        religion = placeholder
+        size = 325
+    }
+
+    clergymen = {
+        culture = yamnat
+        religion = placeholder
+        size = 350
+    }
+
+    artisans = {
+        culture = yamnat
+        religion = placeholder
+        size = 3200
+    }
+
+    soldiers = {
+        culture = yamnat
+        religion = placeholder
+        size = 50
+    }
+
+    farmers = {
+        culture = yamnat
+        religion = placeholder
+        size = 13625
+    }
+
+    farmers = {
+        culture = yamnat
+        religion = placeholder
+        size = 11078
+    }
+
+    bureaucrats = {
+        culture = aksum
+        religion = placeholder
+        size = 400
+    }
+
+    bureaucrats = {
+        culture = aksum
+        religion = placeholder
+        size = 88
+    }
+}
+#Antalo (128000/32000 POPS)
+1857 = {
+    aristocrats = {
+        culture = aksum
+        religion = placeholder
+        size = 500
+    }
+
+    clergymen = {
+        culture = aksum
+        religion = placeholder
+        size = 250
+    }
+
+    artisans = {
+        culture = aksum
+        religion = placeholder
+        size = 1050
+    }
+
+    soldiers = {
+        culture = aksum
+        religion = placeholder
+        size = 1100
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 18200
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 4900
+    }
+
+    aristocrats = {
+        culture = yamnat
+        religion = placeholder
+        size = 100
+    }
+
+    clergymen = {
+        culture = yamnat
+        religion = placeholder
+        size = 75
+    }
+
+    artisans = {
+        culture = yamnat
+        religion = placeholder
+        size = 300
+    }
+
+    soldiers = {
+        culture = yamnat
+        religion = placeholder
+        size = 50
+    }
+
+    farmers = {
+        culture = yamnat
+        religion = placeholder
+        size = 5475
+    }
+
+    bureaucrats = {
+        culture = aksum
+        religion = placeholder
+        size = 400
+    }
+}
+#Awsa (48000/12000 POPS)
+1858 = {
+    aristocrats = {
+        culture = aksum
+        religion = placeholder
+        size = 225
+    }
+
+    clergymen = {
+        culture = aksum
+        religion = placeholder
+        size = 125
+    }
+
+    artisans = {
+        culture = aksum
+        religion = placeholder
+        size = 500
+    }
+
+    soldiers = {
+        culture = aksum
+        religion = placeholder
+        size = 125
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 9025
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 1960
+    }
+
+    bureaucrats = {
+        culture = aksum
+        religion = placeholder
+        size = 160
+    }
+}
+#Shoa Region (2068000)
+#under the rule of Ethiopia in 1836
+#Ankober (1236000/309000 POPS)
+1859 = {
+    aristocrats = {
+        culture = aksum
+        religion = placeholder
+        size = 4650
+    }
+
+    bureaucrats = {
+        culture = aksum
+        religion = placeholder
+        size = 450
+    }
+
+    officers = {
+        culture = aksum
+        religion = placeholder
+        size = 275
+    }
+
+    clergymen = {
+        culture = aksum
+        religion = placeholder
+        size = 2375
+    }
+
+    artisans = {
+        culture = aksum
+        religion = placeholder
+        size = 9500
+    }
+
+    soldiers = {
+        culture = aksum
+        religion = placeholder
+        size = 10000
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 20975
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 8820
+    }
+
+    aristocrats = {
+        culture = aksum
+        religion = placeholder
+        size = 1350
+    }
+
+    bureaucrats = {
+        culture = aksum
+        religion = placeholder
+        size = 150
+    }
+
+    officers = {
+        culture = aksum
+        religion = placeholder
+        size = 250
+    }
+
+    clergymen = {
+        culture = aksum
+        religion = placeholder
+        size = 725
+    }
+
+    artisans = {
+        culture = aksum
+        religion = placeholder
+        size = 2875
+    }
+
+    soldiers = {
+        culture = aksum
+        religion = placeholder
+        size = 725
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 42075
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 23520
+    }
+
+    bureaucrats = {
+        culture = aksum
+        religion = placeholder
+        size = 720
+    }
+
+    bureaucrats = {
+        culture = aksum
+        religion = placeholder
+        size = 1920
+    }
+}
+#Awasa (448000/112000 POPS)
+1860 = {
+    aristocrats = {
+        culture = aksum
+        religion = placeholder
+        size = 925
+    }
+
+    clergymen = {
+        culture = aksum
+        religion = placeholder
+        size = 475
+    }
+
+    artisans = {
+        culture = aksum
+        religion = placeholder
+        size = 1900
+    }
+
+    soldiers = {
+        culture = aksum
+        religion = placeholder
+        size = 475
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 40225
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 2940
+    }
+
+    aristocrats = {
+        culture = aksum
+        religion = placeholder
+        size = 1325
+    }
+
+    clergymen = {
+        culture = aksum
+        religion = placeholder
+        size = 675
+    }
+
+    artisans = {
+        culture = aksum
+        religion = placeholder
+        size = 2725
+    }
+
+    soldiers = {
+        culture = aksum
+        religion = placeholder
+        size = 1075
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 53300
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 8820
+    }
+
+    bureaucrats = {
+        culture = aksum
+        religion = placeholder
+        size = 240
+    }
+
+    bureaucrats = {
+        culture = aksum
+        religion = placeholder
+        size = 720
+    }
+}
+#Aselia (384000/96000POPS)
+1861 = {
+    aristocrats = {
+        culture = aksum
+        religion = placeholder
+        size = 600
+    }
+
+    clergymen = {
+        culture = aksum
+        religion = placeholder
+        size = 300
+    }
+
+    artisans = {
+        culture = aksum
+        religion = placeholder
+        size = 1250
+    }
+
+    soldiers = {
+        culture = aksum
+        religion = placeholder
+        size = 325
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 26525
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 1960
+    }
+
+    aristocrats = {
+        culture = aksum
+        religion = placeholder
+        size = 1250
+    }
+
+    clergymen = {
+        culture = aksum
+        religion = placeholder
+        size = 650
+    }
+
+    artisans = {
+        culture = aksum
+        religion = placeholder
+        size = 2650
+    }
+
+    soldiers = {
+        culture = aksum
+        religion = placeholder
+        size = 650
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 49800
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 9800
+    }
+
+    bureaucrats = {
+        culture = aksum
+        religion = placeholder
+        size = 160
+    }
+
+    bureaucrats = {
+        culture = aksum
+        religion = placeholder
+        size = 800
+    }
+}
+#Sidamo-Welega Region (1628000)
+#under the "rule" of Ethiopia in 1836
+#Bonga (368000/92000 POPS)
+1862 = {
+    aristocrats = {
+        culture = aksum
+        religion = placeholder
+        size = 1800
+    }
+
+    clergymen = {
+        culture = aksum
+        religion = placeholder
+        size = 925
+    }
+
+    artisans = {
+        culture = aksum
+        religion = placeholder
+        size = 3650
+    }
+
+    soldiers = {
+        culture = aksum
+        religion = placeholder
+        size = 925
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 71700
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 12740
+    }
+
+    bureaucrats = {
+        culture = aksum
+        religion = placeholder
+        size = 1040
+    }
+}
+#Asosa (540000/135000 POPS)
+1863 = {
+    aristocrats = {
+        culture = aksum
+        religion = placeholder
+        size = 450
+    }
+
+    clergymen = {
+        culture = aksum
+        religion = placeholder
+        size = 250
+    }
+
+    artisans = {
+        culture = aksum
+        religion = placeholder
+        size = 1100
+    }
+
+    soldiers = {
+        culture = aksum
+        religion = placeholder
+        size = 250
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 18050
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 4900
+    }
+
+    aristocrats = {
+        culture = aksum
+        religion = placeholder
+        size = 1350
+    }
+
+    clergymen = {
+        culture = aksum
+        religion = placeholder
+        size = 725
+    }
+
+    artisans = {
+        culture = aksum
+        religion = placeholder
+        size = 2875
+    }
+
+    soldiers = {
+        culture = aksum
+        religion = placeholder
+        size = 725
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 49725
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 41748
+    }
+
+    aristocrats = {
+        culture = aksum
+        religion = placeholder
+        size = 750
+    }
+
+    clergymen = {
+        culture = aksum
+        religion = placeholder
+        size = 375
+    }
+
+    artisans = {
+        culture = aksum
+        religion = placeholder
+        size = 1900
+    }
+
+    soldiers = {
+        culture = aksum
+        religion = placeholder
+        size = 375
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 34600
+    }
+
+    bureaucrats = {
+        culture = aksum
+        religion = placeholder
+        size = 400
+    }
+
+    bureaucrats = {
+        culture = aksum
+        religion = placeholder
+        size = 3408
+    }
+}
+#Negele (720000/180000 POPS)
+1864 = {
+    aristocrats = {
+        culture = aksum
+        religion = placeholder
+        size = 416
+    }
+
+    clergymen = {
+        culture = aksum
+        religion = placeholder
+        size = 214
+    }
+
+    artisans = {
+        culture = aksum
+        religion = placeholder
+        size = 881
+    }
+
+    soldiers = {
+        culture = aksum
+        religion = placeholder
+        size = 214
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 16838
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 6860
+    }
+
+    aristocrats = {
+        culture = aksum
+        religion = placeholder
+        size = 1249
+    }
+
+    clergymen = {
+        culture = aksum
+        religion = placeholder
+        size = 393
+    }
+
+    artisans = {
+        culture = aksum
+        religion = placeholder
+        size = 2547
+    }
+
+    soldiers = {
+        culture = aksum
+        religion = placeholder
+        size = 643
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 49433
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 18620
+    }
+
+    aristocrats = {
+        culture = aksum
+        religion = placeholder
+        size = 216
+    }
+
+    clergymen = {
+        culture = aksum
+        religion = placeholder
+        size = 111
+    }
+
+    artisans = {
+        culture = aksum
+        religion = placeholder
+        size = 456
+    }
+
+    soldiers = {
+        culture = aksum
+        religion = placeholder
+        size = 111
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 8716
+    }
+
+    aristocrats = {
+        culture = aksum
+        religion = placeholder
+        size = 647
+    }
+
+    clergymen = {
+        culture = aksum
+        religion = placeholder
+        size = 203
+    }
+
+    artisans = {
+        culture = aksum
+        religion = placeholder
+        size = 1318
+    }
+
+    soldiers = {
+        culture = aksum
+        religion = placeholder
+        size = 332
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 25588
+    }
+
+    aristocrats = {
+        culture = aksum
+        religion = placeholder
+        size = 268
+    }
+
+    clergymen = {
+        culture = aksum
+        religion = placeholder
+        size = 138
+    }
+
+    artisans = {
+        culture = aksum
+        religion = placeholder
+        size = 565
+    }
+
+    soldiers = {
+        culture = aksum
+        religion = placeholder
+        size = 138
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 10825
+    }
+
+    aristocrats = {
+        culture = aksum
+        religion = placeholder
+        size = 804
+    }
+
+    clergymen = {
+        culture = aksum
+        religion = placeholder
+        size = 252
+    }
+
+    artisans = {
+        culture = aksum
+        religion = placeholder
+        size = 1636
+    }
+
+    soldiers = {
+        culture = aksum
+        religion = placeholder
+        size = 412
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 31777
+    }
+
+    aristocrats = {
+        culture = aksum
+        religion = placeholder
+        size = 138
+    }
+
+    clergymen = {
+        culture = aksum
+        religion = placeholder
+        size = 70
+    }
+
+    artisans = {
+        culture = aksum
+        religion = placeholder
+        size = 292
+    }
+
+    soldiers = {
+        culture = aksum
+        religion = placeholder
+        size = 70
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 5604
+    }
+
+    aristocrats = {
+        culture = aksum
+        religion = placeholder
+        size = 415
+    }
+
+    clergymen = {
+        culture = aksum
+        religion = placeholder
+        size = 130
+    }
+
+    artisans = {
+        culture = aksum
+        religion = placeholder
+        size = 847
+    }
+
+    soldiers = {
+        culture = aksum
+        religion = placeholder
+        size = 214
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 16450
+    }
+
+    bureaucrats = {
+        culture = aksum
+        religion = placeholder
+        size = 560
+    }
+
+    bureaucrats = {
+        culture = aksum
+        religion = placeholder
+        size = 1520
+    }
+}
+#Ogaden Region (786000)
+#under the "rule" of Ethiopia in 1836
+#Harer (384000/96000 POPS)
+1865 = {
+    aristocrats = {
+        culture = aksum
+        religion = placeholder
+        size = 800
+    }
+
+    bureaucrats = {
+        culture = aksum
+        religion = placeholder
+        size = 30
+    }
+
+    officers = {
+        culture = aksum
+        religion = placeholder
+        size = 10
+    }
+
+    clergymen = {
+        culture = aksum
+        religion = placeholder
+        size = 425
+    }
+
+    artisans = {
+        culture = aksum
+        religion = placeholder
+        size = 1675
+    }
+
+    soldiers = {
+        culture = aksum
+        religion = placeholder
+        size = 400
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 25675
+    }
+
+    aristocrats = {
+        culture = aksum
+        religion = placeholder
+        size = 225
+    }
+
+    clergymen = {
+        culture = aksum
+        religion = placeholder
+        size = 125
+    }
+
+    artisans = {
+        culture = aksum
+        religion = placeholder
+        size = 525
+    }
+
+    soldiers = {
+        culture = aksum
+        religion = placeholder
+        size = 125
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 1200
+    }
+
+    aristocrats = {
+        culture = aksum
+        religion = placeholder
+        size = 850
+    }
+
+    clergymen = {
+        culture = aksum
+        religion = placeholder
+        size = 425
+    }
+
+    artisans = {
+        culture = aksum
+        religion = placeholder
+        size = 2150
+    }
+
+    soldiers = {
+        culture = aksum
+        religion = placeholder
+        size = 425
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 39350
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 10780
+    }
+
+    bureaucrats = {
+        culture = aksum
+        religion = placeholder
+        size = 880
+    }
+}
+#uncolonized in 1836}
+#Goba (296000/74000 POPS)
+1866 = {
+    aristocrats = {
+        culture = aksum
+        religion = placeholder
+        size = 238
+    }
+
+    clergymen = {
+        culture = aksum
+        religion = placeholder
+        size = 131
+    }
+
+    artisans = {
+        culture = aksum
+        religion = placeholder
+        size = 512
+    }
+
+    soldiers = {
+        culture = aksum
+        religion = placeholder
+        size = 131
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 9460
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 4900
+    }
+
+    aristocrats = {
+        culture = aksum
+        religion = placeholder
+        size = 297
+    }
+
+    clergymen = {
+        culture = aksum
+        religion = placeholder
+        size = 155
+    }
+
+    artisans = {
+        culture = aksum
+        religion = placeholder
+        size = 762
+    }
+
+    soldiers = {
+        culture = aksum
+        religion = placeholder
+        size = 155
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 13911
+    }
+
+    aristocrats = {
+        culture = aksum
+        religion = placeholder
+        size = 131
+    }
+
+    clergymen = {
+        culture = aksum
+        religion = placeholder
+        size = 71
+    }
+
+    artisans = {
+        culture = aksum
+        religion = placeholder
+        size = 357
+    }
+
+    soldiers = {
+        culture = aksum
+        religion = placeholder
+        size = 71
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 6509
+    }
+
+    aristocrats = {
+        culture = aksum
+        religion = placeholder
+        size = 123
+    }
+
+    clergymen = {
+        culture = aksum
+        religion = placeholder
+        size = 67
+    }
+
+    artisans = {
+        culture = aksum
+        religion = placeholder
+        size = 265
+    }
+
+    soldiers = {
+        culture = aksum
+        religion = placeholder
+        size = 67
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 4897
+    }
+
+    aristocrats = {
+        culture = aksum
+        religion = placeholder
+        size = 154
+    }
+
+    clergymen = {
+        culture = aksum
+        religion = placeholder
+        size = 80
+    }
+
+    artisans = {
+        culture = aksum
+        religion = placeholder
+        size = 394
+    }
+
+    soldiers = {
+        culture = aksum
+        religion = placeholder
+        size = 80
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 7201
+    }
+
+    aristocrats = {
+        culture = aksum
+        religion = placeholder
+        size = 67
+    }
+
+    clergymen = {
+        culture = aksum
+        religion = placeholder
+        size = 36
+    }
+
+    artisans = {
+        culture = aksum
+        religion = placeholder
+        size = 185
+    }
+
+    soldiers = {
+        culture = aksum
+        religion = placeholder
+        size = 36
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 3369
+    }
+
+    aristocrats = {
+        culture = aksum
+        religion = placeholder
+        size = 153
+    }
+
+    clergymen = {
+        culture = aksum
+        religion = placeholder
+        size = 84
+    }
+
+    artisans = {
+        culture = aksum
+        religion = placeholder
+        size = 328
+    }
+
+    soldiers = {
+        culture = aksum
+        religion = placeholder
+        size = 84
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 6082
+    }
+
+    aristocrats = {
+        culture = aksum
+        religion = placeholder
+        size = 192
+    }
+
+    clergymen = {
+        culture = aksum
+        religion = placeholder
+        size = 99
+    }
+
+    artisans = {
+        culture = aksum
+        religion = placeholder
+        size = 489
+    }
+
+    soldiers = {
+        culture = aksum
+        religion = placeholder
+        size = 99
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 8943
+    }
+
+    aristocrats = {
+        culture = aksum
+        religion = placeholder
+        size = 84
+    }
+
+    clergymen = {
+        culture = aksum
+        religion = placeholder
+        size = 46
+    }
+
+    artisans = {
+        culture = aksum
+        religion = placeholder
+        size = 229
+    }
+
+    soldiers = {
+        culture = aksum
+        religion = placeholder
+        size = 46
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 4185
+    }
+
+    aristocrats = {
+        culture = aksum
+        religion = placeholder
+        size = 79
+    }
+
+    clergymen = {
+        culture = aksum
+        religion = placeholder
+        size = 43
+    }
+
+    artisans = {
+        culture = aksum
+        religion = placeholder
+        size = 169
+    }
+
+    soldiers = {
+        culture = aksum
+        religion = placeholder
+        size = 43
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 3148
+    }
+
+    aristocrats = {
+        culture = aksum
+        religion = placeholder
+        size = 99
+    }
+
+    clergymen = {
+        culture = aksum
+        religion = placeholder
+        size = 51
+    }
+
+    artisans = {
+        culture = aksum
+        religion = placeholder
+        size = 253
+    }
+
+    soldiers = {
+        culture = aksum
+        religion = placeholder
+        size = 51
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 4629
+    }
+
+    aristocrats = {
+        culture = aksum
+        religion = placeholder
+        size = 43
+    }
+
+    clergymen = {
+        culture = aksum
+        religion = placeholder
+        size = 24
+    }
+
+    artisans = {
+        culture = aksum
+        religion = placeholder
+        size = 118
+    }
+
+    soldiers = {
+        culture = aksum
+        religion = placeholder
+        size = 24
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 2166
+    }
+
+    bureaucrats = {
+        culture = aksum
+        religion = placeholder
+        size = 400
+    }
+}
+#Werder (328000/82000 POPS)
+1867 = {
+    aristocrats = {
+        culture = aksum
+        religion = placeholder
+        size = 131
+    }
+
+    clergymen = {
+        culture = aksum
+        religion = placeholder
+        size = 71
+    }
+
+    artisans = {
+        culture = aksum
+        religion = placeholder
+        size = 357
+    }
+
+    soldiers = {
+        culture = aksum
+        religion = placeholder
+        size = 71
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 6509
+    }
+
+    aristocrats = {
+        culture = aksum
+        religion = placeholder
+        size = 619
+    }
+
+    clergymen = {
+        culture = aksum
+        religion = placeholder
+        size = 369
+    }
+
+    artisans = {
+        culture = aksum
+        religion = placeholder
+        size = 1273
+    }
+
+    soldiers = {
+        culture = aksum
+        religion = placeholder
+        size = 321
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 27501
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 3920
+    }
+
+    aristocrats = {
+        culture = aksum
+        religion = placeholder
+        size = 67
+    }
+
+    clergymen = {
+        culture = aksum
+        religion = placeholder
+        size = 36
+    }
+
+    artisans = {
+        culture = aksum
+        religion = placeholder
+        size = 185
+    }
+
+    soldiers = {
+        culture = aksum
+        religion = placeholder
+        size = 36
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 3369
+    }
+
+    aristocrats = {
+        culture = aksum
+        religion = placeholder
+        size = 320
+    }
+
+    clergymen = {
+        culture = aksum
+        religion = placeholder
+        size = 190
+    }
+
+    artisans = {
+        culture = aksum
+        religion = placeholder
+        size = 659
+    }
+
+    soldiers = {
+        culture = aksum
+        religion = placeholder
+        size = 166
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 14235
+    }
+
+    aristocrats = {
+        culture = aksum
+        religion = placeholder
+        size = 84
+    }
+
+    clergymen = {
+        culture = aksum
+        religion = placeholder
+        size = 46
+    }
+
+    artisans = {
+        culture = aksum
+        religion = placeholder
+        size = 229
+    }
+
+    soldiers = {
+        culture = aksum
+        religion = placeholder
+        size = 46
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 4185
+    }
+
+    aristocrats = {
+        culture = aksum
+        religion = placeholder
+        size = 397
+    }
+
+    clergymen = {
+        culture = aksum
+        religion = placeholder
+        size = 237
+    }
+
+    artisans = {
+        culture = aksum
+        religion = placeholder
+        size = 819
+    }
+
+    soldiers = {
+        culture = aksum
+        religion = placeholder
+        size = 207
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 17679
+    }
+
+    aristocrats = {
+        culture = aksum
+        religion = placeholder
+        size = 43
+    }
+
+    clergymen = {
+        culture = aksum
+        religion = placeholder
+        size = 24
+    }
+
+    artisans = {
+        culture = aksum
+        religion = placeholder
+        size = 118
+    }
+
+    soldiers = {
+        culture = aksum
+        religion = placeholder
+        size = 24
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 2166
+    }
+
+    aristocrats = {
+        culture = aksum
+        religion = placeholder
+        size = 205
+    }
+
+    clergymen = {
+        culture = aksum
+        religion = placeholder
+        size = 123
+    }
+
+    artisans = {
+        culture = aksum
+        religion = placeholder
+        size = 423
+    }
+
+    soldiers = {
+        culture = aksum
+        religion = placeholder
+        size = 106
+    }
+
+    farmers = {
+        culture = aksum
+        religion = placeholder
+        size = 9151
+    }
+
+    bureaucrats = {
+        culture = aksum
+        religion = placeholder
+        size = 320
+    }
+}

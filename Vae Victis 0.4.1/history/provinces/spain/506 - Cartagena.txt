@@ -1,0 +1,11 @@
+owner = TRT
+controller = TRT
+add_core = TRT
+trade_goods = coal
+life_rating = 40
+1861.1.1 = { 
+	naval_base = 3
+}
+
+
+

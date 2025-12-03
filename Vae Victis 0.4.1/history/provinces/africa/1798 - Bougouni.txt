@@ -1,0 +1,7 @@
+owner = HNB
+controller = HNB
+add_core = HNB
+trade_goods = cattle
+life_rating = 35
+ 
+ 

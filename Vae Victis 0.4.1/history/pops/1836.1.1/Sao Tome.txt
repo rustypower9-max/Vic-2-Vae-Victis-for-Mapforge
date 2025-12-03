@@ -1,0 +1,64 @@
+#Sao Tome e Principe (16000)
+#Under Portuguese Rule 1836
+#Sao Tome (16000/4000 POPS)
+1954 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 20
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 5
+    }
+
+    bureaucrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 25
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 5
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 5
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 30
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 120
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 60
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 330
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 2070
+    }
+}

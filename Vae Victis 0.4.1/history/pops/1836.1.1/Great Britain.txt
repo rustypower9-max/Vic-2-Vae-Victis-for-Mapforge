@@ -1,0 +1,2326 @@
+#Tayside-Highlands Region : 864000
+#Aberdeen (172000/43000 POPS)
+266 = {
+    farmers = {
+        culture = pict
+        religion = placeholder
+        size = 1340
+    }
+
+    aristocrats = {
+        culture = pict
+        religion = placeholder
+        size = 67
+    }
+
+    officers = {
+        culture = pict
+        religion = placeholder
+        size = 335
+    }
+
+    soldiers = {
+        culture = pict
+        religion = placeholder
+        size = 1100
+    }
+
+    artisans = {
+        culture = pict
+        religion = placeholder
+        size = 5628
+    }
+
+    labourers = {
+        culture = pict
+        religion = placeholder
+        size = 20770
+    }
+}
+#Inverness (328000/82000 POPS)
+267 = {
+    aristocrats = {
+        culture = pict
+        religion = placeholder
+        size = 134
+    }
+
+    clergymen = {
+        culture = pict
+        religion = placeholder
+        size = 167
+    }
+
+    soldiers = {
+        culture = pict
+        religion = placeholder
+        size = 2000
+    }
+
+    artisans = {
+        culture = pict
+        religion = placeholder
+        size = 2680
+    }
+
+    farmers = {
+        culture = pict
+        religion = placeholder
+        size = 50618
+    }
+}
+#Dundee (364000/91000 POPS)
+268 = {
+    aristocrats = {
+        culture = pict
+        religion = placeholder
+        size = 201
+    }
+
+    bureaucrats = {
+        culture = pict
+        religion = placeholder
+        size = 1675
+    }
+
+    artisans = {
+        culture = pict
+        religion = placeholder
+        size = 5360
+    }
+
+    soldiers = {
+        culture = pict
+        religion = placeholder
+        size = 2000
+    }
+
+    farmers = {
+        culture = pict
+        religion = placeholder
+        size = 52394
+    }
+}
+#Strathclyde-Lothian Region : 1632000
+#Edinburgh (480000/120000 POPS)
+269 = {
+    aristocrats = {
+        culture = pict
+        religion = placeholder
+        size = 500
+    }
+
+    officers = {
+        culture = pict
+        religion = placeholder
+        size = 1100
+    }
+
+    clergymen = {
+        culture = pict
+        religion = placeholder
+        size = 375
+    }
+
+    capitalists = {
+        culture = pict
+        religion = placeholder
+        size = 550
+    }
+
+    bureaucrats = {
+        culture = pict
+        religion = placeholder
+        size = 5500
+    }
+
+    labourers = {
+        culture = pict
+        religion = placeholder
+        size = 400
+    }
+
+    labourers = {
+        culture = pict
+        religion = placeholder
+        size = 4000
+    }
+
+    artisans = {
+        culture = pict
+        religion = placeholder
+        size = 10000
+    }
+
+    artisans = {
+        culture = pict
+        religion = placeholder
+        size = 6000
+    }
+
+    soldiers = {
+        culture = pict
+        religion = placeholder
+        size = 2000
+    }
+
+    farmers = {
+        culture = pict
+        religion = placeholder
+        size = 57175
+    }
+
+    clergymen = {
+        culture = pict
+        religion = placeholder
+        size = 100
+    }
+
+    labourers = {
+        culture = pict
+        religion = placeholder
+        size = 1500
+    }
+
+    artisans = {
+        culture = pict
+        religion = placeholder
+        size = 5000
+    }
+
+    farmers = {
+        culture = pict
+        religion = placeholder
+        size = 26400
+    }
+
+    craftsmen = {
+        culture = norse
+        religion = placeholder
+        size = 100
+    }
+
+    artisans = {
+        culture = norse
+        religion = placeholder
+        size = 1000
+    }
+}
+#Stirling (364000/91000 POPS)
+270 = {
+    aristocrats = {
+        culture = pict
+        religion = placeholder
+        size = 134
+    }
+
+    clergymen = {
+        culture = pict
+        religion = placeholder
+        size = 134
+    }
+
+    artisans = {
+        culture = pict
+        religion = placeholder
+        size = 4355
+    }
+
+    soldiers = {
+        culture = pict
+        religion = placeholder
+        size = 1100
+    }
+
+    farmers = {
+        culture = pict
+        religion = placeholder
+        size = 52997
+    }
+
+    farmers = {
+        culture = pict
+        religion = placeholder
+        size = 2680
+    }
+}
+#Glasgow (620000/155000 POPS)
+271 = {
+    aristocrats = {
+        culture = pict
+        religion = placeholder
+        size = 335
+    }
+
+    clergymen = {
+        culture = pict
+        religion = placeholder
+        size = 335
+    }
+
+    clerks = {
+        culture = pict
+        religion = placeholder
+        size = 569
+    }
+
+    craftsmen = {
+        culture = pict
+        religion = placeholder
+        size = 9045
+    }
+
+    artisans = {
+        culture = pict
+        religion = placeholder
+        size = 6700
+    }
+
+    artisans = {
+        culture = pict
+        religion = placeholder
+        size = 6700
+    }
+
+    soldiers = {
+        culture = pict
+        religion = placeholder
+        size = 4000
+    }
+
+    farmers = {
+        culture = pict
+        religion = placeholder
+        size = 58725
+    }
+
+    clergymen = {
+        culture = pict
+        religion = placeholder
+        size = 67
+    }
+
+    farmers = {
+        culture = pict
+        religion = placeholder
+        size = 3283
+    }
+
+    craftsmen = {
+        culture = hibernian
+        religion = placeholder
+        size = 6700
+    }
+
+    artisans = {
+        culture = hibernian
+        religion = placeholder
+        size = 6700
+    }
+
+    artisans = {
+        culture = hibernian
+        religion = placeholder
+        size = 1340
+    }
+}
+#Dumfries (168000/42000 POPS)
+272 = {
+    aristocrats = {
+        culture = pict
+        religion = placeholder
+        size = 67
+    }
+
+    clergymen = {
+        culture = pict
+        religion = placeholder
+        size = 67
+    }
+
+    artisans = {
+        culture = pict
+        religion = placeholder
+        size = 2680
+    }
+
+    farmers = {
+        culture = pict
+        religion = placeholder
+        size = 22646
+    }
+
+    farmers = {
+        culture = pict
+        religion = placeholder
+        size = 3350
+    }
+}
+# Wales Region : 970000
+#Cardiff (380000/95000 POPS)
+273 = {
+    aristocrats = {
+        culture = hibernian
+        religion = placeholder
+        size = 600
+    }
+
+    farmers = {
+        culture = hibernian
+        religion = placeholder
+        size = 120
+    }
+
+    bureaucrats = {
+        culture = hibernian
+        religion = placeholder
+        size = 3750
+    }
+
+    officers = {
+        culture = hibernian
+        religion = placeholder
+        size = 420
+    }
+
+    clergymen = {
+        culture = hibernian
+        religion = placeholder
+        size = 450
+    }
+
+    farmers = {
+        culture = hibernian
+        religion = placeholder
+        size = 300
+    }
+
+    farmers = {
+        culture = hibernian
+        religion = placeholder
+        size = 6120
+    }
+
+    artisans = {
+        culture = briton
+        religion = placeholder
+        size = 3960
+    }
+
+    soldiers = {
+        culture = hibernian
+        religion = placeholder
+        size = 1660
+    }
+
+    labourers = {
+        culture = briton
+        religion = placeholder
+        size = 100800
+    }
+}
+#Cardigan (168000/42000 POPS)
+274 = {
+    aristocrats = {
+        culture = hibernian
+        religion = placeholder
+        size = 300
+    }
+
+    clergymen = {
+        culture = hibernian
+        religion = placeholder
+        size = 150
+    }
+
+    soldiers = {
+        culture = hibernian
+        religion = placeholder
+        size = 1660
+    }
+
+    artisans = {
+        culture = hibernian
+        religion = placeholder
+        size = 2400
+    }
+
+    farmers = {
+        culture = briton
+        religion = placeholder
+        size = 40350
+    }
+
+    farmers = {
+        culture = briton
+        religion = placeholder
+        size = 6350
+    }
+}
+#Llandrindod (182000/45500 POPS)
+275 = {
+    aristocrats = {
+        culture = hibernian
+        religion = placeholder
+        size = 300
+    }
+
+    clergymen = {
+        culture = hibernian
+        religion = placeholder
+        size = 300
+    }
+
+    soldiers = {
+        culture = hibernian
+        religion = placeholder
+        size = 1300
+    }
+
+    artisans = {
+        culture = hibernian
+        religion = placeholder
+        size = 2700
+    }
+
+    farmers = {
+        culture = briton
+        religion = placeholder
+        size = 40700
+    }
+
+    farmers = {
+        culture = hibernian
+        religion = placeholder
+        size = 10000
+    }
+}
+#Holyhead (240000/60000 POPS)
+276 = {
+    aristocrats = {
+        culture = hibernian
+        religion = placeholder
+        size = 300
+    }
+
+    clergymen = {
+        culture = hibernian
+        religion = placeholder
+        size = 300
+    }
+
+    soldiers = {
+        culture = hibernian
+        religion = placeholder
+        size = 1450
+    }
+
+    farmers = {
+        culture = hibernian
+        religion = placeholder
+        size = 180
+    }
+
+    farmers = {
+        culture = hibernian
+        religion = placeholder
+        size = 4920
+    }
+
+    artisans = {
+        culture = hibernian
+        religion = placeholder
+        size = 3720
+    }
+
+    farmers = {
+        culture = briton
+        religion = placeholder
+        size = 61800
+    }
+}
+#Lancashire Region : 1896000
+#Liverpool (936000/234000 POPS)
+277 = {
+    aristocrats = {
+        culture = briton
+        religion = placeholder
+        size = 442
+    }
+
+    officers = {
+        culture = briton
+        religion = placeholder
+        size = 201
+    }
+
+    bureaucrats = {
+        culture = briton
+        religion = placeholder
+        size = 2311
+    }
+
+    clergymen = {
+        culture = briton
+        religion = placeholder
+        size = 442
+    }
+
+    farmers = {
+        culture = briton
+        religion = placeholder
+        size = 502
+    }
+
+    farmers = {
+        culture = briton
+        religion = placeholder
+        size = 703
+    }
+
+    farmers = {
+        culture = briton
+        religion = placeholder
+        size = 12060
+    }
+
+    artisans = {
+        culture = briton
+        religion = placeholder
+        size = 4020
+    }
+
+    artisans = {
+        culture = briton
+        religion = placeholder
+        size = 4020
+    }
+
+    artisans = {
+        culture = briton
+        religion = placeholder
+        size = 1005
+    }
+
+    soldiers = {
+        culture = briton
+        religion = placeholder
+        size = 1800
+    }
+
+    labourers = {
+        culture = briton
+        religion = placeholder
+        size = 55817
+    }
+
+    clergymen = {
+        culture = briton
+        religion = placeholder
+        size = 20
+    }
+
+    farmers = {
+        culture = briton
+        religion = placeholder
+        size = 442
+    }
+
+    artisans = {
+        culture = briton
+        religion = placeholder
+        size = 603
+    }
+
+    labourers = {
+        culture = briton
+        religion = placeholder
+        size = 2592
+    }
+
+    clergymen = {
+        culture = pict
+        religion = placeholder
+        size = 83
+    }
+
+    farmers = {
+        culture = pict
+        religion = placeholder
+        size = 1507
+    }
+
+    artisans = {
+        culture = pict
+        religion = placeholder
+        size = 6700
+    }
+
+    artisans = {
+        culture = pict
+        religion = placeholder
+        size = 2512
+    }
+
+    farmers = {
+        culture = pict
+        religion = placeholder
+        size = 5276
+    }
+}
+#Manchester (744000/186000 POPS)
+278 = {
+    aristocrats = {
+        culture = briton
+        religion = placeholder
+        size = 603
+    }
+
+    clergymen = {
+        culture = briton
+        religion = placeholder
+        size = 442
+    }
+
+    farmers = {
+        culture = briton
+        religion = placeholder
+        size = 623
+    }
+
+    farmers = {
+        culture = briton
+        religion = placeholder
+        size = 9849
+    }
+
+    artisans = {
+        culture = briton
+        religion = placeholder
+        size = 4020
+    }
+
+    artisans = {
+        culture = briton
+        religion = placeholder
+        size = 2050
+    }
+
+    soldiers = {
+        culture = briton
+        religion = placeholder
+        size = 2400
+    }
+
+    labourers = {
+        culture = briton
+        religion = placeholder
+        size = 50390
+    }
+
+    clergymen = {
+        culture = briton
+        religion = placeholder
+        size = 30
+    }
+
+    farmers = {
+        culture = briton
+        religion = placeholder
+        size = 20
+    }
+
+    farmers = {
+        culture = briton
+        religion = placeholder
+        size = 201
+    }
+
+    labourers = {
+        culture = briton
+        religion = placeholder
+        size = 3336
+    }
+
+    farmers = {
+        culture = pict
+        religion = placeholder
+        size = 670
+    }
+
+    artisans = {
+        culture = pict
+        religion = placeholder
+        size = 670
+    }
+
+    labourers = {
+        culture = pict
+        religion = placeholder
+        size = 1390
+    }
+}
+#Carlisle (216000/54000 POPS)
+279 = {
+    aristocrats = {
+        culture = briton
+        religion = placeholder
+        size = 100
+    }
+
+    clergymen = {
+        culture = briton
+        religion = placeholder
+        size = 100
+    }
+
+    artisans = {
+        culture = briton
+        religion = placeholder
+        size = 1608
+    }
+
+    soldiers = {
+        culture = briton
+        religion = placeholder
+        size = 300
+    }
+
+    farmers = {
+        culture = briton
+        religion = placeholder
+        size = 18492
+    }
+
+    farmers = {
+        culture = briton
+        religion = placeholder
+        size = 804
+    }
+
+    artisans = {
+        culture = pict
+        religion = placeholder
+        size = 502
+    }
+
+    farmers = {
+        culture = pict
+        religion = placeholder
+        size = 167
+    }
+}
+#Yorkshire-Northumbria Region : 2190000
+#Newcastle-upon-Tyne (552000/138000 POPS)
+280 = {
+    aristocrats = {
+        culture = pict
+        religion = placeholder
+        size = 670
+    }
+
+    clergymen = {
+        culture = pict
+        religion = placeholder
+        size = 502
+    }
+
+    labourers = {
+        culture = pict
+        religion = placeholder
+        size = 268
+    }
+
+    labourers = {
+        culture = pict
+        religion = placeholder
+        size = 7370
+    }
+
+    artisans = {
+        culture = pict
+        religion = placeholder
+        size = 6700
+    }
+
+    artisans = {
+        culture = pict
+        religion = placeholder
+        size = 1608
+    }
+
+    soldiers = {
+        culture = pict
+        religion = placeholder
+        size = 1500
+    }
+
+    labourers = {
+        culture = pict
+        religion = placeholder
+        size = 71723
+    }
+
+    craftsmen = {
+        culture = norse
+        religion = placeholder
+        size = 134
+    }
+
+    labourers = {
+        culture = norse
+        religion = placeholder
+        size = 2546
+    }
+}
+#Hull (512000/128000 POPS)
+281 = {
+    aristocrats = {
+        culture = briton
+        religion = placeholder
+        size = 442
+    }
+
+    clergymen = {
+        culture = briton
+        religion = placeholder
+        size = 301
+    }
+
+    artisans = {
+        culture = briton
+        religion = placeholder
+        size = 4020
+    }
+
+    artisans = {
+        culture = briton
+        religion = placeholder
+        size = 522
+    }
+
+    farmers = {
+        culture = briton
+        religion = placeholder
+        size = 1527
+    }
+
+    soldiers = {
+        culture = briton
+        religion = placeholder
+        size = 660
+    }
+
+    labourers = {
+        culture = briton
+        religion = placeholder
+        size = 40662
+    }
+
+    farmers = {
+        culture = briton
+        religion = placeholder
+        size = 80
+    }
+
+    labourers = {
+        culture = briton
+        religion = placeholder
+        size = 1929
+    }
+}
+#Leeds (468000/117000 POPS)
+282 = {
+    aristocrats = {
+        culture = briton
+        religion = placeholder
+        size = 221
+    }
+
+    clergymen = {
+        culture = briton
+        religion = placeholder
+        size = 251
+    }
+
+    farmers = {
+        culture = briton
+        religion = placeholder
+        size = 160
+    }
+
+    farmers = {
+        culture = briton
+        religion = placeholder
+        size = 3457
+    }
+
+    artisans = {
+        culture = briton
+        religion = placeholder
+        size = 4020
+    }
+
+    artisans = {
+        culture = briton
+        religion = placeholder
+        size = 1025
+    }
+
+    soldiers = {
+        culture = briton
+        religion = placeholder
+        size = 750
+    }
+
+    labourers = {
+        culture = briton
+        religion = placeholder
+        size = 36190
+    }
+
+    farmers = {
+        culture = briton
+        religion = placeholder
+        size = 40
+    }
+
+    farmers = {
+        culture = briton
+        religion = placeholder
+        size = 1567
+    }
+}
+#Sheffield (658000/164500 POPS)
+283 = {
+    aristocrats = {
+        culture = briton
+        religion = placeholder
+        size = 743
+    }
+
+    officers = {
+        culture = briton
+        religion = placeholder
+        size = 502
+    }
+
+    bureaucrats = {
+        culture = briton
+        religion = placeholder
+        size = 2512
+    }
+
+    officers = {
+        culture = briton
+        religion = placeholder
+        size = 442
+    }
+
+    clergymen = {
+        culture = briton
+        religion = placeholder
+        size = 351
+    }
+
+    farmers = {
+        culture = briton
+        religion = placeholder
+        size = 201
+    }
+
+    farmers = {
+        culture = briton
+        religion = placeholder
+        size = 5829
+    }
+
+    artisans = {
+        culture = briton
+        religion = placeholder
+        size = 4020
+    }
+
+    artisans = {
+        culture = briton
+        religion = placeholder
+        size = 944
+    }
+
+    soldiers = {
+        culture = briton
+        religion = placeholder
+        size = 900
+    }
+
+    labourers = {
+        culture = briton
+        religion = placeholder
+        size = 58420
+    }
+
+    farmers = {
+        culture = briton
+        religion = placeholder
+        size = 80
+    }
+
+    farmers = {
+        culture = briton
+        religion = placeholder
+        size = 1527
+    }
+}
+#West Midlands Region : 1760000
+#Birmingham (644000/161000 POPS)
+284 = {
+    aristocrats = {
+        culture = briton
+        religion = placeholder
+        size = 267
+    }
+
+    officers = {
+        culture = briton
+        religion = placeholder
+        size = 267
+    }
+
+    bureaucrats = {
+        culture = briton
+        religion = placeholder
+        size = 3007
+    }
+
+    farmers = {
+        culture = briton
+        religion = placeholder
+        size = 186
+    }
+
+    clergymen = {
+        culture = briton
+        religion = placeholder
+        size = 333
+    }
+
+    farmers = {
+        culture = briton
+        religion = placeholder
+        size = 1657
+    }
+
+    farmers = {
+        culture = briton
+        religion = placeholder
+        size = 9089
+    }
+
+    artisans = {
+        culture = briton
+        religion = placeholder
+        size = 4811
+    }
+
+    soldiers = {
+        culture = briton
+        religion = placeholder
+        size = 2394
+    }
+
+    labourers = {
+        culture = briton
+        religion = placeholder
+        size = 65173
+    }
+
+    farmers = {
+        culture = briton
+        religion = placeholder
+        size = 106
+    }
+
+    farmers = {
+        culture = briton
+        religion = placeholder
+        size = 480
+    }
+
+    farmers = {
+        culture = pict
+        religion = placeholder
+        size = 1782
+    }
+
+    farmers = {
+        culture = pict
+        religion = placeholder
+        size = 891
+    }
+}
+#Chester (368000/92000 POPS)
+285 = {
+    aristocrats = {
+        culture = briton
+        religion = placeholder
+        size = 301
+    }
+
+    clergymen = {
+        culture = briton
+        religion = placeholder
+        size = 251
+    }
+
+    artisans = {
+        culture = briton
+        religion = placeholder
+        size = 2010
+    }
+
+    soldiers = {
+        culture = briton
+        religion = placeholder
+        size = 660
+    }
+
+    labourers = {
+        culture = briton
+        religion = placeholder
+        size = 33215
+    }
+
+    farmers = {
+        culture = briton
+        religion = placeholder
+        size = 442
+    }
+
+    artisans = {
+        culture = pict
+        religion = placeholder
+        size = 737
+    }
+}
+#Shrewsbury (316000/79000 POPS)
+286 = {
+    aristocrats = {
+        culture = briton
+        religion = placeholder
+        size = 201
+    }
+
+    clergymen = {
+        culture = briton
+        religion = placeholder
+        size = 150
+    }
+
+    farmers = {
+        culture = briton
+        religion = placeholder
+        size = 904
+    }
+
+    artisans = {
+        culture = briton
+        religion = placeholder
+        size = 2412
+    }
+
+    soldiers = {
+        culture = briton
+        religion = placeholder
+        size = 660
+    }
+
+    labourers = {
+        culture = briton
+        religion = placeholder
+        size = 27687
+    }
+}
+#Coventry (432000/108000 POPS)
+287 = {
+    aristocrats = {
+        culture = briton
+        religion = placeholder
+        size = 442
+    }
+
+    clergymen = {
+        culture = briton
+        religion = placeholder
+        size = 201
+    }
+
+    farmers = {
+        culture = briton
+        religion = placeholder
+        size = 442
+    }
+
+    farmers = {
+        culture = briton
+        religion = placeholder
+        size = 3417
+    }
+
+    artisans = {
+        culture = briton
+        religion = placeholder
+        size = 2010
+    }
+
+    soldiers = {
+        culture = briton
+        religion = placeholder
+        size = 660
+    }
+
+    labourers = {
+        culture = briton
+        religion = placeholder
+        size = 36582
+    }
+}
+#East Midlands Region : 1224000
+#Nottingham (484000/121000 POPS)
+288 = {
+    aristocrats = {
+        culture = briton
+        religion = placeholder
+        size = 301
+    }
+
+    officers = {
+        culture = briton
+        religion = placeholder
+        size = 442
+    }
+
+    bureaucrats = {
+        culture = briton
+        religion = placeholder
+        size = 1507
+    }
+
+    clergymen = {
+        culture = briton
+        religion = placeholder
+        size = 201
+    }
+
+    farmers = {
+        culture = briton
+        religion = placeholder
+        size = 40
+    }
+
+    farmers = {
+        culture = briton
+        religion = placeholder
+        size = 80
+    }
+
+    farmers = {
+        culture = briton
+        religion = placeholder
+        size = 2814
+    }
+
+    artisans = {
+        culture = briton
+        religion = placeholder
+        size = 2814
+    }
+
+    soldiers = {
+        culture = briton
+        religion = placeholder
+        size = 660
+    }
+
+    labourers = {
+        culture = briton
+        religion = placeholder
+        size = 39275
+    }
+
+    farmers = {
+        culture = briton
+        religion = placeholder
+        size = 201
+    }
+
+    farmers = {
+        culture = briton
+        religion = placeholder
+        size = 1809
+    }
+}
+#Leicester (404000/101000 POPS)
+289 = {
+    aristocrats = {
+        culture = briton
+        religion = placeholder
+        size = 133
+    }
+
+    clergymen = {
+        culture = briton
+        religion = placeholder
+        size = 199
+    }
+
+    farmers = {
+        culture = briton
+        religion = placeholder
+        size = 66
+    }
+
+    farmers = {
+        culture = briton
+        religion = placeholder
+        size = 1322
+    }
+
+    artisans = {
+        culture = briton
+        religion = placeholder
+        size = 4009
+    }
+
+    soldiers = {
+        culture = briton
+        religion = placeholder
+        size = 877
+    }
+
+    labourers = {
+        culture = briton
+        religion = placeholder
+        size = 47731
+    }
+}
+#Lincoln (336000/84000 POPS)
+290 = {
+    aristocrats = {
+        culture = briton
+        religion = placeholder
+        size = 201
+    }
+
+    clergymen = {
+        culture = briton
+        religion = placeholder
+        size = 201
+    }
+
+    farmers = {
+        culture = briton
+        religion = placeholder
+        size = 603
+    }
+
+    artisans = {
+        culture = briton
+        religion = placeholder
+        size = 2010
+    }
+
+    soldiers = {
+        culture = briton
+        religion = placeholder
+        size = 660
+    }
+
+    labourers = {
+        culture = briton
+        religion = placeholder
+        size = 30351
+    }
+}
+#East Anglia Region : 1260000
+#Cambridge (308000/77000 POPS)
+291 = {
+    aristocrats = {
+        culture = briton
+        religion = placeholder
+        size = 201
+    }
+
+    officers = {
+        culture = briton
+        religion = placeholder
+        size = 100
+    }
+
+    bureaucrats = {
+        culture = briton
+        religion = placeholder
+        size = 1507
+    }
+
+    clergymen = {
+        culture = briton
+        religion = placeholder
+        size = 201
+    }
+
+    farmers = {
+        culture = briton
+        religion = placeholder
+        size = 40
+    }
+
+    farmers = {
+        culture = briton
+        religion = placeholder
+        size = 1206
+    }
+
+    artisans = {
+        culture = briton
+        religion = placeholder
+        size = 2211
+    }
+
+    soldiers = {
+        culture = briton
+        religion = placeholder
+        size = 660
+    }
+
+    labourers = {
+        culture = briton
+        religion = placeholder
+        size = 27537
+    }
+}
+#Ipswich (676000/169000 POPS)
+292 = {
+    aristocrats = {
+        culture = briton
+        religion = placeholder
+        size = 603
+    }
+
+    clergymen = {
+        culture = briton
+        religion = placeholder
+        size = 442
+    }
+
+    farmers = {
+        culture = briton
+        religion = placeholder
+        size = 40
+    }
+
+    farmers = {
+        culture = briton
+        religion = placeholder
+        size = 2412
+    }
+
+    artisans = {
+        culture = briton
+        religion = placeholder
+        size = 3376
+    }
+
+    soldiers = {
+        culture = briton
+        religion = placeholder
+        size = 900
+    }
+
+    labourers = {
+        culture = briton
+        religion = placeholder
+        size = 60501
+    }
+}
+#Chelmsford (276000/69000 POPS)
+293 = {
+    aristocrats = {
+        culture = briton
+        religion = placeholder
+        size = 201
+    }
+
+    clergymen = {
+        culture = briton
+        religion = placeholder
+        size = 150
+    }
+
+    farmers = {
+        culture = briton
+        religion = placeholder
+        size = 20
+    }
+
+    farmers = {
+        culture = briton
+        religion = placeholder
+        size = 402
+    }
+
+    artisans = {
+        culture = briton
+        religion = placeholder
+        size = 3015
+    }
+
+    soldiers = {
+        culture = briton
+        religion = placeholder
+        size = 900
+    }
+
+    labourers = {
+        culture = briton
+        religion = placeholder
+        size = 22542
+    }
+
+    labourers = {
+        culture = briton
+        religion = placeholder
+        size = 804
+    }
+}
+#Oxfordshire/Buckinghamshire Region : 616000
+#294 : Oxford (304000/76000 POPS)
+294 = {
+    aristocrats = {
+        culture = briton
+        religion = placeholder
+        size = 301
+    }
+
+    officers = {
+        culture = briton
+        religion = placeholder
+        size = 100
+    }
+
+    bureaucrats = {
+        culture = briton
+        religion = placeholder
+        size = 753
+    }
+
+    clergymen = {
+        culture = briton
+        religion = placeholder
+        size = 201
+    }
+
+    artisans = {
+        culture = briton
+        religion = placeholder
+        size = 2211
+    }
+
+    farmers = {
+        culture = briton
+        religion = placeholder
+        size = 201
+    }
+
+    soldiers = {
+        culture = briton
+        religion = placeholder
+        size = 900
+    }
+
+    labourers = {
+        culture = briton
+        religion = placeholder
+        size = 26783
+    }
+}
+#St. Albans (312000/78000 POPS)
+295 = {
+    aristocrats = {
+        culture = briton
+        religion = placeholder
+        size = 301
+    }
+
+    clergymen = {
+        culture = briton
+        religion = placeholder
+        size = 201
+    }
+
+    artisans = {
+        culture = briton
+        religion = placeholder
+        size = 1407
+    }
+
+    farmers = {
+        culture = briton
+        religion = placeholder
+        size = 201
+    }
+
+    soldiers = {
+        culture = briton
+        religion = placeholder
+        size = 660
+    }
+
+    labourers = {
+        culture = briton
+        religion = placeholder
+        size = 28843
+    }
+}
+#Cornwall-Dorset Region : 2032000
+#Bristol (404000/101000 POPS)
+296 = {
+    aristocrats = {
+        culture = briton
+        religion = placeholder
+        size = 201
+    }
+
+    officers = {
+        culture = briton
+        religion = placeholder
+        size = 201
+    }
+
+    bureaucrats = {
+        culture = briton
+        religion = placeholder
+        size = 2512
+    }
+
+    clergymen = {
+        culture = briton
+        religion = placeholder
+        size = 251
+    }
+
+    farmers = {
+        culture = briton
+        religion = placeholder
+        size = 100
+    }
+
+    farmers = {
+        culture = briton
+        religion = placeholder
+        size = 643
+    }
+
+    farmers = {
+        culture = briton
+        religion = placeholder
+        size = 6030
+    }
+
+    artisans = {
+        culture = briton
+        religion = placeholder
+        size = 4020
+    }
+
+    artisans = {
+        culture = briton
+        religion = placeholder
+        size = 1608
+    }
+
+    soldiers = {
+        culture = briton
+        religion = placeholder
+        size = 660
+    }
+
+    labourers = {
+        culture = briton
+        religion = placeholder
+        size = 25838
+    }
+
+    farmers = {
+        culture = briton
+        religion = placeholder
+        size = 804
+    }
+}
+#Salisbury (408000/102000 POPS)
+297 = {
+    aristocrats = {
+        culture = briton
+        religion = placeholder
+        size = 442
+    }
+
+    clergymen = {
+        culture = briton
+        religion = placeholder
+        size = 251
+    }
+
+    farmers = {
+        culture = briton
+        religion = placeholder
+        size = 1608
+    }
+
+    artisans = {
+        culture = briton
+        religion = placeholder
+        size = 2010
+    }
+
+    soldiers = {
+        culture = briton
+        religion = placeholder
+        size = 660
+    }
+
+    labourers = {
+        culture = briton
+        religion = placeholder
+        size = 36330
+    }
+}
+#Bath (408000/102000 POPS)
+298 = {
+    aristocrats = {
+        culture = briton
+        religion = placeholder
+        size = 301
+    }
+
+    clergymen = {
+        culture = briton
+        religion = placeholder
+        size = 251
+    }
+
+    farmers = {
+        culture = briton
+        religion = placeholder
+        size = 2010
+    }
+
+    artisans = {
+        culture = briton
+        religion = placeholder
+        size = 4020
+    }
+
+    artisans = {
+        culture = briton
+        religion = placeholder
+        size = 402
+    }
+
+    soldiers = {
+        culture = briton
+        religion = placeholder
+        size = 660
+    }
+
+    labourers = {
+        culture = briton
+        religion = placeholder
+        size = 33617
+    }
+}
+#Plymouth (812000/203000 POPS)
+299 = {
+    aristocrats = {
+        culture = briton
+        religion = placeholder
+        size = 603
+    }
+
+    clergymen = {
+        culture = briton
+        religion = placeholder
+        size = 502
+    }
+
+    farmers = {
+        culture = briton
+        religion = placeholder
+        size = 603
+    }
+
+    farmers = {
+        culture = briton
+        religion = placeholder
+        size = 4422
+    }
+
+    artisans = {
+        culture = briton
+        religion = placeholder
+        size = 3216
+    }
+
+    soldiers = {
+        culture = briton
+        religion = placeholder
+        size = 900
+    }
+
+    labourers = {
+        culture = briton
+        religion = placeholder
+        size = 70852
+    }
+
+    farmers = {
+        culture = briton
+        religion = placeholder
+        size = 40
+    }
+
+    farmers = {
+        culture = briton
+        religion = placeholder
+        size = 402
+    }
+
+    farmers = {
+        culture = pict
+        religion = placeholder
+        size = 402
+    }
+
+    farmers = {
+        culture = pict
+        religion = placeholder
+        size = 335
+    }
+}
+# Metro London Region - 2052000
+#London (2052000/513000 POPS)
+300 = {
+    aristocrats = {
+        culture = briton
+        religion = placeholder
+        size = 301
+    }
+
+    officers = {
+        culture = briton
+        religion = placeholder
+        size = 442
+    }
+
+    clergymen = {
+        culture = briton
+        religion = placeholder
+        size = 201
+    }
+
+    artisans = {
+        culture = briton
+        religion = placeholder
+        size = 2110
+    }
+
+    farmers = {
+        culture = briton
+        religion = placeholder
+        size = 603
+    }
+
+    soldiers = {
+        culture = briton
+        religion = placeholder
+        size = 660
+    }
+
+    labourers = {
+        culture = briton
+        religion = placeholder
+        size = 29346
+    }
+}
+#Sussex-Kent Region : 1212000
+#Canterbury (476000/98000 POPS)
+301 = {
+    aristocrats = {
+        culture = briton
+        religion = placeholder
+        size = 301
+    }
+
+    bureaucrats = {
+        culture = briton
+        religion = placeholder
+        size = 1507
+    }
+
+    clergymen = {
+        culture = briton
+        religion = placeholder
+        size = 251
+    }
+
+    farmers = {
+        culture = briton
+        religion = placeholder
+        size = 160
+    }
+
+    farmers = {
+        culture = briton
+        religion = placeholder
+        size = 1648
+    }
+
+    artisans = {
+        culture = briton
+        religion = placeholder
+        size = 1608
+    }
+
+    soldiers = {
+        culture = briton
+        religion = placeholder
+        size = 660
+    }
+
+    labourers = {
+        culture = briton
+        religion = placeholder
+        size = 34320
+    }
+
+    farmers = {
+        culture = pict
+        religion = placeholder
+        size = 67
+    }
+
+    artisans = {
+        culture = pict
+        religion = placeholder
+        size = 737
+    }
+}
+#Brighton (404000/101000 POPS)
+302 = {
+    aristocrats = {
+        culture = briton
+        religion = placeholder
+        size = 301
+    }
+
+    clergymen = {
+        culture = briton
+        religion = placeholder
+        size = 201
+    }
+
+    farmers = {
+        culture = briton
+        religion = placeholder
+        size = 80
+    }
+
+    farmers = {
+        culture = briton
+        religion = placeholder
+        size = 2733
+    }
+
+    artisans = {
+        culture = briton
+        religion = placeholder
+        size = 3718
+    }
+
+    soldiers = {
+        culture = briton
+        religion = placeholder
+        size = 660
+    }
+
+    labourers = {
+        culture = briton
+        religion = placeholder
+        size = 33969
+    }
+}
+#Southampton (332000/83000 POPS)
+303 = {
+    aristocrats = {
+        culture = briton
+        religion = placeholder
+        size = 603
+    }
+
+    officers = {
+        culture = briton
+        religion = placeholder
+        size = 804
+    }
+
+    bureaucrats = {
+        culture = briton
+        religion = placeholder
+        size = 2010
+    }
+
+    clergymen = {
+        culture = briton
+        religion = placeholder
+        size = 1306
+    }
+
+    farmers = {
+        culture = briton
+        religion = placeholder
+        size = 4355
+    }
+
+    artisans = {
+        culture = briton
+        religion = placeholder
+        size = 4020
+    }
+
+    artisans = {
+        culture = briton
+        religion = placeholder
+        size = 4020
+    }
+
+    artisans = {
+        culture = briton
+        religion = placeholder
+        size = 4020
+    }
+
+    artisans = {
+        culture = briton
+        religion = placeholder
+        size = 4020
+    }
+
+    artisans = {
+        culture = briton
+        religion = placeholder
+        size = 4020
+    }
+
+    artisans = {
+        culture = briton
+        religion = placeholder
+        size = 4020
+    }
+
+    artisans = {
+        culture = briton
+        religion = placeholder
+        size = 4020
+    }
+
+    artisans = {
+        culture = briton
+        religion = placeholder
+        size = 4020
+    }
+
+    artisans = {
+        culture = briton
+        religion = placeholder
+        size = 4020
+    }
+
+    artisans = {
+        culture = briton
+        religion = placeholder
+        size = 4020
+    }
+
+    artisans = {
+        culture = briton
+        religion = placeholder
+        size = 4020
+    }
+
+    artisans = {
+        culture = briton
+        religion = placeholder
+        size = 4020
+    }
+
+    artisans = {
+        culture = briton
+        religion = placeholder
+        size = 4020
+    }
+
+    artisans = {
+        culture = briton
+        religion = placeholder
+        size = 4020
+    }
+
+    artisans = {
+        culture = briton
+        religion = placeholder
+        size = 4020
+    }
+
+    soldiers = {
+        culture = briton
+        religion = placeholder
+        size = 5400
+    }
+
+    labourers = {
+        culture = briton
+        religion = placeholder
+        size = 51556
+    }
+
+    artisans = {
+        culture = briton
+        religion = placeholder
+        size = 2412
+    }
+
+    labourers = {
+        culture = briton
+        religion = placeholder
+        size = 6793
+    }
+
+    farmers = {
+        culture = briton
+        religion = placeholder
+        size = 40
+    }
+
+    artisans = {
+        culture = briton
+        religion = placeholder
+        size = 1286
+    }
+
+    clergymen = {
+        culture = pict
+        religion = placeholder
+        size = 67
+    }
+
+    farmers = {
+        culture = pict
+        religion = placeholder
+        size = 4221
+    }
+
+    artisans = {
+        culture = pict
+        religion = placeholder
+        size = 6432
+    }
+}
+#Isle Of Man Region - 46000
+#Douglas (46000/11500 POPS)
+304 = {
+    aristocrats = {
+        culture = pict
+        religion = placeholder
+        size = 100
+    }
+
+    bureaucrats = {
+        culture = pict
+        religion = placeholder
+        size = 125
+    }
+
+    clergymen = {
+        culture = pict
+        religion = placeholder
+        size = 125
+    }
+
+    artisans = {
+        culture = pict
+        religion = placeholder
+        size = 3250
+    }
+
+    soldiers = {
+        culture = pict
+        religion = placeholder
+        size = 100
+    }
+
+    labourers = {
+        culture = pict
+        religion = placeholder
+        size = 7600
+    }
+
+    labourers = {
+        culture = pict
+        religion = placeholder
+        size = 300
+    }
+}
+#Normandie Region
+#Channel Islands (72000/18000 POPS)
+419 = {
+    aristocrats = {
+        culture = briton
+        religion = placeholder
+        size = 60
+    }
+
+    bureaucrats = {
+        culture = briton
+        religion = placeholder
+        size = 150
+    }
+
+    clergymen = {
+        culture = briton
+        religion = placeholder
+        size = 75
+    }
+
+    artisans = {
+        culture = briton
+        religion = placeholder
+        size = 2040
+    }
+
+    soldiers = {
+        culture = briton
+        religion = placeholder
+        size = 180
+    }
+
+    farmers = {
+        culture = briton
+        religion = placeholder
+        size = 8023
+    }
+
+    slaves = {
+        culture = briton
+        religion = placeholder
+        size = 844
+    }
+}

@@ -1,0 +1,150 @@
+#Bessarabia Region (652000) #see Ukraine.txt for balance of Region
+#under the rule of Russia in 1836
+#Chisinau (332000/83000 POPS)
+676 = {
+    aristocrats = {
+        culture = dacian
+        religion = placeholder
+        size = 562
+    }
+
+    bureaucrats = {
+        culture = dacian
+        religion = placeholder
+        size = 452
+    }
+
+    officers = {
+        culture = dacian
+        religion = placeholder
+        size = 70
+    }
+
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 281
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 4020
+    }
+
+    soldiers = {
+        culture = dacian
+        religion = placeholder
+        size = 450
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 22813
+    }
+
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 30
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 643
+    }
+
+    soldiers = {
+        culture = dacian
+        religion = placeholder
+        size = 45
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 2512
+    }
+
+    clergymen = {
+        culture = skifkan #gagauz
+        religion = placeholder
+        size = 30
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 100
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 30
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 1859
+    }
+}
+#Balti (320000/80000 POPS)
+677 = {
+    aristocrats = {
+        culture = dacian
+        religion = placeholder
+        size = 522
+    }
+
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 281
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 1447
+    }
+
+    soldiers = {
+        culture = dacian
+        religion = placeholder
+        size = 435
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 26401
+    }
+
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 30
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 723
+    }
+
+    soldiers = {
+        culture = dacian
+        religion = placeholder
+        size = 45
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 2834
+    }
+}

@@ -1,0 +1,132 @@
+#French Guiana (20000)
+#Ruled by France 1836
+#Cayenne (17000/4250 POPS)
+2241 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 151
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 9
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 9
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 100
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 50
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 80
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 151
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 23
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 50
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 426
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 2973
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 7
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 7
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 9
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 2
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 231
+    }
+}
+#Maripasoula (3000/750 POPS)
+2246 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 9
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 13
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 33
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 9
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 685
+    }
+}

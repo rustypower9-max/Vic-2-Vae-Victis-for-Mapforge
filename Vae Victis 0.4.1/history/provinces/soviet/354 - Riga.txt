@@ -1,0 +1,18 @@
+owner = TRT
+controller = TRT
+add_core = TRT
+add_core = MOR
+trade_goods = coal
+life_rating = 38
+#state_building = {
+#	level = 1
+#	building = glass_factory
+#	upgrade = yes
+#}
+1861.1.1 = { 
+	state_building = {
+		level = 1
+		building = glass_factory
+		upgrade = yes
+	} 
+}

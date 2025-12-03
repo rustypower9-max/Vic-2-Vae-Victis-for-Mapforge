@@ -1,0 +1,6 @@
+owner = PON
+controller = PON
+add_core = PON
+trade_goods = wool
+life_rating = 35
+

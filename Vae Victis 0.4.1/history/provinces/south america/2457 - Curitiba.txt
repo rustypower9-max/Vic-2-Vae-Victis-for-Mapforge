@@ -1,0 +1,7 @@
+add_core = PRG
+
+
+trade_goods = iron
+life_rating = 20
+
+ 

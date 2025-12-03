@@ -1,0 +1,892 @@
+#Rift Highlands Region (620000)
+#uncolonized in 1836
+#Nairobi (260000/65000 POPS)
+2024 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 925
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 475
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 2400
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 500
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 38456
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 200
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 100
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 550
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 125
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 8822
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 50
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 50
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 200
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 50
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 3212
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 8705
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 1996
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 727
+    }
+}
+#Lodwar (36000/9000 POPS)
+2026 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 100
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 50
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 250
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 75
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 4070
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 50
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 75
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 150
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 25
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 2376
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 968
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 921
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 537
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 219
+    }
+}
+#Nakuru (128000/32000 POPS)
+2027 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 150
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 125
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 400
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 75
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 6468
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 300
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 150
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 650
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 175
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 10318
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 150
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 75
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 400
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 75
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 6424
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 2640
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 1464
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 2335
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 1454
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 597
+    }
+}
+#uncolonized in 1836/under influence of Buganda
+#Kisumu (196000/49000POPS)
+2028 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 375
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 200
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 775
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 300
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 17908
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 375
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 200
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 1100
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 200
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 16038
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 6160
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 4053
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 3630
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 1394
+    }
+}
+#Tana Region (324000)
+#uncolonized in 1836
+#Marsabit (52000/13000 POPS
+2025 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 250
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 150
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 650
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 125
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 10450
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 2365
+    }
+}
+#Wajir (100000/25000 POPS)
+2031 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 400
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 200
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 850
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 225
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 16038
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 50
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 50
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 200
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 50
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 3212
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 968
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 3630
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 727
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 219
+    }
+}
+#Garissa (172000/43000 POPS)
+2032 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 650
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 375
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 1750
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 350
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 28050
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 50
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 75
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 150
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 25
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 2376
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 75
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 50
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 250
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 50
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 4026
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 6349
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 537
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 911
+    }
+}
+#Upper Swahili Coast Region (304000)
+#ruled by kingdom of Oman in 1836
+#Mombasa (100000/25000 POPS)
+2029 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 200
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 100
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 550
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 1100
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 8052
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 100
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 50
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 300
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 50
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 440
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 175
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 100
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 500
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 100
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 8030
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 2640
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 1822
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 99
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 1817
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 597
+    }
+}
+#Lamu (100000/25000 POPS)
+2030 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 225
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 125
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 500
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 125
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 8822
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 225
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 125
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 600
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 125
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 9614
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 1760
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 1996
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 2176
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 398
+    }
+}
+#uncolonized in 1836
+#Voi (104000/26000 POPS)
+2033 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 475
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 250
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 1300
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 250
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 20878
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 4726
+    }
+}

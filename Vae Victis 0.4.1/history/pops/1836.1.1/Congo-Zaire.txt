@@ -1,0 +1,5624 @@
+#Congo Region (1804000)
+##under the rule of Kongo in 1836
+#Kinshasa (1408000/352000 POPS)
+1982 = {
+    aristocrats = {
+        culture = kongo
+        religion = placeholder
+        size = 1500
+    }
+
+    bureaucrats = {
+        culture = kongo
+        religion = placeholder
+        size = 170
+    }
+
+    clergymen = {
+        culture = kongo
+        religion = placeholder
+        size = 869
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 486
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 195
+    }
+
+    soldiers = {
+        culture = kongo
+        religion = placeholder
+        size = 729
+    }
+
+    soldiers = {
+        culture = kongo
+        religion = placeholder
+        size = 139
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 1011
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 5059
+    }
+
+    aristocrats = {
+        culture = kongo
+        religion = placeholder
+        size = 225
+    }
+
+    bureaucrats = {
+        culture = kongo
+        religion = placeholder
+        size = 25
+    }
+
+    clergymen = {
+        culture = kongo
+        religion = placeholder
+        size = 130
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 73
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 29
+    }
+
+    soldiers = {
+        culture = kongo
+        religion = placeholder
+        size = 109
+    }
+
+    soldiers = {
+        culture = kongo
+        religion = placeholder
+        size = 20
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 9033
+    }
+
+    aristocrats = {
+        culture = kongo
+        religion = placeholder
+        size = 982
+    }
+
+    bureaucrats = {
+        culture = kongo
+        religion = placeholder
+        size = 111
+    }
+
+    clergymen = {
+        culture = kongo
+        religion = placeholder
+        size = 568
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 318
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 128
+    }
+
+    soldiers = {
+        culture = kongo
+        religion = placeholder
+        size = 477
+    }
+
+    soldiers = {
+        culture = kongo
+        religion = placeholder
+        size = 91
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 9311
+    }
+
+    aristocrats = {
+        culture = kongo
+        religion = placeholder
+        size = 147
+    }
+
+    bureaucrats = {
+        culture = kongo
+        religion = placeholder
+        size = 16
+    }
+
+    clergymen = {
+        culture = kongo
+        religion = placeholder
+        size = 85
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 48
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 19
+    }
+
+    soldiers = {
+        culture = kongo
+        religion = placeholder
+        size = 71
+    }
+
+    soldiers = {
+        culture = kongo
+        religion = placeholder
+        size = 13
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 5918
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 2495
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 1686
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 729
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 293
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 109
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 44
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 477
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 192
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 71
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 29
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 7588
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 3742
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 2529
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 486
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 196
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 5059
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 73
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 29
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 318
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 128
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 48
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 19
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 2495
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 1687
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 729
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 294
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 110
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 44
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 478
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 192
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 72
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 29
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 7588
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 3742
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 2530
+    }
+}
+#Boma (396000/99000 POPS)
+1983 = {
+    aristocrats = {
+        culture = kongo
+        religion = placeholder
+        size = 155
+    }
+
+    clergymen = {
+        culture = kongo
+        religion = placeholder
+        size = 89
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 212
+    }
+
+    soldiers = {
+        culture = kongo
+        religion = placeholder
+        size = 267
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 18043
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 1314
+    }
+
+    aristocrats = {
+        culture = kongo
+        religion = placeholder
+        size = 23
+    }
+
+    clergymen = {
+        culture = kongo
+        religion = placeholder
+        size = 13
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 32
+    }
+
+    soldiers = {
+        culture = kongo
+        religion = placeholder
+        size = 40
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 2716
+    }
+
+    aristocrats = {
+        culture = kongo
+        religion = placeholder
+        size = 101
+    }
+
+    clergymen = {
+        culture = kongo
+        religion = placeholder
+        size = 57
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 139
+    }
+
+    soldiers = {
+        culture = kongo
+        religion = placeholder
+        size = 174
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 11818
+    }
+
+    aristocrats = {
+        culture = kongo
+        religion = placeholder
+        size = 14
+    }
+
+    clergymen = {
+        culture = kongo
+        religion = placeholder
+        size = 8
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 21
+    }
+
+    soldiers = {
+        culture = kongo
+        religion = placeholder
+        size = 25
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 1779
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 648
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 438
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 318
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 48
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 209
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 31
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 1971
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 972
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 657
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 213
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 1314
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 32
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 139
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 21
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 648
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 438
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 319
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 48
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 209
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 31
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 1971
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 972
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 657
+    }
+}
+#Kasai Region (5456000)
+#under the rule of Kuba in 1836
+#Kananga (2024000/506000 POPS)
+1984 = {
+    aristocrats = {
+        culture = kongo
+        religion = placeholder
+        size = 66
+    }
+
+    clergymen = {
+        culture = kongo
+        religion = placeholder
+        size = 43
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 35
+    }
+
+    soldiers = {
+        culture = kongo
+        religion = placeholder
+        size = 133
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 4100
+    }
+
+    aristocrats = {
+        culture = kongo
+        religion = placeholder
+        size = 556
+    }
+
+    clergymen = {
+        culture = kongo
+        religion = placeholder
+        size = 355
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 294
+    }
+
+    soldiers = {
+        culture = kongo
+        religion = placeholder
+        size = 729
+    }
+
+    soldiers = {
+        culture = kongo
+        religion = placeholder
+        size = 406
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 32237
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 3304
+    }
+
+    aristocrats = {
+        culture = kongo
+        religion = placeholder
+        size = 10
+    }
+
+    clergymen = {
+        culture = kongo
+        religion = placeholder
+        size = 7
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 5
+    }
+
+    soldiers = {
+        culture = kongo
+        religion = placeholder
+        size = 20
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 617
+    }
+
+    aristocrats = {
+        culture = kongo
+        religion = placeholder
+        size = 83
+    }
+
+    clergymen = {
+        culture = kongo
+        religion = placeholder
+        size = 53
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 44
+    }
+
+    soldiers = {
+        culture = kongo
+        religion = placeholder
+        size = 109
+    }
+
+    soldiers = {
+        culture = kongo
+        religion = placeholder
+        size = 61
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 4852
+    }
+
+    aristocrats = {
+        culture = kongo
+        religion = placeholder
+        size = 42
+    }
+
+    clergymen = {
+        culture = kongo
+        religion = placeholder
+        size = 27
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 23
+    }
+
+    soldiers = {
+        culture = kongo
+        religion = placeholder
+        size = 87
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 2685
+    }
+
+    aristocrats = {
+        culture = kongo
+        religion = placeholder
+        size = 364
+    }
+
+    clergymen = {
+        culture = kongo
+        religion = placeholder
+        size = 233
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 192
+    }
+
+    soldiers = {
+        culture = kongo
+        religion = placeholder
+        size = 477
+    }
+
+    soldiers = {
+        culture = kongo
+        religion = placeholder
+        size = 266
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 21117
+    }
+
+    aristocrats = {
+        culture = kongo
+        religion = placeholder
+        size = 6
+    }
+
+    clergymen = {
+        culture = kongo
+        religion = placeholder
+        size = 3
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 3
+    }
+
+    soldiers = {
+        culture = kongo
+        religion = placeholder
+        size = 12
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 404
+    }
+
+    aristocrats = {
+        culture = kongo
+        religion = placeholder
+        size = 53
+    }
+
+    clergymen = {
+        culture = kongo
+        religion = placeholder
+        size = 35
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 29
+    }
+
+    soldiers = {
+        culture = kongo
+        religion = placeholder
+        size = 71
+    }
+
+    soldiers = {
+        culture = kongo
+        religion = placeholder
+        size = 39
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 3179
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 1630
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 1101
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 53
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 441
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 8
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 66
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 34
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 288
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 5
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 43
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 4957
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 2444
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 1652
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 36
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 294
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 3305
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 6
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 44
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 23
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 193
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 3
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 29
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 1630
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 1102
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 53
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 441
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 8
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 67
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 35
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 289
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 5
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 43
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 4957
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 2445
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 1653
+    }
+}
+#Kumbana (1364000/341000 POPS)
+1985 = {
+    aristocrats = {
+        culture = kongo
+        religion = placeholder
+        size = 267
+    }
+
+    clergymen = {
+        culture = kongo
+        religion = placeholder
+        size = 133
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 115
+    }
+
+    soldiers = {
+        culture = kongo
+        religion = placeholder
+        size = 468
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 19357
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 197
+    }
+
+    aristocrats = {
+        culture = kongo
+        religion = placeholder
+        size = 267
+    }
+
+    clergymen = {
+        culture = kongo
+        religion = placeholder
+        size = 133
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 133
+    }
+
+    soldiers = {
+        culture = kongo
+        religion = placeholder
+        size = 401
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 17773
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 1333
+    }
+
+    aristocrats = {
+        culture = kongo
+        religion = placeholder
+        size = 40
+    }
+
+    clergymen = {
+        culture = kongo
+        religion = placeholder
+        size = 20
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 17
+    }
+
+    soldiers = {
+        culture = kongo
+        religion = placeholder
+        size = 70
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 2914
+    }
+
+    aristocrats = {
+        culture = kongo
+        religion = placeholder
+        size = 40
+    }
+
+    clergymen = {
+        culture = kongo
+        religion = placeholder
+        size = 20
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 20
+    }
+
+    soldiers = {
+        culture = kongo
+        religion = placeholder
+        size = 59
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 2675
+    }
+
+    aristocrats = {
+        culture = kongo
+        religion = placeholder
+        size = 174
+    }
+
+    clergymen = {
+        culture = kongo
+        religion = placeholder
+        size = 87
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 75
+    }
+
+    soldiers = {
+        culture = kongo
+        religion = placeholder
+        size = 305
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 12680
+    }
+
+    aristocrats = {
+        culture = kongo
+        religion = placeholder
+        size = 174
+    }
+
+    clergymen = {
+        culture = kongo
+        religion = placeholder
+        size = 87
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 87
+    }
+
+    soldiers = {
+        culture = kongo
+        religion = placeholder
+        size = 262
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 11642
+    }
+
+    aristocrats = {
+        culture = kongo
+        religion = placeholder
+        size = 25
+    }
+
+    clergymen = {
+        culture = kongo
+        religion = placeholder
+        size = 12
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 11
+    }
+
+    soldiers = {
+        culture = kongo
+        religion = placeholder
+        size = 45
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 1908
+    }
+
+    aristocrats = {
+        culture = kongo
+        religion = placeholder
+        size = 25
+    }
+
+    clergymen = {
+        culture = kongo
+        religion = placeholder
+        size = 12
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 13
+    }
+
+    soldiers = {
+        culture = kongo
+        religion = placeholder
+        size = 39
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 1753
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 97
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 658
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 66
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 444
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 173
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 200
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 26
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 30
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 113
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 131
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 17
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 20
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 295
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 2000
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 146
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 986
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 98
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 667
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 116
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 197
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 134
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 1334
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 18
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 20
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 76
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 87
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 11
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 13
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 97
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 658
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 66
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 445
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 174
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 201
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 26
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 30
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 114
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 131
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 17
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 20
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 296
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 2001
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 146
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 987
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 99
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 667
+    }
+}
+#under the rule of Luba in 1836
+#Lusambo (2068000/517000 POPS)
+1986 = {
+    aristocrats = {
+        culture = kongo
+        religion = placeholder
+        size = 267
+    }
+
+    clergymen = {
+        culture = kongo
+        religion = placeholder
+        size = 133
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 115
+    }
+
+    soldiers = {
+        culture = kongo
+        religion = placeholder
+        size = 468
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 10203
+    }
+
+    aristocrats = {
+        culture = kongo
+        religion = placeholder
+        size = 534
+    }
+
+    clergymen = {
+        culture = kongo
+        religion = placeholder
+        size = 267
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 276
+    }
+
+    soldiers = {
+        culture = kongo
+        religion = placeholder
+        size = 382
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 26364
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 1774
+    }
+
+    aristocrats = {
+        culture = kongo
+        religion = placeholder
+        size = 40
+    }
+
+    clergymen = {
+        culture = kongo
+        religion = placeholder
+        size = 20
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 17
+    }
+
+    soldiers = {
+        culture = kongo
+        religion = placeholder
+        size = 70
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 1536
+    }
+
+    aristocrats = {
+        culture = kongo
+        religion = placeholder
+        size = 79
+    }
+
+    clergymen = {
+        culture = kongo
+        religion = placeholder
+        size = 40
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 41
+    }
+
+    soldiers = {
+        culture = kongo
+        religion = placeholder
+        size = 57
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 3968
+    }
+
+    aristocrats = {
+        culture = kongo
+        religion = placeholder
+        size = 174
+    }
+
+    clergymen = {
+        culture = kongo
+        religion = placeholder
+        size = 87
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 75
+    }
+
+    soldiers = {
+        culture = kongo
+        religion = placeholder
+        size = 305
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 6683
+    }
+
+    aristocrats = {
+        culture = kongo
+        religion = placeholder
+        size = 349
+    }
+
+    clergymen = {
+        culture = kongo
+        religion = placeholder
+        size = 174
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 181
+    }
+
+    soldiers = {
+        culture = kongo
+        religion = placeholder
+        size = 250
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 17269
+    }
+
+    aristocrats = {
+        culture = kongo
+        religion = placeholder
+        size = 25
+    }
+
+    clergymen = {
+        culture = kongo
+        religion = placeholder
+        size = 12
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 11
+    }
+
+    soldiers = {
+        culture = kongo
+        religion = placeholder
+        size = 45
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 1006
+    }
+
+    aristocrats = {
+        culture = kongo
+        religion = placeholder
+        size = 52
+    }
+
+    clergymen = {
+        culture = kongo
+        religion = placeholder
+        size = 25
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 27
+    }
+
+    soldiers = {
+        culture = kongo
+        religion = placeholder
+        size = 37
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 2600
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 875
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 591
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 173
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 413
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 26
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 62
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 113
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 271
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 17
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 41
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 2660
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 1312
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 887
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 116
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 276
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 1774
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 18
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 42
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 76
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 181
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 11
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 27
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 875
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 592
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 174
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 414
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 26
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 63
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 114
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 271
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 17
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 41
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 2661
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 1312
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 887
+    }
+}
+#Katanga Region (9156400)
+#under the rule of Kazembe in 1836
+#Bunkeya (4888400/1222100 POPS)
+1987 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 2185
+    }
+
+    bureaucrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 23
+    }
+
+    officers = {
+        culture = barbarian
+        religion = placeholder
+        size = 88
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 1092
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 611
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 268
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 916
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 315
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 90790
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 280
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 141
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 145
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 420
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 3274
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 368
+    }
+
+    aristocrats = {
+        culture = kongo
+        religion = placeholder
+        size = 600
+    }
+
+    bureaucrats = {
+        culture = kongo
+        religion = placeholder
+        size = 6
+    }
+
+    officers = {
+        culture = kongo
+        religion = placeholder
+        size = 24
+    }
+
+    clergymen = {
+        culture = kongo
+        religion = placeholder
+        size = 300
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 168
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 73
+    }
+
+    soldiers = {
+        culture = kongo
+        religion = placeholder
+        size = 252
+    }
+
+    soldiers = {
+        culture = kongo
+        religion = placeholder
+        size = 86
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 4964
+    }
+
+    aristocrats = {
+        culture = kongo
+        religion = placeholder
+        size = 78
+    }
+
+    clergymen = {
+        culture = kongo
+        religion = placeholder
+        size = 38
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 40
+    }
+
+    soldiers = {
+        culture = kongo
+        religion = placeholder
+        size = 116
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 3650
+    }
+
+    aristocrats = {
+        culture = kongo
+        religion = placeholder
+        size = 1077
+    }
+
+    bureaucrats = {
+        culture = kongo
+        religion = placeholder
+        size = 11
+    }
+
+    officers = {
+        culture = kongo
+        religion = placeholder
+        size = 44
+    }
+
+    clergymen = {
+        culture = kongo
+        religion = placeholder
+        size = 539
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 301
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 132
+    }
+
+    soldiers = {
+        culture = kongo
+        religion = placeholder
+        size = 452
+    }
+
+    soldiers = {
+        culture = kongo
+        religion = placeholder
+        size = 155
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 4773
+    }
+
+    aristocrats = {
+        culture = kongo
+        religion = placeholder
+        size = 139
+    }
+
+    clergymen = {
+        culture = kongo
+        religion = placeholder
+        size = 69
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 72
+    }
+
+    soldiers = {
+        culture = kongo
+        religion = placeholder
+        size = 207
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 6546
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 1069
+    }
+
+    aristocrats = {
+        culture = kongo
+        religion = placeholder
+        size = 728
+    }
+
+    bureaucrats = {
+        culture = kongo
+        religion = placeholder
+        size = 8
+    }
+
+    officers = {
+        culture = kongo
+        religion = placeholder
+        size = 30
+    }
+
+    clergymen = {
+        culture = kongo
+        religion = placeholder
+        size = 364
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 203
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 89
+    }
+
+    soldiers = {
+        culture = kongo
+        religion = placeholder
+        size = 306
+    }
+
+    soldiers = {
+        culture = kongo
+        religion = placeholder
+        size = 105
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 3263
+    }
+
+    aristocrats = {
+        culture = kongo
+        religion = placeholder
+        size = 94
+    }
+
+    clergymen = {
+        culture = kongo
+        religion = placeholder
+        size = 47
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 48
+    }
+
+    soldiers = {
+        culture = kongo
+        religion = placeholder
+        size = 140
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 4425
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 723
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 916
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 402
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 218
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 252
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 110
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 60
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 452
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 198
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 107
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 305
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 134
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 72
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 552
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 1604
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 1084
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 611
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 268
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 146
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 368
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 168
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 74
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 40
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 302
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 133
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 72
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 1069
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 204
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 90
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 49
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 723
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 917
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 403
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 218
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 252
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 111
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 60
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 452
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 199
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 108
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 306
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 134
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 73
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 552
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 1604
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 1084
+    }
+}
+#under the rule of Luba in 1836
+#Mussumba (1188000/297000 POPS)
+1988 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 336
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 196
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 151
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 588
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 10837
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 196
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 112
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 112
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 336
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 10222
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 1445
+    }
+
+    aristocrats = {
+        culture = kongo
+        religion = placeholder
+        size = 92
+    }
+
+    clergymen = {
+        culture = kongo
+        religion = placeholder
+        size = 54
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 41
+    }
+
+    soldiers = {
+        culture = kongo
+        religion = placeholder
+        size = 162
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 2980
+    }
+
+    aristocrats = {
+        culture = kongo
+        religion = placeholder
+        size = 54
+    }
+
+    clergymen = {
+        culture = kongo
+        religion = placeholder
+        size = 32
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 31
+    }
+
+    soldiers = {
+        culture = kongo
+        religion = placeholder
+        size = 92
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 2810
+    }
+
+    aristocrats = {
+        culture = kongo
+        religion = placeholder
+        size = 166
+    }
+
+    clergymen = {
+        culture = kongo
+        religion = placeholder
+        size = 96
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 74
+    }
+
+    soldiers = {
+        culture = kongo
+        religion = placeholder
+        size = 290
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 5345
+    }
+
+    aristocrats = {
+        culture = kongo
+        religion = placeholder
+        size = 96
+    }
+
+    clergymen = {
+        culture = kongo
+        religion = placeholder
+        size = 56
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 55
+    }
+
+    soldiers = {
+        culture = kongo
+        religion = placeholder
+        size = 166
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 5041
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 713
+    }
+
+    aristocrats = {
+        culture = kongo
+        religion = placeholder
+        size = 112
+    }
+
+    clergymen = {
+        culture = kongo
+        religion = placeholder
+        size = 65
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 50
+    }
+
+    soldiers = {
+        culture = kongo
+        religion = placeholder
+        size = 196
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 3613
+    }
+
+    aristocrats = {
+        culture = kongo
+        religion = placeholder
+        size = 65
+    }
+
+    clergymen = {
+        culture = kongo
+        religion = placeholder
+        size = 38
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 37
+    }
+
+    soldiers = {
+        culture = kongo
+        religion = placeholder
+        size = 112
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 3408
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 482
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 227
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 167
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 62
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 46
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 112
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 83
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 75
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 56
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 2168
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 1069
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 722
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 151
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 112
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 1446
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 42
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 31
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 75
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 55
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 713
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 51
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 37
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 482
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 227
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 168
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 63
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 46
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 112
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 83
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 76
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 56
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 2168
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 1069
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 723
+    }
+}
+#under the rule of Luba in 1836
+#Munza (3080000/770000 POPS)
+1989 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 1231
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 559
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 459
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 847
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 391
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 223
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 212
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 672
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 19268
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 15659
+    }
+
+    aristocrats = {
+        culture = kongo
+        religion = placeholder
+        size = 338
+    }
+
+    clergymen = {
+        culture = kongo
+        religion = placeholder
+        size = 154
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 126
+    }
+
+    soldiers = {
+        culture = kongo
+        religion = placeholder
+        size = 234
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 10448
+    }
+
+    aristocrats = {
+        culture = kongo
+        religion = placeholder
+        size = 108
+    }
+
+    clergymen = {
+        culture = kongo
+        religion = placeholder
+        size = 62
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 58
+    }
+
+    soldiers = {
+        culture = kongo
+        religion = placeholder
+        size = 184
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 5298
+    }
+
+    aristocrats = {
+        culture = kongo
+        religion = placeholder
+        size = 607
+    }
+
+    clergymen = {
+        culture = kongo
+        religion = placeholder
+        size = 276
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 226
+    }
+
+    soldiers = {
+        culture = kongo
+        religion = placeholder
+        size = 418
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 18741
+    }
+
+    aristocrats = {
+        culture = kongo
+        religion = placeholder
+        size = 193
+    }
+
+    clergymen = {
+        culture = kongo
+        religion = placeholder
+        size = 110
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 105
+    }
+
+    soldiers = {
+        culture = kongo
+        religion = placeholder
+        size = 332
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 9502
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 1544
+    }
+
+    aristocrats = {
+        culture = kongo
+        religion = placeholder
+        size = 411
+    }
+
+    clergymen = {
+        culture = kongo
+        religion = placeholder
+        size = 186
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 153
+    }
+
+    soldiers = {
+        culture = kongo
+        religion = placeholder
+        size = 283
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 12667
+    }
+
+    aristocrats = {
+        culture = kongo
+        religion = placeholder
+        size = 130
+    }
+
+    clergymen = {
+        culture = kongo
+        religion = placeholder
+        size = 74
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 71
+    }
+
+    soldiers = {
+        culture = kongo
+        religion = placeholder
+        size = 224
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 6423
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 1044
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 689
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 319
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 189
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 87
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 340
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 157
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 230
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 106
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 2317
+    }
+
+    artisans = {
+        culture = kongo
+        religion = placeholder
+        size = 1566
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 460
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 213
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 127
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 59
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 227
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 105
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 1545
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 153
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 71
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 1044
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 689
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 319
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 190
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 88
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 340
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 157
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 230
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 107
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 2317
+    }
+
+    farmers = {
+        culture = kongo
+        religion = placeholder
+        size = 1566
+    }
+}
+#Maniema Region (3304400)
+#under the rule of Luba in 1836
+#Nyangwe (1144000/286000 POPS)
+1990 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 336
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 188
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 784
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 560
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 16021
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 374
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 188
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 969
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 560
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 21772
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 8615
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 47
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 25
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 109
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 78
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 2214
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 52
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 25
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 134
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 78
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 3008
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 83
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 46
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 194
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 139
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 3970
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 93
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 46
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 241
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 139
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 5396
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 2135
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 25
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 14
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 58
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 41
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 1199
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 28
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 14
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 72
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 41
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 1630
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 45
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 25
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 105
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 74
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 2150
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 50
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 25
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 129
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 74
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 2922
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 1157
+    }
+}
+#Uvira (836000/209000 POPS)
+1991 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 560
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 297
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 1157
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 896
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 24164
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 8615
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 78
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 42
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 159
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 123
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 3338
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 139
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 74
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 287
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 222
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 5988
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 2135
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 41
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 22
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 86
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 67
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 1808
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 74
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 39
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 155
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 121
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 3243
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 1157
+    }
+}
+#Basoko (1324400/331100 POPS)
+1992 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 859
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 448
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 1792
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 448
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 35027
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 11243
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 119
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 62
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 248
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 62
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 4840
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 213
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 111
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 444
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 111
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 8680
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 2787
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 64
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 33
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 134
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 33
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 2622
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 115
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 60
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 240
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 60
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 4702
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 1509
+    }
+}
+#Equateur Region (2552000)
+#uncolonized in 1836
+#Irebu (660000/165000 POPS)
+1993 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 448
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 224
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 896
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 672
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 24314
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 6570
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 62
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 31
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 123
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 92
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 3359
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 111
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 56
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 222
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 167
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 6025
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 1628
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 33
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 16
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 67
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 50
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 1820
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 60
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 29
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 121
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 90
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 3264
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 882
+    }
+}
+#Nsheng (660000/165000 POPS)
+1994 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 179
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 89
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 358
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 269
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 9718
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 4927
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 27
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 13
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 53
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 40
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 1463
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 117
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 58
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 234
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 176
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 6366
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 17
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 8
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 35
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 26
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 958
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 1628
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 1101
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 96
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 48
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 193
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 145
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 5265
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 14
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 7
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 28
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 20
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 792
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 62
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 31
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 126
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 94
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 3448
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 8
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 4
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 18
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 14
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 519
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 882
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 596
+    }
+}
+#Gemena (1232000/308000 POPS)
+1995 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 815
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 448
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 1680
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 448
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 32485
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 6425
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 113
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 62
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 232
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 62
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 4489
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 202
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 111
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 417
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 111
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 8050
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 1593
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 60
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 33
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 125
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 33
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 2432
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 108
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 60
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 225
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 60
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 4361
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 862
+    }
+}
+#Ituri-Uele Region (3740000)
+#uncolonized in 1836/dominated by Luba
+#Kisangani (1716000/429000 POPS)
+1996 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 1157
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 599
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 2352
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 599
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 49744
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 17227
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 159
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 83
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 326
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 83
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 6873
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 287
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 148
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 583
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 148
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 12327
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 4269
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 86
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 45
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 176
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 45
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 3723
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 155
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 80
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 315
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 80
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 6679
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 2312
+    }
+}
+#uncolonized in 1836/under the domination of the Azande
+#Mungbane (836000/209000 POPS)
+1997 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 261
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 150
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 560
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 448
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 13409
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 261
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 150
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 745
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 448
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 16481
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 4525
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 36
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 21
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 78
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 62
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 1853
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 36
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 21
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 103
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 62
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 2277
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 64
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 38
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 139
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 111
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 3323
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 64
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 38
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 185
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 111
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 4084
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 1121
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 19
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 12
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 41
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 33
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 1004
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 19
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 12
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 56
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 33
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 1233
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 35
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 19
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 74
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 60
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 1800
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 35
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 19
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 100
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 60
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 2213
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 607
+    }
+}
+#Baramo (1188000/297000 POPS)
+1998 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 784
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 448
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 2016
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 1222
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 10
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 36705
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 109
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 62
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 279
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 169
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 1
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 5072
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 194
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 111
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 500
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 303
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 3
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 9096
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 58
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 33
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 150
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 91
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 1
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 2747
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 105
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 60
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 270
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 163
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 1
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 4928
+    }
+}

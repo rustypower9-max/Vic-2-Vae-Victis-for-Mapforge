@@ -1,0 +1,8 @@
+owner = CAP
+controller = CAP
+add_core = CAP
+trade_goods = iron
+life_rating = 35
+
+
+

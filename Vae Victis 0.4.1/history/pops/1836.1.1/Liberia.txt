@@ -1,0 +1,949 @@
+#Liberia Region (880000)
+#under the rule of Liberia in 1836
+#Monrovia (252000/63000 POPS)
+1887 = {
+    bureaucrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 4
+    }
+
+    officers = {
+        culture = barbarian
+        religion = placeholder
+        size = 2
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 9
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 18
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 13
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 133
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 4
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 36
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 279
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 418
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 157
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 81
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 423
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 7438
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 27
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 13
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 81
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 1498
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 13
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 9
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 36
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 661
+    }
+
+    bureaucrats = {
+        culture = hannoic
+        religion = placeholder
+        size = 13
+    }
+
+    officers = {
+        culture = hannoic
+        religion = placeholder
+        size = 5
+    }
+
+    clergymen = {
+        culture = hannoic
+        religion = placeholder
+        size = 26
+    }
+
+    artisans = {
+        culture = hannoic
+        religion = placeholder
+        size = 52
+    }
+
+    soldiers = {
+        culture = hannoic
+        religion = placeholder
+        size = 40
+    }
+
+    farmers = {
+        culture = hannoic
+        religion = placeholder
+        size = 388
+    }
+
+    clergymen = {
+        culture = hannoic
+        religion = placeholder
+        size = 13
+    }
+
+    artisans = {
+        culture = hannoic
+        religion = placeholder
+        size = 105
+    }
+
+    soldiers = {
+        culture = hannoic
+        religion = placeholder
+        size = 813
+    }
+
+    farmers = {
+        culture = hannoic
+        religion = placeholder
+        size = 1221
+    }
+
+    aristocrats = {
+        culture = hannoic
+        religion = placeholder
+        size = 460
+    }
+
+    clergymen = {
+        culture = hannoic
+        religion = placeholder
+        size = 236
+    }
+
+    artisans = {
+        culture = hannoic
+        religion = placeholder
+        size = 1233
+    }
+
+    farmers = {
+        culture = hannoic
+        religion = placeholder
+        size = 21696
+    }
+
+    aristocrats = {
+        culture = hannoic
+        religion = placeholder
+        size = 78
+    }
+
+    clergymen = {
+        culture = hannoic
+        religion = placeholder
+        size = 40
+    }
+
+    artisans = {
+        culture = hannoic
+        religion = placeholder
+        size = 236
+    }
+
+    farmers = {
+        culture = hannoic
+        religion = placeholder
+        size = 4371
+    }
+
+    aristocrats = {
+        culture = hannoic
+        religion = placeholder
+        size = 40
+    }
+
+    clergymen = {
+        culture = hannoic
+        religion = placeholder
+        size = 26
+    }
+
+    artisans = {
+        culture = hannoic
+        religion = placeholder
+        size = 105
+    }
+
+    farmers = {
+        culture = hannoic
+        religion = placeholder
+        size = 1930
+    }
+}
+#Harper (204000/51000 POPS)
+1888 = {
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 2
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 2
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 2
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 9
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 135
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 67
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 342
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 67
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 6214
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 45
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 22
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 117
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 22
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 2133
+    }
+
+    clergymen = {
+        culture = hannoic
+        religion = placeholder
+        size = 5
+    }
+
+    artisans = {
+        culture = hannoic
+        religion = placeholder
+        size = 5
+    }
+
+    soldiers = {
+        culture = hannoic
+        religion = placeholder
+        size = 5
+    }
+
+    farmers = {
+        culture = hannoic
+        religion = placeholder
+        size = 26
+    }
+
+    aristocrats = {
+        culture = hannoic
+        religion = placeholder
+        size = 393
+    }
+
+    clergymen = {
+        culture = hannoic
+        religion = placeholder
+        size = 197
+    }
+
+    artisans = {
+        culture = hannoic
+        religion = placeholder
+        size = 997
+    }
+
+    soldiers = {
+        culture = hannoic
+        religion = placeholder
+        size = 197
+    }
+
+    farmers = {
+        culture = hannoic
+        religion = placeholder
+        size = 18122
+    }
+
+    aristocrats = {
+        culture = hannoic
+        religion = placeholder
+        size = 131
+    }
+
+    clergymen = {
+        culture = hannoic
+        religion = placeholder
+        size = 66
+    }
+
+    artisans = {
+        culture = hannoic
+        religion = placeholder
+        size = 341
+    }
+
+    soldiers = {
+        culture = hannoic
+        religion = placeholder
+        size = 66
+    }
+
+    farmers = {
+        culture = hannoic
+        religion = placeholder
+        size = 6221
+    }
+}
+#uncolonized in 1836
+#Bopulu (124000/31000 POPS)
+1889 = {
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 2
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 2
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 2
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 9
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 85
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 45
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 225
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 45
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 4085
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 18
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 9
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 54
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 13
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 985
+    }
+
+    clergymen = {
+        culture = hannoic
+        religion = placeholder
+        size = 5
+    }
+
+    artisans = {
+        culture = hannoic
+        religion = placeholder
+        size = 5
+    }
+
+    soldiers = {
+        culture = hannoic
+        religion = placeholder
+        size = 5
+    }
+
+    farmers = {
+        culture = hannoic
+        religion = placeholder
+        size = 26
+    }
+
+    aristocrats = {
+        culture = hannoic
+        religion = placeholder
+        size = 250
+    }
+
+    clergymen = {
+        culture = hannoic
+        religion = placeholder
+        size = 131
+    }
+
+    artisans = {
+        culture = hannoic
+        religion = placeholder
+        size = 656
+    }
+
+    soldiers = {
+        culture = hannoic
+        religion = placeholder
+        size = 131
+    }
+
+    farmers = {
+        culture = hannoic
+        religion = placeholder
+        size = 11915
+    }
+
+    aristocrats = {
+        culture = hannoic
+        religion = placeholder
+        size = 52
+    }
+
+    clergymen = {
+        culture = hannoic
+        religion = placeholder
+        size = 26
+    }
+
+    artisans = {
+        culture = hannoic
+        religion = placeholder
+        size = 157
+    }
+
+    soldiers = {
+        culture = hannoic
+        religion = placeholder
+        size = 40
+    }
+
+    farmers = {
+        culture = hannoic
+        religion = placeholder
+        size = 2875
+    }
+}
+#Gbarnga (132000/33000 POPS)
+1890 = {
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 2
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 2
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 2
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 9
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 36
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 18
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 99
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 22
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 1804
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 76
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 40
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 198
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 40
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 3590
+    }
+
+    clergymen = {
+        culture = hannoic
+        religion = placeholder
+        size = 5
+    }
+
+    artisans = {
+        culture = hannoic
+        religion = placeholder
+        size = 5
+    }
+
+    soldiers = {
+        culture = hannoic
+        religion = placeholder
+        size = 5
+    }
+
+    farmers = {
+        culture = hannoic
+        religion = placeholder
+        size = 26
+    }
+
+    aristocrats = {
+        culture = hannoic
+        religion = placeholder
+        size = 105
+    }
+
+    clergymen = {
+        culture = hannoic
+        religion = placeholder
+        size = 52
+    }
+
+    artisans = {
+        culture = hannoic
+        religion = placeholder
+        size = 288
+    }
+
+    soldiers = {
+        culture = hannoic
+        religion = placeholder
+        size = 66
+    }
+
+    farmers = {
+        culture = hannoic
+        religion = placeholder
+        size = 5263
+    }
+
+    aristocrats = {
+        culture = hannoic
+        religion = placeholder
+        size = 223
+    }
+
+    clergymen = {
+        culture = hannoic
+        religion = placeholder
+        size = 118
+    }
+
+    artisans = {
+        culture = hannoic
+        religion = placeholder
+        size = 577
+    }
+
+    soldiers = {
+        culture = hannoic
+        religion = placeholder
+        size = 118
+    }
+
+    farmers = {
+        culture = hannoic
+        religion = placeholder
+        size = 10471
+    }
+}
+#Zwedru (168000/42000 POPS)
+1891 = {
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 2
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 2
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 2
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 9
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 40
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 45
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 207
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 31
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 3811
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 27
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 36
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 171
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 36
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 3150
+    }
+
+    clergymen = {
+        culture = hannoic
+        religion = placeholder
+        size = 5
+    }
+
+    artisans = {
+        culture = hannoic
+        religion = placeholder
+        size = 5
+    }
+
+    soldiers = {
+        culture = hannoic
+        religion = placeholder
+        size = 5
+    }
+
+    farmers = {
+        culture = hannoic
+        religion = placeholder
+        size = 26
+    }
+
+    aristocrats = {
+        culture = hannoic
+        religion = placeholder
+        size = 118
+    }
+
+    clergymen = {
+        culture = hannoic
+        religion = placeholder
+        size = 131
+    }
+
+    artisans = {
+        culture = hannoic
+        religion = placeholder
+        size = 603
+    }
+
+    soldiers = {
+        culture = hannoic
+        religion = placeholder
+        size = 88
+    }
+
+    farmers = {
+        culture = hannoic
+        religion = placeholder
+        size = 11117
+    }
+
+    aristocrats = {
+        culture = hannoic
+        religion = placeholder
+        size = 78
+    }
+
+    clergymen = {
+        culture = hannoic
+        religion = placeholder
+        size = 105
+    }
+
+    artisans = {
+        culture = hannoic
+        religion = placeholder
+        size = 498
+    }
+
+    soldiers = {
+        culture = hannoic
+        religion = placeholder
+        size = 105
+    }
+
+    farmers = {
+        culture = hannoic
+        religion = placeholder
+        size = 9187
+    }
+}

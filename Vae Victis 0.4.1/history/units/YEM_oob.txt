@@ -1,0 +1,347 @@
+army = {
+	name = "Imamake Jihadis"
+	location = 1178
+	regiment = {
+		name= "1.Abdali"
+		type = hussar
+		home = 1178
+	}
+	regiment = {
+		name= "1.Hashid"
+		type = infantry
+		home = 1178
+	}
+
+	regiment = {
+		name= "2.Hashid"
+		type = infantry
+		home = 1178
+	}
+
+	regiment = {
+		name= "3.Hashid"
+		type = infantry
+		home = 1180
+	}
+
+	regiment = {
+		name= "4.Hashid"
+		type = infantry
+		home = 1179
+	}
+
+	regiment = {
+		name= "1.Bakil"
+		type = artillery
+		home = 1179
+	}
+
+	regiment = {
+		name= "2.Bakil"
+		type = artillery
+		home = 1859
+	}
+
+	regiment = {
+		name= "3.Bakil"
+		type = artillery
+		home = 1412
+	}
+
+	regiment = {
+		name= "4.Bakil"
+		type = artillery
+		home = 1863
+	}
+
+	regiment = {
+		name= "5.Bakil"
+		type = artillery
+		home = 1173
+	}
+}
+
+army = {
+	name = "Aden Jihadis"
+	location = 1412
+		regiment = {
+		name= "1.Abdali"
+		type = hussar
+		home = 1176
+	}
+	regiment = {
+		name= "1.Hashid"
+		type = infantry
+		home = 1176
+	}
+
+	regiment = {
+		name= "2.Hashid"
+		type = infantry
+		home = 1859
+	}
+
+	regiment = {
+		name= "3.Hashid"
+		type = infantry
+		home = 1155
+	}
+
+	regiment = {
+		name= "4.Hashid"
+		type = infantry
+		home = 1405
+	}
+
+	regiment = {
+		name= "1.Bakil"
+		type = artillery
+		home = 1407
+	}
+
+	regiment = {
+		name= "2.Bakil"
+		type = artillery
+		home = 1303
+	}
+
+	regiment = {
+		name= "3.Bakil"
+		type = artillery
+		home = 1417
+	}
+
+	regiment = {
+		name= "4.Bakil"
+		type = artillery
+		home = 1418
+	}
+
+	regiment = {
+		name= "5.Bakil"
+		type = artillery
+		home = 1303
+	}
+}
+
+army = {
+	name = "Aksumite Jihadis"
+	location = 1875
+	
+	regiment = {
+		name= "2.Abdali"
+		type = hussar
+		home = 1856
+	}
+
+	regiment = {
+		name= "1.Bakil"
+		type = artillery
+		home = 1857
+	}
+
+	regiment = {
+		name= "2.Bakil"
+		type = artillery
+		home = 1853
+	}
+
+	regiment = {
+		name= "3.Bakil"
+		type = artillery
+		home = 1852
+	}
+
+	regiment = {
+		name= "4.Bakil"
+		type = artillery
+		home = 1854
+	}
+
+	regiment = {
+		name= "5.Bakil"
+		type = artillery
+		home = 1855
+	}
+}
+
+navy = {
+	name = "Spice Merchant Fleet"
+	location = 1412
+        ship = {
+		name = "Basileus Leon"
+		type = manowar
+	}
+	ship = {
+		name = "Paralos"
+		type = manowar
+	}
+	ship = {
+		name = "Leontophoros"
+		type = manowar
+	}
+	ship = {
+		name = "Eirene"
+		type = manowar
+	}
+	ship = {
+		name = "Kyzikos"
+		type = manowar
+	}
+	ship = {
+		name = "Basileus Leon"
+		type = manowar
+	}
+	ship = {
+		name = "Paralos"
+		type = manowar
+	}
+	ship = {
+		name = "Leontophoros"
+		type = manowar
+	}
+	ship = {
+		name = "Eirene"
+		type = manowar
+	}
+	ship = {
+		name = "Augustus"
+		type = manowar
+	}
+	ship = {
+		name = "Volos"
+		type = frigate
+	}
+	ship = {
+		name = "Kelis"
+		type = frigate
+	}
+	ship = {
+		name = "Augustus"
+		type = frigate
+	}
+	ship = {
+		name = "Volos"
+		type = frigate
+	}
+	ship = {
+		name = "Kelis"
+		type = frigate
+	}
+	ship = {
+		name = "Volos"
+		type = frigate
+	}
+	ship = {
+		name = "Kelis"
+		type = frigate
+	}
+	ship = {
+		name = "Augustus"
+		type = frigate
+	}
+	ship = {
+		name = "Volos"
+		type = frigate
+	}
+	ship = {
+		name = "Kelis"
+		type = frigate
+	}
+	ship = {
+		name = "Volos"
+		type = frigate
+	}
+	ship = {
+		name = "1. Condor"
+		type = clipper_transport
+	}
+	ship = {
+		name = "2. Condor"
+		type = clipper_transport
+	}
+	ship = {
+		name = "3. Condor"
+		type = clipper_transport
+	}
+	ship = {
+		name = "4. Condor"
+		type = clipper_transport
+	}
+	ship = {
+		name = "5. Condor"
+		type = clipper_transport
+	}
+	ship = {
+		name = "1. Condor"
+		type = clipper_transport
+	}
+	ship = {
+		name = "2. Condor"
+		type = clipper_transport
+	}
+	ship = {
+		name = "3. Condor"
+		type = clipper_transport
+	}
+	ship = {
+		name = "4. Condor"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "Toushka"
+		type = manowar
+	}
+
+	ship = {
+		name= "Sharm El-Sheikh"
+		type = manowar
+	}
+
+	ship = {
+		name= "Damyat"
+		type = manowar
+	}
+
+	ship = {
+		name= "Rasheed"
+		type = manowar
+	}
+
+	ship = {
+		name= "El Suez"
+		type = manowar
+	}
+
+	ship = {
+		name= "El Aboukir"
+		type = frigate
+	}
+
+	ship = {
+		name= "Najim al Zafir"
+		type = frigate
+	}
+
+	ship = {
+		name= "Cairo"
+		type = frigate
+	}
+
+	ship = {
+		name= "Al Iskandariyah"
+		type = frigate
+	}
+
+	ship = {
+		name= "Aswan"
+		type = frigate
+	}
+
+	ship = {
+		name= "1st transport flotilla"
+		type = clipper_transport
+	}
+
+}

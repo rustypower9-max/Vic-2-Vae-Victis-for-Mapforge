@@ -1,0 +1,13 @@
+add_core = TEX
+
+
+trade_goods = cattle
+life_rating = 20
+fort = 1 #Remember the Alamo!
+1861.1.1 = {
+	
+	
+	add_core = CSA
+	
+}
+

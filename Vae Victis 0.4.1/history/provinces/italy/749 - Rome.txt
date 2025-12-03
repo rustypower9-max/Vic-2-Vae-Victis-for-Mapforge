@@ -1,0 +1,44 @@
+owner = RWM
+controller = RWM
+add_core = RWM
+#add_core = ITA
+
+state_building = {
+	level = 2
+	building = steel_factory
+	upgrade = yes
+}
+state_building = {
+	level = 2
+	building = artillery_factory
+	upgrade = yes
+}
+state_building = {
+	level = 2
+	building = ammunition_factory
+	upgrade = yes
+}
+state_building = {
+	level = 2
+	building = explosives_factory
+	upgrade = yes
+}
+state_building = {
+	level = 2
+	building = fertilizer_factory
+	upgrade = yes
+}
+
+state_building = {
+	level = 1
+	building = clipper_shipyard
+	upgrade = yes
+}
+
+trade_goods = grain
+life_rating = 40
+1861.1.1 = {
+	#add_core = ITA
+}
+1861.1.1 = { railroad = 2 }
+

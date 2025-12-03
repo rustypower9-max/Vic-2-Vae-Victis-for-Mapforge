@@ -1,0 +1,1093 @@
+#Baguirmi Region (164000)
+#under the rule of Kanem-Bornu in 1836
+#Massenya (320000/80000 POPS)
+1818 = {
+    aristocrats = {
+        culture = rashidun
+        religion = placeholder
+        size = 290
+    }
+
+    bureaucrats = {
+        culture = rashidun
+        religion = placeholder
+        size = 23
+    }
+
+    officers = {
+        culture = rashidun
+        religion = placeholder
+        size = 35
+    }
+
+    clergymen = {
+        culture = rashidun
+        religion = placeholder
+        size = 232
+    }
+
+    artisans = {
+        culture = rashidun
+        religion = placeholder
+        size = 1046
+    }
+
+    soldiers = {
+        culture = rashidun
+        religion = placeholder
+        size = 232
+    }
+
+    farmers = {
+        culture = rashidun
+        religion = placeholder
+        size = 14415
+    }
+
+    aristocrats = {
+        culture = rashidun
+        religion = placeholder
+        size = 232
+    }
+
+    clergymen = {
+        culture = rashidun
+        religion = placeholder
+        size = 116
+    }
+
+    artisans = {
+        culture = rashidun
+        religion = placeholder
+        size = 697
+    }
+
+    soldiers = {
+        culture = rashidun
+        religion = placeholder
+        size = 116
+    }
+
+    farmers = {
+        culture = rashidun
+        religion = placeholder
+        size = 12787
+    }
+
+    slaves = {
+        culture = rashidun
+        religion = placeholder
+        size = 4650
+    }
+
+    aristocrats = {
+        culture = rashidun
+        religion = placeholder
+        size = 173
+    }
+
+    clergymen = {
+        culture = rashidun
+        religion = placeholder
+        size = 116
+    }
+
+    artisans = {
+        culture = rashidun
+        religion = placeholder
+        size = 638
+    }
+
+    soldiers = {
+        culture = rashidun
+        religion = placeholder
+        size = 116
+    }
+
+    farmers = {
+        culture = rashidun
+        religion = placeholder
+        size = 10636
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 143
+    }
+
+    bureaucrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 11
+    }
+
+    officers = {
+        culture = barbarian
+        religion = placeholder
+        size = 17
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 114
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 513
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 114
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 7068
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 114
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 57
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 342
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 57
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 6270
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 2280
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 86
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 57
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 314
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 57
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 5216
+    }
+}
+#Moundou (48000/12000 POPS)
+1819 = {
+    aristocrats = {
+        culture = rashidun
+        religion = placeholder
+        size = 43
+    }
+
+    clergymen = {
+        culture = rashidun
+        religion = placeholder
+        size = 28
+    }
+
+    artisans = {
+        culture = rashidun
+        religion = placeholder
+        size = 145
+    }
+
+    soldiers = {
+        culture = rashidun
+        religion = placeholder
+        size = 28
+    }
+
+    farmers = {
+        culture = rashidun
+        religion = placeholder
+        size = 333
+    }
+
+    aristocrats = {
+        culture = rashidun
+        religion = placeholder
+        size = 72
+    }
+
+    clergymen = {
+        culture = rashidun
+        religion = placeholder
+        size = 43
+    }
+
+    artisans = {
+        culture = rashidun
+        religion = placeholder
+        size = 202
+    }
+
+    soldiers = {
+        culture = rashidun
+        religion = placeholder
+        size = 43
+    }
+
+    farmers = {
+        culture = rashidun
+        religion = placeholder
+        size = 3705
+    }
+
+    slaves = {
+        culture = punic
+        religion = placeholder
+        size = 2000
+    }
+
+    slaves = {
+        culture = punic
+        religion = placeholder
+        size = 2000
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 21
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 14
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 71
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 14
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 164
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 35
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 21
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 100
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 21
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 1817
+    }
+}
+#Bongor (36000/9000 POPS)
+1820 = {
+    aristocrats = {
+        culture = rashidun
+        religion = placeholder
+        size = 13
+    }
+
+    clergymen = {
+        culture = rashidun
+        religion = placeholder
+        size = 28
+    }
+
+    artisans = {
+        culture = rashidun
+        religion = placeholder
+        size = 57
+    }
+
+    soldiers = {
+        culture = rashidun
+        religion = placeholder
+        size = 13
+    }
+
+    farmers = {
+        culture = rashidun
+        religion = placeholder
+        size = 1046
+    }
+
+    aristocrats = {
+        culture = rashidun
+        religion = placeholder
+        size = 72
+    }
+
+    clergymen = {
+        culture = rashidun
+        religion = placeholder
+        size = 43
+    }
+
+    artisans = {
+        culture = rashidun
+        religion = placeholder
+        size = 202
+    }
+
+    soldiers = {
+        culture = rashidun
+        religion = placeholder
+        size = 43
+    }
+
+    farmers = {
+        culture = rashidun
+        religion = placeholder
+        size = 3705
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 7
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 14
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 29
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 7
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 513
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 35
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 21
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 100
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 21
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 1817
+    }
+}
+#Wadai Region (488000)
+#under the rule of Wadai in 1836
+#Abeche (136000/34000 POPS)
+1821 = {
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 350
+    }
+
+    bureaucrats = {
+        culture = berber
+        religion = placeholder
+        size = 50
+    }
+
+    officers = {
+        culture = berber
+        religion = placeholder
+        size = 100
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 200
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 1100
+    }
+
+    soldiers = {
+        culture = berber
+        religion = placeholder
+        size = 1250
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 13000
+    }
+
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 150
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 100
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 600
+    }
+
+    soldiers = {
+        culture = berber
+        religion = placeholder
+        size = 100
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 9000
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 8000
+    }
+}
+#Am Timan (168000/42000 POPS)
+1822 = {
+    aristocrats = {
+        culture = rashidun
+        religion = placeholder
+        size = 318
+    }
+
+    clergymen = {
+        culture = rashidun
+        religion = placeholder
+        size = 173
+    }
+
+    artisans = {
+        culture = rashidun
+        religion = placeholder
+        size = 697
+    }
+
+    soldiers = {
+        culture = rashidun
+        religion = placeholder
+        size = 173
+    }
+
+    farmers = {
+        culture = rashidun
+        religion = placeholder
+        size = 12583
+    }
+
+    slaves = {
+        culture = rashidun
+        religion = placeholder
+        size = 5812
+    }
+
+    aristocrats = {
+        culture = rashidun
+        religion = placeholder
+        size = 86
+    }
+
+    clergymen = {
+        culture = rashidun
+        religion = placeholder
+        size = 57
+    }
+
+    artisans = {
+        culture = rashidun
+        religion = placeholder
+        size = 202
+    }
+
+    soldiers = {
+        culture = rashidun
+        religion = placeholder
+        size = 57
+    }
+
+    farmers = {
+        culture = rashidun
+        religion = placeholder
+        size = 4242
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 157
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 86
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 342
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 86
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 6170
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 2850
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 43
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 29
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 100
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 29
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 2081
+    }
+}
+#Mongo (184000/46000 POPS)
+1823 = {
+    aristocrats = {
+        culture = rashidun
+        religion = placeholder
+        size = 406
+    }
+
+    clergymen = {
+        culture = rashidun
+        religion = placeholder
+        size = 202
+    }
+
+    artisans = {
+        culture = rashidun
+        religion = placeholder
+        size = 842
+    }
+
+    soldiers = {
+        culture = rashidun
+        religion = placeholder
+        size = 581
+    }
+
+    farmers = {
+        culture = rashidun
+        religion = placeholder
+        size = 15402
+    }
+
+    aristocrats = {
+        culture = rashidun
+        religion = placeholder
+        size = 57
+    }
+
+    clergymen = {
+        culture = rashidun
+        religion = placeholder
+        size = 86
+    }
+
+    artisans = {
+        culture = rashidun
+        religion = placeholder
+        size = 173
+    }
+
+    soldiers = {
+        culture = rashidun
+        religion = placeholder
+        size = 28
+    }
+
+    farmers = {
+        culture = rashidun
+        religion = placeholder
+        size = 3138
+    }
+
+    aristocrats = {
+        culture = rashidun
+        religion = placeholder
+        size = 28
+    }
+
+    clergymen = {
+        culture = rashidun
+        religion = placeholder
+        size = 57
+    }
+
+    artisans = {
+        culture = rashidun
+        religion = placeholder
+        size = 116
+    }
+
+    soldiers = {
+        culture = rashidun
+        religion = placeholder
+        size = 28
+    }
+
+    farmers = {
+        culture = rashidun
+        religion = placeholder
+        size = 2092
+    }
+
+    slaves = {
+        culture = rashidun
+        religion = placeholder
+        size = 3487
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 200
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 100
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 413
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 285
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 7553
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 29
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 43
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 86
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 14
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 1539
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 14
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 29
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 57
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 14
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 1026
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 1710
+    }
+}
+#Kanem Region (288000)
+#under the rule of Kanem-Bornu in 1836
+#Mao (752000/188000 POPS)
+1824 = {
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 2600
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 1300
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 5300
+    }
+
+    soldiers = {
+        culture = berber
+        religion = placeholder
+        size = 1400
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 93400
+    }
+
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 100
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 200
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 400
+    }
+
+    soldiers = {
+        culture = berber
+        religion = placeholder
+        size = 100
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 7200
+    }
+
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 900
+    }
+
+    bureaucrats = {
+        culture = berber
+        religion = placeholder
+        size = 100
+    }
+
+    officers = {
+        culture = berber
+        religion = placeholder
+        size = 200
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 500
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 2400
+    }
+
+    soldiers = {
+        culture = berber
+        religion = placeholder
+        size = 500
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 23400
+    }
+
+    slaves = {
+        culture = berber
+        religion = placeholder
+        size = 48000
+    }
+}
+#Zouar (72000/18000 POPS)
+1825 = {
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 300
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 150
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 800
+    }
+
+    soldiers = {
+        culture = berber
+        religion = placeholder
+        size = 175
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 14575
+    }
+
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 25
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 50
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 100
+    }
+
+    soldiers = {
+        culture = berber
+        religion = placeholder
+        size = 25
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 1800
+    }
+}
+#under the rule of Wadai in 1836
+#Faya (56000/14000 POPS)
+1826 = {
+    aristocrats = {
+        culture = berber
+        religion = placeholder
+        size = 250
+    }
+
+    clergymen = {
+        culture = berber
+        religion = placeholder
+        size = 150
+    }
+
+    artisans = {
+        culture = berber
+        religion = placeholder
+        size = 700
+    }
+
+    soldiers = {
+        culture = berber
+        religion = placeholder
+        size = 150
+    }
+
+    farmers = {
+        culture = berber
+        religion = placeholder
+        size = 12750
+    }
+}

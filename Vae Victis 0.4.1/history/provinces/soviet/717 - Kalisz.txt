@@ -1,0 +1,6 @@
+owner = KSH
+controller = KSH
+add_core = KSH
+trade_goods = grain
+life_rating = 35
+

@@ -1,0 +1,29 @@
+owner = LOM
+controller = LOM
+add_core = LOM
+#add_core = ITA
+
+state_building = {
+	level = 2 
+	building = artillery_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1 
+	building = clipper_shipyard
+	upgrade = yes
+}
+
+state_building = {
+	level = 2 
+	building = small_arms_factory
+	upgrade = yes
+}
+
+trade_goods = fish
+life_rating = 38
+1861.1.1 = {
+	controller = ITA
+	owner = ITA
+	#add_core = ITA
+}

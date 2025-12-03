@@ -1,0 +1,88 @@
+* List of Culture Groups and Cultures for quick reference. Remember you get increased Assimilation bonus (200%) if your primary culture or accepted culture is in these culture groups:
+
+*GERMAN
+	Nordgermanic
+	Ostgermanic
+	Suebi
+	Gothic
+
+*CELTIC
+	Briton
+	Hibernian
+	Caledonian
+	Gaulic
+	Belgae
+
+*PUNIC
+	Punic
+	Rewmqart
+	Celtipunian
+	Barqanesh
+	Canaanite
+	Hannoic
+
+*GREEK
+	Hellene
+	Anatolian
+	Seleucid
+	Alexandrian
+	Bactrian
+
+*TURKIC
+	Gokturk
+	Sakan
+	Kuzturk
+	Skifturk
+
+*SEMETIC
+	Kemetic
+	Yamnat
+	Baridun
+	Rashidun
+	Israelite
+	Arab
+
+*CHRISTIAN (may be merged into Semetic in the future)
+	Nephite
+	Zeraphite
+	Ukisi (Kongo)
+	Sevasm
+	Asherite
+
+*BALTO-SLAVIC
+	Kashubian
+	Polabian
+	Veneti
+	Baltic
+	Dakijan
+
+*EURO-ISOLATE
+	Italic
+	Illyrian
+	Finnish
+	Novoalpine
+	Armenian
+
+*AFRICAN
+	Numidian
+	Khoisan
+
+*IRANIAN
+	Aryan
+
+*SOUTH ASIAN
+	Indo-Aryan
+	Dravidian
+
+*EAST ASIAN
+	Bon
+	North Han
+	South Han
+	Yemaek
+
+*JAPONIC
+	Wa
+	Byeohan
+
+*BARBARIAN
+	Barbarian (NOTE: HAS AN INNATE ASSIM PENALTY FOR ALL CULTURES)

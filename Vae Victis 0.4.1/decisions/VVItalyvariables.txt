@@ -1,0 +1,1355 @@
+political_decisions = {
+###Rewm###
+###Mediolanum###
+mediorwm = {
+	picture = "Rebellion"
+	potential = {
+	RWM = {
+		owns = 726
+	}
+		tag = GHO
+		NOT = { has_global_flag = mediorwm }
+		NOT = { has_global_flag = romqart_federation_destroyed }
+	}
+	
+	allow = {
+	}
+
+	effect = {
+		set_global_flag = mediorwm
+		RWM = {
+	 change_variable = {
+	 which = VP's
+	 value = 1
+	 }
+	}
+	}
+	ai_will_do = {
+            factor = 100
+        }
+}
+
+mediorwmlost = {
+	potential = {
+	RWM = {
+		NOT = { owns = 726 }
+	}
+		tag = GHO
+		has_global_flag = mediorwm 
+		NOT = { has_global_flag = romqart_federation_destroyed }
+	}
+
+	allow = {
+	}
+
+	effect = {
+		clr_global_flag = mediorwm
+	 RWM = {
+	 change_variable = {
+	 which = VP's
+	 value = -1
+	}
+	}
+	}
+	ai_will_do = {
+            factor = 100
+        }
+}
+
+###Modena###
+modenarwm = {
+	potential = {
+	RWM = {
+		owns = 739
+	}
+		tag = GHO
+		NOT = { has_global_flag = modenarwm }
+		NOT = { has_global_flag = romqart_federation_destroyed }
+	}
+
+	allow = {
+}
+
+	effect = {
+		set_global_flag = modenarwm
+	 RWM = {
+	 change_variable = {
+	 which = VP's
+	 value = 1
+	}
+}
+	}
+	ai_will_do = {
+            factor = 100
+        }
+}
+
+modenarwmlost = {
+	potential = {
+	RWM = {
+		NOT = { owns = 739 }
+	}
+		tag = GHO
+		has_global_flag = modenarwm 
+		NOT = { has_global_flag = romqart_federation_destroyed }
+	}
+
+	allow = {
+	}
+	 
+
+	effect = {
+		clr_global_flag = modenarwm
+	RWM = {
+	 change_variable = {
+	 which = VP's
+	 value = -1
+	}
+	}
+	}
+	ai_will_do = {
+            factor = 100
+        }
+}
+
+###Florence###
+florencerwm = {
+	potential = {
+	RWM = {
+		owns = 744
+	}
+		tag = GHO
+		NOT = { has_global_flag = florencerwm }
+		NOT = { has_global_flag = romqart_federation_destroyed }
+	}
+
+	allow = {
+}
+
+	effect = {
+		set_global_flag = florencerwm
+	 RWM = {
+	 change_variable = {
+	 which = VP's
+	 value = 1
+	}
+	}
+	}
+	ai_will_do = {
+            factor = 100
+        }
+}
+
+florencerwmlost = {
+	potential = {
+	RWM = {
+		NOT = { owns = 744 }
+	}
+		tag = GHO
+		has_global_flag = florencerwm 
+		NOT = { has_global_flag = romqart_federation_destroyed }
+	}
+
+	allow = {
+}
+
+	effect = {
+		clr_global_flag = florencerwm
+	 RWM = {
+	 change_variable = {
+	 which = VP's
+	 value = -1
+	}
+	}
+	}
+	ai_will_do = {
+            factor = 100
+        }
+}
+
+###Rome###
+romerwm = {
+	potential = {
+	RWM = {
+		owns = 749
+	}
+		tag = GHO
+		NOT = { has_global_flag = romerwm }
+	}
+
+	allow = {
+}
+
+	effect = {
+		set_global_flag = romerwm
+		NOT = { has_global_flag = romqart_federation_destroyed }
+	 RWM = {
+	 change_variable = {
+	 which = VP's
+	 value = 1
+	}
+	}
+	}
+	ai_will_do = {
+            factor = 100
+        }
+}
+
+romerwmlost = {
+	potential = {
+	RWM = {
+		NOT = { owns = 749 }
+	}
+		tag = GHO
+		has_global_flag = romerwm 
+		NOT = { has_global_flag = romqart_federation_destroyed }
+	}
+
+	allow = {
+}
+
+	effect = {
+		 clr_global_flag = romerwm
+	 RWM = {
+	 change_variable = {
+	 which = VP's
+	 value = -1
+	}
+	}
+	}
+	ai_will_do = {
+            factor = 100
+        }
+}
+
+###Sicily###
+sicilyrwm = {
+	potential = {
+	RWM = {
+		owns = 764
+	}
+		tag = GHO
+		NOT = { has_global_flag = sicilyrwm }
+		NOT = { has_global_flag = romqart_federation_destroyed }
+	}
+
+	allow = {
+}
+
+	effect = {
+	 set_global_flag = sicilyrwm
+	 RWM = {
+	 change_variable = {
+	 which = VP's
+	 value = 1
+	}
+	}
+	}
+	ai_will_do = {
+            factor = 100
+        }
+}
+
+sicilyrwmlost = {
+	potential = {
+	RWM = {
+		NOT = { owns = 764 }
+	}
+		tag = GHO
+		has_global_flag = sicilyrwm 
+		NOT = { has_global_flag = romqart_federation_destroyed }
+	}
+
+	allow = {
+}
+
+	effect = {
+		 clr_global_flag = sicilyrwm
+	 RWM = {
+	 change_variable = {
+	 which = VP's
+	 value = -1
+	}
+	}
+	}
+	ai_will_do = {
+            factor = 100
+        }
+}
+
+###Tyrae###
+tyraerwm = {
+	potential = {
+	RWM = {
+		owns = 467
+	}
+		tag = GHO
+		NOT = { has_global_flag = tyraerwm }
+		NOT = { has_global_flag = romqart_federation_destroyed }
+	}
+
+	allow = {
+}
+
+	effect = {
+	 set_global_flag = tyraerwm
+	 RWM = {
+	 change_variable = {
+	 which = VP's
+	 value = 1
+	}
+	}
+	}
+	ai_will_do = {
+            factor = 100
+        }
+}
+
+tyraerwmlost = {
+	potential = {
+	RWM = {
+		NOT = { owns = 467 }
+	}
+		tag = GHO
+		has_global_flag = tyraerwm 
+		NOT = { has_global_flag = romqart_federation_destroyed }
+	}
+
+	allow = {
+}
+
+	effect = {
+		 clr_global_flag = tyraerwm
+	 RWM = {
+	 change_variable = {
+	 which = VP's
+	 value = -1
+	}
+	}
+	}
+	ai_will_do = {
+            factor = 100
+        }
+}
+
+###Trieste###
+triesterwm = {
+	potential = {
+	RWM = {
+		owns = 736
+	}
+		tag = GHO
+		NOT = { has_global_flag = triesterwm }
+		NOT = { has_global_flag = romqart_federation_destroyed }
+	}
+
+	allow = {
+}
+
+	effect = {
+	 set_global_flag = tyraerwm
+	 RWM = {
+	 change_variable = {
+	 which = VP's
+	 value = 1
+	}
+	}
+	}
+	ai_will_do = {
+            factor = 100
+        }
+}
+
+triesterwmlost = {
+	potential = {
+	RWM = {
+		NOT = { owns = 736 }
+	}
+		tag = GHO
+		has_global_flag = triesterwm 
+		NOT = { has_global_flag = romqart_federation_destroyed }
+	}
+
+	allow = {
+}
+
+	effect = {
+		 clr_global_flag = triesterwm
+	 RWM = {
+	 change_variable = {
+	 which = VP's
+	 value = -1
+	}
+	}
+	}
+	ai_will_do = {
+            factor = 100
+        }
+}
+
+###Iader###
+iaderrwm = {
+	potential = {
+	RWM = {
+		owns = 781
+	}
+		tag = GHO
+		NOT = { has_global_flag = iaderrwm }
+		NOT = { has_global_flag = romqart_federation_destroyed }
+	}
+
+	allow = {
+}
+
+	effect = {
+	 set_global_flag = iaderrwm
+	 RWM = {
+	 change_variable = {
+	 which = VP's
+	 value = 1
+	}
+	}
+	}
+	ai_will_do = {
+            factor = 100
+        }
+}
+
+iaderrwmlost = {
+	potential = {
+	RWM = {
+		NOT = { owns = 781 }
+	}
+		tag = GHO
+		has_global_flag = iaderrwm 
+		NOT = { has_global_flag = romqart_federation_destroyed }
+	}
+
+	allow = {
+}
+
+	effect = {
+		 clr_global_flag = iaderrwm
+	 RWM = {
+	 change_variable = {
+	 which = VP's
+	 value = -1
+	}
+	}
+	}
+	ai_will_do = {
+            factor = 100
+        }
+}
+
+###Punicum###
+###Mediolanum###
+mediocat = {
+	picture = "Rebellion"
+	potential = {
+	CAT = {
+		owns = 726
+	}
+		tag = GHO
+		NOT = { has_global_flag = mediocat }
+		NOT = { has_global_flag = romqart_federation_destroyed }
+	}
+	
+	allow = {
+	}
+
+	effect = {
+		set_global_flag = mediocat
+		CAT = {
+	 change_variable = {
+	 which = VP's
+	 value = 1
+	 }
+	}
+	}
+	ai_will_do = {
+            factor = 100
+        }
+}
+
+mediocatlost = {
+	potential = {
+	CAT = {
+		NOT = { owns = 726 }
+	}
+		tag = GHO
+		has_global_flag = mediocat 
+		NOT = { has_global_flag = romqart_federation_destroyed }
+	}
+
+	allow = {
+	}
+
+	effect = {
+		clr_global_flag = mediocat
+	 CAT = {
+	 change_variable = {
+	 which = VP's
+	 value = -1
+	}
+	}
+	}
+	ai_will_do = {
+            factor = 100
+        }
+}
+
+###Modena###
+modenacat = {
+	potential = {
+	CAT = {
+		owns = 739
+	}
+		tag = GHO
+		NOT = { has_global_flag = modenacat }
+		NOT = { has_global_flag = romqart_federation_destroyed }
+	}
+
+	allow = {
+}
+
+	effect = {
+		set_global_flag = modenacat
+	 CAT = {
+	 change_variable = {
+	 which = VP's
+	 value = 1
+	}
+}
+	}
+	ai_will_do = {
+            factor = 100
+        }
+}
+
+modenacatlost = {
+	potential = {
+	CAT = {
+		NOT = { owns = 739 }
+	}
+		tag = GHO
+		has_global_flag = modenacat 
+		NOT = { has_global_flag = romqart_federation_destroyed }
+	}
+
+	allow = {
+	}
+	 
+
+	effect = {
+		clr_global_flag = modenacat
+	CAT = {
+	 change_variable = {
+	 which = VP's
+	 value = -1
+	}
+	}
+	}
+	ai_will_do = {
+            factor = 100
+        }
+}
+
+###Florence###
+florencecat = {
+	potential = {
+	CAT = {
+		owns = 744
+	}
+		tag = GHO
+		NOT = { has_global_flag = florencecat }
+		NOT = { has_global_flag = romqart_federation_destroyed }
+	}
+
+	allow = {
+}
+
+	effect = {
+		set_global_flag = florencecat
+	 CAT = {
+	 change_variable = {
+	 which = VP's
+	 value = 1
+	}
+	}
+	}
+	ai_will_do = {
+            factor = 100
+        }
+}
+
+florencecatlost = {
+	potential = {
+	CAT = {
+		NOT = { owns = 744 }
+	}
+		tag = GHO
+		has_global_flag = florencecat 
+		NOT = { has_global_flag = romqart_federation_destroyed }
+	}
+
+	allow = {
+}
+
+	effect = {
+		clr_global_flag = florencecat
+	 CAT = {
+	 change_variable = {
+	 which = VP's
+	 value = -1
+	}
+	}
+	}
+	ai_will_do = {
+            factor = 100
+        }
+}
+
+###Rome###
+romecat = {
+	potential = {
+	CAT = {
+		owns = 749
+	}
+		tag = GHO
+		NOT = { has_global_flag = romecat }
+	}
+
+	allow = {
+}
+
+	effect = {
+		set_global_flag = romecat
+		NOT = { has_global_flag = romqart_federation_destroyed }
+	 CAT = {
+	 change_variable = {
+	 which = VP's
+	 value = 1
+				}
+			}
+		}
+	ai_will_do = {
+            factor = 100
+        }
+}
+
+romecatlost = {
+	potential = {
+	CAT = {
+		NOT = { owns = 749 }
+	}
+		tag = GHO
+		has_global_flag = romecat 
+		NOT = { has_global_flag = romqart_federation_destroyed }
+	}
+
+	allow = {
+}
+
+	effect = {
+		 clr_global_flag = romecat
+	 CAT = {
+	 change_variable = {
+	 which = VP's
+	 value = -1
+	}
+	}
+	}
+	ai_will_do = {
+            factor = 100
+        }
+}
+
+###Sicily###
+sicilycat = {
+	potential = {
+	CAT = {
+		owns = 764
+	}
+		tag = GHO
+		NOT = { has_global_flag = sicilycat }
+		NOT = { has_global_flag = romqart_federation_destroyed }
+	}
+
+	allow = {
+}
+
+	effect = {
+	 set_global_flag = sicilycat
+	 CAT = {
+	 change_variable = {
+	 which = VP's
+	 value = 1
+			}
+		}
+	}
+	ai_will_do = {
+            factor = 100
+        }
+}
+
+sicilycatlost = {
+	potential = {
+	CAT = {
+		NOT = { owns = 764 }
+	}
+		tag = GHO
+		has_global_flag = sicilycat 
+		NOT = { has_global_flag = romqart_federation_destroyed }
+	}
+
+	allow = {
+}
+
+	effect = {
+		 clr_global_flag = sicilycat
+	 CAT = {
+	 change_variable = {
+	 which = VP's
+	 value = -1
+	}
+	}
+	}
+	ai_will_do = {
+            factor = 100
+        }
+}
+
+###Tyrae###
+tyraecat = {
+	potential = {
+	CAT = {
+		owns = 467
+	}
+		tag = GHO
+		NOT = { has_global_flag = tyraecat }
+		NOT = { has_global_flag = romqart_federation_destroyed }
+	}
+
+	allow = {
+}
+
+	effect = {
+	 set_global_flag = tyraecat
+	 CAT = {
+	 change_variable = {
+	 which = VP's
+	 value = 1
+	}
+	}
+	}
+	ai_will_do = {
+            factor = 100
+        }
+}
+
+tyraecatlost = {
+	potential = {
+	CAT = {
+		NOT = { owns = 467 }
+	}
+		tag = GHO
+		has_global_flag = tyraecat 
+		NOT = { has_global_flag = romqart_federation_destroyed }
+	}
+
+	allow = {
+}
+
+	effect = {
+		 clr_global_flag = tyraecat
+	 CAT = {
+	 change_variable = {
+	 which = VP's
+	 value = -1
+	}
+	}
+	}
+	ai_will_do = {
+            factor = 100
+        }
+}
+
+###Trieste###
+triestecat = {
+	potential = {
+	CAT = {
+		owns = 736
+	}
+		tag = GHO
+		NOT = { has_global_flag = triestecat }
+		NOT = { has_global_flag = romqart_federation_destroyed }
+	}
+
+	allow = {
+}
+
+	effect = {
+	 set_global_flag = triestecat
+	 CAT = {
+	 change_variable = {
+	 which = VP's
+	 value = 1
+	}
+	}
+	}
+	ai_will_do = {
+            factor = 100
+        }
+}
+
+triestecatlost = {
+	potential = {
+	CAT = {
+		NOT = { owns = 736 }
+	}
+		tag = GHO
+		has_global_flag = triestecat 
+		NOT = { has_global_flag = romqart_federation_destroyed }
+	}
+
+	allow = {
+}
+
+	effect = {
+		 clr_global_flag = triestecat
+	 CAT = {
+	 change_variable = {
+	 which = VP's
+	 value = -1
+	}
+	}
+	}
+	ai_will_do = {
+            factor = 100
+        }
+}
+
+###Iader###
+iadercat = {
+	potential = {
+	CAT = {
+		owns = 781
+	}
+		tag = GHO
+		NOT = { has_global_flag = iadercat }
+		NOT = { has_global_flag = romqart_federation_destroyed }
+	}
+
+	allow = {
+}
+
+	effect = {
+	 set_global_flag = iadercat
+	 CAT = {
+	 change_variable = {
+	 which = VP's
+	 value = 1
+	}
+	}
+	}
+	ai_will_do = {
+            factor = 100
+        }
+}
+
+iadercatlost = {
+	potential = {
+	CAT = {
+		NOT = { owns = 781 }
+	}
+		tag = GHO
+		has_global_flag = iadercat 
+		NOT = { has_global_flag = romqart_federation_destroyed }
+	}
+
+	allow = {
+}
+
+	effect = {
+		 clr_global_flag = iadercat
+	 CAT = {
+	 change_variable = {
+	 which = VP's
+	 value = -1
+	}
+	}
+	}
+	ai_will_do = {
+            factor = 100
+        }
+}
+###Illyria###
+###Mediolanum###
+mediocro = {
+	picture = "Rebellion"
+	potential = {
+	CRO = {
+		owns = 726
+	}
+		tag = GHO
+		NOT = { has_global_flag = mediocro }
+		NOT = { has_global_flag = romqart_federation_destroyed }
+	}
+	
+	allow = {
+	}
+
+	effect = {
+		set_global_flag = mediocro
+		CAT = {
+	 change_variable = {
+	 which = VP's
+	 value = 1
+	 }
+	}
+	}
+	ai_will_do = {
+            factor = 100
+        }
+}
+
+mediocrolost = {
+	potential = {
+	CRO = {
+		NOT = { owns = 726 }
+	}
+		tag = GHO
+		has_global_flag = mediocro 
+		NOT = { has_global_flag = romqart_federation_destroyed }
+	}
+
+	allow = {
+	}
+
+	effect = {
+		clr_global_flag = mediocro
+	 CRO = {
+	 change_variable = {
+	 which = VP's
+	 value = -1
+	}
+	}
+	}
+	ai_will_do = {
+            factor = 100
+        }
+}
+
+###Modena###
+modenacro = {
+	potential = {
+	CRO = {
+		owns = 739
+	}
+		tag = GHO
+		NOT = { has_global_flag = modenacro }
+		NOT = { has_global_flag = romqart_federation_destroyed }
+	}
+
+	allow = {
+}
+
+	effect = {
+		set_global_flag = modenacro
+	 CRO = {
+	 change_variable = {
+	 which = VP's
+	 value = 1
+			}
+		}
+	}
+	ai_will_do = {
+            factor = 100
+        }
+}
+
+modenacrolost = {
+	potential = {
+	CRO = {
+		NOT = { owns = 739 }
+	}
+		tag = GHO
+		has_global_flag = modenacro 
+		NOT = { has_global_flag = romqart_federation_destroyed }
+	}
+
+	allow = {
+	}
+	 
+
+	effect = {
+		clr_global_flag = modenacro
+	CRO = {
+	 change_variable = {
+	 which = VP's
+	 value = -1
+	}
+	}
+	}
+	ai_will_do = {
+            factor = 100
+        }
+}
+
+###Florence###
+florencecro = {
+	potential = {
+	CRO = {
+		owns = 744
+	}
+		tag = GHO
+		NOT = { has_global_flag = florencecro }
+		NOT = { has_global_flag = romqart_federation_destroyed }
+	}
+
+	allow = {
+}
+
+	effect = {
+		set_global_flag = florencecro
+	 CRO = {
+	 change_variable = {
+	 which = VP's
+	 value = 1
+	}
+	}
+	}
+	ai_will_do = {
+            factor = 100
+        }
+}
+
+florencecrolost = {
+	potential = {
+	CRO = {
+		NOT = { owns = 744 }
+	}
+		tag = GHO
+		has_global_flag = florencecro 
+		NOT = { has_global_flag = romqart_federation_destroyed }
+	}
+
+	allow = {
+}
+
+	effect = {
+		clr_global_flag = florencecro
+	 CRO = {
+	 change_variable = {
+	 which = VP's
+	 value = -1
+	}
+	}
+	}
+	ai_will_do = {
+            factor = 100
+        }
+}
+
+###Rome###
+romecro = {
+	potential = {
+	CRO = {
+		owns = 749
+	}
+		tag = GHO
+		NOT = { has_global_flag = romecro }
+	}
+
+	allow = {
+}
+
+	effect = {
+		set_global_flag = romecro
+		NOT = { has_global_flag = romqart_federation_destroyed }
+	 CRO = {
+	 change_variable = {
+	 which = VP's
+	 value = 1
+	}
+	}
+	}
+	ai_will_do = {
+            factor = 100
+        }
+}
+
+romecrolost = {
+	potential = {
+	CRO = {
+		NOT = { owns = 749 }
+	}
+		tag = GHO
+		has_global_flag = romecro 
+		NOT = { has_global_flag = romqart_federation_destroyed }
+	}
+
+	allow = {
+}
+
+	effect = {
+		 clr_global_flag = romecro
+	 CRO = {
+	 change_variable = {
+	 which = VP's
+	 value = -1
+	}
+	}
+	}
+	ai_will_do = {
+            factor = 100
+        }
+}
+
+###Sicily###
+sicilycro = {
+	potential = {
+	CRO = {
+		owns = 764
+	}
+		tag = GHO
+		NOT = { has_global_flag = sicilycro }
+		NOT = { has_global_flag = romqart_federation_destroyed }
+	}
+
+	allow = {
+}
+
+	effect = {
+	 set_global_flag = sicilycro
+	 CRO = {
+	 change_variable = {
+	 which = VP's
+	 value = 1
+	}
+	}
+	}
+	ai_will_do = {
+            factor = 100
+        }
+}
+
+sicilycrolost = {
+	potential = {
+	CRO = {
+		NOT = { owns = 764 }
+	}
+		tag = GHO
+		has_global_flag = sicilycro 
+		NOT = { has_global_flag = romqart_federation_destroyed }
+	}
+
+	allow = {
+}
+
+	effect = {
+		 clr_global_flag = sicilycro
+	 CRO = {
+	 change_variable = {
+	 which = VP's
+	 value = -1
+	}
+	}
+	}
+	ai_will_do = {
+            factor = 100
+        }
+}
+
+###Tyrae###
+tyraecro = {
+	potential = {
+	CRO = {
+		owns = 467
+	}
+		tag = GHO
+		NOT = { has_global_flag = tyraecro }
+		NOT = { has_global_flag = romqart_federation_destroyed }
+	}
+
+	allow = {
+}
+
+	effect = {
+	 set_global_flag = tyraecro
+	 CRO = {
+	 change_variable = {
+	 which = VP's
+	 value = 1
+	}
+	}
+	}
+	ai_will_do = {
+            factor = 100
+        }
+}
+
+tyraecrolost = {
+	potential = {
+	CRO = {
+		NOT = { owns = 467 }
+	}
+		tag = GHO
+		has_global_flag = tyraecro 
+		NOT = { has_global_flag = romqart_federation_destroyed }
+	}
+
+	allow = {
+}
+
+	effect = {
+		 clr_global_flag = tyraecro
+	 CRO = {
+	 change_variable = {
+	 which = VP's
+	 value = -1
+	}
+	}
+	}
+	ai_will_do = {
+            factor = 100
+        }
+}
+
+###Trieste###
+triestecro = {
+	potential = {
+	CRO = {
+		owns = 736
+	}
+		tag = GHO
+		NOT = { has_global_flag = triestecro }
+		NOT = { has_global_flag = romqart_federation_destroyed }
+	}
+
+	allow = {
+}
+
+	effect = {
+	 set_global_flag = triestecro
+	 CRO = {
+	 change_variable = {
+	 which = VP's
+	 value = 1
+	}
+	}
+	}
+	ai_will_do = {
+            factor = 100
+        }
+}
+
+triestecrolost = {
+	potential = {
+	CRO = {
+		NOT = { owns = 736 }
+	}
+		tag = GHO
+		has_global_flag = triestecro 
+		NOT = { has_global_flag = romqart_federation_destroyed }
+	}
+
+	allow = {
+}
+
+	effect = {
+		 clr_global_flag = triestecro
+	 CRO = {
+	 change_variable = {
+	 which = VP's
+	 value = -1
+	}
+	}
+	}
+	ai_will_do = {
+            factor = 100
+        }
+}
+
+###Iader###
+iadercro = {
+	potential = {
+	CRO = {
+		owns = 781
+	}
+		tag = GHO
+		NOT = { has_global_flag = iadercro }
+		NOT = { has_global_flag = romqart_federation_destroyed }
+	}
+
+	allow = {
+}
+
+	effect = {
+	 set_global_flag = iadercro
+	 CRO = {
+	 change_variable = {
+	 which = VP's
+	 value = 1
+	}
+	}
+	}
+	ai_will_do = {
+            factor = 100
+        }
+}
+
+iadercrolost = {
+	potential = {
+	CRO = {
+		NOT = { owns = 781 }
+	}
+		tag = GHO
+		has_global_flag = iadercro 
+		NOT = { has_global_flag = romqart_federation_destroyed }
+	}
+
+	allow = {
+}
+
+	effect = {
+		 clr_global_flag = iadercro
+	 CRO = {
+	 change_variable = {
+	 which = VP's
+	 value = -1
+	}
+	}
+	}
+	ai_will_do = {
+            factor = 100
+        }
+}
+###################################
+# ROMQART CUCKED
+###################################
+romqartcucked = {
+	potential = {
+		tag = GHO
+		NOT = { exists = AIT } 
+		NOT = { has_global_flag = romqart_federation_destroyed }
+		year = 700
+	}
+
+	allow = {
+}
+
+	effect = {
+	set_global_flag = romqart_federation_destroyed
+		any_country = {
+			limit = { has_country_flag = romqart_candidate }
+			country_event = 97602
+		}
+	}
+	ai_will_do = {
+            factor = 100
+        }
+	}
+}
+

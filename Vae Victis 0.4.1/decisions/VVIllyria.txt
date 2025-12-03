@@ -1,0 +1,70 @@
+political_decisions = {
+	
+	CRO_inherits_ALB = {
+		picture = Execute_Bab
+		potential = {
+			tag = CRO
+			NOT = { has_country_flag = ALB_annexed }
+		}
+		allow = {
+			state_n_government = 1
+			ALB = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							vassal_of = THIS
+						}
+					}
+				}
+			}
+		}
+		effect = {
+			prestige = 5
+			set_country_flag = ALB_annexed
+			inherit = ALB
+			ALB = {
+				all_core = {
+					add_core = CRO
+					remove_core = ALB
+					secede_province = CRO
+				}
+			}
+		}
+	}
+	
+	CRO_Dacia = {
+		picture = dacians
+		potential = {
+			tag = CRO
+			NOT = { has_country_flag = CRO_Dacia }
+		}
+		allow = {
+			nationalism_n_imperialism = 1
+			WAL = {
+				all_core = {
+						owned_by = THIS
+				}
+			}
+			MOL = {
+				all_core = {
+						owned_by = THIS
+				}
+			}
+			SIE = {
+				all_core = {
+						owned_by = THIS
+				}
+			}
+		}
+		effect = {
+			prestige = 10
+			set_country_flag = CRO_Dacia
+			 any_pop = {
+                limit = { has_pop_culture = dacian }
+				militancy = -4
+				consciousness = -1
+			}
+		}
+	}
+}

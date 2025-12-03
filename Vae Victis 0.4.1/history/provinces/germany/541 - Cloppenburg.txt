@@ -1,0 +1,8 @@
+owner = POR
+controller = POR
+add_core = FRI
+colonial = 1
+#add_core = GER
+trade_goods = grain
+life_rating = 35
+

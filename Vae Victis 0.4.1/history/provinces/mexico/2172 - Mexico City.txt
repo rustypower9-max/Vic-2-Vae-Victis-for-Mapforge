@@ -1,0 +1,7 @@
+owner = LAM
+controller = LAM
+add_core = LAM
+
+trade_goods = grain
+life_rating = 35
+fort = 1

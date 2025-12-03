@@ -1,0 +1,184 @@
+#Guyana (99600)
+#Ruled by Britain 1836
+#Georgetown (58600/14650 POPS)
+2239 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 100
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 50
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 23
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 352
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 23
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 100
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 73
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 705
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 151
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 13177
+    }
+}
+#Mahdia (4000/1000 POPS)
+2242 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 9
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 23
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 50
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 13
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 907
+    }
+}
+#Essequibo (33000/8250 POPS)
+2243 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 50
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 23
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 100
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 23
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 50
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 73
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 302
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 73
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 8618
+    }
+}
+#Biloka (4000/1000 POPS)
+1979 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 9
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 23
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 50
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 13
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 907
+    }
+}

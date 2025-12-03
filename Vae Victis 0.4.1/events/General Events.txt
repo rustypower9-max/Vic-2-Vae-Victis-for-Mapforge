@@ -1,0 +1,727 @@
+#If you create a country specific event make sure you add the tag to the list of tags to not get the broad event
+
+country_event = {
+	id = 600000
+	allow_multiple_instances = yes
+	trigger = {
+	ai = no
+	NOT = {
+		OR = {
+			#add tags of countries with specific events here
+			tag = IRE
+			tag = GAU
+			tag = SAX
+			tag = NGF
+			tag = AUS
+			tag = SGF
+			tag = ASG
+			tag = OTU
+			tag = CRI
+			tag = SCY
+			tag = NET
+			tag = SCA
+			tag = RWM
+			tag = AIT
+			tag = LOM
+			tag = ITA
+			tag = TRT
+			tag = SPA
+			tag = PER
+			tag = EGY
+			tag = SEL
+			tag = MAC
+			tag = ARM
+			tag = CRO
+			tag = CAR
+			tag = CAT
+			tag = POR
+			tag = ING
+			tag = BUK
+			tag = YEM
+			tag = MUG
+			has_leader = "John Cena"
+		}
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	title = "A New General Arrives"
+	desc = "Our prayers to RNGesus have been answered"
+	immediate = {
+		define_general = {
+			name = "John Cena"
+			personality = defence_3.3
+			background = attack_3.3
+		}
+	}
+	option = {
+		name = "It's about time..."		
+	}
+}
+
+#690 country tag clear
+country_event = {
+	id = 79797979
+	trigger = {
+		year = 690
+		has_country_flag = conquerable_690
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	title = "690 Flag Protection"
+	desc = "Clearing the protection flag off of 690 protected nations."
+	immediate = {
+		clr_country_flag = conquerable_690
+	}
+	option = {
+		name = "You may now declare, and be declared on, with significant wargoals."		
+	}
+}
+
+#Ireland
+country_event = {
+	id = 600001
+	allow_multiple_instances = yes
+	trigger = {
+	ai = no
+	tag = IRE
+	NOT = {has_leader = "Herbert Kitchener"}
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	title = "A New General Arrives"
+	desc = "A senior British Army officer and colonial administrator who won fame for his imperial campaigns and later played a central role in the early part of the First World War"
+	immediate = {
+		define_general = {
+			name = "Herbert Kitchener"
+			#+1 attack, +1 defence. +10% morale
+			personality = defence_3.3
+			#+3 attack, +3 defence
+			background = attack_3.3
+		}
+	}
+	option = {
+		name = "Your Country Needs HIM"		
+	}
+}
+
+#Gaul
+country_event = {
+	id = 600002
+	allow_multiple_instances = yes
+	trigger = {
+	ai = no
+	tag = GAU
+	NOT = {has_leader = "Vercingetorix"}
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	title = "A New General Arrives"
+	desc = "A Gallic king and chieftain of the Arverni tribe who united the Gauls."
+	immediate = {
+		define_general = {
+			name = "Vercingetorix"
+			#+1 attack, +1 defence. +10% morale
+			personality = defence_3.3
+			#+3 attack, +3 defence
+			background = attack_3.3
+		}
+	}
+	option = {
+		name = "Gaul remains undefeated!"		
+	}
+}
+
+#North Germs
+country_event = {
+	id = 600003
+	allow_multiple_instances = yes
+	trigger = {
+	ai = no
+	OR = {
+		tag = SAX
+		tag = NGF
+	}
+	NOT = {has_leader = "Arminius"}
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	title = "A New General Arrives"
+	desc = "Chieftain of the Germanic Cherusci tribe who is best known for commanding an alliance of Germanic tribes at the Battle of the Teutoburg Forest."
+	immediate = {
+		define_general = {
+			name = "Arminius"
+			#+1 attack, +1 defence. +10% morale
+			personality = defence_3.3
+			#+3 attack, +3 defence
+			background = attack_3.3
+		}
+	}
+	option = {
+		name = "Where are my Legions!?"		
+	}
+}
+
+#South Germs
+country_event = {
+	id = 600004
+	allow_multiple_instances = yes
+	trigger = {
+	ai = no
+	OR = {
+		tag = AUS
+		tag = SGF
+	}
+	NOT = {has_leader = "Ardaric"}
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	title = "A New General Arrives"
+	desc = "King of the Gepids, one of the trusted Adherents of Atilla who later decisively defeated the Huns at the Battle of Nedao and sent them into obscurity"
+	immediate = {
+		define_general = {
+			name = "Ardaric"
+			#+1 attack, +1 defence. +10% morale
+			personality = defence_3.3
+			#+3 attack, +3 defence
+			background = attack_3.3
+		}
+	}
+	option = {
+		name = "He will be a great asset to our forces"		
+	}
+}
+
+#North Turks
+country_event = {
+	id = 600005
+	allow_multiple_instances = yes
+	trigger = {
+	ai = no
+	OR = {
+		tag = ASG
+		tag = OTU
+	}
+	NOT = {has_leader = "Attila the Hun"}
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	title = "A New General Arrives"
+	desc = "The great king of the Huns"
+	immediate = {
+		define_general = {
+			name = "Attila the Hun"
+			#+1 attack, +1 defence. +10% morale
+			personality = defence_3.3
+			#+3 attack, +3 defence
+			background = attack_3.3
+		}
+	}
+	option = {
+		name = "He will be a great asset to our forces"		
+	}
+}
+
+#South Turks
+country_event = {
+	id = 600006
+	allow_multiple_instances = yes
+	trigger = {
+	ai = no
+	OR = {
+		tag = CRI
+		tag = SCY
+	}
+	NOT = {has_leader = "Ateas"}
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	title = "A New General Arrives"
+	desc = "Described as the most powerful Scythian King by Greek sources, he expanded the realm of the Pontic Scythians down to the Balkans, but is known to have lost his life in a battle against Philip II of Macedon, Alexander's father."
+	immediate = {
+		define_general = {
+			name = "Ateas"
+			#+1 attack, +1 defence. +10% morale
+			personality = defence_3.3
+			#+3 attack, +3 defence
+			background = attack_3.3
+		}
+	}
+	option = {
+		name = "He will be a great asset to our forces"		
+	}
+}
+
+#Carthage
+country_event = {
+	id = 600007
+	allow_multiple_instances = yes
+	trigger = {
+	ai = no
+	tag = CAR
+	NOT = {has_leader = "Hannibal The Great"}
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	title = "A New General Arrives"
+	desc = "A Carthaginian general and statesman who commanded the forces of Carthage in their victory against the Roman Republic during the Second Punic War."
+	immediate = {
+		define_general = {
+			name = "Hannibal The Great"
+			#+1 attack, +1 defence. +10% morale
+			personality = defence_3.3
+			#+3 attack, +3 defence
+			background = attack_3.3
+		}
+	}
+	option = {
+		name = "Roma Delenda Est!"		
+	}
+}
+
+#Rome
+country_event = {
+	id = 600008
+	allow_multiple_instances = yes
+	trigger = {
+	ai = no
+	OR = {
+		tag = LOM
+		tag = ITA
+	}
+	NOT = {has_leader = "Scipio Africanus"}
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	title = "A New General Arrives"
+	desc = "A Roman general and statesman, who was one of the main architects of Rome's victory against Carthage in the Second Punic War. However, in this timeline he died at Cannae."
+	immediate = {
+		define_general = {
+			name = "Scipio Africanus"
+			#+1 attack, +1 defence. +10% morale
+			personality = defence_3.3
+			#+3 attack, +3 defence
+			background = attack_3.3
+		}
+	}
+	option = {
+		name = "His legacy will be realized."		
+	}
+}
+
+#Goths
+country_event = {
+	id = 600009
+	allow_multiple_instances = yes
+	trigger = {
+	ai = no
+	OR = {
+		tag = NET
+		tag = SCA
+	}
+	NOT = {has_leader = "Alaric I"}
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	title = "A New General Arrives"
+	desc = "The first king of the Visigoths credited with Sacking Rome in 410, often seen as a major Landmark of it's decline"
+	immediate = {
+		define_general = {
+			name = "Alaric I"
+			#+1 attack, +1 defence. +10% morale
+			personality = defence_3.3
+			#+3 attack, +3 defence
+			background = attack_3.3
+		}
+	}
+	option = {
+		name = "He will be a great asset to our forces"		
+	}
+}
+
+#Rewm
+country_event = {
+	id = 600010
+	allow_multiple_instances = yes
+	trigger = {
+	ai = no
+	OR = {
+		tag = RWM
+		tag = AIT
+	}
+	NOT = {has_leader = "Gaius Marius"}
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	title = "A New General Arrives"
+	desc = "Roman Statesmen and General credited with the so-called Marian reforms, including the shift from militia levies to a professional soldiery"
+	immediate = {
+		define_general = {
+			name = "Gaius Marius"
+			#+1 attack, +1 defence. +10% morale
+			personality = defence_3.3
+			#+3 attack, +3 defence
+			background = attack_3.3
+		}
+	}
+	option = {
+		name = "He will be a great asset to our forces"		
+	}
+}
+
+#Spain
+country_event = {
+	id = 600011
+	allow_multiple_instances = yes
+	trigger = {
+	ai = no
+	OR = {
+		tag = TRT
+		tag = SPA
+	}
+	NOT = {has_leader = "Quintus Sertorius"}
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	title = "A New General Arrives"
+	desc = "Roman general and statesman who led a large-scale rebellion against the Roman Senate on the Iberian Peninsula. Sertorius became the independent ruler of Hispania for most of a decade until his assassination."
+	immediate = {
+		define_general = {
+			name = "Quintus Sertorius"
+			#+1 attack, +1 defence. +10% morale
+			personality = defence_3.3
+			#+3 attack, +3 defence
+			background = attack_3.3
+		}
+	}
+	option = {
+		name = "He will be a great asset to our forces"		
+	}
+}
+
+#Seleucid
+country_event = {
+	id = 600012
+	allow_multiple_instances = yes
+	trigger = {
+	ai = no
+	tag = SEL
+	NOT = {has_leader = "Seleucus I Nicator"}
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	title = "A New General Arrives"
+	desc = "Macedonian Greek general, officer and successor of Alexander the Great who went on to found the eponymous Seleucid Empire"
+	immediate = {
+		define_general = {
+			name = "Seleucus I Nicator"
+			#+1 attack, +1 defence. +10% morale
+			personality = defence_3.3
+			#+3 attack, +3 defence
+			background = attack_3.3
+		}
+	}
+	option = {
+		name = "He will be a great asset to our forces"		
+	}
+}
+
+#Macedonia
+country_event = {
+	id = 600013
+	allow_multiple_instances = yes
+	trigger = {
+	ai = no
+	tag = MAC
+	NOT = {has_leader = "Cassander Antipatrid"}
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	title = "A New General Arrives"
+	desc = "A son of Antipater and a contemporary of Alexander the Great, Cassander seized power in Macedon by having Alexander's son and heir Alexander IV murdered."
+	immediate = {
+		define_general = {
+			name = "Cassander Antipatrid"
+			#+1 attack, +1 defence. +10% morale
+			personality = defence_3.3
+			#+3 attack, +3 defence
+			background = attack_3.3
+		}
+	}
+	option = {
+		name = "It's okay, Alexander is definitely cool with us murdering his entire family..."		
+	}
+}
+
+#Persia
+country_event = {
+	id = 600014
+	allow_multiple_instances = yes
+	trigger = {
+	ai = no
+	tag = PER
+	NOT = {has_leader = "Rustaham Suren"}
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	title = "A New General Arrives"
+	desc = "Parthian general and leader of the House of Suren who inflicted an absolutely crushing defeat on Rome at the Battle of Carrhae"
+	immediate = {
+		define_general = {
+			name = "Rustaham Suren"
+			#+1 attack, +1 defence. +10% morale
+			personality = defence_3.3
+			#+3 attack, +3 defence
+			background = attack_3.3
+		}
+	}
+	option = {
+		name = "He will be a great asset to our forces"		
+	}
+}
+
+#Egypt
+country_event = {
+	id = 600015
+	allow_multiple_instances = yes
+	trigger = {
+	ai = no
+	tag = EGY
+	NOT = {has_leader = "Ptolemy I Soter"}
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	title = "A New General Arrives"
+	desc = "Macedonian Greek general, historian, and successor of Alexander the Great who went on to found the Ptolemaic Kingdom centered on Egypt."
+	immediate = {
+		define_general = {
+			name = "Ptolemy I Soter"
+			#+1 attack, +1 defence. +10% morale
+			personality = defence_3.3
+			#+3 attack, +3 defence
+			background = attack_3.3
+		}
+	}
+	option = {
+		name = "He will be a great asset to our forces"		
+	}
+}
+
+#Armenia
+country_event = {
+	id = 600016
+	allow_multiple_instances = yes
+	trigger = {
+	ai = no
+	tag = ARM
+	NOT = {has_leader = "Tigranes the Great"}
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	title = "A New General Arrives"
+	desc = "Under the Artaxiad king Tigranes the Great, the Kingdom of Armenia reached its greatest territorial extent, extending for a brief period from the Caspian to the Mediterranean Sea."
+	immediate = {
+		define_general = {
+			name = "Tigranes the Great"
+			#+1 attack, +1 defence. +10% morale
+			personality = defence_3.3
+			#+3 attack, +3 defence
+			background = attack_3.3
+		}
+	}
+	option = {
+		name = "We will make Armenia great again!"		
+	}
+}
+
+#Greece
+country_event = {
+	id = 600017
+	allow_multiple_instances = yes
+	trigger = {
+	ai = no
+	OR = {
+		tag = ING
+		tag = BUK
+	}
+	NOT = {has_leader = "Menander the Saviour"}
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	title = "A New General Arrives"
+	desc = "A Greco-Bactrian and later Indo-Greek king, considered by the greek Geographer Strabo to have 'conquered more tribes than Alexander'."
+	immediate = {
+		define_general = {
+			name = "Menander the Saviour"
+			#+1 attack, +1 defence. +10% morale
+			personality = defence_3.3
+			#+3 attack, +3 defence
+			background = attack_3.3
+		}
+	}
+	option = {
+		name = "He will be a great asset to our forces"		
+	}
+}
+
+#Romania
+country_event = {
+	id = 600018
+	allow_multiple_instances = yes
+	trigger = {
+	ai = no
+	tag = MUG
+	NOT = {has_leader = "Ashoka the Great"}
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	title = "A New General Arrives"
+	desc = "Ashoka the Great, the third Emperor of Magadha, his conversion to Buddhism and legacy resulted in the near totality of the Indian Subcontinent falling under Mauryan rule."
+	immediate = {
+		define_general = {
+			name = "Ashoka the Great"
+			#+1 attack, +1 defence. +10% morale
+			personality = defence_3.3
+			#+3 attack, +3 defence
+			background = attack_3.3
+		}
+	}
+	option = {
+		name = "He will be a great asset to our forces"		
+	}
+}
+
+#Belgium
+country_event = {
+	id = 600019
+	allow_multiple_instances = yes
+	trigger = {
+	ai = no
+	tag = YEM
+	NOT = {has_leader = "Abu Karib"}
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	title = "A New General Arrives"
+	desc = "Known as the first ruler of the Himyarite Kingdom who converted to Judaism."
+	immediate = {
+		define_general = {
+			name = "Abu Karib"
+			#+1 attack, +1 defence. +10% morale
+			personality = defence_3.3
+			#+3 attack, +3 defence
+			background = attack_3.3
+		}
+	}
+	option = {
+		name = "He will be a great asset to our forces"		
+	}
+}
+
+#Celtpunicum
+country_event = {
+	id = 600020
+	allow_multiple_instances = yes
+	trigger = {
+	ai = no
+	tag = CAT
+	NOT = {has_leader = "Euthymenes"}
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	title = "A New General Arrives"
+	desc = "A Greek explorer from Massalia (now Tyrae), who explored the coast of West Africa as far as the Senegal river. He is now celebrated as the Celtipunic version of Hanno."
+	immediate = {
+		define_general = {
+			name = "Euthymenes"
+			#+1 attack, +1 defence. +10% morale
+			personality = defence_3.3
+			#+3 attack, +3 defence
+			background = attack_3.3
+		}
+	}
+	option = {
+		name = "He will be a great asset to our forces"		
+	}
+}
+
+#Suebi
+country_event = {
+	id = 600021
+	allow_multiple_instances = yes
+	trigger = {
+	ai = no
+	OR = {
+		tag = POR
+	}
+	NOT = {has_leader = "King Hermeric"}
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	title = "A New General Arrives"
+	desc = "The King of the Suebi who lead the invasion and settlement of Gallaecia."
+	immediate = {
+		define_general = {
+			name = "King Hermeric"
+			#+1 attack, +1 defence. +10% morale
+			personality = defence_3.3
+			#+3 attack, +3 defence
+			background = attack_3.3
+		}
+	}
+	option = {
+		name = "He will be a great asset to our forces"		
+	}
+}
+
+#Illyria
+country_event = {
+	id = 600022
+	allow_multiple_instances = yes
+	trigger = {
+	ai = no
+	tag = CRO
+	NOT = {has_leader = "Pleuratus III"}
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	title = "A New General Arrives"
+	desc = "A ruler of the Illyrian kingdom under the Labeatan dynasty, known for his loyalty to Rome but kept his independence."
+	immediate = {
+		define_general = {
+			name = "Pleuratus III"
+			#+1 attack, +1 defence. +10% morale
+			personality = defence_3.3
+			#+3 attack, +3 defence
+			background = attack_3.3
+		}
+	}
+	option = {
+		name = "He will be a great asset to our forces"		
+	}
+}
+
+}

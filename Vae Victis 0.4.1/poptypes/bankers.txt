@@ -1,0 +1,51 @@
+sprite = 5
+color = { 18 129 10 }
+strata = rich
+unemployment = yes
+
+rebel =
+{
+	cavalry = 0
+	artillery = 0.1
+	cuirassier = 0
+	dragoon = 0
+	guard = 0.3
+	hussar = 0
+	infantry = 0.6
+	irregular = 0
+}
+
+everyday_needs = {
+
+}
+
+life_needs = {
+}
+
+
+luxury_needs = {
+}
+
+
+country_migration_target =
+{
+	factor = 0
+}
+
+migration_target =
+{
+	factor = 0
+}
+
+promote_to =
+{
+}
+
+
+ideologies = {
+}
+
+issues =
+{
+	
+}

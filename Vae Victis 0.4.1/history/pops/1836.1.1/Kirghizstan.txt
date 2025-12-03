@@ -1,0 +1,490 @@
+#Semireche Region (292000) #see turkichstan.txt for balance of region
+#under the "rule" of Kokand in 1836
+#Bishkek (236000/59000 POPS) #now part of Kirghizstan
+1189 = {
+    aristocrats = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 640
+    }
+
+    clergymen = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 340
+    }
+
+    artisans = {
+        culture = turkic
+        religion = placeholder
+        size = 1600
+    }
+
+    soldiers = {
+        culture = turkic
+        religion = placeholder
+        size = 5600
+    }
+
+    farmers = {
+        culture = turkic
+        religion = placeholder
+        size = 27020
+    }
+
+    aristocrats = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 80
+    }
+
+    clergymen = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 60
+    }
+
+    artisans = {
+        culture = turkic
+        religion = placeholder
+        size = 240
+    }
+
+    soldiers = {
+        culture = turkic
+        religion = placeholder
+        size = 60
+    }
+
+    farmers = {
+        culture = turkic
+        religion = placeholder
+        size = 5160
+    }
+
+    aristocrats = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 100
+    }
+
+    clergymen = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 60
+    }
+
+    artisans = {
+        culture = turkic
+        religion = placeholder
+        size = 280
+    }
+
+    soldiers = {
+        culture = turkic
+        religion = placeholder
+        size = 60
+    }
+
+    farmers = {
+        culture = turkic
+        religion = placeholder
+        size = 5900
+    }
+
+    aristocrats = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 192
+    }
+
+    clergymen = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 102
+    }
+
+    artisans = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 480
+    }
+
+    soldiers = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 1680
+    }
+
+    farmers = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 8106
+    }
+
+    aristocrats = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 24
+    }
+
+    clergymen = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 18
+    }
+
+    artisans = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 72
+    }
+
+    soldiers = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 18
+    }
+
+    farmers = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 1548
+    }
+
+    aristocrats = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 30
+    }
+
+    clergymen = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 18
+    }
+
+    artisans = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 84
+    }
+
+    soldiers = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 18
+    }
+
+    farmers = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 1770
+    }
+}
+#Naryn (56000/14000 POPS) #now part of Kirghizstan
+1190 = {
+    aristocrats = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 40
+    }
+
+    clergymen = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 40
+    }
+
+    artisans = {
+        culture = turkic
+        religion = placeholder
+        size = 80
+    }
+
+    soldiers = {
+        culture = turkic
+        religion = placeholder
+        size = 880
+    }
+
+    farmers = {
+        culture = turkic
+        religion = placeholder
+        size = 2220
+    }
+
+    aristocrats = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 80
+    }
+
+    clergymen = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 40
+    }
+
+    artisans = {
+        culture = turkic
+        religion = placeholder
+        size = 200
+    }
+
+    soldiers = {
+        culture = turkic
+        religion = placeholder
+        size = 40
+    }
+
+    farmers = {
+        culture = turkic
+        religion = placeholder
+        size = 3660
+    }
+
+    aristocrats = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 80
+    }
+
+    clergymen = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 40
+    }
+
+    artisans = {
+        culture = turkic
+        religion = placeholder
+        size = 160
+    }
+
+    soldiers = {
+        culture = turkic
+        religion = placeholder
+        size = 40
+    }
+
+    farmers = {
+        culture = turkic
+        religion = placeholder
+        size = 3680
+    }
+
+    aristocrats = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 12
+    }
+
+    clergymen = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 12
+    }
+
+    artisans = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 24
+    }
+
+    soldiers = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 264
+    }
+
+    farmers = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 666
+    }
+
+    aristocrats = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 24
+    }
+
+    clergymen = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 12
+    }
+
+    artisans = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 60
+    }
+
+    soldiers = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 12
+    }
+
+    farmers = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 1098
+    }
+
+    aristocrats = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 24
+    }
+
+    clergymen = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 12
+    }
+
+    artisans = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 48
+    }
+
+    soldiers = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 12
+    }
+
+    farmers = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 1104
+    }
+}
+#Mawarannahr Region (112000) #see turkichstan.txt, turkicistan.txt, turkicistan.txt for balance of region
+#under the rule of Kokand in 1836
+#Osh (112000/28000 POPS) #Now part of Kirghizstan
+1203 = {
+    aristocrats = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 140
+    }
+
+    clergymen = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 60
+    }
+
+    artisans = {
+        culture = turkic
+        religion = placeholder
+        size = 360
+    }
+
+    soldiers = {
+        culture = turkic
+        religion = placeholder
+        size = 80
+    }
+
+    farmers = {
+        culture = turkic
+        religion = placeholder
+        size = 6560
+    }
+
+    aristocrats = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 300
+    }
+
+    clergymen = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 140
+    }
+
+    artisans = {
+        culture = turkic
+        religion = placeholder
+        size = 720
+    }
+
+    soldiers = {
+        culture = turkic
+        religion = placeholder
+        size = 3200
+    }
+
+    farmers = {
+        culture = turkic
+        religion = placeholder
+        size = 10840
+    }
+
+    aristocrats = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 42
+    }
+
+    clergymen = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 18
+    }
+
+    artisans = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 108
+    }
+
+    soldiers = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 24
+    }
+
+    farmers = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 1968
+    }
+
+    aristocrats = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 90
+    }
+
+    clergymen = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 42
+    }
+
+    artisans = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 216
+    }
+
+    soldiers = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 960
+    }
+
+    farmers = {
+        culture = greco-bactrian
+        religion = placeholder
+        size = 3252
+    }
+}

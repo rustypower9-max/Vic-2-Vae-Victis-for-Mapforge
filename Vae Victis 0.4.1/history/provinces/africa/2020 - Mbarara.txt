@@ -1,0 +1,6 @@
+owner = YEM
+controller = YEM
+colonial = 2
+add_core = ZAN
+trade_goods = cotton
+life_rating = 35

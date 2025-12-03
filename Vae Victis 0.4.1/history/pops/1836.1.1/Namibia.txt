@@ -1,0 +1,474 @@
+#Damaraland Region (192000)
+#uncolonized in 1836/dominated by the Herero in 1836
+#Windhoek (72000/18000 POPS)
+2078 = {
+    aristocrats = {
+        culture = khoisan
+        religion = placeholder
+        size = 96
+    }
+
+    clergymen = {
+        culture = khoisan
+        religion = placeholder
+        size = 48
+    }
+
+    artisans = {
+        culture = khoisan
+        religion = placeholder
+        size = 288
+    }
+
+    soldiers = {
+        culture = khoisan
+        religion = placeholder
+        size = 45
+    }
+
+    farmers = {
+        culture = khoisan
+        religion = placeholder
+        size = 5256
+    }
+
+    aristocrats = {
+        culture = khoisan
+        religion = placeholder
+        size = 216
+    }
+
+    clergymen = {
+        culture = khoisan
+        religion = placeholder
+        size = 120
+    }
+
+    artisans = {
+        culture = khoisan
+        religion = placeholder
+        size = 576
+    }
+
+    soldiers = {
+        culture = khoisan
+        religion = placeholder
+        size = 75
+    }
+
+    farmers = {
+        culture = khoisan
+        religion = placeholder
+        size = 10488
+    }
+}
+#Swakopmund (52000/13000 POPS)
+2079 = {
+    aristocrats = {
+        culture = khoisan
+        religion = placeholder
+        size = 144
+    }
+
+    clergymen = {
+        culture = khoisan
+        religion = placeholder
+        size = 96
+    }
+
+    artisans = {
+        culture = khoisan
+        religion = placeholder
+        size = 432
+    }
+
+    soldiers = {
+        culture = khoisan
+        religion = placeholder
+        size = 60
+    }
+
+    farmers = {
+        culture = khoisan
+        religion = placeholder
+        size = 7872
+    }
+
+    aristocrats = {
+        culture = khoisan
+        religion = placeholder
+        size = 48
+    }
+
+    clergymen = {
+        culture = khoisan
+        religion = placeholder
+        size = 48
+    }
+
+    artisans = {
+        culture = khoisan
+        religion = placeholder
+        size = 192
+    }
+
+    soldiers = {
+        culture = khoisan
+        religion = placeholder
+        size = 30
+    }
+
+    farmers = {
+        culture = khoisan
+        religion = placeholder
+        size = 3504
+    }
+}
+#Tsumeb (24000/6000 POPS)
+2080 = {
+    aristocrats = {
+        culture = khoisan
+        religion = placeholder
+        size = 96
+    }
+
+    clergymen = {
+        culture = khoisan
+        religion = placeholder
+        size = 48
+    }
+
+    artisans = {
+        culture = khoisan
+        religion = placeholder
+        size = 288
+    }
+
+    soldiers = {
+        culture = khoisan
+        religion = placeholder
+        size = 45
+    }
+
+    farmers = {
+        culture = khoisan
+        religion = placeholder
+        size = 5256
+    }
+}
+#Otjinene (44000/11000 POPS)
+2082 = {
+    aristocrats = {
+        culture = khoisan
+        religion = placeholder
+        size = 96
+    }
+
+    clergymen = {
+        culture = khoisan
+        religion = placeholder
+        size = 48
+    }
+
+    artisans = {
+        culture = khoisan
+        religion = placeholder
+        size = 288
+    }
+
+    soldiers = {
+        culture = khoisan
+        religion = placeholder
+        size = 45
+    }
+
+    farmers = {
+        culture = khoisan
+        religion = placeholder
+        size = 5256
+    }
+
+    aristocrats = {
+        culture = khoisan
+        religion = placeholder
+        size = 72
+    }
+
+    clergymen = {
+        culture = khoisan
+        religion = placeholder
+        size = 48
+    }
+
+    artisans = {
+        culture = khoisan
+        religion = placeholder
+        size = 240
+    }
+
+    soldiers = {
+        culture = khoisan
+        religion = placeholder
+        size = 30
+    }
+
+    farmers = {
+        culture = khoisan
+        religion = placeholder
+        size = 4392
+    }
+}
+#Kafue Region (16000) #see Zambia.txt for balance of region
+#uncolonized in 1836/dominated by the Lozi in 1836
+#Linyati (16000/4000 POPS)
+2081 = {
+    aristocrats = {
+        culture = khoisan
+        religion = placeholder
+        size = 136
+    }
+
+    clergymen = {
+        culture = khoisan
+        religion = placeholder
+        size = 207
+    }
+
+    artisans = {
+        culture = khoisan
+        religion = placeholder
+        size = 414
+    }
+
+    soldiers = {
+        culture = khoisan
+        religion = placeholder
+        size = 43
+    }
+
+    farmers = {
+        culture = khoisan
+        religion = placeholder
+        size = 7464
+    }
+
+    aristocrats = {
+        culture = khoisan
+        religion = placeholder
+        size = 39
+    }
+
+    clergymen = {
+        culture = khoisan
+        religion = placeholder
+        size = 68
+    }
+
+    artisans = {
+        culture = khoisan
+        religion = placeholder
+        size = 136
+    }
+
+    soldiers = {
+        culture = khoisan
+        religion = placeholder
+        size = 16
+    }
+
+    farmers = {
+        culture = khoisan
+        religion = placeholder
+        size = 2487
+    }
+}
+#Namaqualand Region (64000) #see South Africa.txt for balance of region
+#uncolonized in 1836/dominated by the Nama in 1836
+#Walvis Bay (4000/1000 POPS)
+2083 = {
+    aristocrats = {
+        culture = khoisan
+        religion = placeholder
+        size = 24
+    }
+
+    clergymen = {
+        culture = khoisan
+        religion = placeholder
+        size = 40
+    }
+
+    artisans = {
+        culture = khoisan
+        religion = placeholder
+        size = 80
+    }
+
+    soldiers = {
+        culture = khoisan
+        religion = placeholder
+        size = 10
+    }
+
+    farmers = {
+        culture = khoisan
+        religion = placeholder
+        size = 1440
+    }
+}
+#Angra Pequena (28000/7000 POPS)
+2084 = {
+    aristocrats = {
+        culture = khoisan
+        religion = placeholder
+        size = 120
+    }
+
+    clergymen = {
+        culture = khoisan
+        religion = placeholder
+        size = 72
+    }
+
+    artisans = {
+        culture = khoisan
+        religion = placeholder
+        size = 336
+    }
+
+    soldiers = {
+        culture = khoisan
+        religion = placeholder
+        size = 45
+    }
+
+    farmers = {
+        culture = khoisan
+        religion = placeholder
+        size = 6120
+    }
+}
+#Nugouses (12000/3000 POPS)
+2085 = {
+    aristocrats = {
+        culture = khoisan
+        religion = placeholder
+        size = 40
+    }
+
+    clergymen = {
+        culture = khoisan
+        religion = placeholder
+        size = 80
+    }
+
+    artisans = {
+        culture = khoisan
+        religion = placeholder
+        size = 160
+    }
+
+    soldiers = {
+        culture = khoisan
+        religion = placeholder
+        size = 25
+    }
+
+    farmers = {
+        culture = khoisan
+        religion = placeholder
+        size = 2880
+    }
+
+    aristocrats = {
+        culture = khoisan
+        religion = placeholder
+        size = 24
+    }
+
+    clergymen = {
+        culture = khoisan
+        religion = placeholder
+        size = 40
+    }
+
+    artisans = {
+        culture = khoisan
+        religion = placeholder
+        size = 80
+    }
+
+    soldiers = {
+        culture = khoisan
+        religion = placeholder
+        size = 10
+    }
+
+    farmers = {
+        culture = khoisan
+        religion = placeholder
+        size = 1440
+    }
+}
+#Karasburg (20000/5000 POPS)
+2086 = {
+    aristocrats = {
+        culture = khoisan
+        religion = placeholder
+        size = 80
+    }
+
+    clergymen = {
+        culture = khoisan
+        religion = placeholder
+        size = 80
+    }
+
+    artisans = {
+        culture = khoisan
+        religion = placeholder
+        size = 320
+    }
+
+    soldiers = {
+        culture = khoisan
+        religion = placeholder
+        size = 50
+    }
+
+    farmers = {
+        culture = khoisan
+        religion = placeholder
+        size = 5840
+    }
+
+    aristocrats = {
+        culture = khoisan
+        religion = placeholder
+        size = 24
+    }
+
+    clergymen = {
+        culture = khoisan
+        religion = placeholder
+        size = 40
+    }
+
+    artisans = {
+        culture = khoisan
+        religion = placeholder
+        size = 80
+    }
+
+    soldiers = {
+        culture = khoisan
+        religion = placeholder
+        size = 10
+    }
+
+    farmers = {
+        culture = khoisan
+        religion = placeholder
+        size = 1440
+    }
+}

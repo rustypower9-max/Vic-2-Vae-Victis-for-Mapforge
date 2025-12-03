@@ -1,0 +1,4549 @@
+#East Sumatra Region (1188400)
+#ruled by the Netherlands 1836
+#Palembang (540400/135100 POPS)
+1399 = {
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 700
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 325
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 1500
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 350
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 28270
+    }
+
+    bureaucrats = {
+        culture = asherite
+        religion = placeholder
+        size = 50
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 25
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 750
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 25
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 132
+    }
+
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 1100
+    }
+
+    bureaucrats = {
+        culture = asherite
+        religion = placeholder
+        size = 250
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 875
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 4000
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 1100
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 80850
+    }
+
+    bureaucrats = {
+        culture = punic
+        religion = placeholder
+        size = 22
+    }
+
+    clergymen = {
+        culture = punic
+        religion = placeholder
+        size = 20
+    }
+
+    artisans = {
+        culture = punic
+        religion = placeholder
+        size = 20
+    }
+
+    soldiers = {
+        culture = punic
+        religion = placeholder
+        size = 50
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 6399
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 29
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 18301
+    }
+}
+#Tanjungpinang (100000/25000 POPS)
+1402 = {
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 25
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 800
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 25
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 150
+    }
+
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 50
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 50
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 50
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 50
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 5800
+    }
+
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 150
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 125
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 400
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 200
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 17125
+    }
+}
+#Lampung (548000/137000 POPS)
+1403 = {
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 1500
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 875
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 3500
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 1250
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 93170
+    }
+
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 350
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 200
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 1100
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 250
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 16896
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 50
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 2350
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 50
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 484
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 21090
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 3824
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 109
+    }
+}
+#Riau Region (88000)
+#ruled by The Netherlands 1836
+#Pangkalpinang (70000/17500 POPS)
+1404 = {
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 100
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 150
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 750
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 150
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 12188
+    }
+
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 25
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 50
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 125
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 25
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 2002
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 2758
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 453
+    }
+}
+#Natuna (18000/4500 POPS)
+2576 = {
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 62
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 75
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 187
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 50
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 3375
+    }
+
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 18
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 31
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 93
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 31
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 1700
+    }
+}
+#Siak Region (372000)
+#ruled by Siak 1836
+#Jambi (120000/30000 POPS)
+1398 = {
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 250
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 250
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 500
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 250
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 20020
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 25
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 950
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 902
+    }
+
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 50
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 50
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 50
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 50
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 3344
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 4531
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 204
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 756
+    }
+}
+#Inderagiri (96000/24000 POPS)
+1400 = {
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 150
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 150
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 400
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 150
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 11572
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 25
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 700
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 1122
+    }
+
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 100
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 75
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 150
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 75
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 6666
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 2619
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 253
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 1508
+    }
+}
+#Siak (156000/39000 POPS)
+1401 = {
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 350
+    }
+
+    bureaucrats = {
+        culture = asherite
+        religion = placeholder
+        size = 75
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 275
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 725
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 300
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 24882
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 25
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 1100
+    }
+
+    labourers = {
+        culture = asherite
+        religion = placeholder
+        size = 858
+    }
+
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 100
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 75
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 175
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 75
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 5786
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 5632
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 194
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 1309
+    }
+}
+#Aceh Region (444000)
+#Ruled by Aceh 1836
+#Banda Aceh (128000/32000 POPS)
+1405 = {
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 200
+    }
+
+    bureaucrats = {
+        culture = asherite
+        religion = placeholder
+        size = 125
+    }
+
+    officers = {
+        culture = asherite
+        religion = placeholder
+        size = 100
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 175
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 1250
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 1100
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 18172
+    }
+
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 100
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 75
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 250
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 100
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 6578
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 500
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 4113
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 1489
+    }
+}
+#Medan (160000/40000 POPS)
+1406 = {
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 250
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 250
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 1100
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 1100
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 19800
+    }
+
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 150
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 125
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 250
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 150
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 11726
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 1100
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 4482
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 2654
+    }
+}
+#Tapaktuan (156000/39000 POPS)
+1407 = {
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 250
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 275
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 1250
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 1100
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 18238
+    }
+
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 150
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 125
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 200
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 100
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 12694
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 500
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 4128
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 2873
+    }
+}
+#Minangkabau Region (956000)
+#ruled by The Netherlands 1836
+#Padang (240000/60000 POPS)
+1408 = {
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 450
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 375
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 2100
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 400
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 32538
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 25
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 750
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 25
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 176
+    }
+
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 200
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 125
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 100
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 150
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 16214
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 7365
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 39
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 3670
+    }
+}
+#Sibolga (528000/132000 POPS)
+1409 = {
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 400
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 250
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 1250
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 350
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 29700
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 25
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 1750
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 25
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 176
+    }
+
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 1250
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 875
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 3750
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 1100
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 76670
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 6723
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 39
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 17355
+    }
+}
+#Bencoolen (120000/30000 POPS)
+1410 = {
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 100
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 60
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 30
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 100
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 10305
+    }
+
+    bureaucrats = {
+        culture = asherite
+        religion = placeholder
+        size = 50
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 50
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 750
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 25
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 990
+    }
+
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 200
+    }
+
+    bureaucrats = {
+        culture = asherite
+        religion = placeholder
+        size = 150
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 125
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 750
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 150
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 12870
+    }
+
+    bureaucrats = {
+        culture = punic
+        religion = placeholder
+        size = 22
+    }
+
+    clergymen = {
+        culture = punic
+        religion = placeholder
+        size = 20
+    }
+
+    artisans = {
+        culture = punic
+        religion = placeholder
+        size = 20
+    }
+
+    soldiers = {
+        culture = punic
+        religion = placeholder
+        size = 50
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 2332
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 224
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 2913
+    }
+}
+#Gunungsitoli (68000/17000 POPS)
+1411 = {
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 300
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 150
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 700
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 200
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 13772
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 3117
+    }
+}
+#Java Region - 8236000
+#ruled by the Netherlands 1836
+#Batavia (2236000/559000 POPS)
+1413 = {
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 4000
+    }
+
+    bureaucrats = {
+        culture = asherite
+        religion = placeholder
+        size = 250
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 2500
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 10000
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 6000
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 4750
+    }
+
+    labourers = {
+        culture = asherite
+        religion = placeholder
+        size = 438500
+    }
+
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 500
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 375
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 250
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 500
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 51375
+    }
+
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 750
+    }
+
+    bureaucrats = {
+        culture = asherite
+        religion = placeholder
+        size = 3850
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 75
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 1075
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 2250
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 225
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 10000
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 5000
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 350
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 18425
+    }
+}
+#Bogor (374000/93500 POPS)
+1414 = {
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 150
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 100
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 800
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 150
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 13780
+    }
+
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 750
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 750
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 3750
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 1500
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 71670
+    }
+}
+#Bandung (374000/93500 POPS)
+3254 = {
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 150
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 100
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 800
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 150
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 13780
+    }
+
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 750
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 750
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 3750
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 1500
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 71670
+    }
+}
+#Cirebon (968000/242000 POPS)
+1415 = {
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 100
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 75
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 3000
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 100
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 4725
+    }
+
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 100
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 100
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 1100
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 200
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 17600
+    }
+
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 2000
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 2000
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 8000
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 2250
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 190750
+    }
+}
+#Yogyakarta (536000/134000 POPS)
+1416 = {
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 1500
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 1250
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 6000
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 1250
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 124250
+    }
+
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 100
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 50
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 750
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 125
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 9975
+    }
+}
+#Semarang (1116000/279000 POPS)
+1417 = {
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 2500
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 2375
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 10000
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 2000
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 2250
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 217875
+    }
+
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 250
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 225
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 1500
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 300
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 29725
+    }
+
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 100
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 75
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 500
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 100
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 9225
+    }
+}
+#Surabaya (1092000/273000 POPS)
+1418 = {
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 2500
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 2500
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 9000
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 2500
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 228500
+    }
+
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 150
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 100
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 750
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 200
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 17800
+    }
+
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 75
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 50
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 3250
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 100
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 5625
+    }
+}
+#Surakarta (360000/90000 POPS)
+1419 = {
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 1100
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 625
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 4000
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 750
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 71625
+    }
+
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 100
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 75
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 500
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 100
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 11225
+    }
+}
+#Probolinggo (708000/177000 POPS)
+1420 = {
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 100
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 75
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 750
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 100
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 9975
+    }
+
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 1750
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 1625
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 8000
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 1500
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 153125
+    }
+}
+#Madura (496000/124000 POPS)
+1421 = {
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 1400
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 1100
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 4000
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 1100
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 97500
+    }
+
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 100
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 75
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 500
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 1100
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 8325
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 100
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 2000
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 100
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 6800
+    }
+}
+#Eastern Borneo Region (542000)
+#uncolonized in 1836
+#Banjarmasin (166000/44000 POPS)
+1423 = {
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 50
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 100
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 450
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 50
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 6512
+    }
+
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 350
+    }
+
+    bureaucrats = {
+        culture = greco-egyptian
+        religion = placeholder
+        size = 50
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 750
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 1850
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 400
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 30514
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 1474
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 6907
+    }
+}
+#Muraleve (96000/24000 POPS)
+1422 = {
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 300
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 500
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 1250
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 250
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 19316
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 4372
+    }
+}
+#Pasir (64000/16000 POPS)
+1424 = {
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 50
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 100
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 150
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 50
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 3256
+    }
+
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 150
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 250
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 650
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 150
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 9614
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 737
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 2176
+    }
+}
+#Tarakan (96000/24000 POPS)
+1425 = {
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 200
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 350
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 200
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 150
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 14322
+    }
+
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 25
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 100
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 250
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 25
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 2332
+    }
+
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 50
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 100
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 750
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 50
+    }
+
+    labourers = {
+        culture = asherite
+        religion = placeholder
+        size = 2728
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 3241
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 527
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 617
+    }
+}
+#Samarinda (120000/30000 POPS)
+1429 = {
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 300
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 500
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 700
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 250
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 20680
+    }
+
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 50
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 100
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 800
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 50
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 3564
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 4681
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 806
+    }
+}
+#Western Borneo Region (368000)
+#uncolonized in 1836
+#Pontianak (148000/37000 POPS)
+1426 = {
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 50
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 100
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 100
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 50
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 4180
+    }
+
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 275
+    }
+
+    bureaucrats = {
+        culture = greco-egyptian
+        religion = placeholder
+        size = 25
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 600
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 500
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 300
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 22528
+    }
+
+    bureaucrats = {
+        culture = greco-egyptian
+        religion = placeholder
+        size = 10
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 100
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 1150
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 40
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 3300
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 946
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 5099
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 747
+    }
+}
+#Kota Waringin (152000/38000 POPS)
+1427 = {
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 75
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 150
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 400
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 50
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 2376
+    }
+
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 350
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 1300
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 1500
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 300
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 28072
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 537
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 6354
+    }
+}
+#Sintang (68000/17000 POPS)
+1428 = {
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 250
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 350
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 750
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 250
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 13706
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 3102
+    }
+}
+#Celebes Region (1040000)
+#uncolonized in 1836
+#Makassar (224000/56000 POPS)
+1430 = {
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 700
+    }
+
+    bureaucrats = {
+        culture = greco-egyptian
+        religion = placeholder
+        size = 150
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 1050
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 3000
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 600
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 38167
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 10164
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 11180
+    }
+}
+#Bone (140000/35000 POPS)
+1431 = {
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 400
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 700
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 1750
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 350
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 24048
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 6404
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 7045
+    }
+}
+#Mamuju (128000/32000 POPS)
+1432 = {
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 250
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 500
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 1500
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 250
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 17017
+    }
+
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 75
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 150
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 100
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 75
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 4993
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 4531
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 1329
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 4984
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 1462
+    }
+}
+#Menado (256000/64000 POPS)
+1433 = {
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 500
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 1000
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 1400
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 500
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 39688
+    }
+
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 175
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 350
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 1800
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 175
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 12034
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 8983
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 2724
+    }
+}
+#Luwuk (100000/25000 POPS)
+1434 = {
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 250
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 500
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 1250
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 250
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 20240
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 4581
+    }
+}
+#Palu (96000/24000 POPS)
+1435 = {
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 250
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 500
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 1250
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 250
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 20240
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 4581
+    }
+}
+#Kendari (48000/12000 POPS)
+1436 = {
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 150
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 250
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 600
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 100
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 8247
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 2196
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 2415
+    }
+}
+#Bulon (48000/12000 POPS)
+1437 = {
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 450
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 750
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 1800
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 300
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 24740
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 6588
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 7247
+    }
+}
+#Sunda Region (1536400)
+#Ruled by Bali 1836
+#Bali (640000/160000 POPS)
+1438 = {
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 125
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 1100
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 1100
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 11484
+    }
+
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 1500
+    }
+
+    bureaucrats = {
+        culture = asherite
+        religion = placeholder
+        size = 125
+    }
+
+    officers = {
+        culture = asherite
+        religion = placeholder
+        size = 200
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 1425
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 7000
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 4000
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 114180
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 2599
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 25846
+    }
+}
+#Lombok (200000/50000 POPS)
+1442 = {
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 100
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 150
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 500
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 100
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 11572
+    }
+
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 400
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 400
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 2000
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 1100
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 28336
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 2619
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 6414
+    }
+}
+#ruled by the Netherlands 1836
+#Flores (176000/44000 POPS)
+1439 = {
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 500
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 425
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 2200
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 900
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 40425
+    }
+}
+#Sumbawa (244000/61000 POPS)
+1440 = {
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 200
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 175
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 750
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 150
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 13838
+    }
+
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 500
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 425
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 2200
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 450
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 35574
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 3132
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 8052
+    }
+}
+#Sumba (192000/48000 POPS)
+1441 = {
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 150
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 125
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 600
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 100
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 10582
+    }
+
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 350
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 350
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 1800
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 350
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 30228
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 2395
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 6842
+    }
+}
+#Roti (24000/6000 POPS)
+1443 = {
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 100
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 50
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 250
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 75
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 4862
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 1100
+    }
+}
+#Alor (36000/9000 POPS)
+1444 = {
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 20
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 40
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 100
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 40
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 1820
+    }
+
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 75
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 75
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 300
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 150
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 6475
+    }
+}
+#Kaupeng (24400/6100 POPS)
+1445 = {
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 15
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 20
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 35
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 10
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 810
+    }
+
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 50
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 50
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 250
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 50
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 4048
+    }
+
+    bureaucrats = {
+        culture = punic
+        religion = placeholder
+        size = 10
+    }
+
+    artisans = {
+        culture = punic
+        religion = placeholder
+        size = 15
+    }
+
+    clergymen = {
+        culture = punic
+        religion = placeholder
+        size = 25
+    }
+
+    soldiers = {
+        culture = punic
+        religion = placeholder
+        size = 50
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 182
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 916
+    }
+}
+#Ruled by Portugal 1836
+#Dili (88000/22000 POPS)
+1446 = {
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 25
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 250
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 30
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 710
+    }
+
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 50
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 75
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 50
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 50
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 3800
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 50
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 750
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 50
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 1175
+    }
+
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 150
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 125
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 50
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 200
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 14575
+    }
+
+    bureaucrats = {
+        culture = zeraphite
+        religion = placeholder
+        size = 25
+    }
+
+    artisans = {
+        culture = zeraphite
+        religion = placeholder
+        size = 10
+    }
+
+    clergymen = {
+        culture = zeraphite
+        religion = placeholder
+        size = 10
+    }
+
+    soldiers = {
+        culture = zeraphite
+        religion = placeholder
+        size = 25
+    }
+}
+#Moluccas Region (280000)
+#ruled by The Netherlands 1836
+#Ambon (44400/11100 POPS)
+1449 = {
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 100
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 200
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 150
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 5764
+    }
+
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 100
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 200
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 600
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 150
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 2464
+    }
+
+    officers = {
+        culture = punic
+        religion = placeholder
+        size = 75
+    }
+
+    bureaucrats = {
+        culture = greco-egyptian
+        religion = placeholder
+        size = 75
+    }
+
+    artisans = {
+        culture = punic
+        religion = placeholder
+        size = 100
+    }
+
+    clergymen = {
+        culture = punic
+        religion = placeholder
+        size = 200
+    }
+
+    soldiers = {
+        culture = punic
+        religion = placeholder
+        size = 100
+    }
+
+    farmers = {
+        culture = punic
+        religion = placeholder
+        size = 100
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 1304
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 557
+    }
+}
+#uncolonized in 1836
+#Ternate (120000/30000 POPS)
+1447 = {
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 200
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 350
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 100
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 150
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 14410
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 100
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 400
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 50
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 1320
+    }
+
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 125
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 200
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 1100
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 125
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 8492
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 3261
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 298
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 1922
+    }
+}
+#Jilolo (36000/9000 POPS)
+1448 = {
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 100
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 100
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 100
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 75
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 6754
+    }
+
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 20
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 50
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 350
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 25
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 598
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 1528
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 136
+    }
+}
+#Ceram (56000/14000 POPS)
+1450 = {
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 75
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 100
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 550
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 75
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 4620
+    }
+
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 100
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 150
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 150
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 75
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 6688
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 1045
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 1513
+    }
+}
+#Aru (24000/6000 POPS)
+1451 = {
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 50
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 100
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 200
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 50
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 3212
+    }
+
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 25
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 100
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 100
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 25
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 1584
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 727
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 358
+    }
+}
+#Wests Papua (432000)
+#uncolonized in 1836
+#Sorong (88000/22000 POPS)
+1453 = {
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 50
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 100
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 1100
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 50
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 3388
+    }
+
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 200
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 700
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 50
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 150
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 14300
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 766
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 3237
+    }
+}
+#Biak (32000/8000 POPS)
+1452 = {
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 100
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 100
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 250
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 75
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 6622
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 1498
+    }
+}
+#Merah (172000/43000 POPS)
+1454 = {
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 450
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 850
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 2000
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 400
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 34958
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 7913
+    }
+}
+#Merauke (140000/35000 POPS)
+1560 = {
+    aristocrats = {
+        culture = asherite
+        religion = placeholder
+        size = 400
+    }
+
+    clergymen = {
+        culture = asherite
+        religion = placeholder
+        size = 700
+    }
+
+    artisans = {
+        culture = asherite
+        religion = placeholder
+        size = 1500
+    }
+
+    soldiers = {
+        culture = asherite
+        religion = placeholder
+        size = 300
+    }
+
+    farmers = {
+        culture = asherite
+        religion = placeholder
+        size = 28556
+    }
+
+    slaves = {
+        culture = asherite
+        religion = placeholder
+        size = 6464
+    }
+}

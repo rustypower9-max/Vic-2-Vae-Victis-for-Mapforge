@@ -1,0 +1,22 @@
+owner = EGY
+controller = EGY
+add_core = EGY
+trade_goods = grain
+life_rating = 40
+state_building = {
+	level = 2
+	building = canned_food_factory
+	upgrade = yes
+}
+state_building = {
+	level = 3
+	building = fabric_factory
+	upgrade = yes
+}
+state_building = {
+	level = 2
+	building = clipper_shipyard
+	upgrade = yes
+}
+railroad = 1
+

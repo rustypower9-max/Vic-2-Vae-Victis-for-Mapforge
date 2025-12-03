@@ -1,0 +1,325 @@
+#Western Micronesia (27600)
+#colonized by Spain in 1836
+#Guam (6000/1500 POPS)
+2517 = {
+    bureaucrats = {
+        culture = iberian
+        religion = placeholder
+        size = 1
+    }
+
+    clergymen = {
+        culture = iberian
+        religion = placeholder
+        size = 4
+    }
+
+    soldiers = {
+        culture = iberian
+        religion = placeholder
+        size = 5
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 75
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 15
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 1490
+    }
+}
+#Saipan (5600/1400 POPS)
+2521 = {
+    clergymen = {
+        culture = iberian
+        religion = placeholder
+        size = 2
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 70
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 3
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 1325
+    }
+}
+#uncolonized in 1836
+#Palau (8000/2000 POPS)
+2518 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 16
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 32
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 64
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 10
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 1152
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 8
+    }
+}
+#Yap (2200/550 POPS)
+2519 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 5
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 10
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 25
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 5
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 485
+    }
+}
+#Truk (3140/785 POPS)
+2579 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 15
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 20
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 40
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 10
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 700
+    }
+}
+#Ponape (2660/665 POPS)
+610 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 10
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 15
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 35
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 5
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 600
+    }
+}
+#Northern Micronesia (180)
+#uncolonized in 1836
+#Bonin (60/15 POPS)
+1654 = {
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 6
+    }
+}
+#Wake (60/15 POPS)
+2524 = {
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 15
+    }
+}
+#Marcus (60/15 POPS)
+2525 = {
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 15
+    }
+}
+#Easterns Micronesia (21000)
+#uncolonized in 1836
+#Marshall Islands (6000/1500 POPS)
+2522 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 10
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 25
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 75
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 15
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 1375
+    }
+}
+#Nauru (1000/250 POPS)
+2523 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 5
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 5
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 10
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 5
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 225
+    }
+}
+#Gilbert Islands (14000/3250 POPS)
+2527 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 50
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 75
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 175
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 25
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 3125
+    }
+}

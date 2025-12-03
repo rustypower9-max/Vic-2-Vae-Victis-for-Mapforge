@@ -1,0 +1,918 @@
+political_decisions = {
+	annex_colony_on = {
+			picture = manifest_blue
+			alert = yes
+			potential = {
+				NOT = {	has_country_flag = annex_colony }
+			}
+			allow = {
+			war = no
+			}
+		
+			effect = { set_country_flag = annex_colony }
+		
+			ai_will_do = { 
+				factor = 0
+			}
+		}
+
+	annex_colony_off = {
+			picture = manifest_red
+			alert = no
+			potential = {
+				has_country_flag = annex_colony
+			}
+		
+		allow = {
+		}
+		
+		effect = { clr_country_flag = annex_colony }
+		
+		ai_will_do = { factor = 0 }
+	}
+
+organize_quebec = {
+	    picture = QUE
+	    potential = {
+	    OR = {is_secondary_power = yes
+	    is_greater_power = yes}
+	    QUE = { exists = no}
+	    NOT = {has_country_flag = released_QUE}
+	    owns = 65 #Quebec City
+	    }
+	    allow = {
+	    state_n_government = 1
+	    QUE = { all_core = { owned_by = THIS } }
+	    war = no 
+	    }
+	    
+	    effect = {
+	    prestige = 10
+	    QUE = {primary_culture = THIS}
+	    release_vassal = QUE
+	    set_country_flag = released_QUE
+	    }
+	ai_will_do = { factor = 1}
+}
+
+organize_new_york = {
+	    picture = MAN
+	    potential = {
+	    	    OR = {is_secondary_power = yes
+	    is_greater_power = yes}
+	    MAN = { exists = no}
+	    owns = 232 #NYC
+	    	    NOT = {has_country_flag = released_MAN}
+		    
+	    }
+	    allow = {
+	    state_n_government = 1
+	    MAN = { all_core = { owned_by = THIS } }
+	    war = no 
+		}	    
+	    effect = {
+	    prestige = 10
+	    MAN = {primary_culture = THIS}
+	    release_vassal = MAN
+	    set_country_flag = released_MAN
+	    }
+
+}
+
+organize_dixie = {
+	    picture = CSA
+	    potential = {
+	    	    OR = {is_secondary_power = yes
+	    is_greater_power = yes}
+	    CSA = { exists = no}
+	    OR ={owns = 213 owns = 139}		    	    
+	    NOT = {has_country_flag = released_CSA}
+	    }
+	    allow = {
+	    state_n_government = 1
+	    CSA = { all_core = { owned_by = THIS } }
+	    war = no 
+		}	    
+	    effect = {
+	    prestige = 10
+	    CSA = {primary_culture = THIS}
+	    release_vassal = CSA
+	    set_country_flag = released_CSA
+	    }
+		ai_will_do = { factor = 1}
+}
+
+organize_california = {
+	    picture = CAL
+	    potential = {
+	    	    OR = {is_secondary_power = yes
+	    is_greater_power = yes}
+	    CAL = { exists = no}
+	    	    NOT = {has_country_flag = released_CAL}
+	    owns = 84 #SF
+	    }
+	    allow = {
+	    state_n_government = 1
+	    CAL = { all_core = { owned_by = THIS } }
+	    war = no  
+		}	    
+	    effect = {
+	    prestige = 10
+	    CAL = {primary_culture = THIS}
+	    release_vassal = CAL
+	    set_country_flag = released_CAL
+	    }
+		ai_will_do = { factor = 1}
+}
+organize_cascadia = {
+	    picture = COL
+	    potential = {
+	    OR = { is_secondary_power = yes
+	    is_greater_power = yes }
+	    COL = { exists = no}
+	    owns = 13 #vancouver
+	    	    NOT = {has_country_flag = released_COL}
+	    }
+	    allow = {
+	    state_n_government = 1
+	 	COL = { all_core = { owned_by = THIS } }
+	    	war = no   
+		}	    
+	    effect = {
+	    prestige = 10 
+	    COL = {primary_culture = THIS}
+	    release_vassal = COL
+	    set_country_flag = released_COL
+	    }
+
+		ai_will_do = { factor = 1}
+}
+organize_cuba = {
+	    picture = CUB
+	    potential = {
+	    OR = {is_secondary_power = yes
+	    	  is_greater_power = yes }
+	    CUB = { exists = no}
+	    owns = 2209 #havanna
+	    NOT = {has_country_flag = released_CUB}
+	    }
+	    allow = {
+	    state_n_government = 1
+	    CUB = { all_core = { owned_by = THIS } }
+	    war = no	    
+		}	    
+	    effect = {
+	    prestige = 10
+	    CUB = {primary_culture = THIS}
+	    release_vassal = CUB
+	    set_country_flag = released_CUB
+	    }
+		ai_will_do = { factor = 1}
+}
+
+organize_texas = {
+	    picture = TEX
+	    potential = {
+	    OR = {is_secondary_power = yes
+	    	  is_greater_power = yes }
+	    TEX = { exists = no}
+	    owns = 133 #Austin
+	    NOT = {has_country_flag = released_TEX}
+	    }
+	    allow = {
+	    state_n_government = 1
+	    TEX = { all_core = { owned_by = THIS } }
+	    war = no	    
+		}	    
+	    effect = {
+	    prestige = 10
+	    TEX = {primary_culture = THIS}
+	    release_vassal = TEX
+	    set_country_flag = released_TEX
+	    }
+		ai_will_do = { factor = 1}
+}
+organize_north_mexico = {
+	    picture = MEX
+	    potential = {
+	    OR = { is_secondary_power = yes
+	    		is_greater_power = yes }
+	    MEX = { exists = no }
+	    OR = { owns = 2146 owns = 2139} 
+	    	    NOT = {has_country_flag = released_MEX}
+	    }
+	    allow = {
+	    state_n_government = 1
+		MEX = { all_core = { owned_by = THIS } }
+		war = no
+		}	    
+	    	effect = {
+	    		prestige = 10
+	    		MEX = {primary_culture = THIS}
+	    		release_vassal = MEX
+	   			set_country_flag = released_MEX
+	 			}
+		ai_will_do = { factor = 1}
+}
+organize_brazil = {
+	    picture = BRZ
+	    potential = {
+	    	    OR = {is_secondary_power = yes
+	    is_greater_power = yes}
+	    BRZ = { exists = no}
+	    owns = 2428
+	    	    NOT = {has_country_flag = released_BRZ}
+	    }
+	    allow = {
+	    state_n_government = 1
+	    BRZ = { all_core = { owned_by = THIS } }
+	    war = no
+			}
+
+	    effect = {
+	    prestige = 10
+	    BRZ = {primary_culture = THIS}
+	    release_vassal = BRZ
+	    set_country_flag = released_BRZ
+		}
+		ai_will_do = { factor = 1}
+	}	
+
+organize_south_brazil = {
+	    picture = PRG
+	    potential = {
+	    	    OR = {
+				is_secondary_power = yes
+				is_greater_power = yes
+				}
+	    PRG = { exists = no }
+	    NOT = {has_country_flag = released_PRG}
+	    owns = 2447
+	    }
+		allow = {
+	    state_n_government = 1
+	    PRG = { all_core = { owned_by = THIS } }
+	    war = no
+		}
+	   effect = {
+	    prestige = 10
+	    set_country_flag = released_PRG
+	    release_vassal = PRG
+	    PRG = {primary_culture = THIS} }
+		ai_will_do = { factor = 1}
+		}
+
+
+organize_argentina = {
+	    picture = ARG
+	    potential = {
+	    	    OR = {is_secondary_power = yes
+	    is_greater_power = yes}
+	    ARG = { exists = no}
+	    OR = {owns = 2348 owns = 2326}
+	    	    NOT = {has_country_flag = released_ARG}
+	    }
+	    allow={
+	    state_n_government = 1
+	    ARG = { all_core = { owned_by = THIS } }
+	    war = no
+	    }
+	    effect = {
+	    prestige = 10
+	    set_country_flag = released_ARG
+	    release_vassal = ARG
+	    ARG = {primary_culture = THIS}
+	    }
+		ai_will_do = { factor = 1}
+	    }
+
+organize_NZL = {
+	    picture = NZL
+	    potential = {
+	    	    OR = {is_secondary_power = yes
+	    is_greater_power = yes}
+	    NZL = { exists = no}
+	    owns = 2468
+	    	    NOT = {has_country_flag = released_NZL}
+	    }
+	    allow = {
+	    state_n_government = 1
+	    NZL = { all_core = { owned_by = THIS } }	
+	    war = no
+	    }
+	    effect = {
+	    prestige = 10
+	    release_vassal = NZL
+	    set_country_flag = released_NZL
+	     NZL = {primary_culture = THIS}
+	     }
+		 ai_will_do = { factor = 1}
+		}
+
+
+
+
+organize_zanzibar = {
+	    picture = ZAN
+	    potential = {
+	    	OR = {is_secondary_power = yes
+	   	 		  is_greater_power = yes }
+	    ZAN = { exists = no}
+	    owns = 2048
+	    	    NOT = {has_country_flag = released_ZAN}
+	    }
+	    allow = {
+	    state_n_government = 1
+	    ZAN = { all_core = { owned_by = THIS } }
+	    war = no
+	    }
+	    effect = {
+	    prestige = 10
+	    release_vassal = ZAN
+	    set_country_flag = released_ZAN
+	     ZAN = {primary_culture = THIS}
+	     }
+		ai_will_do = { factor = 1}
+		}		
+
+
+
+organize_gran_colombia = {
+	    picture = GCO
+	    potential = {
+	    	OR = { is_secondary_power = yes is_greater_power = yes }
+			state_n_government = 1
+	    	GCO = { exists = no }
+	    	OR = {owns = 2264 owns = 2281}
+	    	NOT = {has_country_flag = released_GCO}
+	    }
+	    allow = {
+	  state_n_government = 1
+	  GCO = { all_core = { owned_by = THIS } }
+	  war = no
+	}	    
+	    effect = {
+	    prestige = 10
+	    set_country_flag = released_GCO
+	    release_vassal = GCO
+	    GCO = {primary_culture = THIS}
+	    }
+		ai_will_do = { factor = 1}
+}
+
+
+culture_QUE = {
+	picture = QUE
+	potential = { 
+	QUE = {vassal_of = THIS}
+	NOT = { QUE = {is_primary_culture = THIS} }
+	}
+	allow = {
+	money = 510000
+	war = no
+	}
+	effect = {
+	money = -500000
+	QUE = {primary_culture = THIS}
+	}
+		ai_will_do = { factor = 1}
+	}
+
+culture_MAN = {
+	picture = MAN
+	potential = { 
+	MAN = {vassal_of = THIS}
+	NOT = { MAN = {is_primary_culture = THIS} }
+	}
+	allow = {
+	money = 510000
+	war = no
+	}
+	effect = {
+	money = -500000
+	MAN = {primary_culture = THIS}
+	}
+		ai_will_do = { factor = 1}
+	}
+
+culture_CSA = {
+	picture = CSA
+	potential = { 
+	CSA = {vassal_of = THIS}
+	NOT = { CSA = {is_primary_culture = THIS} }
+	}
+	allow = {
+	money = 510000
+	war = no
+	}
+	effect = {
+	money = -500000
+	CSA = {primary_culture = THIS}
+	}
+		ai_will_do = { factor = 1}
+	}
+
+culture_CAL = {
+	picture = CAL
+	potential = { 
+	CAL = {vassal_of = THIS}
+	NOT = { CAL = {is_primary_culture = THIS} }
+	}
+	allow = {
+	money = 510000
+	war = no
+	}
+	effect = {
+	money = -500000
+	CAL = {primary_culture = THIS}
+	}
+		ai_will_do = { factor = 1}
+	}
+
+culture_COL = {
+	picture = COL
+	potential = { 
+	COL = {vassal_of = THIS}
+	NOT = { COL = {is_primary_culture = THIS} }
+	}
+	allow = {
+	money = 510000
+	war = no
+	}
+	effect = {
+	money = -500000
+	COL = {primary_culture = THIS}
+	}
+		ai_will_do = { factor = 1}
+	}
+
+culture_CUB = {
+	picture = CUB
+	potential = { 
+	CUB = {vassal_of = THIS}
+	NOT = { CUB = {is_primary_culture = THIS} }
+	}
+	allow = {
+	money = 510000
+	war = no
+	}
+	effect = {
+	money = -500000
+	CUB = {primary_culture = THIS}
+	}
+		ai_will_do = { factor = 1}
+	}
+
+culture_TEX = {
+	picture = TEX
+	potential = { 
+	TEX = {vassal_of = THIS}
+	NOT = { TEX = {is_primary_culture = THIS} }
+	}
+	allow = {
+	money = 510000
+	war = no
+	}
+	effect = {
+	money = -500000
+	QUE = {primary_culture = THIS}
+	}
+		ai_will_do = { factor = 1}
+	}
+
+culture_MEX = {
+	picture = MEX
+	potential = { 
+	MEX = {vassal_of = THIS}
+	NOT = { MEX = {is_primary_culture = THIS} }
+	}
+	allow = {
+	money = 510000
+	war = no
+	}
+	effect = {
+	money = -500000
+	MEX = {primary_culture = THIS}
+	}
+		ai_will_do = { factor = 1}
+	}
+
+culture_BRZ = {
+	picture = BRZ
+	potential = { 
+	BRZ = {vassal_of = THIS}
+	NOT = { BRZ = {is_primary_culture = THIS} }
+	}
+	allow = {
+	money = 510000
+	war = no
+	}
+	effect = {
+	money = -500000
+	BRZ = {primary_culture = THIS}
+	}
+		ai_will_do = { factor = 1}
+	}
+
+culture_PRG = {
+	picture = PRG
+	potential = { 
+	PRG = {vassal_of = THIS}
+	NOT = { PRG = {is_primary_culture = THIS} }
+	}
+	allow = {
+	money = 510000
+	war = no
+	}
+	effect = {
+	money = -500000
+	PRG = {primary_culture = THIS}
+	}
+		ai_will_do = { factor = 1}
+	}
+
+culture_ARG = {
+	picture = ARG
+	potential = { 
+	ARG = {vassal_of = THIS}
+	NOT = { ARG = {is_primary_culture = THIS} }
+	}
+	allow = {
+	money = 510000
+	war = no
+	}
+	effect = {
+	money = -500000
+	ARG = {primary_culture = THIS}
+	}
+		ai_will_do = { factor = 1}
+	}
+
+culture_NZL = {
+	picture = NZL
+	potential = { 
+	NZL = {vassal_of = THIS}
+	NOT = { NZL = {is_primary_culture = THIS} }
+	}
+	allow = {
+	money = 510000
+	war = no
+	}
+	effect = {
+	money = -500000
+	NZL = {primary_culture = THIS}
+	}
+		ai_will_do = { factor = 1}
+	}
+
+culture_ZAN = {
+	picture = ZAN
+	potential = { 
+	ZAN = {vassal_of = THIS}
+	NOT = { ZAN = {is_primary_culture = THIS} }
+	}
+	allow = {
+	money = 510000
+	war = no
+	}
+	effect = {
+	money = -500000
+	ZAN = {primary_culture = THIS}
+	}
+		ai_will_do = { factor = 1}
+	}
+
+culture_GCO = {
+	picture = GCO
+	potential = { 
+	GCO = {vassal_of = THIS}
+	NOT = { GCO = {is_primary_culture = THIS} }
+	}
+	allow = {
+	money = 510000
+	war = no
+	}
+	effect = {
+	money = -500000
+	GCO = {primary_culture = THIS}
+	}
+		ai_will_do = { factor = 1}
+	}
+
+annex_QUE = {
+	picture = QUE
+	potential = {
+	has_country_flag = annex_colony
+	NOT = { has_country_flag = annexedQUE } 
+	QUE = {vassal_of = THIS}
+	}
+	allow = {
+	QUE = {vassal_of = THIS}
+	QUE = {is_primary_culture = THIS}
+	phenomenology_n_hermeneutic = 1
+	war = no
+	}
+	effect = {
+	inherit = QUE
+	QUE = { all_core = { add_core = THIS } }
+	prestige = 10
+	set_country_flag = annexedQUE
+	}
+		ai_will_do = { factor = 0}
+	}
+	
+	
+	
+
+annex_MAN = {
+	picture = MAN
+	potential = {
+	has_country_flag = annex_colony
+	NOT = { has_country_flag = annexedMAN } 
+	MAN = {vassal_of = THIS}
+	}
+	allow = {
+	MAN = {vassal_of = THIS}
+	MAN = {is_primary_culture = THIS}
+	phenomenology_n_hermeneutic = 1
+	war = no
+	}
+	effect = {
+	inherit = MAN
+	MAN = { all_core = { add_core = THIS } }
+	prestige = 10
+	set_country_flag = annexedMAN
+	}
+		ai_will_do = { factor = 0}
+	}
+
+
+
+annex_CSA = {
+	picture = CSA
+	potential = {
+	has_country_flag = annex_colony
+	NOT = { has_country_flag = annexedCSA } 
+	CSA = {vassal_of = THIS}
+	}
+	allow = {
+	CSA = {vassal_of = THIS}
+	CSA = {is_primary_culture = THIS}
+	phenomenology_n_hermeneutic = 1
+	war = no
+	}
+	effect = {
+	inherit = CSA
+	CSA = { all_core = { add_core = THIS } }
+	prestige = 10
+	set_country_flag = annexedCSA
+	}
+		ai_will_do = { factor = 0}
+	}		
+	
+annex_TEX = {
+	picture = TEX
+	potential = {
+	has_country_flag = annex_colony
+	NOT = { has_country_flag = annexedTEX } 
+	TEX = {vassal_of = THIS}
+	}
+	allow = {
+	TEX = {vassal_of = THIS}
+	TEX = {is_primary_culture = THIS}
+	phenomenology_n_hermeneutic = 1
+	war = no
+	}
+	effect = {
+	inherit = TEX
+	TEX= { all_core = { add_core = THIS } }
+	prestige = 10
+	set_country_flag = annexedTEX
+	}
+		ai_will_do = { factor = 0}
+	}		
+
+annex_MEX = {
+	picture = MEX
+	potential = {
+	has_country_flag = annex_colony
+	NOT = { has_country_flag = annexedRGD } 
+	MEX = {vassal_of = THIS}
+	}
+	allow = {
+	MEX = {vassal_of = THIS}
+	MEX = {is_primary_culture = THIS}
+	phenomenology_n_hermeneutic = 1
+	war = no
+	}
+	effect = {
+	inherit = MEX
+	MEX = { all_core = { add_core = THIS } }
+	prestige = 10
+	set_country_flag = annexedRGD
+	}
+		ai_will_do = { factor = 0}
+	}	
+	
+annex_CAL = {
+	picture = CAL
+	potential = {
+	has_country_flag = annex_colony
+	NOT = { has_country_flag = annexedCAL } 
+	CAL = {vassal_of = THIS}
+	}
+	allow = {
+	CAL = {vassal_of = THIS}
+	CAL = {is_primary_culture = THIS}
+	phenomenology_n_hermeneutic = 1
+	war = no
+	}
+	effect = {
+	inherit = CAL
+	CAL= { all_core = { add_core = THIS } }
+	prestige = 10
+	set_country_flag = annexedCAL
+	}
+		ai_will_do = { factor = 0}
+	}
+	
+annex_COL  = {
+	picture = COL
+	potential = {
+	has_country_flag = annex_colony
+	NOT = { has_country_flag = annexedCOL } 
+	COL  = {vassal_of = THIS}
+	}
+	allow = {
+	COL  = {vassal_of = THIS}
+	COL  = {is_primary_culture = THIS}
+	phenomenology_n_hermeneutic = 1
+	war = no
+	}
+	effect = {
+	inherit = COL
+	COL = { all_core = { add_core = THIS } }
+	prestige = 10
+	set_country_flag = annexedCOL
+	}
+		ai_will_do = { factor = 0}
+	}
+
+	
+annex_CUB  = {
+	picture = CUB
+	potential = {
+	has_country_flag = annex_colony
+	NOT = { has_country_flag = annexedCUB } 
+	CUB  = {vassal_of = THIS}
+	}
+	allow = {
+	CUB  = {vassal_of = THIS}
+	CUB  = {is_primary_culture = THIS}
+	phenomenology_n_hermeneutic = 1
+	war = no
+	}
+	effect = {
+	inherit = CUB
+	CUB = { all_core = { add_core = THIS } }
+	prestige = 10
+	set_country_flag = annexedCUB
+	}
+		ai_will_do = { factor = 0}
+	}
+	
+annex_BRZ  = {
+	picture = BRZ
+	potential = {
+	has_country_flag = annex_colony
+	NOT = { has_country_flag = annexedBRZ } 
+	BRZ  = {vassal_of = THIS}
+	}
+	allow = {
+	BRZ  = {vassal_of = THIS}
+	BRZ  = {is_primary_culture = THIS}
+	phenomenology_n_hermeneutic = 1
+	war = no
+	}
+	effect = {
+	inherit = BRZ
+	BRZ = { all_core = { add_core = THIS } }
+	prestige = 10
+	set_country_flag = annexedBRZ
+	}
+		ai_will_do = { factor = 0}
+	}
+	
+annex_PRG  = {
+	picture = PRG
+	potential = {
+	has_country_flag = annex_colony
+	NOT = { has_country_flag = annexedPRG } 
+	PRG  = {vassal_of = THIS}
+	}
+	allow = {
+	PRG  = {vassal_of = THIS}
+	PRG  = {is_primary_culture = THIS}
+	phenomenology_n_hermeneutic = 1
+	war = no
+	}
+	effect = {
+	inherit = PRG
+	PRG = { all_core = { add_core = THIS } }
+	prestige = 10
+	set_country_flag = annexedPRG
+	}
+		ai_will_do = { factor = 0}
+	}
+	
+	
+annex_GCO  = {
+	picture = GCO
+	potential = {
+	has_country_flag = annex_colony
+	NOT = { has_country_flag = annexedGCO } 
+	GCO  = {vassal_of = THIS}
+	}
+	allow = {
+	GCO  = {vassal_of = THIS}
+	GCO  = {is_primary_culture = THIS}
+	phenomenology_n_hermeneutic = 1
+	war = no
+	}
+	effect = {
+	inherit = GCO
+	GCO = { all_core = { add_core = THIS } }
+	prestige = 10
+	set_country_flag = annexedGCO
+	}
+		ai_will_do = { factor = 0}
+	}
+
+annex_ARG  = {
+	picture = ARG
+	potential = {
+	has_country_flag = annex_colony
+	NOT = { has_country_flag = annexedARG } 
+	ARG  = {vassal_of = THIS}
+	}
+	allow = {
+	ARG  = {vassal_of = THIS}
+	ARG  = {is_primary_culture = THIS}
+	phenomenology_n_hermeneutic = 1
+	war = no
+	}
+	effect = {
+	inherit = ARG
+	ARG = { all_core = { add_core = THIS } }
+	prestige = 10
+	set_country_flag = annexedARG
+	}
+	ai_will_do = { factor = 0}
+	}
+	
+annex_NZL  = {
+	picture = NZL
+	potential = {
+	has_country_flag = annex_colony
+	NOT = { has_country_flag = annexedNZL } 
+	NZL  = {vassal_of = THIS}
+	}
+	allow = {
+	NZL  = {vassal_of = THIS}
+	NZL  = {is_primary_culture = THIS}
+	phenomenology_n_hermeneutic = 1
+	war = no
+	}
+	effect = {
+	inherit = NZL
+	NZL = { all_core = { add_core = THIS } }
+	prestige = 10
+	set_country_flag = annexedNZL
+	}
+	ai_will_do = { factor = 0}
+	}	
+	
+	
+annex_ZAN  = {
+	picture = ZAN
+	potential = {
+	has_country_flag = annex_colony
+	NOT = { has_country_flag = annexedZAN } 
+	SAF  = {vassal_of = THIS}
+	}
+	allow = {
+	ZAN  = {vassal_of = THIS}
+	ZAN  = {is_primary_culture = THIS}
+	phenomenology_n_hermeneutic = 1
+	war = no
+	}
+	effect = {
+	inherit = ZAN
+	ZAN = { all_core = { add_core = THIS } }
+	prestige = 10
+	set_country_flag = annexedZAN
+	}
+	ai_will_do = { factor = 0}
+	}
+	
+	}
