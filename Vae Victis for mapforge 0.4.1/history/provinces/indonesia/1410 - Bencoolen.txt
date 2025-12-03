@@ -1,6 +1,0 @@
-owner = CAR
-controller = CAR
-trade_goods = coal
-life_rating = 32
-colonial = 2
-

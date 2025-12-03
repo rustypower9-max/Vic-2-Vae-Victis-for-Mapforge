@@ -1,7 +1,0 @@
-owner = ING
-controller = ING
-
-colonial = 2
-trade_goods = tropical_wood
-life_rating = 35
-

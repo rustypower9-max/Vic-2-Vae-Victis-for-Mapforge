@@ -1,7 +1,0 @@
-owner = TRT
-controller = TRT
-add_core = TRT
-railroad = 1
-trade_goods = fruit
-life_rating = 38
-

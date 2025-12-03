@@ -1,7 +1,0 @@
-owner = FJN
-controller = FJN
-add_core = FJN
-trade_goods = iron
-life_rating = 35
-
- 
