@@ -494,6 +494,15 @@ own_panama_canal = {
 	#prestige = 0.02
 }
 
+unciv_rp_nerf = {
+    trigger = {
+        civilized = no
+        NOT = { civilized = yes }
+    }
+    research_points_on_conquer = -0.05
+    icon = 10
+}
+
 ### Fascism/Communism Country Modifiers, triggered by invention and government type ### MOVED TO COUNTRY MODIFIERS
 #policestate_modifier = {
 #	trigger = {
