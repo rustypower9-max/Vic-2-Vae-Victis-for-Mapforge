@@ -68,6 +68,7 @@ publishing_industry = 1
 mechanized_mining = 1
 basic_chemistry = 1
 army_professionalism = 1
+battleship_column_doctrine = 1
 
 #Inventions
 

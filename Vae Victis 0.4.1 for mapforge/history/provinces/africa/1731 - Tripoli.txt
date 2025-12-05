@@ -3,5 +3,5 @@ controller = CAR
 add_core = CAR
 trade_goods = fruit
 life_rating = 38
-naval_base = 2
+naval_base = 1
 
