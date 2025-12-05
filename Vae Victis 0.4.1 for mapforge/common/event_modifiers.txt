@@ -1139,7 +1139,7 @@ integration_refusal = {
 }
 
 core_integration = {
-	assimilation_rate = 0.5
+	assimilation_rate = 0.7
 	pop_consciousness_modifier = 0.05
 	non_accepted_pop_consciousness_modifier = 0.01
 	icon = 7
@@ -1191,7 +1191,7 @@ treaty_port_buff = {
 
 ### NV Changes ###
 national_confusion = {
-	research_points_modifier = -0.01
+	#research_points_modifier = -0.01
 	global_pop_consciousness_modifier = 0.01
 	global_pop_militancy_modifier = 0.01
 	prestige = -0.01
@@ -1542,7 +1542,7 @@ parthian_centralization = {
 	cb_generation_speed_modifier = -0.3
 	badboy = 0.12
 	education_efficiency_modifier = 0.3
-	industry_tech_research_bonus = 0.5
+	industry_tech_research_bonus = 0.05
 	commerce_tech_research_bonus = 0.1
 	#army_tech_research_bonus = 0.1
 	navy_tech_research_bonus = 0.15
