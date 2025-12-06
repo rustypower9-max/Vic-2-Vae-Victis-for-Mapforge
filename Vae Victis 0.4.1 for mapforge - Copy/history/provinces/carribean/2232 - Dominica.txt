@@ -1,7 +1,0 @@
-owner = CAT
-controller = CAT
-colonial = 2
-naval_base = 1
-trade_goods = cotton
-life_rating = 35
- 

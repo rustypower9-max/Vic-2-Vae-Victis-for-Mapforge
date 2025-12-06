@@ -1,6 +1,0 @@
-add_core = PRG
-
-
-trade_goods = sulphur
-life_rating = 20
-

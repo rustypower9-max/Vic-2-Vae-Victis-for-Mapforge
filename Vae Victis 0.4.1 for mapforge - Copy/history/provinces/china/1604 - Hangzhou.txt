@@ -1,7 +1,0 @@
-owner = WIA
-controller = WIA
-add_core = WIA
-add_core = TPG
-trade_goods = silk
-life_rating = 32
-

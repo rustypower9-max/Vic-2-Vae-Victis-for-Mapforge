@@ -1,7 +1,0 @@
-owner = ING
-controller = ING
-add_core = ING
-trade_goods = tea
-life_rating = 32
- 
-

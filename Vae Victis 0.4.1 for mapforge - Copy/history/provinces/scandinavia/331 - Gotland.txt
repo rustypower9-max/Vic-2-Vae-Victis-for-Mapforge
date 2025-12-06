@@ -1,9 +1,0 @@
-owner = NET
-controller = NET
-add_core = DEN
-add_core = NET
-colonial = 2
-trade_goods = silk
-life_rating = 35
-
- 

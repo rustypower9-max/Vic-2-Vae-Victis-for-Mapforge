@@ -1,7 +1,0 @@
-owner = SIN
-controller = SIN
-add_core = SIN
-trade_goods = coal
-life_rating = 32
-1861.1.1 = { railroad = 2 }
-

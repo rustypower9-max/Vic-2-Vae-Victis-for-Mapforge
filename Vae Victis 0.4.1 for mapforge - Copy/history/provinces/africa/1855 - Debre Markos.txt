@@ -1,7 +1,0 @@
-owner = YEM
-controller = YEM
-add_core = YEM
-add_core = ETH
-trade_goods = iron
-life_rating = 35
-

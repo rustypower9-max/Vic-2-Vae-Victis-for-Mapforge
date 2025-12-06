@@ -1,9 +1,0 @@
-owner = ARM
-controller = ARM
-add_core = ARM
-trade_goods = sulphur
-life_rating = 35
-1861.1.1 = { 
-	add_core = RUS
-}
-

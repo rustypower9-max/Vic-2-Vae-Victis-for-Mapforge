@@ -1,7 +1,0 @@
-owner = PON
-controller = PON
-add_core = PON
-trade_goods = coal
-life_rating = 36
- 
-
