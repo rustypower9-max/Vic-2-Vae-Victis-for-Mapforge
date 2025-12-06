@@ -47,7 +47,7 @@ foreign_weapons = yes_foreign_weapons
 foreign_officers = yes_foreign_officers
 advanced_constructions = yes_advanced_constructions
 imported_ships = yes_imported_ships
-naval_officers = yes_naval officers
+naval_officers = yes_naval_officers
 
 #Technologies
 post_napoleonic_thought = 1
