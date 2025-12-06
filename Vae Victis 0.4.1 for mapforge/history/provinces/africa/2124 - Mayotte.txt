@@ -1,5 +1,5 @@
-owner = NET
-controller = NET
+owner = JAN
+controller = JAN
 naval_base = 1
 trade_goods = grain
 life_rating = 35
