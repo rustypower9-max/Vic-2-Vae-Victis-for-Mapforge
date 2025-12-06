@@ -48,6 +48,7 @@ foreign_officers = yes_foreign_officers
 military_constructions = yes_military_constructions
 foreign_navies = yes_foreign_navies
 foreign_naval_officers = yes_foreign_naval_officers
+admin_reform = yes_admin_reform
 
 #Technologies
 post_napoleonic_thought = 1
@@ -58,6 +59,7 @@ post_nelsonian_thought = 1
 clipper_design = 1
 naval_design_bureaus = 1
 alphabetic_flag_signaling = 1
+no_standard = 1
 water_wheel_power = 1
 
 #Inventions
