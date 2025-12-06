@@ -46,8 +46,8 @@ foreign_training = yes_foreign_training
 foreign_weapons = yes_foreign_weapons
 foreign_officers = yes_foreign_officers
 military_constructions = yes_military_constructions
-foriegn_navies = yes_foriegn_navies
-foriegn_naval_officers = yes_foreign_naval_officers
+foreign_navies = yes_foreign_navies
+foreign_naval_officers = yes_foreign_naval_officers
 
 #Technologies
 post_napoleonic_thought = 1
