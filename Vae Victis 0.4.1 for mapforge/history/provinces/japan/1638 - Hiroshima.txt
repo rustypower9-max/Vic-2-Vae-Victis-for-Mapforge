@@ -1,4 +1,4 @@
 add_core = JAP
-trade_goods = silk
-life_rating = 25
+trade_goods = cotton
+life_rating = 20
 

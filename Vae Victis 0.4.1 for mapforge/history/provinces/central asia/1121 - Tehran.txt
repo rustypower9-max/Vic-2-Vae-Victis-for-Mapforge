@@ -23,5 +23,5 @@ state_building = {
 		upgrade = yes
 	}
 trade_goods = cotton
-life_rating = 37
+life_rating = 40
 terrain = steppe

@@ -1,5 +1,6 @@
-owner = MYS
-controller = MYS
+owner = BRU
+controller = BRU
+Core = BRU
 colonial = 2
 trade_goods = grain
 life_rating = 32
