@@ -1,0 +1,6 @@
+owner = ARM
+controller = ARM
+add_core = ARM
+trade_goods = coal
+life_rating = 35
+

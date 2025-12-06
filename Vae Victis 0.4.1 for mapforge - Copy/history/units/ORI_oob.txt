@@ -1,0 +1,112 @@
+army = {
+	name = "I. Armee"
+	location = 1262
+	regiment = {
+		name= "2.1. Kavalleriedivision"
+		type = infantry
+		home = 1262
+	}
+
+	regiment = {
+		name= "3.1. Kavalleriedivision"
+		type = infantry
+		home = 1263
+	}
+
+	regiment = {
+		name= "2.2. Infanteriedivision"
+		type = infantry
+		home = 1279
+	}
+
+	regiment = {
+		name= "3.2. Infanteriedivision"
+		type = infantry
+		home = 1277
+	}
+
+	regiment = {
+		name= "1.3. Infanteriedivision"
+		type = hussar
+		home = 1281
+	}
+
+	regiment = {
+		name= "2.3. Infanteriedivision"
+		type = artillery
+		home = 1278
+	}
+
+	regiment = {
+		name= "3.3. Infanteriedivision"
+		type = artillery
+		home = 1275
+	}
+	
+	regiment = {
+		name= "1.4. Infanteriedivision"
+		type = artillery
+		home = 1274
+	}
+        regiment = {
+		name= "1.5. Infanteriedivision"
+		type = artillery
+		home = 1276
+	}
+	regiment = {
+		name= "1.6. Infanteriedivision"
+		type = artillery
+		home = 1272
+	}
+}
+
+army = {
+	name = "2. Armee"
+	location = 1272
+	regiment = {
+		name= "2.1. Kavalleriedivision"
+		type = infantry
+		home = 1271
+	}
+
+	regiment = {
+		name= "3.1. Kavalleriedivision"
+		type = infantry
+		home = 1269
+	}
+
+	regiment = {
+		name= "2.2. Infanteriedivision"
+		type = infantry
+		home = 1273
+	}
+
+	regiment = {
+		name= "1.3. Infanteriedivision"
+		type = hussar
+		home = 1281
+	}
+
+	regiment = {
+		name= "2.3. Infanteriedivision"
+		type = artillery
+		home = 1278
+	}
+
+	regiment = {
+		name= "3.3. Infanteriedivision"
+		type = artillery
+		home = 1275
+	}
+	
+	regiment = {
+		name= "1.4. Infanteriedivision"
+		type = artillery
+		home = 1274
+	}
+        regiment = {
+		name= "1.5. Infanteriedivision"
+		type = artillery
+		home = 1276
+	}
+}

@@ -1,0 +1,9 @@
+owner = POR
+controller = POR
+add_core = PHL
+colonial = 2
+trade_goods = iron
+life_rating = 32
+
+
+

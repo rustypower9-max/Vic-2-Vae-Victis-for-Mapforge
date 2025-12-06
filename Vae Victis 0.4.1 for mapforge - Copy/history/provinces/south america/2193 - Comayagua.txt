@@ -1,0 +1,12 @@
+owner = NPH
+controller = NPH
+add_core = NPH
+
+
+#add_core = HON
+trade_goods = fruit
+life_rating = 35
+1861.1.1 = {
+	
+	
+}

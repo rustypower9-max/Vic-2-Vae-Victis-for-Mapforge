@@ -1,0 +1,6 @@
+trade_goods = cotton
+life_rating = 35
+owner = CRO
+controller = CRO
+naval_base = 1
+colonial = 2 

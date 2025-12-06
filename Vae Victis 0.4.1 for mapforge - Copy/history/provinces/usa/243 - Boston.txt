@@ -1,0 +1,6 @@
+add_core = MAN
+#add_core = NEN
+trade_goods = tobacco
+life_rating = 30
+
+ 

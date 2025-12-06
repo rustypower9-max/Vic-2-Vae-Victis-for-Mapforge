@@ -1,0 +1,1197 @@
+#Cameroun Region (728000)
+#uncolonized in 1836/ruled by the Kings of Duala
+#Douala (328000/82000 POPS)
+1956 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 427
+    }
+
+    bureaucrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 13
+    }
+
+    officers = {
+        culture = barbarian
+        religion = placeholder
+        size = 39
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 217
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 867
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 217
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 16090
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 3679
+    }
+
+    aristocrats = {
+        culture = hannoic
+        religion = placeholder
+        size = 356
+    }
+
+    bureaucrats = {
+        culture = hannoic
+        religion = placeholder
+        size = 11
+    }
+
+    officers = {
+        culture = hannoic
+        religion = placeholder
+        size = 33
+    }
+
+    clergymen = {
+        culture = hannoic
+        religion = placeholder
+        size = 180
+    }
+
+    artisans = {
+        culture = hannoic
+        religion = placeholder
+        size = 723
+    }
+
+    soldiers = {
+        culture = hannoic
+        religion = placeholder
+        size = 180
+    }
+
+    farmers = {
+        culture = hannoic
+        religion = placeholder
+        size = 13408
+    }
+
+    slaves = {
+        culture = hannoic
+        religion = placeholder
+        size = 3066
+    }
+
+    aristocrats = {
+        culture = hannoic
+        religion = placeholder
+        size = 158
+    }
+
+    bureaucrats = {
+        culture = hannoic
+        religion = placeholder
+        size = 5
+    }
+
+    officers = {
+        culture = hannoic
+        religion = placeholder
+        size = 15
+    }
+
+    clergymen = {
+        culture = hannoic
+        religion = placeholder
+        size = 80
+    }
+
+    artisans = {
+        culture = hannoic
+        religion = placeholder
+        size = 321
+    }
+
+    soldiers = {
+        culture = hannoic
+        religion = placeholder
+        size = 80
+    }
+
+    farmers = {
+        culture = hannoic
+        religion = placeholder
+        size = 5951
+    }
+
+    slaves = {
+        culture = hannoic
+        religion = placeholder
+        size = 1361
+    }
+
+    aristocrats = {
+        culture = hannoic
+        religion = placeholder
+        size = 131
+    }
+
+    bureaucrats = {
+        culture = hannoic
+        religion = placeholder
+        size = 4
+    }
+
+    officers = {
+        culture = hannoic
+        religion = placeholder
+        size = 12
+    }
+
+    clergymen = {
+        culture = hannoic
+        religion = placeholder
+        size = 67
+    }
+
+    artisans = {
+        culture = hannoic
+        religion = placeholder
+        size = 267
+    }
+
+    soldiers = {
+        culture = hannoic
+        religion = placeholder
+        size = 67
+    }
+
+    farmers = {
+        culture = hannoic
+        religion = placeholder
+        size = 4959
+    }
+
+    slaves = {
+        culture = hannoic
+        religion = placeholder
+        size = 1134
+    }
+}
+#Buea (224000/56000 POPS)
+1957 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 283
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 145
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 591
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 145
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 10400
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 3154
+    }
+
+    aristocrats = {
+        culture = hannoic
+        religion = placeholder
+        size = 235
+    }
+
+    clergymen = {
+        culture = hannoic
+        religion = placeholder
+        size = 120
+    }
+
+    artisans = {
+        culture = hannoic
+        religion = placeholder
+        size = 493
+    }
+
+    soldiers = {
+        culture = hannoic
+        religion = placeholder
+        size = 120
+    }
+
+    farmers = {
+        culture = hannoic
+        religion = placeholder
+        size = 8667
+    }
+
+    slaves = {
+        culture = hannoic
+        religion = placeholder
+        size = 2628
+    }
+
+    aristocrats = {
+        culture = hannoic
+        religion = placeholder
+        size = 104
+    }
+
+    clergymen = {
+        culture = hannoic
+        religion = placeholder
+        size = 53
+    }
+
+    artisans = {
+        culture = hannoic
+        religion = placeholder
+        size = 219
+    }
+
+    soldiers = {
+        culture = hannoic
+        religion = placeholder
+        size = 53
+    }
+
+    farmers = {
+        culture = hannoic
+        religion = placeholder
+        size = 3847
+    }
+
+    slaves = {
+        culture = hannoic
+        religion = placeholder
+        size = 1166
+    }
+
+    aristocrats = {
+        culture = hannoic
+        religion = placeholder
+        size = 87
+    }
+
+    clergymen = {
+        culture = hannoic
+        religion = placeholder
+        size = 45
+    }
+
+    artisans = {
+        culture = hannoic
+        religion = placeholder
+        size = 182
+    }
+
+    soldiers = {
+        culture = hannoic
+        religion = placeholder
+        size = 45
+    }
+
+    farmers = {
+        culture = hannoic
+        religion = placeholder
+        size = 3205
+    }
+
+    slaves = {
+        culture = hannoic
+        religion = placeholder
+        size = 972
+    }
+}
+#Kribi (176000/44000 POPS)
+1958 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 131
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 66
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 276
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 144
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 5499
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 788
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 85
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 46
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 191
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 92
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 3048
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 1314
+    }
+
+    aristocrats = {
+        culture = hannoic
+        religion = placeholder
+        size = 109
+    }
+
+    clergymen = {
+        culture = hannoic
+        religion = placeholder
+        size = 55
+    }
+
+    artisans = {
+        culture = hannoic
+        religion = placeholder
+        size = 230
+    }
+
+    soldiers = {
+        culture = hannoic
+        religion = placeholder
+        size = 60
+    }
+
+    farmers = {
+        culture = hannoic
+        religion = placeholder
+        size = 4582
+    }
+
+    slaves = {
+        culture = hannoic
+        religion = placeholder
+        size = 657
+    }
+
+    aristocrats = {
+        culture = hannoic
+        religion = placeholder
+        size = 71
+    }
+
+    clergymen = {
+        culture = hannoic
+        religion = placeholder
+        size = 38
+    }
+
+    artisans = {
+        culture = hannoic
+        religion = placeholder
+        size = 158
+    }
+
+    soldiers = {
+        culture = hannoic
+        religion = placeholder
+        size = 38
+    }
+
+    farmers = {
+        culture = hannoic
+        religion = placeholder
+        size = 2540
+    }
+
+    slaves = {
+        culture = hannoic
+        religion = placeholder
+        size = 1095
+    }
+
+    aristocrats = {
+        culture = hannoic
+        religion = placeholder
+        size = 49
+    }
+
+    clergymen = {
+        culture = hannoic
+        religion = placeholder
+        size = 24
+    }
+
+    artisans = {
+        culture = hannoic
+        religion = placeholder
+        size = 102
+    }
+
+    soldiers = {
+        culture = hannoic
+        religion = placeholder
+        size = 27
+    }
+
+    farmers = {
+        culture = hannoic
+        religion = placeholder
+        size = 2034
+    }
+
+    slaves = {
+        culture = hannoic
+        religion = placeholder
+        size = 292
+    }
+
+    aristocrats = {
+        culture = hannoic
+        religion = placeholder
+        size = 32
+    }
+
+    clergymen = {
+        culture = hannoic
+        religion = placeholder
+        size = 17
+    }
+
+    artisans = {
+        culture = hannoic
+        religion = placeholder
+        size = 70
+    }
+
+    soldiers = {
+        culture = hannoic
+        religion = placeholder
+        size = 17
+    }
+
+    farmers = {
+        culture = hannoic
+        religion = placeholder
+        size = 1128
+    }
+
+    slaves = {
+        culture = hannoic
+        religion = placeholder
+        size = 486
+    }
+
+    aristocrats = {
+        culture = hannoic
+        religion = placeholder
+        size = 41
+    }
+
+    clergymen = {
+        culture = hannoic
+        religion = placeholder
+        size = 20
+    }
+
+    artisans = {
+        culture = hannoic
+        religion = placeholder
+        size = 85
+    }
+
+    soldiers = {
+        culture = hannoic
+        religion = placeholder
+        size = 22
+    }
+
+    farmers = {
+        culture = hannoic
+        religion = placeholder
+        size = 1695
+    }
+
+    slaves = {
+        culture = hannoic
+        religion = placeholder
+        size = 243
+    }
+
+    aristocrats = {
+        culture = hannoic
+        religion = placeholder
+        size = 26
+    }
+
+    clergymen = {
+        culture = hannoic
+        religion = placeholder
+        size = 14
+    }
+
+    artisans = {
+        culture = hannoic
+        religion = placeholder
+        size = 59
+    }
+
+    soldiers = {
+        culture = hannoic
+        religion = placeholder
+        size = 14
+    }
+
+    farmers = {
+        culture = hannoic
+        religion = placeholder
+        size = 940
+    }
+
+    slaves = {
+        culture = hannoic
+        religion = placeholder
+        size = 405
+    }
+}
+#Sanaga-Kadei Region (940000)
+#uncolonized in 1836
+#Yaounde (344000/86000 POPS)
+1959 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 315
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 165
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 675
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 330
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 10080
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 5400
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 690
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 345
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 1395
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 720
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 23610
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 8400
+    }
+}
+#Bafoussam (276000/69000 POPS)
+1960 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 825
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 420
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 1665
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 420
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 26670
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 11400
+    }
+}
+#Bertoua (320000/80000 POPS)
+1962 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 735
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 375
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 1500
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 750
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 20415
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 10200
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 195
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 105
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 435
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 210
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 6360
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 3600
+    }
+}
+#Kwararafa Region (372000) #see Nigeria.txt for balance of region
+#uncolonized in 1836
+#Bamenda (372000/93000 POPS) #now part of Cameroun
+1961 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 1110
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 570
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 2235
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 570
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 38145
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 13200
+    }
+}
+#Adamawa Region (268000) #see Nigeria.txt for balance of region
+#under the rule of Sokoto 1836
+#Ngaoundere (160000/40000 POPS) #now part of Cameroun
+1963 = {
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 300
+    }
+
+    bureaucrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 15
+    }
+
+    officers = {
+        culture = barbarian
+        religion = placeholder
+        size = 45
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 150
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 630
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 165
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 11895
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 165
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 90
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 345
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 90
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 7710
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 2400
+    }
+}
+#uncolonized/under the rule of Borno 1836
+#Maroua (108000/27000 POPS) #now part of Cameroun
+1964 = {
+    aristocrats = {
+        culture = rashidun
+        religion = placeholder
+        size = 101
+    }
+
+    clergymen = {
+        culture = rashidun
+        religion = placeholder
+        size = 116
+    }
+
+    artisans = {
+        culture = rashidun
+        religion = placeholder
+        size = 101
+    }
+
+    soldiers = {
+        culture = rashidun
+        religion = placeholder
+        size = 57
+    }
+
+    farmers = {
+        culture = rashidun
+        religion = placeholder
+        size = 3108
+    }
+
+    aristocrats = {
+        culture = rashidun
+        religion = placeholder
+        size = 28
+    }
+
+    clergymen = {
+        culture = rashidun
+        religion = placeholder
+        size = 28
+    }
+
+    artisans = {
+        culture = rashidun
+        religion = placeholder
+        size = 116
+    }
+
+    soldiers = {
+        culture = rashidun
+        religion = placeholder
+        size = 28
+    }
+
+    farmers = {
+        culture = rashidun
+        religion = placeholder
+        size = 2121
+    }
+
+    aristocrats = {
+        culture = rashidun
+        religion = placeholder
+        size = 43
+    }
+
+    clergymen = {
+        culture = rashidun
+        religion = placeholder
+        size = 28
+    }
+
+    artisans = {
+        culture = rashidun
+        religion = placeholder
+        size = 145
+    }
+
+    soldiers = {
+        culture = rashidun
+        religion = placeholder
+        size = 28
+    }
+
+    farmers = {
+        culture = rashidun
+        religion = placeholder
+        size = 2658
+    }
+
+    aristocrats = {
+        culture = rashidun
+        religion = placeholder
+        size = 101
+    }
+
+    clergymen = {
+        culture = rashidun
+        religion = placeholder
+        size = 57
+    }
+
+    artisans = {
+        culture = rashidun
+        religion = placeholder
+        size = 261
+    }
+
+    soldiers = {
+        culture = rashidun
+        religion = placeholder
+        size = 57
+    }
+
+    farmers = {
+        culture = rashidun
+        religion = placeholder
+        size = 4810
+    }
+
+    slaves = {
+        culture = rashidun
+        religion = placeholder
+        size = 1743
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 50
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 57
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 50
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 29
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 1525
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 14
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 14
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 57
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 14
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 1040
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 21
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 14
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 71
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 14
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 1304
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 50
+    }
+
+    clergymen = {
+        culture = barbarian
+        religion = placeholder
+        size = 29
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 128
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 29
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 2358
+    }
+
+    slaves = {
+        culture = barbarian
+        religion = placeholder
+        size = 855
+    }
+}

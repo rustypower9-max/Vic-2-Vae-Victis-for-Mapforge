@@ -1,0 +1,13 @@
+owner = MOL
+controller = MOL
+add_core = MOL
+
+trade_goods = fish
+life_rating = 36
+
+1861.1.1 = {
+	controller = ROM
+	owner = ROM
+	remove_core = MOL
+}
+

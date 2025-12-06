@@ -1,0 +1,689 @@
+#Norrland Region 328000
+#Gavle (104000/26000 POPS)
+317 = {
+    aristocrats = {
+        culture = norse
+        religion = placeholder
+        size = 180
+    }
+
+    bureaucrats = {
+        culture = norse
+        religion = placeholder
+        size = 723
+    }
+
+    officers = {
+        culture = norse
+        religion = placeholder
+        size = 120
+    }
+
+    clergymen = {
+        culture = norse
+        religion = placeholder
+        size = 210
+    }
+
+    artisans = {
+        culture = norse
+        religion = placeholder
+        size = 2412
+    }
+
+    soldiers = {
+        culture = norse
+        religion = placeholder
+        size = 1980
+    }
+
+    farmers = {
+        culture = norse
+        religion = placeholder
+        size = 26682
+    }
+
+    artisans = {
+        culture = norse
+        religion = placeholder
+        size = 1084
+    }
+}
+#Sundsvall (80000/20000 POPS)
+318 = {
+    aristocrats = {
+        culture = austrigoth
+        religion = placeholder
+        size = 139
+    }
+
+    clergymen = {
+        culture = austrigoth
+        religion = placeholder
+        size = 281
+    }
+
+    artisans = {
+        culture = austrigoth
+        religion = placeholder
+        size = 3124
+    }
+
+    soldiers = {
+        culture = austrigoth
+        religion = placeholder
+        size = 1059
+    }
+
+    farmers = {
+        culture = austrigoth
+        religion = placeholder
+        size = 54324
+    }
+}
+#Ostersund (44000/11000 POPS)
+319 = {
+    clergymen = {
+        culture = austrigoth
+        religion = placeholder
+        size = 139
+    }
+
+    artisans = {
+        culture = austrigoth
+        religion = placeholder
+        size = 1419
+    }
+
+    soldiers = {
+        culture = austrigoth
+        religion = placeholder
+        size = 422
+    }
+
+    labourers = {
+        culture = austrigoth
+        religion = placeholder
+        size = 26590
+    }
+
+    labourers = {
+        culture = austrigoth
+        religion = placeholder
+        size = 3124
+    }
+}
+#Umea (56000/14000 POPS)
+320 = {
+    clergymen = {
+        culture = austrigoth
+        religion = placeholder
+        size = 209
+    }
+
+    artisans = {
+        culture = austrigoth
+        religion = placeholder
+        size = 2129
+    }
+
+    soldiers = {
+        culture = austrigoth
+        religion = placeholder
+        size = 1059
+    }
+
+    labourers = {
+        culture = austrigoth
+        religion = placeholder
+        size = 33915
+    }
+
+    farmers = {
+        culture = austrigoth
+        religion = placeholder
+        size = 3124
+    }
+}
+#Lulea (44000/11000 POPS)
+321 = {
+    clergymen = {
+        culture = austrigoth
+        religion = placeholder
+        size = 139
+    }
+
+    artisans = {
+        culture = austrigoth
+        religion = placeholder
+        size = 1136
+    }
+
+    soldiers = {
+        culture = austrigoth
+        religion = placeholder
+        size = 4668
+    }
+
+    labourers = {
+        culture = austrigoth
+        religion = placeholder
+        size = 17774
+    }
+
+    artisans = {
+        culture = austrigoth
+        religion = placeholder
+        size = 281
+    }
+
+    farmers = {
+        culture = austrigoth
+        religion = placeholder
+        size = 5688
+    }
+
+    farmers = {
+        culture = austrigoth
+        religion = placeholder
+        size = 3124
+    }
+}
+#Svealand Region : 1178000
+#Stockholm (196000/49000 POPs)
+322 = {
+    aristocrats = {
+        culture = norse
+        religion = placeholder
+        size = 301
+    }
+
+    bureaucrats = {
+        culture = norse
+        religion = placeholder
+        size = 1808
+    }
+
+    officers = {
+        culture = norse
+        religion = placeholder
+        size = 602
+    }
+
+    clergymen = {
+        culture = norse
+        religion = placeholder
+        size = 301
+    }
+
+    artisans = {
+        culture = norse
+        religion = placeholder
+        size = 12060
+    }
+
+    artisans = {
+        culture = norse
+        religion = placeholder
+        size = 9648
+    }
+
+    farmers = {
+        culture = norse
+        religion = placeholder
+        size = 11778
+    }
+
+    soldiers = {
+        culture = norse
+        religion = placeholder
+        size = 7200
+    }
+
+    farmers = {
+        culture = norse
+        religion = placeholder
+        size = 22370
+    }
+
+    artisans = {
+        culture = norse
+        religion = placeholder
+        size = 2713
+    }
+}
+#Falun (144000/36000 POPS)
+323 = {
+    aristocrats = {
+        culture = norse
+        religion = placeholder
+        size = 301
+    }
+
+    clergymen = {
+        culture = norse
+        religion = placeholder
+        size = 301
+    }
+
+    artisans = {
+        culture = norse
+        religion = placeholder
+        size = 2106
+    }
+
+    soldiers = {
+        culture = norse
+        religion = placeholder
+        size = 1980
+    }
+
+    farmers = {
+        culture = norse
+        religion = placeholder
+        size = 39492
+    }
+}
+#Uppsala (88000/22000 POPS)
+324 = {
+    aristocrats = {
+        culture = norse
+        religion = placeholder
+        size = 120
+    }
+
+    clergymen = {
+        culture = norse
+        religion = placeholder
+        size = 150
+    }
+
+    artisans = {
+        culture = norse
+        religion = placeholder
+        size = 1507
+    }
+
+    soldiers = {
+        culture = norse
+        religion = placeholder
+        size = 1980
+    }
+
+    farmers = {
+        culture = norse
+        religion = placeholder
+        size = 23546
+    }
+}
+#Norrkoping (221000/55250 POPS)
+325 = {
+    aristocrats = {
+        culture = norse
+        religion = placeholder
+        size = 301
+    }
+
+    clergymen = {
+        culture = norse
+        religion = placeholder
+        size = 301
+    }
+
+    artisans = {
+        culture = norse
+        religion = placeholder
+        size = 3618
+    }
+
+    soldiers = {
+        culture = norse
+        religion = placeholder
+        size = 1980
+    }
+
+    farmers = {
+        culture = norse
+        religion = placeholder
+        size = 24120
+    }
+
+    farmers = {
+        culture = norse
+        religion = placeholder
+        size = 37083
+    }
+}
+#Vasteras (212000/53000 POPS)
+326 = {
+    aristocrats = {
+        culture = norse
+        religion = placeholder
+        size = 260
+    }
+
+    clergymen = {
+        culture = norse
+        religion = placeholder
+        size = 260
+    }
+
+    artisans = {
+        culture = norse
+        religion = placeholder
+        size = 3315
+    }
+
+    soldiers = {
+        culture = norse
+        religion = placeholder
+        size = 1980
+    }
+
+    farmers = {
+        culture = norse
+        religion = placeholder
+        size = 58791
+    }
+}
+#Orebro (127000/31750 POPS)
+327 = {
+    aristocrats = {
+        culture = norse
+        religion = placeholder
+        size = 260
+    }
+
+    clergymen = {
+        culture = norse
+        religion = placeholder
+        size = 150
+    }
+
+    artisans = {
+        culture = norse
+        religion = placeholder
+        size = 1808
+    }
+
+    soldiers = {
+        culture = norse
+        religion = placeholder
+        size = 1980
+    }
+
+    farmers = {
+        culture = norse
+        religion = placeholder
+        size = 34942
+    }
+}
+#Karlstad (190000/47500 POPS)
+328 = {
+    aristocrats = {
+        culture = norse
+        religion = placeholder
+        size = 482
+    }
+
+    clergymen = {
+        culture = norse
+        religion = placeholder
+        size = 361
+    }
+
+    artisans = {
+        culture = norse
+        religion = placeholder
+        size = 3014
+    }
+
+    soldiers = {
+        culture = norse
+        religion = placeholder
+        size = 1980
+    }
+
+    farmers = {
+        culture = norse
+        religion = placeholder
+        size = 52219
+    }
+}
+#Gotaland Region : 1457000
+#Goteborg (168000/42000 POPS)
+329 = {
+    aristocrats = {
+        culture = norse
+        religion = placeholder
+        size = 301
+    }
+
+    bureaucrats = {
+        culture = norse
+        religion = placeholder
+        size = 903
+    }
+
+    officers = {
+        culture = norse
+        religion = placeholder
+        size = 301
+    }
+
+    clergymen = {
+        culture = norse
+        religion = placeholder
+        size = 301
+    }
+
+    artisans = {
+        culture = norse
+        religion = placeholder
+        size = 6030
+    }
+
+    soldiers = {
+        culture = norse
+        religion = placeholder
+        size = 1980
+    }
+
+    farmers = {
+        culture = norse
+        religion = placeholder
+        size = 40645
+    }
+}
+#Boras (220000/55000 POPS)
+330 = {
+    aristocrats = {
+        culture = norse
+        religion = placeholder
+        size = 602
+    }
+
+    clergymen = {
+        culture = norse
+        religion = placeholder
+        size = 301
+    }
+
+    artisans = {
+        culture = norse
+        religion = placeholder
+        size = 3014
+    }
+
+    soldiers = {
+        culture = norse
+        religion = placeholder
+        size = 1980
+    }
+
+    farmers = {
+        culture = norse
+        religion = placeholder
+        size = 61203
+    }
+}
+#Visby (40000/10000 POPS)
+331 = {
+    aristocrats = {
+        culture = norse
+        religion = placeholder
+        size = 120
+    }
+
+    clergymen = {
+        culture = norse
+        religion = placeholder
+        size = 60
+    }
+
+    artisans = {
+        culture = norse
+        religion = placeholder
+        size = 843
+    }
+
+    soldiers = {
+        culture = norse
+        religion = placeholder
+        size = 180
+    }
+
+    farmers = {
+        culture = norse
+        religion = placeholder
+        size = 10914
+    }
+}
+#Kalmar (182000/45500 POPS)
+332 = {
+    aristocrats = {
+        culture = norse
+        religion = placeholder
+        size = 361
+    }
+
+    clergymen = {
+        culture = norse
+        religion = placeholder
+        size = 270
+    }
+
+    artisans = {
+        culture = norse
+        religion = placeholder
+        size = 3014
+    }
+
+    soldiers = {
+        culture = norse
+        religion = placeholder
+        size = 1980
+    }
+
+    farmers = {
+        culture = norse
+        religion = placeholder
+        size = 50018
+    }
+}
+#Vaxjo (276000/69000 POPS)
+333 = {
+    aristocrats = {
+        culture = norse
+        religion = placeholder
+        size = 602
+    }
+
+    clergymen = {
+        culture = norse
+        religion = placeholder
+        size = 451
+    }
+
+    artisans = {
+        culture = norse
+        religion = placeholder
+        size = 4220
+    }
+
+    soldiers = {
+        culture = norse
+        religion = placeholder
+        size = 1980
+    }
+
+    farmers = {
+        culture = norse
+        religion = placeholder
+        size = 76730
+    }
+}
+#Malmo (312000/77000 POPS)
+334 = {
+    aristocrats = {
+        culture = norse
+        religion = placeholder
+        size = 903
+    }
+
+    clergymen = {
+        culture = norse
+        religion = placeholder
+        size = 451
+    }
+
+    artisans = {
+        culture = norse
+        religion = placeholder
+        size = 4521
+    }
+
+    soldiers = {
+        culture = norse
+        religion = placeholder
+        size = 2970
+    }
+
+    farmers = {
+        culture = norse
+        religion = placeholder
+        size = 83364
+    }
+}
+#Karlskrona (259000/64750 POPS)
+335 = {
+    aristocrats = {
+        culture = norse
+        religion = placeholder
+        size = 752
+    }
+
+    clergymen = {
+        culture = norse
+        religion = placeholder
+        size = 451
+    }
+
+    artisans = {
+        culture = norse
+        religion = placeholder
+        size = 3768
+    }
+
+    soldiers = {
+        culture = norse
+        religion = placeholder
+        size = 1980
+    }
+
+    farmers = {
+        culture = norse
+        religion = placeholder
+        size = 73112
+    }
+}

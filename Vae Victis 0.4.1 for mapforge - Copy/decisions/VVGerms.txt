@@ -1,0 +1,257 @@
+political_decisions = {
+saxon_unity = {
+	picture = germs
+	potential = { 
+		tag = SAX
+		NOT = { has_country_flag = saxon_unity }
+	}
+
+	allow = {
+		war = no
+	}
+
+	effect = {
+		badboy = 0.1
+		set_country_flag = saxon_unity
+			add_country_modifier = {
+				name = saxon_fury
+				duration = 3600
+			}
+	}
+
+	ai_will_do = {
+		factor = 0
+	}
+}
+
+ form_nordgerm = {
+		picture = germs
+		potential = {
+			primary_culture = north_german
+            NOT = { exists = NGF }
+			NOT = { has_global_flag = ngf_formed }
+		}
+		
+		allow = {
+			war = no
+                        SAX = {
+				            all_core = {
+                                owned_by = THIS
+				            }
+			            }
+                        RHI = {
+				            all_core = {
+                                owned_by = THIS
+				            }
+			            }
+                        ALE = {
+				            all_core = {
+                                owned_by = THIS
+				            }
+			            }
+                        HAN = {
+				            all_core = {
+                                owned_by = THIS
+				            }
+			            }
+                    }
+		
+		effect = {
+			prestige = 20
+			set_global_flag = ngf_formed
+            years_of_research = 2
+			add_country_modifier = {
+				name = rapid_centralization
+				duration = 5500
+			}
+            all_core = { add_core = NGF }
+            change_tag = NGF
+			SAX = {
+				all_core = {
+                    add_core = NGF
+                    remove_core = SAX
+				    }
+		        }
+            FRI = {
+				all_core = {
+                    add_core = NGF
+                    remove_core = FRI
+				    }
+		        }
+            HAN = {
+				all_core = {
+                    add_core = NGF
+                    remove_core = HAN
+				    }
+		        }
+            HAM = {
+				all_core = {
+                    add_core = NGF
+                    remove_core = HAM
+				    }
+		        }
+            FRM = {
+				all_core = {
+                    add_core = NGF
+                    remove_core = FRM
+				    }
+		        }
+            ALE = {
+				all_core = {
+                    add_core = NGF
+                    remove_core = ALE
+				    }
+		        }
+            MEC = {
+				all_core = {
+                    add_core = NGF
+                    remove_core = MEC
+				    }
+		        }
+            RHI = {
+				all_core = {
+                    add_core = NGF
+                    remove_core = RHI
+				    }
+		    }
+		}
+	}
+
+	AUS_HUN_union = {
+		potential = { 
+			tag = AUS
+			NOT = { has_country_flag = AUS_HUN }
+			HUN = { exists = yes }
+		}
+	
+		allow = {
+			alliance_with = HUN
+			war = no
+		}
+	
+		effect = {
+			set_country_flag = AUS_HUN
+			inherit = HUN
+			years_of_research = 1
+		}
+	
+		ai_will_do = {
+			factor = 0
+		}
+	}
+
+    form_ostgerm = {
+		picture = gepid
+		potential = {
+			primary_culture = south_german
+			NOT = { has_global_flag = sgf_formed }
+            NOT = { exists = SGF }
+		}
+		
+		allow = {
+			war = no
+                        AUS = {
+				            OR = {
+				           		vassal_of = THIS
+				            	all_core = {
+                                	owned_by = THIS
+									}
+								}
+				            }
+                        BAV = {
+				            OR = {
+				           		vassal_of = THIS
+				            	all_core = {
+                                	owned_by = THIS
+									}
+								}
+				            }
+                        BOH = {
+				           OR = {
+				           		vassal_of = THIS
+				            	all_core = {
+                                	owned_by = THIS
+									}
+								}
+				            }
+                        CZH = {
+							OR = {
+				           		vassal_of = THIS
+				            	all_core = {
+                                	owned_by = THIS
+									}
+								}
+				            }
+                        SLV = {
+				            OR = {
+				           		vassal_of = THIS
+				            	all_core = {
+                                	owned_by = THIS
+									}
+								}
+				            }
+                        HUN = {
+							OR = {
+				           		vassal_of = THIS
+				            	all_core = {
+                                	owned_by = THIS
+									}
+								}
+				            }
+			            }
+		
+		effect = {
+			prestige = 12
+			set_global_flag = sgf_formed
+            years_of_research = 3
+			add_country_modifier = {
+				name = rapid_centralization
+				duration = 5500
+			}
+            all_core = { add_core = SGF }
+            change_tag = SGF
+			inherit = BAV
+			inherit = AUS
+			inherit = CZH
+			inherit = BOH
+			inherit = SLV
+			inherit = HUN
+			BAV = {
+				all_core = {
+                    add_core = SGF
+                    remove_core = BAV
+				    }
+		        }
+            AUS = {
+				all_core = {
+                    add_core = SGF
+                    remove_core = AUS
+				    }
+		        }
+            CZH = {
+				all_core = {
+                    add_core = SGF
+                    remove_core = CZH
+				    }
+		        }
+            BOH = {
+				all_core = {
+                    add_core = SGF
+                    remove_core = BOH
+				    }
+		        }
+            SLV = {
+				all_core = {
+                    add_core = SGF
+                    remove_core = SLV
+				    }
+		        }
+            HUN = {
+				all_core = {
+                    add_core = SGF
+                    remove_core = HUN
+				    }
+		        }
+		}
+	}
+}

@@ -1,0 +1,7 @@
+owner = RWM
+controller = RWM
+add_core = RWM
+
+trade_goods = fish
+life_rating = 37
+

@@ -1,0 +1,20 @@
+owner = PER
+controller = PER
+add_core = PER
+trade_goods = coal
+life_rating = 40
+state_building = {
+		level = 1
+		building = steel_factory
+		upgrade = yes
+	}
+state_building = {
+		level = 1
+		building = clipper_shipyard
+		upgrade = yes
+	}
+state_building = {
+		level = 1
+		building = machine_parts_factory
+		upgrade = yes
+	}

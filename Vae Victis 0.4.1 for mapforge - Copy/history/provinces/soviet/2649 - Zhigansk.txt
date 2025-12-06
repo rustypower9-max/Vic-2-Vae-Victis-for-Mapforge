@@ -1,0 +1,4 @@
+life_rating = 10
+trade_goods = grain
+ 
+

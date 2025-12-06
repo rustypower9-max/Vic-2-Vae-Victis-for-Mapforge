@@ -1,0 +1,8 @@
+owner = NET
+controller = NET
+add_core = SCO
+trade_goods = iron
+life_rating = 35
+
+ 
+

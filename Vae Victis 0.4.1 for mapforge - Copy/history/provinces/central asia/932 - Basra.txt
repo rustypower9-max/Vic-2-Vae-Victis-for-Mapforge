@@ -1,0 +1,6 @@
+owner = SEL
+controller = SEL
+add_core = SEL
+trade_goods = fish
+life_rating = 37
+

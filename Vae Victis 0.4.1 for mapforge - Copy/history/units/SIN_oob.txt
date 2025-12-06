@@ -1,0 +1,48 @@
+army = {
+	name = "I. Armee"
+	location = 1291
+	regiment = {
+		name= "2.1. Kavalleriedivision"
+		type = infantry
+		home = 1291
+	}
+
+	regiment = {
+		name= "3.1. Kavalleriedivision"
+		type = infantry
+		home = 1292
+	}
+
+	regiment = {
+		name= "2.2. Infanteriedivision"
+		type = infantry
+		home = 1294
+	}
+
+	regiment = {
+		name= "3.2. Infanteriedivision"
+		type = infantry
+		home = 1295
+	}
+
+	regiment = {
+		name= "1.3. Infanteriedivision"
+		type = hussar
+		home = 1298
+	}
+
+	regiment = {
+		name= "2.3. Infanteriedivision"
+		type = artillery
+		home = 1297
+	}
+
+	regiment = {
+		name= "3.3. Infanteriedivision"
+		type = artillery
+		home = 1299
+	}
+}
+
+
+

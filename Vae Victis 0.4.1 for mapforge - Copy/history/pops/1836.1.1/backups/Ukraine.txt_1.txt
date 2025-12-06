@@ -1,0 +1,5342 @@
+#Bukovina Region (164000) #See Romania.txt for balance of region
+#under the rule of Austria in 1836
+#Cernauti (164000/41000 POPS)
+662 = {
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 30
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 160
+    }
+
+    soldiers = {
+        culture = dacian
+        religion = placeholder
+        size = 60
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 3788
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 80
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 442
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 120
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 7879
+    }
+
+    aristocrats = {
+        culture = dacian
+        religion = placeholder
+        size = 281
+    }
+
+    bureaucrats = {
+        culture = dacian
+        religion = placeholder
+        size = 60
+    }
+
+    officers = {
+        culture = dacian
+        religion = placeholder
+        size = 24
+    }
+
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 20
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 120
+    }
+
+    soldiers = {
+        culture = dacian
+        religion = placeholder
+        size = 30
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 1531
+    }
+
+    bureaucrats = {
+        culture = south_german
+        religion = placeholder
+        size = 70
+    }
+
+    officers = {
+        culture = south_german
+        religion = placeholder
+        size = 16
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = placeholder
+        size = 20
+    }
+
+    artisans = {
+        culture = south_german
+        religion = placeholder
+        size = 80
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = placeholder
+        size = 15
+    }
+
+    farmers = {
+        culture = south_german
+        religion = placeholder
+        size = 1065
+    }
+
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 20
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 241
+    }
+
+    soldiers = {
+        culture = dacian
+        religion = placeholder
+        size = 15
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 934
+    }
+}
+#Bessarabia Region (332000) #see Moldova.txt for balance of Region
+#under the rule of Russia in 1836
+#Ismail (332000/83000 POPS)
+678 = {
+    aristocrats = {
+        culture = dacian
+        religion = placeholder
+        size = 506
+    }
+
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 144
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 723
+    }
+
+    soldiers = {
+        culture = dacian
+        religion = placeholder
+        size = 216
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 12976
+    }
+
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 18
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 337
+    }
+
+    soldiers = {
+        culture = dacian
+        religion = placeholder
+        size = 27
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 1314
+    }
+
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 12
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 18
+    }
+
+    soldiers = {
+        culture = dacian
+        religion = placeholder
+        size = 9
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 687
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 24
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 120
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 36
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 2243
+    }
+
+    clergymen = {
+        culture = dacian #gagauz
+        religion = placeholder
+        size = 12
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 36
+    }
+
+    soldiers = {
+        culture = dacian
+        religion = placeholder
+        size = 9
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 669
+    }
+}
+#Felvidek Region (856000) #see Hungary.txt and Slovakia.txt for balance of Region
+#under the rule of Austria in 1836
+#Uzgorod (856000/214000 POPS) #Part of Ukraine today
+950 = {
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 510
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 2760
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 540
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 51390
+    }
+
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 90
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 510
+    }
+
+    soldiers = {
+        culture = dacian
+        religion = placeholder
+        size = 105
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 9495
+    }
+
+    aristocrats = {
+        culture = veneti
+        religion = placeholder
+        size = 2550
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 255
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 1290
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 270
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 21435
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 240
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 1350
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 240
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 23370
+    }
+
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 45
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 480
+    }
+
+    soldiers = {
+        culture = dacian
+        religion = placeholder
+        size = 30
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 1845
+    }
+
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 15
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 45
+    }
+
+    soldiers = {
+        culture = dacian
+        religion = placeholder
+        size = 15
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 525
+    }
+
+    clergymen = {
+        culture = dacian
+        religion = placeholder
+        size = 75
+    }
+
+    artisans = {
+        culture = dacian
+        religion = placeholder
+        size = 450
+    }
+
+    soldiers = {
+        culture = dacian
+        religion = placeholder
+        size = 90
+    }
+
+    farmers = {
+        culture = dacian
+        religion = placeholder
+        size = 8385
+    }
+}
+#Galicia Region (2576000) #see Poland.txt for balance of region
+#under the rule of Austria in 1836
+#Lvov (660000/165000 POPS) #now part of Ukraine
+702 = {
+    clergymen = {
+        culture = kashubian
+        religion = placeholder
+        size = 421
+    }
+
+    artisans = {
+        culture = kashubian
+        religion = placeholder
+        size = 2362
+    }
+
+    soldiers = {
+        culture = kashubian
+        religion = placeholder
+        size = 618
+    }
+
+    farmers = {
+        culture = kashubian
+        religion = placeholder
+        size = 43902
+    }
+
+    aristocrats = {
+        culture = kashubian
+        religion = placeholder
+        size = 2812
+    }
+
+    bureaucrats = {
+        culture = kashubian
+        religion = placeholder
+        size = 4875
+    }
+
+    officers = {
+        culture = kashubian
+        religion = placeholder
+        size = 562
+    }
+
+    clergymen = {
+        culture = kashubian
+        religion = placeholder
+        size = 435
+    }
+
+    artisans = {
+        culture = kashubian
+        religion = placeholder
+        size = 1827
+    }
+
+    soldiers = {
+        culture = kashubian
+        religion = placeholder
+        size = 365
+    }
+
+    farmers = {
+        culture = kashubian
+        religion = placeholder
+        size = 30783
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 70
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 1575
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 70
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 6159
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 27
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 56
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 14
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 1026
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 141
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 787
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 206
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 14634
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 145
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 609
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 122
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 10260
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 23
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 525
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 23
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 2053
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 9
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 18
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 4
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 342
+    }
+}
+#Stryi (404000/101000 POPS) #now part of Ukraine
+951 = {
+    clergymen = {
+        culture = kashubian
+        religion = placeholder
+        size = 267
+    }
+
+    artisans = {
+        culture = kashubian
+        religion = placeholder
+        size = 1434
+    }
+
+    soldiers = {
+        culture = kashubian
+        religion = placeholder
+        size = 281
+    }
+
+    farmers = {
+        culture = kashubian
+        religion = placeholder
+        size = 26704
+    }
+
+    aristocrats = {
+        culture = kashubian
+        religion = placeholder
+        size = 3750
+    }
+
+    clergymen = {
+        culture = kashubian
+        religion = placeholder
+        size = 239
+    }
+
+    artisans = {
+        culture = kashubian
+        religion = placeholder
+        size = 1181
+    }
+
+    soldiers = {
+        culture = kashubian
+        religion = placeholder
+        size = 252
+    }
+
+    farmers = {
+        culture = kashubian
+        religion = placeholder
+        size = 19139
+    }
+
+    clergymen = {
+        culture = kashubian
+        religion = placeholder
+        size = 27
+    }
+
+    artisans = {
+        culture = kashubian
+        religion = placeholder
+        size = 787
+    }
+
+    soldiers = {
+        culture = kashubian
+        religion = placeholder
+        size = 42
+    }
+
+    farmers = {
+        culture = kashubian
+        religion = placeholder
+        size = 3079
+    }
+
+    clergymen = {
+        culture = kashubian
+        religion = placeholder
+        size = 11
+    }
+
+    artisans = {
+        culture = kashubian
+        religion = placeholder
+        size = 27
+    }
+
+    soldiers = {
+        culture = kashubian
+        religion = placeholder
+        size = 5
+    }
+
+    farmers = {
+        culture = kashubian
+        religion = placeholder
+        size = 517
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 89
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 478
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 93
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 8901
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 79
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 393
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 84
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 6379
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 9
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 262
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 14
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 1026
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 3
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 9
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 2
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 172
+    }
+}
+#Ternopil (1136000/284000 POPS) #now part of Ukraine
+952 = {
+    clergymen = {
+        culture = kashubian
+        religion = placeholder
+        size = 1096
+    }
+
+    artisans = {
+        culture = kashubian
+        religion = placeholder
+        size = 5568
+    }
+
+    soldiers = {
+        culture = kashubian
+        religion = placeholder
+        size = 1096
+    }
+
+    farmers = {
+        culture = kashubian
+        religion = placeholder
+        size = 103612
+    }
+
+    aristocrats = {
+        culture = kashubian
+        religion = placeholder
+        size = 4875
+    }
+
+    clergymen = {
+        culture = kashubian
+        religion = placeholder
+        size = 393
+    }
+
+    artisans = {
+        culture = kashubian
+        religion = placeholder
+        size = 1912
+    }
+
+    soldiers = {
+        culture = kashubian
+        religion = placeholder
+        size = 393
+    }
+
+    farmers = {
+        culture = kashubian
+        religion = placeholder
+        size = 31893
+    }
+
+    clergymen = {
+        culture = kashubian
+        religion = placeholder
+        size = 98
+    }
+
+    artisans = {
+        culture = kashubian
+        religion = placeholder
+        size = 1912
+    }
+
+    soldiers = {
+        culture = kashubian
+        religion = placeholder
+        size = 84
+    }
+
+    farmers = {
+        culture = kashubian
+        religion = placeholder
+        size = 7467
+    }
+
+    clergymen = {
+        culture = kashubian
+        religion = placeholder
+        size = 11
+    }
+
+    artisans = {
+        culture = kashubian
+        religion = placeholder
+        size = 27
+    }
+
+    soldiers = {
+        culture = kashubian
+        religion = placeholder
+        size = 5
+    }
+
+    farmers = {
+        culture = kashubian
+        religion = placeholder
+        size = 517
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 366
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 1856
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 366
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 34537
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 131
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 637
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 131
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 10631
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 33
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 637
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 28
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 2489
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 3
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 9
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 2
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 172
+    }
+}
+#Stanislavov (376000/94000 POPS) #now part of Ukraine
+953 = {
+    clergymen = {
+        culture = kashubian
+        religion = placeholder
+        size = 281
+    }
+
+    artisans = {
+        culture = kashubian
+        religion = placeholder
+        size = 1490
+    }
+
+    soldiers = {
+        culture = kashubian
+        religion = placeholder
+        size = 295
+    }
+
+    farmers = {
+        culture = kashubian
+        religion = placeholder
+        size = 27745
+    }
+
+    aristocrats = {
+        culture = kashubian
+        religion = placeholder
+        size = 1612
+    }
+
+    clergymen = {
+        culture = kashubian
+        religion = placeholder
+        size = 183
+    }
+
+    artisans = {
+        culture = kashubian
+        religion = placeholder
+        size = 927
+    }
+
+    soldiers = {
+        culture = kashubian
+        religion = placeholder
+        size = 183
+    }
+
+    farmers = {
+        culture = kashubian
+        religion = placeholder
+        size = 16059
+    }
+
+    clergymen = {
+        culture = kashubian
+        religion = placeholder
+        size = 27
+    }
+
+    artisans = {
+        culture = kashubian
+        religion = placeholder
+        size = 787
+    }
+
+    soldiers = {
+        culture = kashubian
+        religion = placeholder
+        size = 42
+    }
+
+    farmers = {
+        culture = kashubian
+        religion = placeholder
+        size = 3079
+    }
+
+    clergymen = {
+        culture = kashubian
+        religion = placeholder
+        size = 11
+    }
+
+    artisans = {
+        culture = kashubian
+        religion = placeholder
+        size = 27
+    }
+
+    soldiers = {
+        culture = kashubian
+        religion = placeholder
+        size = 5
+    }
+
+    farmers = {
+        culture = kashubian
+        religion = placeholder
+        size = 517
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 93
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 497
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 98
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 9248
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 60
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 309
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 60
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 5353
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 9
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 262
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 14
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 1026
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 3
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 9
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 2
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 172
+    }
+}
+#Volhynia-Podolia Region (1892000)
+#under the rule of Russia in 1836
+#Vinnitsa (492000/123000 POPS)
+954 = {
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 550
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 2931
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 784
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 48168
+    }
+
+    aristocrats = {
+        culture = veneti
+        religion = placeholder
+        size = 1336
+    }
+
+    bureaucrats = {
+        culture = veneti
+        religion = placeholder
+        size = 416
+    }
+
+    officers = {
+        culture = veneti
+        religion = placeholder
+        size = 267
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 37
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 148
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 35
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 162
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 61
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 1502
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 111
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 5875
+    }
+
+    aristocrats = {
+        culture = veneti
+        religion = placeholder
+        size = 450
+    }
+
+    bureaucrats = {
+        culture = veneti
+        religion = placeholder
+        size = 583
+    }
+
+    officers = {
+        culture = veneti
+        religion = placeholder
+        size = 66
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 23
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 183
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 976
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 262
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 16055
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 11
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 49
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 11
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 53
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 19
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 500
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 37
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 1957
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 7
+    }
+}
+#Proskorov (496000/124000 POPS)
+955 = {
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 357
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 922
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 618
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 35275
+    }
+
+    aristocrats = {
+        culture = veneti
+        religion = placeholder
+        size = 1381
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 37
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 244
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 56
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 2412
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 46
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 1130
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 84
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 4418
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = placeholder
+        size = 9
+    }
+
+    artisans = {
+        culture = south_german
+        religion = placeholder
+        size = 37
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = placeholder
+        size = 14
+    }
+
+    farmers = {
+        culture = south_german
+        religion = placeholder
+        size = 319
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 119
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 307
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 206
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 11758
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 12
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 81
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 18
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 804
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 15
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 376
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 28
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 1472
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 2
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 12
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 4
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 106
+    }
+}
+#Rovne (460000/115000 POPS)
+956 = {
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 310
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 904
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 618
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 31572
+    }
+
+    aristocrats = {
+        culture = veneti
+        religion = placeholder
+        size = 1306
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 46
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 282
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 84
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 3909
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 46
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 979
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 70
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 3862
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 103
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 301
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 206
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 10524
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 15
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 94
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 28
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 1303
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 15
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 326
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 23
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 1287
+    }
+}
+#Kovel (444000/111000 POPS)
+957 = {
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 310
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 885
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 618
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 31214
+    }
+
+    aristocrats = {
+        culture = veneti
+        religion = placeholder
+        size = 1155
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 37
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 225
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 70
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 2967
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 46
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 979
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 70
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 3862
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 103
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 295
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 206
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 10404
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 12
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 75
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 23
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 988
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 15
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 326
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 23
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 1287
+    }
+}
+#Ukraine Region (4028000)
+#under the rule of Russia in 1836
+#Kiev (492000/123000 POPS)
+958 = {
+    aristocrats = {
+        culture = skifkan
+        religion = placeholder
+        size = 522
+    }
+
+    bureaucrats = {
+        culture = skifkan
+        religion = placeholder
+        size = 201
+    }
+
+    officers = {
+        culture = skifkan
+        religion = placeholder
+        size = 241
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 271
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 2864
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 495
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 24858
+    }
+
+    aristocrats = {
+        culture = skifkan
+        religion = placeholder
+        size = 603
+    }
+
+    bureaucrats = {
+        culture = skifkan
+        religion = placeholder
+        size = 120
+    }
+
+    officers = {
+        culture = skifkan
+        religion = placeholder
+        size = 120
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 30
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 331
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 45
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 2064
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 44
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 994
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 78
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 3730
+    }
+
+    aristocrats = {
+        culture = skifkan
+        religion = placeholder
+        size = 180
+    }
+
+    bureaucrats = {
+        culture = skifkan
+        religion = placeholder
+        size = 201
+    }
+
+    officers = {
+        culture = skifkan
+        religion = placeholder
+        size = 60
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 14
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 45
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 150
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 1591
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 275
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 13810
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 16
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 184
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 25
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 1147
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 25
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 552
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 44
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 2072
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 8
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 25
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 301
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 180
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 301
+    }
+}
+#Korosten (448000/112000 POPS)
+959 = {
+    aristocrats = {
+        culture = veneti
+        religion = placeholder
+        size = 1139
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 439
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 1055
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 675
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 41921
+    }
+
+    aristocrats = {
+        culture = skifkan
+        religion = placeholder
+        size = 603
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 50
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 376
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 75
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 4095
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 62
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 1381
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 1112
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 5012
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 146
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 351
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 225
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 13973
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 16
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 125
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 25
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 1365
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 20
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 460
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 38
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 1670
+    }
+}
+#Zhitomir (460000/115000 POPS)
+960 = {
+    aristocrats = {
+        culture = veneti
+        religion = placeholder
+        size = 1072
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 552
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 1306
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 825
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 46632
+    }
+
+    aristocrats = {
+        culture = skifkan
+        religion = placeholder
+        size = 536
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 24
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 75
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 19
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 489
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 75
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 1507
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 112
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 5376
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 184
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 435
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 1275
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 15544
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 8
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 25
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 16
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 163
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 25
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 502
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 138
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 1792
+    }
+}
+#Cherkassy (460000/115000 POPS)
+961 = {
+    aristocrats = {
+        culture = skifkan
+        religion = placeholder
+        size = 855
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 320
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 780
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 538
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 32780
+    }
+
+    aristocrats = {
+        culture = skifkan
+        religion = placeholder
+        size = 373
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 39
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 239
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 59
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 3407
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 58
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 1202
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 89
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 4290
+    }
+
+    aristocrats = {
+        culture = skifkan
+        religion = placeholder
+        size = 239
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 18
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 79
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 43
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 1332
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 178
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 433
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 299
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 18211
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 21
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 133
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 33
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 1892
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 33
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 667
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 50
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 2383
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 10
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 43
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 25
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 739
+    }
+}
+#Chernigov (616000/154000 POPS)
+962 = {
+    aristocrats = {
+        culture = skifkan
+        religion = placeholder
+        size = 1206
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 562
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 2412
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 870
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 53124
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 30
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 603
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 60
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 2542
+    }
+
+    aristocrats = {
+        culture = skifkan
+        religion = placeholder
+        size = 201
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 20
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 60
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 30
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 502
+    }
+}
+#Poltava (1552000/388000 POPS)
+963 = {
+    aristocrats = {
+        culture = skifkan
+        religion = placeholder
+        size = 100
+    }
+
+    bureaucrats = {
+        culture = skifkan
+        religion = placeholder
+        size = 40
+    }
+
+    officers = {
+        culture = skifkan
+        religion = placeholder
+        size = 30
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 60
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 261
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 105
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 6291
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 4
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 80
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 217
+    }
+
+    aristocrats = {
+        culture = skifkan
+        religion = placeholder
+        size = 80
+    }
+
+    bureaucrats = {
+        culture = skifkan
+        religion = placeholder
+        size = 20
+    }
+
+    officers = {
+        culture = skifkan
+        religion = placeholder
+        size = 40
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 30
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 80
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 30
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 1045
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 60
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 30
+    }
+}
+#Taurida Region (360000)
+#under the rule of Russia in 1836
+#Simferopol (126000/29000 POPS)
+964 = {
+    aristocrats = {
+        culture = skifkan
+        religion = placeholder
+        size = 891
+    }
+
+    bureaucrats = {
+        culture = skifkan
+        religion = placeholder
+        size = 328
+    }
+
+    officers = {
+        culture = skifkan
+        religion = placeholder
+        size = 83
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 80
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 1721
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 1660
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 14010
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 87
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 797
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 1130
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 1775
+    }
+
+    aristocrats = {
+        culture = skifkan
+        religion = placeholder
+        size = 107
+    }
+
+    bureaucrats = {
+        culture = skifkan
+        religion = placeholder
+        size = 140
+    }
+
+    officers = {
+        culture = skifkan
+        religion = placeholder
+        size = 24
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 97
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 97
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 130
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 1660
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 77
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 750
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 971
+    }
+
+    clergymen = {
+        culture = anatolian
+        religion = placeholder
+        size = 79
+    }
+
+    artisans = {
+        culture = anatolian
+        religion = placeholder
+        size = 2241
+    }
+
+    soldiers = {
+        culture = anatolian
+        religion = placeholder
+        size = 1115
+    }
+
+    farmers = {
+        culture = anatolian
+        religion = placeholder
+        size = 3705
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 492
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 211
+    }
+}
+#Cherson (126000/29000 POPS)
+965 = {
+    aristocrats = {
+        culture = skifkan
+        religion = placeholder
+        size = 180
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 50
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 110
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 90
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 4824
+    }
+
+    aristocrats = {
+        culture = skifkan
+        religion = placeholder
+        size = 40
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 30
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 80
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 30
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 1839
+    }
+
+    aristocrats = {
+        culture = skifkan
+        religion = placeholder
+        size = 40
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 30
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 60
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 30
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 1055
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 10
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 160
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 15
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 623
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 10
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 80
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 15
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 301
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 20
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 40
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 15
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 1135
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 20
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 50
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 15
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 723
+    }
+}
+#Kerch (48000/12000 POPS)
+966 = {
+    aristocrats = {
+        culture = skifkan
+        religion = placeholder
+        size = 750
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 97
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 1410
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 1160
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 9895
+    }
+
+    aristocrats = {
+        culture = anatolian
+        religion = placeholder
+        size = 87
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 20
+    }
+
+    artisans = {
+        culture = anatolian
+        religion = placeholder
+        size = 1524
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 1115
+    }
+
+    farmers = {
+        culture = anatolian
+        religion = placeholder
+        size = 703
+    }
+
+    clergymen = {
+        culture = anatolian
+        religion = placeholder
+        size = 745
+    }
+
+    artisans = {
+        culture = anatolian
+        religion = placeholder
+        size = 1447
+    }
+
+    farmers = {
+        culture = anatolian
+        religion = placeholder
+        size = 828
+    }
+
+    clergymen = {
+        culture = anatolian
+        religion = placeholder
+        size = 77
+    }
+
+    artisans = {
+        culture = anatolian
+        religion = placeholder
+        size = 750
+    }
+
+    soldiers = {
+        culture = anatolian
+        religion = placeholder
+        size = 1115
+    }
+
+    farmers = {
+        culture = anatolian
+        religion = placeholder
+        size = 1641
+    }
+}
+#Sevastopol (60000/15000 POPS)
+967 = {
+    aristocrats = {
+        culture = skifkan
+        religion = placeholder
+        size = 770
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 107
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 1410
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 2160
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 10468
+    }
+
+    aristocrats = {
+        culture = anatolian
+        religion = placeholder
+        size = 1427
+    }
+
+    clergymen = {
+        culture = anatolian
+        religion = placeholder
+        size = 1427
+    }
+
+    artisans = {
+        culture = anatolian
+        religion = placeholder
+        size = 1514
+    }
+
+    farmers = {
+        culture = anatolian
+        religion = placeholder
+        size = 14113
+    }
+
+    clergymen = {
+        culture = anatolian
+        religion = placeholder
+        size = 17
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 60
+    }
+
+    farmers = {
+        culture = anatolian
+        religion = placeholder
+        size = 907
+    }
+
+    clergymen = {
+        culture = anatolian
+        religion = placeholder
+        size = 77
+    }
+
+    artisans = {
+        culture = anatolian
+        religion = placeholder
+        size = 2110
+    }
+
+    soldiers = {
+        culture = anatolian
+        religion = placeholder
+        size = 1319
+    }
+
+    farmers = {
+        culture = anatolian
+        religion = placeholder
+        size = 3065
+    }
+
+    clergymen = {
+        culture = anatolian
+        religion = placeholder
+        size = 2288
+    }
+
+    artisans = {
+        culture = anatolian
+        religion = placeholder
+        size = 2308
+    }
+
+    soldiers = {
+        culture = anatolian
+        religion = placeholder
+        size = 215
+    }
+
+    farmers = {
+        culture = anatolian
+        religion = placeholder
+        size = 1691
+    }
+}
+#Odessa Region (1488000)
+#under the rule of Russia in 1836
+#Odessa (248000/62000 POPS)
+968 = {
+    aristocrats = {
+        culture = skifkan
+        religion = placeholder
+        size = 221
+    }
+
+    bureaucrats = {
+        culture = skifkan
+        religion = placeholder
+        size = 60
+    }
+
+    officers = {
+        culture = skifkan
+        religion = placeholder
+        size = 80
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 127
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 2261
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 20
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 1206
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 495
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 9248
+    }
+
+    aristocrats = {
+        culture = skifkan
+        religion = placeholder
+        size = 60
+    }
+
+    officers = {
+        culture = skifkan
+        religion = placeholder
+        size = 20
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 14
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 150
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 11
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 369
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 22
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 391
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 40
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 201
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 33
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 1642
+    }
+
+    aristocrats = {
+        culture = skifkan
+        religion = placeholder
+        size = 40
+    }
+
+    bureaucrats = {
+        culture = skifkan
+        religion = placeholder
+        size = 120
+    }
+
+    officers = {
+        culture = skifkan
+        religion = placeholder
+        size = 60
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 7
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 60
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 11
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 105
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 7
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 225
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 11
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 60
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 14
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 1175
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 40
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 201
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 22
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 120
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 14
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 225
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 11
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 353
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 71
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 1256
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 275
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 5138
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 8
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 83
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 6
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 205
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 12
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 217
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 19
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 913
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 4
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 33
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 6
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 58
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 4
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 125
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 6
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 33
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 8
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 653
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 13
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 67
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 8
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 125
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 6
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 196
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 90
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 180
+    }
+}
+#Pervomaisk (496000/124000 POPS)
+969 = {
+    aristocrats = {
+        culture = skifkan
+        religion = placeholder
+        size = 1069
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 440
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 1061
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 658
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 40499
+    }
+
+    aristocrats = {
+        culture = skifkan
+        religion = placeholder
+        size = 400
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 18
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 139
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 29
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 1122
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 49
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 1202
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 89
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 4700
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 29
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 79
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 29
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 1854
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 244
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 590
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 365
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 22499
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 10
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 77
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 17
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 623
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 26
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 667
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 50
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 2610
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 15
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 43
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 17
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 1029
+    }
+}
+#Nikolaev (248000/62000 POPS)
+970 = {
+    aristocrats = {
+        culture = skifkan
+        religion = placeholder
+        size = 341
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 82
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 211
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 135
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 8403
+    }
+
+    aristocrats = {
+        culture = skifkan
+        religion = placeholder
+        size = 100
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 14
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 44
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 11
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 459
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 14
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 452
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 33
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 1620
+    }
+
+    aristocrats = {
+        culture = skifkan
+        religion = placeholder
+        size = 140
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 14
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 75
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 22
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 1296
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 14
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 44
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 11
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 836
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 37
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 105
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 67
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 4333
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 46
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 117
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 75
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 4669
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 8
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 25
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 6
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 255
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 8
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 251
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 19
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 900
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 8
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 42
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 13
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 720
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 8
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 25
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 6
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 464
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 20
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 58
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 38
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 2407
+    }
+}
+#Krivoy Rog (244000/61000 POPS)
+971 = {
+    aristocrats = {
+        culture = skifkan
+        religion = placeholder
+        size = 442
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 150
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 391
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 236
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 14675
+    }
+
+    aristocrats = {
+        culture = skifkan
+        religion = placeholder
+        size = 100
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 14
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 75
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 11
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 429
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 14
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 452
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 33
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 1620
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 83
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 217
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 131
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 8153
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 8
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 42
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 6
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 238
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 8
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 251
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 19
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 900
+    }
+}
+#Ekaterinoslav (252000/63000 POPS)
+972 = {
+    aristocrats = {
+        culture = skifkan
+        religion = placeholder
+        size = 341
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 158
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 572
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 247
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 14825
+    }
+
+    aristocrats = {
+        culture = skifkan
+        religion = placeholder
+        size = 221
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 22
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 60
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 22
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 640
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 22
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 90
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 22
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 1077
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 14
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 225
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 22
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 647
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 87
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 318
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 138
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 8236
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 12
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 33
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 13
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 355
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 12
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 50
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 13
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 598
+    }
+
+    clergymen = {
+        culture = veneti
+        religion = placeholder
+        size = 8
+    }
+
+    artisans = {
+        culture = veneti
+        religion = placeholder
+        size = 125
+    }
+
+    soldiers = {
+        culture = veneti
+        religion = placeholder
+        size = 13
+    }
+
+    farmers = {
+        culture = veneti
+        religion = placeholder
+        size = 360
+    }
+}
+#Zaporozhia Region (648000)
+#under the rule of Russia in 1836
+#Melitopol (84000/21000 POPS)
+973 = {
+    aristocrats = {
+        culture = skifkan
+        religion = placeholder
+        size = 2412
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 1407
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 4020
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 2412
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 2250
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 70624
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 60
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 1306
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 90
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 4803
+    }
+
+    aristocrats = {
+        culture = skifkan
+        religion = placeholder
+        size = 201
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 30
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 40
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 30
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 110
+    }
+}
+#Kramatorsk (240000/60000 POPS)
+974 = {
+    aristocrats = {
+        culture = skifkan
+        religion = placeholder
+        size = 502
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 221
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 904
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 345
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 21255
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 20
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 301
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 15
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 673
+    }
+}
+#Yuzovka (76000/19000 POPS)
+975 = {
+    aristocrats = {
+        culture = skifkan
+        religion = placeholder
+        size = 120
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 50
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 201
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 90
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 5195
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 4
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 80
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 217
+    }
+
+    aristocrats = {
+        culture = skifkan
+        religion = placeholder
+        size = 60
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 20
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 100
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 30
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 35007
+    }
+}
+#Mariopol (248000/62000 POPS)
+976 = {
+    aristocrats = {
+        culture = skifkan
+        religion = placeholder
+        size = 562
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 211
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 512
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 330
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 20964
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 20
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 301
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 15
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 673
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 20
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 442
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 30
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 1567
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 10
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 30
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 15
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 33851
+    }
+}
+#Kursk Region (596000) #see Russia.txt for balance of region
+#under the rule of Russia in 1836
+#Kharkov (596000/149000 POPS) #now part of Ukraine
+978 = {
+    aristocrats = {
+        culture = skifkan
+        religion = placeholder
+        size = 904
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 552
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 2492
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 40
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 1527
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 840
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 50300
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 4
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 217
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 40
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 40
+    }
+
+    aristocrats = {
+        culture = skifkan
+        religion = placeholder
+        size = 100
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 30
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 201
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 60
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 2844
+    }
+}
+#Donbass Region (652000) #see Russia.txt for balance of region
+#under the rule of Russia in 1836
+#Luhansk (652000/163000 POPS) #now part of Ukraine
+980 = {
+    aristocrats = {
+        culture = skifkan
+        religion = placeholder
+        size = 1549
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 707
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 3742
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 1137
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 68622
+    }
+
+    aristocrats = {
+        culture = skifkan
+        religion = placeholder
+        size = 239
+    }
+
+    clergymen = {
+        culture = skifkan
+        religion = placeholder
+        size = 119
+    }
+
+    artisans = {
+        culture = skifkan
+        religion = placeholder
+        size = 587
+    }
+
+    soldiers = {
+        culture = skifkan
+        religion = placeholder
+        size = 179
+    }
+
+    farmers = {
+        culture = skifkan
+        religion = placeholder
+        size = 10693
+    }
+}

@@ -1,0 +1,223 @@
+political_decisions = {
+form_ilkhan = {
+		picture = bakhtiari_khan
+        potential = { 
+            primary_culture = kuzkan
+            OTU = { exists = no }
+            NOT = { has_global_flag = northturks_united }
+        }
+    
+		allow = {
+            war = no
+            owns = 994
+			RUS = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							vassal_of = THIS
+						}
+					}
+				}
+			}
+            ZIL = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							vassal_of = THIS
+						}
+					}
+				}
+			}
+            BRT = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							vassal_of = THIS
+						}
+					}
+				}
+			}
+            ASG = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							vassal_of = THIS
+						}
+					}
+				}
+			}
+		}
+		effect = {
+			prestige = 2
+            add_country_modifier = {
+				name = rapid_centralization
+				duration = 5500
+			}
+            years_of_research = 1.5
+			set_global_flag = northturks_united
+            all_core = { add_core = OTU }
+            change_tag = OTU
+			inherit = RUS 
+            inherit = ZIL
+            inherit = BRT
+            inherit = ASG
+            RUS_994 = {
+                add_core = THIS
+            }
+			RUS = {
+				all_core = {
+					add_core = THIS
+					secede_province = THIS
+                    remove_core = RUS
+				}
+			}
+            ZIL = {
+				all_core = {
+					add_core = THIS
+					secede_province = THIS
+                    remove_core = ZIL
+				}
+			}
+            BRT = {
+				all_core = {
+					add_core = THIS
+					secede_province = THIS
+                    remove_core = BRT
+				}
+			}
+            ASG = {
+				all_core = {
+					add_core = THIS
+					secede_province = THIS
+                    remove_core = ASG
+				}
+			}
+		}
+    
+        ai_will_do = {
+            factor = 1
+        }
+    }
+
+form_scythia = {
+		picture = cossack
+        potential = { 
+            primary_culture = skifkan
+            SCY = { exists = no }
+            NOT = { has_global_flag = southturks_united }
+        }
+    
+		allow = {
+            war = no
+			QRM = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							vassal_of = THIS
+						}
+					}
+				}
+			}
+            DON = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							vassal_of = THIS
+						}
+					}
+				}
+			}
+            CRI = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							vassal_of = THIS
+						}
+					}
+				}
+			}
+            BUL = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							vassal_of = THIS
+						}
+					}
+				}
+			}
+            NOG = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							vassal_of = THIS
+						}
+					}
+				}
+			}
+		}
+		effect = {
+			prestige = 5
+            add_country_modifier = {
+				name = rapid_centralization
+				duration = 5500
+			}
+            years_of_research = 3
+			set_global_flag = southturks_united
+            all_core = { add_core = SCY }
+            change_tag = SCY
+			inherit = QRM 
+            inherit = DON
+            inherit = CRI
+            inherit = BUL
+            inherit = NOG
+			QRM = {
+				all_core = {
+					add_core = THIS
+					secede_province = THIS
+                    remove_core = QRM
+				}
+			}
+            DON = {
+				all_core = {
+					add_core = THIS
+					secede_province = THIS
+                    remove_core = DON
+				}
+			}
+            CRI = {
+				all_core = {
+					add_core = THIS
+					secede_province = THIS
+                    remove_core = CRI
+				}
+			}
+            BUL = {
+				all_core = {
+					add_core = THIS
+					secede_province = THIS
+                    remove_core = BUL
+				}
+			}
+            NOG = {
+				all_core = {
+					add_core = THIS
+					secede_province = THIS
+                    remove_core = NOG
+				}
+			}
+		}
+    
+        ai_will_do = {
+            factor = 1
+        }
+    }
+}

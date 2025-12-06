@@ -1,0 +1,67 @@
+country_event = {
+
+	title = "EVTNAME95599"
+	desc = "EVTDESC95599"
+	id = 95599
+
+	picture = "atzacoalco"
+
+	trigger = {
+		OR = {
+			tag = PEU
+			tag = NPH
+			tag = LAM
+		}
+		NOT = {
+			has_country_flag = has_native_societies
+		}
+	}
+
+	mean_time_to_happen = {
+		months = 1
+		modifier = {
+			factor = 0.01
+			year = 666
+		}
+	}
+
+	option = {
+		name = "EVTOPTA95599"
+		set_country_flag = has_native_societies
+		add_country_modifier = {
+			name = native_societies1
+			duration = -1
+		}
+		add_country_modifier = {
+			name = native_societies2
+			duration = -1
+		}
+	}
+}	
+
+country_event = {
+	id = 95608
+	title = "Reconnected with Civilization"
+	desc = "The Old World has changed rather dramatically since we've left it, our society has started to rapidly change as we reconnect with our old ties" 
+	picture = "atzacoalco"
+
+	trigger = {
+		OR = {
+			tag = LAM 
+			tag = NPH
+			tag = PEU
+		}
+		civilized = yes
+		has_country_modifier = native_societies2
+	}
+
+	mean_time_to_happen = {
+		days = -1
+	}
+
+	option = {
+		name = "We will surely stand on our own."
+		set_country_flag = native_crossroad
+		remove_country_modifier = native_societies2 	#pop growth 
+	}
+}

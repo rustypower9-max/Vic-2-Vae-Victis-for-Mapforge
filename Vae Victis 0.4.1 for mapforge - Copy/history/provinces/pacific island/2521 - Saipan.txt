@@ -1,0 +1,7 @@
+owner = PER
+controller = PER
+naval_base = 2
+colonial = 2
+trade_goods = fish
+life_rating = 30
+

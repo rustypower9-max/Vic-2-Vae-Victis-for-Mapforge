@@ -1,0 +1,6 @@
+owner = LAM
+controller = LAM
+add_core = LAM
+trade_goods = fish
+life_rating = 35
+

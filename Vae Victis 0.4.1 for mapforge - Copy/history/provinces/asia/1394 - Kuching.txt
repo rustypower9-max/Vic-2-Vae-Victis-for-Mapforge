@@ -1,0 +1,7 @@
+owner = BRU
+controller = BRU
+Core = BRU
+colonial = 2
+trade_goods = coffee
+life_rating = 35
+

@@ -1,0 +1,510 @@
+#Ceylon (1224000) #now Sri Lanka
+#Under rule of Britain 1836
+#Colombo (400000/100000 POPS)
+1321 = {
+    aristocrats = {
+        culture = indo_aryan
+        religion = placeholder
+        size = 288
+    }
+
+    bureaucrats = {
+        culture = sevasm
+        religion = placeholder
+        size = 16212
+    }
+
+    clergymen = {
+        culture = sevasm
+        religion = placeholder
+        size = 1076
+    }
+
+    artisans = {
+        culture = indo_aryan
+        religion = placeholder
+        size = 288
+    }
+
+    soldiers = {
+        culture = indo_aryan
+        religion = placeholder
+        size = 269
+    }
+
+    farmers = {
+        culture = indo_aryan
+        religion = placeholder
+        size = 20389
+    }
+
+    aristocrats = {
+        culture = sevasm
+        religion = placeholder
+        size = 88
+    }
+
+    bureaucrats = {
+        culture = sevasm
+        religion = placeholder
+        size = 144
+    }
+
+    clergymen = {
+        culture = sevasm
+        religion = placeholder
+        size = 176
+    }
+
+    artisans = {
+        culture = sevasm
+        religion = placeholder
+        size = 538
+    }
+
+    soldiers = {
+        culture = sevasm
+        religion = placeholder
+        size = 36
+    }
+
+    labourers = {
+        culture = sevasm
+        religion = placeholder
+        size = 7056
+    }
+
+    clergymen = {
+        culture = sevasm
+        religion = placeholder
+        size = 68
+    }
+
+    artisans = {
+        culture = sevasm
+        religion = placeholder
+        size = 360
+    }
+
+    soldiers = {
+        culture = sevasm
+        religion = placeholder
+        size = 17
+    }
+
+    labourers = {
+        culture = sevasm
+        religion = placeholder
+        size = 4608
+    }
+
+    clergymen = {
+        culture = sevasm
+        religion = placeholder
+        size = 32
+    }
+
+    artisans = {
+        culture = sevasm
+        religion = placeholder
+        size = 538
+    }
+
+    soldiers = {
+        culture = sevasm
+        religion = placeholder
+        size = 8
+    }
+
+    labourers = {
+        culture = sevasm
+        religion = placeholder
+        size = 864
+    }
+
+    aristocrats = {
+        culture = zeraphite
+        religion = placeholder
+        size = 8
+    }
+
+    clergymen = {
+        culture = sevasm
+        religion = placeholder
+        size = 104
+    }
+
+    artisans = {
+        culture = zeraphite
+        religion = placeholder
+        size = 540
+    }
+
+    soldiers = {
+        culture = zeraphite
+        religion = placeholder
+        size = 8
+    }
+
+    labourers = {
+        culture = zeraphite
+        religion = placeholder
+        size = 1214
+    }
+
+    aristocrats = {
+        culture = barbarian
+        religion = placeholder
+        size = 8
+    }
+
+    clergymen = {
+        culture = sevasm
+        religion = placeholder
+        size = 32
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 396
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 17
+    }
+
+    farmers = {
+        culture = barbarian
+        religion = placeholder
+        size = 684
+    }
+
+    aristocrats = {
+        culture = zeraphite
+        religion = placeholder
+        size = 8
+    }
+
+    bureaucrats = {
+        culture = sevasm
+        religion = placeholder
+        size = 68
+    }
+
+    clergymen = {
+        culture = sevasm
+        religion = placeholder
+        size = 68
+    }
+
+    artisans = {
+        culture = zeraphite
+        religion = placeholder
+        size = 396
+    }
+
+    soldiers = {
+        culture = zeraphite
+        religion = placeholder
+        size = 36
+    }
+
+    farmers = {
+        culture = zeraphite
+        religion = placeholder
+        size = 242
+    }
+}
+#Jaffna (288000/72000 POPS)
+1322 = {
+    aristocrats = {
+        culture = dravidian
+        religion = placeholder
+        size = 180
+    }
+
+    clergymen = {
+        culture = sevasm
+        religion = placeholder
+        size = 720
+    }
+
+    artisans = {
+        culture = dravidian
+        religion = placeholder
+        size = 1440
+    }
+
+    soldiers = {
+        culture = dravidian
+        religion = placeholder
+        size = 180
+    }
+
+    farmers = {
+        culture = dravidian
+        religion = placeholder
+        size = 15300
+    }
+
+    aristocrats = {
+        culture = sevasm
+        religion = placeholder
+        size = 178
+    }
+
+    clergymen = {
+        culture = sevasm
+        religion = placeholder
+        size = 356
+    }
+
+    artisans = {
+        culture = sevasm
+        religion = placeholder
+        size = 1440
+    }
+
+    soldiers = {
+        culture = sevasm
+        religion = placeholder
+        size = 180
+    }
+
+    labourers = {
+        culture = sevasm
+        religion = placeholder
+        size = 15120
+    }
+}
+#Kandy (304000/76000 POPS)
+1323 = {
+    aristocrats = {
+        culture = indo_aryan
+        religion = placeholder
+        size = 269
+    }
+
+    clergymen = {
+        culture = sevasm
+        religion = placeholder
+        size = 1076
+    }
+
+    artisans = {
+        culture = indo_aryan
+        religion = placeholder
+        size = 1440
+    }
+
+    soldiers = {
+        culture = indo_aryan
+        religion = placeholder
+        size = 269
+    }
+
+    farmers = {
+        culture = indo_aryan
+        religion = placeholder
+        size = 24929
+    }
+}
+#Trincomalee (208000/52000 POPS)
+1324 = {
+    aristocrats = {
+        culture = sevasm
+        religion = placeholder
+        size = 178
+    }
+
+    clergymen = {
+        culture = sevasm
+        religion = placeholder
+        size = 320
+    }
+
+    artisans = {
+        culture = sevasm
+        religion = placeholder
+        size = 360
+    }
+
+    soldiers = {
+        culture = sevasm
+        religion = placeholder
+        size = 72
+    }
+
+    farmers = {
+        culture = sevasm
+        religion = placeholder
+        size = 14272
+    }
+
+    aristocrats = {
+        culture = dravidian
+        religion = placeholder
+        size = 89
+    }
+
+    clergymen = {
+        culture = sevasm
+        religion = placeholder
+        size = 356
+    }
+
+    artisans = {
+        culture = dravidian
+        religion = placeholder
+        size = 180
+    }
+
+    soldiers = {
+        culture = dravidian
+        religion = placeholder
+        size = 89
+    }
+
+    labourers = {
+        culture = dravidian
+        religion = placeholder
+        size = 8189
+    }
+
+    clergymen = {
+        culture = sevasm
+        religion = placeholder
+        size = 32
+    }
+
+    artisans = {
+        culture = dravidian
+        religion = placeholder
+        size = 89
+    }
+
+    soldiers = {
+        culture = dravidian
+        religion = placeholder
+        size = 8
+    }
+
+    labourers = {
+        culture = dravidian
+        religion = placeholder
+        size = 252
+    }
+
+    clergymen = {
+        culture = sevasm
+        religion = placeholder
+        size = 68
+    }
+
+    artisans = {
+        culture = dravidian
+        religion = placeholder
+        size = 180
+    }
+
+    soldiers = {
+        culture = dravidian
+        religion = placeholder
+        size = 8
+    }
+
+    labourers = {
+        culture = dravidian
+        religion = placeholder
+        size = 530
+    }
+
+    clergymen = {
+        culture = sevasm
+        religion = placeholder
+        size = 32
+    }
+
+    artisans = {
+        culture = barbarian
+        religion = placeholder
+        size = 89
+    }
+
+    soldiers = {
+        culture = barbarian
+        religion = placeholder
+        size = 17
+    }
+
+    labourers = {
+        culture = barbarian
+        religion = placeholder
+        size = 242
+    }
+
+    aristocrats = {
+        culture = zeraphite
+        religion = placeholder
+        size = 8
+    }
+
+    clergymen = {
+        culture = sevasm
+        religion = placeholder
+        size = 68
+    }
+
+    artisans = {
+        culture = zeraphite
+        religion = placeholder
+        size = 269
+    }
+
+    soldiers = {
+        culture = zeraphite
+        religion = placeholder
+        size = 8
+    }
+
+    labourers = {
+        culture = zeraphite
+        religion = placeholder
+        size = 773
+    }
+}
+#Maldives (24000/6000 POPS) #now independent
+1325 = {
+    aristocrats = {
+        culture = dravidian
+        religion = placeholder
+        size = 17
+    }
+
+    clergymen = {
+        culture = sevasm
+        religion = placeholder
+        size = 68
+    }
+
+    artisans = {
+        culture = dravidian
+        religion = placeholder
+        size = 180
+    }
+
+    soldiers = {
+        culture = dravidian
+        religion = placeholder
+        size = 26
+    }
+
+    farmers = {
+        culture = dravidian
+        religion = placeholder
+        size = 1916
+    }
+}

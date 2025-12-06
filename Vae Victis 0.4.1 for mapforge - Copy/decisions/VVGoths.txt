@@ -1,0 +1,112 @@
+political_decisions = {
+form_gothic_empire = {
+	picture = goths
+        potential = { 
+            primary_culture = norse
+            SCA = { exists = no }
+            NOT = { has_global_flag = goths_united }
+        }
+    
+		allow = {
+			state_n_government = 1
+            war = no
+			DEN = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							vassal_of = THIS
+						}
+					}
+				}
+			}
+            SWE = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							vassal_of = THIS
+						}
+					}
+				}
+			}
+            NOR = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							vassal_of = THIS
+						}
+					}
+				}
+			}
+		}
+		effect = {
+			prestige = 2
+			set_global_flag = goths_united
+            all_core = { add_core = SCA }
+            change_tag = SCA
+            tech_school = japanese_tech_school
+			inherit = NOR 
+            inherit = DEN
+            inherit = SWE
+			NOR = {
+				all_core = {
+					add_core = THIS
+					secede_province = THIS
+                    remove_core = NOR
+				}
+			}
+            DEN = {
+				all_core = {
+					add_core = THIS
+					secede_province = THIS
+                    remove_core = DEN
+				}
+			}
+            SWE = {
+				all_core = {
+					add_core = THIS
+					secede_province = THIS
+                    remove_core = SWE
+				}
+			}
+		}
+    
+        ai_will_do = {
+            factor = 1
+        }
+    }
+	negotiate_with_belgae = {
+	picture = belgae
+        potential = { 
+            primary_culture = norse
+            NOT = { has_global_flag = belgae_integrated }
+        }
+    
+		allow = {
+			nationalism_n_imperalism = 1
+            war = no
+            BEL = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							vassal_of = THIS
+						}
+					}
+				}
+			}
+		}
+		effect = {
+			prestige = 2
+			set_country_flag = belgae_assim
+			set_global_flag = belgae_integrated
+			inherit = BEL
+		}
+    
+        ai_will_do = {
+            factor = 1
+        }
+    }
+}

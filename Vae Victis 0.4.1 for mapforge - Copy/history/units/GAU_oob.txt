@@ -1,0 +1,281 @@
+#Sphere of Influence
+
+NET = {
+	value = 100
+		#relation
+
+	level = 3
+		#3=cordial, 4 = friendly, 5 sphere
+
+}
+IRE = {
+	value = 125		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 50
+}
+
+leader = {
+	name = "Jean-Baptiste Drouet"
+	picture = fra_gen_drouet
+	date = 1803.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.3
+}
+leader = {
+	name = "Bertrand Clauzel"
+	picture = fra_gen_clauzel
+	date = 1803.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.1
+}
+leader = {
+	name = "Honor  Reille"
+	picture = fra_gen_reille
+	date = 1807.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.3
+}
+leader = {
+	name = "Louis-Isidore Harispe"
+	picture = fra_gen_harispe
+	date = 1836.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.3
+}
+leader = {
+	name = "Guillaume Dode"
+	picture = fra_gen_dode
+	date = 1809.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.3
+}
+leader = {
+	name = "Guy-Victor Duperr "
+	picture = fra_adm_duperre
+	date = 1811.1.1
+	type = sea
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.3
+}
+leader = {
+	name = "Jacques Achard"
+	picture = fra_gen_achard
+	date = 1823.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.2
+}
+leader = {
+	name = "Henri de Castelanne"
+	picture = fra_gen_castelanne
+	date = 1823.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.1
+}
+leader = {
+	name = "Jean-Baptiste Vaillant"
+	picture = fra_gen_vaillant
+	date = 1832.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.1
+}
+leader = {
+	name = "Bernard Magnan"
+	picture = fra_gen_magnan
+	date = 1835.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+}
+leader = {
+	name = "Thomas Bugeaud"
+	picture = fra_gen_bugeaud
+	date = 1836.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+}
+leader = {
+	name = "Louis Baraguey d'Hilliers"
+	picture = fra_gen_baraguey
+	date = 1836.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+}
+leader = {
+	name = "Charles Baudin"
+	picture = fra_adm_baudin
+	date = 1836.1.1 #1838
+	type = sea
+	personality = defence_1.1
+	background = attack_1.1
+}
+
+army = {
+	name = "Treverian Legion"
+	location = 407
+	regiment = {
+		name = "1er Régiment d'Infanterie"
+		type = infantry
+		home = 427
+	}
+	regiment = {
+		name = "2e Régiment d'Infanterie"
+		type = infantry
+		home = 427
+	}
+	regiment = {
+		name = "3e Régiment d'Infanterie"
+		type = infantry
+		home = 427
+	}
+	regiment = {
+		name = "3e Régiment d'Infanterie"
+		type = infantry
+		home = 427
+	}
+	regiment = {
+		name = "1er Régiment d'Artillerie"
+		type = hussar
+		home = 427
+	}
+	regiment = {
+		name = "2e Régiment d'Artillerie"
+		type = artillery
+		home = 427
+	}
+	regiment = {
+		name = "1er Régiment de Hussards"
+		type = artillery
+		home = 427
+	}
+	regiment = {
+		name = "2e Régiment de Hussards"
+		type = artillery
+		home = 393
+	}
+	
+	regiment = {
+		name = "1e Regiment d'Infanterie"
+		type = artillery
+		home = 394
+	}
+	regiment = {
+		name = "2e Regiment d'Infanterie"
+		type = artillery
+		home = 392
+	}
+}
+army = {
+	name = "Armorican Garrison"
+	location = 423
+	regiment = {
+		name = "1er Régiment d'Artillerie"
+		type = hussar
+		home = 434
+	}
+	regiment = {
+		name = "2e Régiment d'Artillerie"
+		type = artillery
+		home = 420
+	}
+	regiment = {
+		name = "1er Régiment de Hussards"
+		type = artillery
+		home = 421
+	}
+	regiment = {
+		name = "2e Régiment de Hussards"
+		type = artillery
+		home = 424
+	}
+	
+	regiment = {
+		name = "1e Regiment d'Infanterie"
+		type = artillery
+		home = 418
+	}
+	regiment = {
+		name = "2e Regiment d'Infanterie"
+		type = artillery
+		home = 418
+	}
+}
+army = {
+	name = "Neverian Tribal Levee"
+	location = 447
+	regiment = {
+		name = "1er Régiment d'Infanterie"
+		type = infantry
+		home = 418
+	}
+	regiment = {
+		name = "2e Régiment d'Infanterie"
+		type = infantry
+		home = 418
+	}
+	regiment = {
+		name = "3e Régiment d'Infanterie"
+		type = infantry
+		home = 415
+	}
+	regiment = {
+		name = "3e Régiment d'Infanterie"
+		type = infantry
+		home = 428
+	}
+	regiment = {
+		name = "1er Régiment d'Artillerie"
+		type = cavalry
+		home = 425
+	}
+	regiment = {
+		name = "2e Régiment d'Artillerie"
+		type = cavalry
+		home = 404
+	}
+	regiment = {
+		name = "1er Régiment de Hussards"
+		type = cavalry
+		home = 399
+	}
+	regiment = {
+		name = "2e Régiment de Hussards"
+		type = cavalry
+		home = 393
+	}
+	
+	regiment = {
+		name = "2e Régiment de Hussards"
+		type = cavalry
+		home = 388
+	}
+	
+	regiment = {
+		name = "1e Regiment d'Infanterie"
+		type = cavalry
+		home = 389
+	}
+	regiment = {
+		name = "2e Regiment d'Infanterie"
+		type = cavalry
+		home = 387
+	}
+}

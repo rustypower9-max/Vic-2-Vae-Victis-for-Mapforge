@@ -1,0 +1,65 @@
+
+#Army
+
+army = {
+	name = "I. Armee"
+	location = 620
+	regiment = {
+		name= "2.1. Kavalleriedivision"
+		type = infantry
+		home = 620
+	}
+
+	regiment = {
+		name= "3.1. Kavalleriedivision"
+		type = infantry
+		home = 618
+	}
+
+	regiment = {
+		name= "2.2. Infanteriedivision"
+		type = infantry
+		home = 623
+	}
+
+	regiment = {
+		name= "3.2. Infanteriedivision"
+		type = infantry
+		home = 640
+	}
+
+	regiment = {
+		name= "1.3. Infanteriedivision"
+		type = hussar
+		home = 648
+	}
+
+	regiment = {
+		name= "2.3. Infanteriedivision"
+		type = artillery
+		home = 620
+	}
+
+	regiment = {
+		name= "3.3. Infanteriedivision"
+		type = artillery
+		home = 618
+	}
+	
+	regiment = {
+		name= "1.4. Infanteriedivision"
+		type = artillery
+		home = 639
+	}
+        regiment = {
+		name= "1.5. Infanteriedivision"
+		type = artillery
+		home = 641
+	}
+	regiment = {
+		name= "1.6. Infanteriedivision"
+		type = artillery
+		home = 641
+	}
+}
+

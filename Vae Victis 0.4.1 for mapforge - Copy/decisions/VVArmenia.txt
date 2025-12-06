@@ -1,0 +1,44 @@
+political_decisions = {
+    ARM_Anatolian = {
+		picture = armenian
+		potential = {
+			tag = ARM
+			NOT = { has_country_flag = anatolian_assim }
+            NOT = { has_country_modifier = culture_focus }
+		}
+		
+		allow = {
+			state_n_government = 1
+			all_core = { owned_by = THIS }
+		}
+		
+		effect = {
+			prestige = 5
+			set_country_flag = anatolian_assim
+			set_country_flag = diadochi
+            add_country_modifier = { name = culture_focus duration = 10000 }
+		}
+	}
+
+       ARM_Persian = {
+		picture = persiania
+		potential = {
+			tag = ARM
+            NOT = { has_country_flag = persian_assim }
+			NOT = { has_country_modifier = culture_focus }
+		}
+		
+		allow = {
+			state_n_government = 1
+			all_core = { owned_by = THIS }
+		}
+		
+		effect = {
+			prestige = 5
+			set_country_flag = persian_assim
+			set_country_flag = zoroastrian_nation
+            add_country_modifier = { name = culture_focus duration = 10000 }
+		}
+	}
+
+}

@@ -1,0 +1,459 @@
+#Hadramaut Region (120000) #see Oman.txt for balance of region
+#under the rule of Yemen in 1836
+#Mukalla (32000/8000 POPS)
+1173 = {
+    aristocrats = {
+        culture = yamnat
+        religion = placeholder
+        size = 536
+    }
+
+    bureaucrats = {
+        culture = yamnat
+        religion = placeholder
+        size = 56
+    }
+
+    officers = {
+        culture = yamnat
+        religion = placeholder
+        size = 98
+    }
+
+    clergymen = {
+        culture = yamnat
+        religion = placeholder
+        size = 296
+    }
+
+    artisans = {
+        culture = yamnat
+        religion = placeholder
+        size = 1596
+    }
+
+    soldiers = {
+        culture = yamnat
+        religion = placeholder
+        size = 2194
+    }
+
+    farmers = {
+        culture = yamnat
+        religion = placeholder
+        size = 25334
+    }
+}
+#Ghaydah (20000/5000 POPS)
+1175 = {
+    aristocrats = {
+        culture = yamnat
+        religion = placeholder
+        size = 398
+    }
+
+    clergymen = {
+        culture = yamnat
+        religion = placeholder
+        size = 198
+    }
+
+    artisans = {
+        culture = yamnat
+        religion = placeholder
+        size = 996
+    }
+
+    soldiers = {
+        culture = yamnat
+        religion = placeholder
+        size = 99
+    }
+
+    farmers = {
+        culture = yamnat
+        religion = placeholder
+        size = 18552
+    }
+}
+#Bayda (68000/17000 POPS)
+1176 = {
+    aristocrats = {
+        culture = yamnat
+        religion = placeholder
+        size = 1094
+    }
+
+    clergymen = {
+        culture = yamnat
+        religion = placeholder
+        size = 696
+    }
+
+    artisans = {
+        culture = yamnat
+        religion = placeholder
+        size = 3390
+    }
+
+    soldiers = {
+        culture = yamnat
+        religion = placeholder
+        size = 3348
+    }
+
+    farmers = {
+        culture = yamnat
+        religion = placeholder
+        size = 61944
+    }
+}
+#under the rule of Oman in 1836
+#Socotra (16000/4000 POPS)
+1177 = {
+    aristocrats = {
+        culture = yamnat
+        religion = placeholder
+        size = 199
+    }
+
+    clergymen = {
+        culture = yamnat
+        religion = placeholder
+        size = 398
+    }
+
+    artisans = {
+        culture = yamnat
+        religion = placeholder
+        size = 1529
+    }
+
+    soldiers = {
+        culture = yamnat
+        religion = placeholder
+        size = 166
+    }
+
+    farmers = {
+        culture = yamnat
+        religion = placeholder
+        size = 6749
+    }
+
+    slaves = {
+        culture = yamnat
+        religion = placeholder
+        size = 2780
+    }
+
+    bureaucrats = {
+        culture = greco-egyptian
+        religion = placeholder
+        size = 219
+    }
+}
+#Yemen Region (224000)
+#under the rule of Yemen in 1836
+#Sana (124000/31000 POPS)
+1178 = {
+    aristocrats = {
+        culture = yamnat
+        religion = placeholder
+        size = 2941
+    }
+
+    bureaucrats = {
+        culture = yamnat
+        religion = placeholder
+        size = 6094
+    }
+
+    officers = {
+        culture = yamnat
+        religion = placeholder
+        size = 348
+    }
+
+    clergymen = {
+        culture = yamnat
+        religion = placeholder
+        size = 2493
+    }
+
+    artisans = {
+        culture = yamnat
+        religion = placeholder
+        size = 5136
+    }
+
+    soldiers = {
+        culture = yamnat
+        religion = placeholder
+        size = 8380
+    }
+
+    farmers = {
+        culture = yamnat
+        religion = placeholder
+        size = 80547
+    }
+
+    aristocrats = {
+        culture = yamnat
+        religion = placeholder
+        size = 348
+    }
+
+    clergymen = {
+        culture = yamnat
+        religion = placeholder
+        size = 1348
+    }
+
+    artisans = {
+        culture = yamnat
+        religion = placeholder
+        size = 2293
+    }
+
+    farmers = {
+        culture = yamnat
+        religion = placeholder
+        size = 24231
+    }
+
+    clergymen = {
+        culture = judean
+        religion = placeholder
+        size = 1125
+    }
+
+    craftsmen = {
+        culture = yamnat
+        religion = placeholder
+        size = 24475
+    }
+}
+#Hodeida (48000/12000 POPS)
+1179 = {
+    aristocrats = {
+        culture = yamnat
+        religion = placeholder
+        size = 2293
+    }
+
+    clergymen = {
+        culture = yamnat
+        religion = placeholder
+        size = 2194
+    }
+
+    artisans = {
+        culture = yamnat
+        religion = placeholder
+        size = 2992
+    }
+
+    soldiers = {
+        culture = yamnat
+        religion = placeholder
+        size = 2194
+    }
+
+    farmers = {
+        culture = yamnat
+        religion = placeholder
+        size = 60348
+    }
+
+    aristocrats = {
+        culture = yamnat
+        religion = placeholder
+        size = 249
+    }
+
+    clergymen = {
+        culture = yamnat
+        religion = placeholder
+        size = 298
+    }
+
+    artisans = {
+        culture = judean
+        religion = placeholder
+        size = 1100
+    }
+
+    soldiers = {
+        culture = judean
+        religion = placeholder
+        size = 1025
+    }
+
+    farmers = {
+        culture = judean
+        religion = placeholder
+        size = 3000
+    }
+}
+#Taizz (52000/13000 POPS)
+1180 = {
+    aristocrats = {
+        culture = yamnat
+        religion = placeholder
+        size = 4388
+    }
+
+    clergymen = {
+        culture = yamnat
+        religion = placeholder
+        size = 596
+    }
+
+    bureaucrats = {
+        culture = yamnat
+        religion = placeholder
+        size = 4094
+    }
+
+    artisans = {
+        culture = yamnat
+        religion = placeholder
+        size = 4986
+    }
+
+    soldiers = {
+        culture = yamnat
+        religion = placeholder
+        size = 2194
+    }
+
+    farmers = {
+        culture = yamnat
+        religion = placeholder
+        size = 26432
+    }
+
+    aristocrats = {
+        culture = yamnat
+        religion = placeholder
+        size = 4488
+    }
+
+    clergymen = {
+        culture = yamnat
+        religion = placeholder
+        size = 696
+    }
+
+    artisans = {
+        culture = yamnat
+        religion = placeholder
+        size = 5586
+    }
+
+    soldiers = {
+        culture = yamnat
+        religion = placeholder
+        size = 348
+    }
+
+    farmers = {
+        culture = yamnat
+        religion = placeholder
+        size = 25536
+    }
+}
+#Aden (40000/10000 POPS)
+1412 = {
+    aristocrats = {
+        culture = yamnat
+        religion = placeholder
+        size = 547
+    }
+
+    clergymen = {
+        culture = yamnat
+        religion = placeholder
+        size = 498
+    }
+
+    artisans = {
+        culture = yamnat
+        religion = placeholder
+        size = 4488
+    }
+
+    soldiers = {
+        culture = yamnat
+        religion = placeholder
+        size = 2293
+    }
+
+    farmers = {
+        culture = yamnat
+        religion = placeholder
+        size = 16009
+    }
+
+    aristocrats = {
+        culture = yamnat
+        religion = placeholder
+        size = 498
+    }
+
+    clergymen = {
+        culture = yamnat
+        religion = placeholder
+        size = 547
+    }
+
+    artisans = {
+        culture = yamnat
+        religion = placeholder
+        size = 4288
+    }
+
+    soldiers = {
+        culture = yamnat
+        religion = placeholder
+        size = 4389
+    }
+
+    farmers = {
+        culture = yamnat
+        religion = placeholder
+        size = 45235
+    }
+
+    aristocrats = {
+        culture = yamnat
+        religion = placeholder
+        size = 448
+    }
+
+    clergymen = {
+        culture = yamnat
+        religion = placeholder
+        size = 448
+    }
+
+    artisans = {
+        culture = judean
+        religion = placeholder
+        size = 1100
+    }
+
+    soldiers = {
+        culture = judean
+        religion = placeholder
+        size = 1125
+    }
+
+    farmers = {
+        culture = judean
+        religion = placeholder
+        size = 1825
+    }
+}

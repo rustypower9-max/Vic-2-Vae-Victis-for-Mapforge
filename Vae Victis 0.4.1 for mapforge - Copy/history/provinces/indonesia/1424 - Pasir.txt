@@ -1,0 +1,7 @@
+owner = PER
+controller = PER
+#add_core = INO
+trade_goods = coal
+life_rating = 32
+colonial = 2
+

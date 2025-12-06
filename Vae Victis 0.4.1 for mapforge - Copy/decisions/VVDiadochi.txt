@@ -1,0 +1,175 @@
+political_decisions = {
+#Aegypt
+convert_neterist = {
+		picture = phyrgian
+		potential = {
+			tag = EGY
+			NOT = { has_country_flag = neterist_EGY }
+		}
+		
+		allow = {
+			OR = {
+			year = 675
+				AND = {
+					average_militancy = 4
+					average_consciousness = 4
+				}
+			}
+		}
+		
+		effect = {
+			prestige = 5
+			set_country_flag = neterist_EGY
+			set_country_flag = neterist_nation
+			clr_country_flag = hellenic_nation
+            set_global_flag = greek_heresy_start
+		}
+	}
+
+settle_kush = {
+		picture = nubian_desert
+		potential = {
+			tag = EGY
+			NOT = { has_country_flag = settled_kush }
+		}
+		
+		allow = {
+			SUD = { all_core = { owned_by = THIS } }
+			year = 670
+		}
+		
+		effect = {
+			set_country_flag = settled_kush
+			SUD = {
+				all_core = {
+                   	 		add_province_modifier = {
+								name = colonial_recruitment
+								duration = 3600
+							}
+						}
+					}
+				}
+			}
+
+#Seleucid
+    	rebuild_babylon = {
+		picture = build_the_tower_of_babylon
+		potential = {
+			OR = {
+				tag = SEL
+				tag = ARM
+				tag = PER
+				}
+			NOT = { has_global_flag = babylon_rebuilt }
+			owns = 929
+		}
+
+		allow = {
+			owns = 929
+			high_n_low_pressure_steam_engines = 1
+			}
+
+		effect = {
+            		set_global_flag = babylon_rebuilt
+            		prestige = 10
+			929 = { 
+                    		life_rating = 2 
+		    		add_crime = hanging_gardens
+				}
+		   	 }
+	}
+#		SEL_neterist = {
+#			picture = build_the_tower_of_babylon
+#		
+#			potential = { 
+#				has_global_flag = hellenic_reformation
+#				tag = SEL
+#				NOT = { has_country_flag = SEL_religion_chosen }
+#			}
+#		
+#			allow = {
+#				owns = 926
+#			}
+#		
+#			effect = {
+#				any_pop = {
+#				limit = {
+#				culture = greco-syrian
+#				}
+#				militancy = 1
+#				consciousness = 2
+#			}
+#				set_country_flag = neterist_nation
+#				clr_country_flag = hellenic_nation
+#				set_country_flag = SEL_religion_chosen
+#			}
+#		
+#			ai_will_do = {
+#				factor = 1
+#			}
+#		}
+
+#Macedon
+#reinstate_archon = {
+#	picture = Execute_Bab
+#
+#	potential = { 
+#		tag = MAC
+#		owns = 834
+#		has_global_flag = religious_revolution
+#		has_country_flag = heresy_start
+#	}
+#
+#	allow = {
+#		
+#	}
+#
+#	effect = {
+#		
+#	}
+#
+#	ai_will_do = {
+#		factor = 1
+#	}
+#}
+
+#Argead Decisions  (Redo with Variables later)
+#argead_empire = {
+#	picture = Execute_Bab
+#	potential = { 
+#		has_country_flag = diadochi
+#		is_greater_power = yes
+#		year = 720
+#	}
+#
+#	allow = {
+#		rank = 2
+#		prestige = 500
+#		military_score = 400
+#		owns = 805 #Pella
+#		owns = 1751 #Alexandria
+#		owns = 1745 #Memphis
+#		owns = 859 #Lychaminds
+#		owns = 865 #Troy
+#		owns = 872 #Caria
+#		owns = 894 #Adana
+#		owns = 883 #Sinope
+#		owns = 890 #Van
+#		owns = 1108 #Tabriz
+#		owns = 1227 #Extent of Indian Conquest
+#		SEL = {all_core = { owned_by = THIS } }
+#		PER = {all_core = { owned_by = THIS } }
+#	}
+#
+#	effect = {
+#		prestige = 50
+#		set_country_flag = hegemon
+#		add_country_modifier = { name = heir_to_alexander duration = -1 }
+#	}
+#
+#	ai_will_do = {
+#		factor = 1
+#	}
+#}
+
+}

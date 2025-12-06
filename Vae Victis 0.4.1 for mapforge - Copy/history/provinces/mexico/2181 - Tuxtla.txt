@@ -1,0 +1,6 @@
+owner = NPH
+controller = NPH
+add_core = NPH
+trade_goods = cotton
+life_rating = 35
+

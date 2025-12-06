@@ -1,0 +1,64 @@
+army = {
+	name = "Hausa Jihadis"
+	location = 1984
+	regiment = {
+		name= "1. Taxiarchia Pezikou"
+		type = hussar
+		home = 1984
+	}
+
+	regiment = {
+		name= "2. Taxiarchia Pezikou"
+		type = infantry
+		home = 1808
+	}
+
+	regiment = {
+		name= "3. Taxiarchia Pezikou"
+		type = infantry
+		home = 1945
+	}
+
+	regiment = {
+		name= "4. Taxiarchia Pezikou"
+		type = infantry
+		home = 1815
+	}
+
+	regiment = {
+		name= "5. Taxiarchia Pezikou"
+		type = infantry
+		home = 1809
+	}
+
+	regiment = {
+		name= "6. Taxiarchia Pezikou"
+		type = artillery
+		home = 1952
+	}
+	
+	regiment = {
+		name= "6. Taxiarchia Pezikou"
+		type = artillery
+		home = 1951
+	}
+	
+	regiment = {
+		name= "6. Taxiarchia Pezikou"
+		type = artillery
+		home = 1953
+	}
+	
+	regiment = {
+		name= "6. Taxiarchia Pezikou"
+		type = artillery
+		home = 1935
+	}
+	
+	regiment = {
+		name= "6. Taxiarchia Pezikou"
+		type = artillery
+		home = 1930
+	}
+}
+

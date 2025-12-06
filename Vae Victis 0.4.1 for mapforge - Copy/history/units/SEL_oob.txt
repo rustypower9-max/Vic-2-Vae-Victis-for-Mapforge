@@ -1,0 +1,379 @@
+BUK = {
+	value = 100
+	level = 5
+	influence_value = 25
+}
+
+ING = {
+	value = 100
+	level = 5
+	influence_value = 25
+}
+
+leader = {
+	name = "Demetrios Kalergis"
+	picture = gre_gen_kalergis
+	type = land
+	date="1836.1.1"
+	personality = defence_1.1
+	background = attack_1.1
+}
+
+leader = {
+	name = "Ioannis Kolokotronis"
+	picture = gre_gen_kolokotronis
+	type = land
+	date="1833.1.1"
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.1
+}
+
+leader = {
+	name = "Antonios Kriezis"
+	picture = gre_adm_kriezis
+	type = sea
+	date="1836.1.1"
+	personality = defence_1.1
+	background = attack_1.1
+}
+
+army = {
+	name = "Antioch Companions"
+	location = 900
+	regiment = {
+		name= "1. Taxiarchia Pezikou"
+		type = hussar
+		home = 900
+	}
+
+	regiment = {
+		name= "2. Taxiarchia Pezikou"
+		type = infantry
+		home = 900
+	}
+
+	regiment = {
+		name= "3. Taxiarchia Pezikou"
+		type = infantry
+		home = 905
+	}
+
+	regiment = {
+		name= "4. Taxiarchia Pezikou"
+		type = infantry
+		home = 914
+	}
+
+	regiment = {
+		name= "5. Taxiarchia Pezikou"
+		type = infantry
+		home = 913
+	}
+
+	regiment = {
+		name= "6. Taxiarchia Pezikou"
+		type = artillery
+		home = 915
+	}
+	
+	regiment = {
+		name= "6. Taxiarchia Pezikou"
+		type = artillery
+		home = 912
+	}
+	
+	regiment = {
+		name= "6. Taxiarchia Pezikou"
+		type = artillery
+		home = 912
+	}
+	
+	regiment = {
+		name= "6. Taxiarchia Pezikou"
+		type = artillery
+		home = 904
+	}
+	
+	regiment = {
+		name= "6. Taxiarchia Pezikou"
+		type = artillery
+		home = 903
+	}
+}
+
+army = {
+	name = "Seleucia Phalanx"
+	location = 926
+	regiment = {
+		name= "1. Taxiarchia Pezikou"
+		type = hussar
+		home = 926
+	}
+
+	regiment = {
+		name= "2. Taxiarchia Pezikou"
+		type = infantry
+		home = 926
+	}
+
+	regiment = {
+		name= "3. Taxiarchia Pezikou"
+		type = infantry
+		home = 927
+	}
+
+	regiment = {
+		name= "4. Taxiarchia Pezikou"
+		type = infantry
+		home = 2344
+	}
+
+	regiment = {
+		name= "5. Taxiarchia Pezikou"
+		type = infantry
+		home = 933
+	}
+
+	regiment = {
+		name= "6. Taxiarchia Pezikou"
+		type = artillery
+		home = 931
+	}
+	
+	regiment = {
+		name= "6. Taxiarchia Pezikou"
+		type = artillery
+		home = 934
+	}
+	
+	regiment = {
+		name= "6. Taxiarchia Pezikou"
+		type = artillery
+		home = 3300
+	}
+	
+	regiment = {
+		name= "6. Taxiarchia Pezikou"
+		type = artillery
+		home = 923
+	}
+	
+	regiment = {
+		name= "6. Taxiarchia Pezikou"
+		type = artillery
+		home = 3298
+	}
+}
+
+army = {
+	name = "Canaanite Phalanx"
+	location = 917
+	regiment = {
+		name= "1. Taxiarchia Pezikou"
+		type = hussar
+		home = 917
+	}
+
+	regiment = {
+		name= "2. Taxiarchia Pezikou"
+		type = infantry
+		home = 917
+	}
+
+	regiment = {
+		name= "3. Taxiarchia Pezikou"
+		type = infantry
+		home = 920
+	}
+
+	regiment = {
+		name= "4. Taxiarchia Pezikou"
+		type = infantry
+		home = 919
+	}
+
+	regiment = {
+		name= "5. Taxiarchia Pezikou"
+		type = infantry
+		home = 919
+	}
+
+	regiment = {
+		name= "6. Taxiarchia Pezikou"
+		type = artillery
+		home = 916
+	}
+	
+	regiment = {
+		name= "6. Taxiarchia Pezikou"
+		type = artillery
+		home = 902
+	}
+	
+	regiment = {
+		name= "6. Taxiarchia Pezikou"
+		type = artillery
+		home = 902
+	}
+	
+	regiment = {
+		name= "6. Taxiarchia Pezikou"
+		type = artillery
+		home = 901
+	}
+	
+	regiment = {
+		name= "6. Taxiarchia Pezikou"
+		type = artillery
+		home = 2373
+	}
+}
+
+army = {
+	name = "Assyrian Auxiliaries"
+	location = 923
+	regiment = {
+		name= "1. Taxiarchia Pezikou"
+		type = hussar
+		home = 924
+	}
+
+	regiment = {
+		name= "6. Taxiarchia Pezikou"
+		type = artillery
+		home = 897
+	}
+	
+	regiment = {
+		name= "6. Taxiarchia Pezikou"
+		type = artillery
+		home = 925
+	}
+	
+	regiment = {
+		name= "6. Taxiarchia Pezikou"
+		type = artillery
+		home = 932
+	}
+	
+	regiment = {
+		name= "6. Taxiarchia Pezikou"
+		type = artillery
+		home = 928
+	}
+	
+	regiment = {
+		name= "6. Taxiarchia Pezikou"
+		type = artillery
+		home = 585
+	}
+}
+
+
+navy = {
+	name = "Hellenic Navy"
+	location = 900
+
+	ship = {
+		name = "Basileus Leon"
+		type = manowar
+	}
+	ship = {
+		name = "Paralos"
+		type = manowar
+	}
+	ship = {
+		name = "Leontophoros"
+		type = manowar
+	}
+	ship = {
+		name = "Eirene"
+		type = manowar
+	}
+	ship = {
+		name = "Kyzikos"
+		type = manowar
+	}
+	ship = {
+		name = "Basileus Leon"
+		type = manowar
+	}
+	ship = {
+		name = "Paralos"
+		type = manowar
+	}
+	ship = {
+		name = "Leontophoros"
+		type = manowar
+	}
+	ship = {
+		name = "Eirene"
+		type = manowar
+	}
+	ship = {
+		name = "Augustus"
+		type = manowar
+	}
+	ship = {
+		name = "Volos"
+		type = frigate
+	}
+	ship = {
+		name = "Kelis"
+		type = frigate
+	}
+	ship = {
+		name = "Augustus"
+		type = frigate
+	}
+	ship = {
+		name = "Volos"
+		type = frigate
+	}
+	ship = {
+		name = "Kelis"
+		type = frigate
+	}
+	ship = {
+		name = "1. Condor"
+		type = clipper_transport
+	}
+	ship = {
+		name = "2. Condor"
+		type = clipper_transport
+	}
+	ship = {
+		name = "3. Condor"
+		type = clipper_transport
+	}
+	ship = {
+		name = "4. Condor"
+		type = clipper_transport
+	}
+	ship = {
+		name = "5. Condor"
+		type = clipper_transport
+	}
+	ship = {
+		name = "1. Condor"
+		type = clipper_transport
+	}
+	ship = {
+		name = "2. Condor"
+		type = clipper_transport
+	}
+	ship = {
+		name = "3. Condor"
+		type = clipper_transport
+	}
+	ship = {
+		name = "4. Condor"
+		type = clipper_transport
+	}
+	ship = {
+		name = "5. Condor"
+		type = clipper_transport
+	}
+}
+
