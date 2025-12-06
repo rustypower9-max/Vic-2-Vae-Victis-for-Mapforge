@@ -1,5 +1,6 @@
-owner = YEM
-controller = YEM
+owner = ATJ
+controller = ATJ
+add core = ATJ
 trade_goods = tea
 life_rating = 32
 colonial = 2 

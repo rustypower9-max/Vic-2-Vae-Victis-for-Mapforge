@@ -1,5 +1,5 @@
-owner = EGY
-controller = EGY
+owner = GXI
+controller = GXI
 
 colonial = 2
 trade_goods = coal

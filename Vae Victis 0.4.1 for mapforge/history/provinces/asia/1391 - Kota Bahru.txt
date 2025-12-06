@@ -1,5 +1,6 @@
-owner = PER
-controller = PER
+owner = JOH	
+controller = JOH
+add core = JOH
 trade_goods = tropical_wood
 life_rating = 40
 colonial = 2

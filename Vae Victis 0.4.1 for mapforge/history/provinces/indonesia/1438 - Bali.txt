@@ -1,6 +1,6 @@
-owner = YEM
-controller = YEM
-#add_core = INO
+owner = BAL
+controller = BAL
+add_core = BAL
 trade_goods = fish
 life_rating = 32
 colonial = 2

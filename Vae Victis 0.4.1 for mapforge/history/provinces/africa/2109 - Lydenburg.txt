@@ -1,6 +1,7 @@
-owner = CAR
-controller = CAR
+owner = TRN
+controller = TRN
 add_core = SAF
+add core = TRN
 colonial = 2
 trade_goods = coal
 life_rating = 35

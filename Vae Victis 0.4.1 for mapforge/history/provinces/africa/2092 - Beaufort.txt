@@ -1,5 +1,6 @@
-owner = CAR
-controller = CAR
+owner = TRN
+controller = TRN
+add core = TRN
 add_core = SAF
 trade_goods = fruit
 life_rating = 35

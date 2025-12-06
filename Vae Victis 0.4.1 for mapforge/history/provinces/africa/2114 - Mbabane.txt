@@ -1,5 +1,6 @@
-owner = CAR
-controller = CAR
+owner = TRN
+controller = TRN
+add core = TRN
 add_core = SAF
 colonial = 2
 trade_goods = coal

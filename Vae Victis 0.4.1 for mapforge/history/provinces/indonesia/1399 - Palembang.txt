@@ -1,5 +1,6 @@
-owner = CAR
-controller = CAR
+owner = SAK
+controller = SAK
+add core = SAK
 trade_goods = grain
 life_rating = 32
 colonial = 2

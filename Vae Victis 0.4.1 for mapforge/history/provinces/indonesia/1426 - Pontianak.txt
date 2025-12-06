@@ -1,5 +1,6 @@
-owner = PER
-controller = PER
+owner = KLM
+controller = KLM
+add_core = KLM
 colonial = 2
 trade_goods = grain
 life_rating = 32

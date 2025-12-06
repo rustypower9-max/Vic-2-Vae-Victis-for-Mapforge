@@ -1,6 +1,5 @@
-owner = CAR
-controller = CAR
-colonial = 2
+#owner = CAR
+#controller = CAR
 trade_goods = sulphur
-life_rating = 32
+life_rating = 25
 
