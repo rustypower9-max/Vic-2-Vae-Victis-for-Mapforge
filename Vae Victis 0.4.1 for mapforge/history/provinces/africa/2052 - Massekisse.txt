@@ -1,6 +1,6 @@
 trade_goods = grain
 life_rating = 35
-owner = IRE
-controller = IRE
+owner = JAN
+controller = JAN
 colonial = 2
  
