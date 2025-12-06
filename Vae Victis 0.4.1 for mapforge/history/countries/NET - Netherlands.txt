@@ -45,9 +45,9 @@ upper_house = {
 foreign_training = yes_foreign_training
 foreign_weapons = yes_foreign_weapons
 foreign_officers = yes_foreign_officers
-advanced_constructions = yes_advanced_constructions
-imported_ships = yes_imported_ships
-naval_officers = yes_naval_officers
+military_constructions = yes_military_constructions
+foriegn_navies = yes_foriegn_navies
+foriegn_naval_officers = yes_foreign_naval_officers
 
 #Technologies
 post_napoleonic_thought = 1
