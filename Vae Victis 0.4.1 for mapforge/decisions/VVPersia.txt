@@ -19,7 +19,7 @@ political_decisions = {
 			all_core = {
 				add_province_modifier = { name = prosperity duration = 7200 }
 				}
-			badboy = 11
+			badboy = 8
 			set_country_flag = renaissance
 		}
 	}
