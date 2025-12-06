@@ -1,3 +1,5 @@
+owner = PHL
+controller = PHL
 add_core = PHL
 colonial = 2
 trade_goods = fruit

@@ -1,5 +1,6 @@
-owner = CAR
-controller = CAR
+owner = TRN
+controller = TRN
+add_core = TRN
 colonial = 2
 trade_goods = wool
 life_rating = 35
