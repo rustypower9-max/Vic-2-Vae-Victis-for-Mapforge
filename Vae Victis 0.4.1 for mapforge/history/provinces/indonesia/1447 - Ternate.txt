@@ -1,5 +1,6 @@
-owner = PER
-controller = PER
+owner = RPL
+controller = RPL
+add_core = RPL
 trade_goods = fish
 life_rating = 32
 colonial = 2

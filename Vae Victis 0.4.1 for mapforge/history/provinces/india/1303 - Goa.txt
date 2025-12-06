@@ -1,5 +1,5 @@
-owner = YEM
-controller = YEM
+owner = NET
+controller = NET
 colonial = 2
 naval_base = 1
 trade_goods = silk

@@ -1,5 +1,5 @@
-owner = MYS
-controller = MYS
+owner = GXI
+controller = GXI
 colonial = 2
 set_province_flag = tradeport
 trade_goods = iron

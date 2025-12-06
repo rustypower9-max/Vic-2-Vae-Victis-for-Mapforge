@@ -1,5 +1,6 @@
-owner = POR
-controller = POR
+owner = SAK
+controller = SAK
+add core = SAK
 trade_goods = timber
 life_rating = 32
 colonial = 2

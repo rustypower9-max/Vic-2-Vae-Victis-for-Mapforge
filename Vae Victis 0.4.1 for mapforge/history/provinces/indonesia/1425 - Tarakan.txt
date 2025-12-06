@@ -1,7 +1,7 @@
-owner = PER
-controller = PER
+owner = KLM
+controller = KLM
+add_core = KLM
 colonial = 2
-#add_core = INO
 trade_goods = timber
 life_rating = 32
 

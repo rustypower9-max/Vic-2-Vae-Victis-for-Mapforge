@@ -1,5 +1,6 @@
-owner = PER
-controller = PER
+owner = RPL
+controller = RPL
+add_core = RPL
 colonial = 2 
 trade_goods = grain
 life_rating = 32

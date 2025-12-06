@@ -1,5 +1,5 @@
-owner = EGY
-controller = EGY
+owner = SIN
+controller = SIN
 colonial = 2
 trade_goods = silk
 life_rating = 37

@@ -1,5 +1,6 @@
-owner = EGY
-controller = EGY
+owner = SLW
+controller = SLW
+add_core = SLW
 trade_goods = grain
 life_rating = 32
 colonial = 2
