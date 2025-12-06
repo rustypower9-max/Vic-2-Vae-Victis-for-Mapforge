@@ -1,7 +1,9 @@
-owner = CAR
-controller = CAR
+owner = TRN
+controller = TRN
 colonial = 2
 trade_goods = tropical_wood
 life_rating = 35
+add core = TRN
 add_core = SAF
+
  
