@@ -15,6 +15,7 @@ country_event = {
 			primary_culture = kashubian
 			primary_culture = asherite
 			primary_culture = berber
+			primary_culture = norse
 			}
 		} 
 	mean_time_to_happen = {
