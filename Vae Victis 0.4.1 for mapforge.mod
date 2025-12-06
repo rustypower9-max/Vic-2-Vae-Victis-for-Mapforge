@@ -1,7 +1,7 @@
 <<<<<<<< HEAD:Vae Victis for mapforge 0.4.1.mod
-name = "Vae Victis for mapforge 0.4.1" 
-path = "mod/Vae Victis for mapforge 0.4.1" 
-user_dir = "Vae Victis for mapforge 0.4.1" 
+name = "Vae Victis for mapforge 0.4.1 for mapforge" 
+path = "mod/Vae Victis for mapforge 0.4.1 for mapforge" 
+user_dir = "Vae Victis for mapforge 0.4.1 for mapforge" 
 ========
 name = "Vae Victis 0.4.1 for mapforge " 
 path = "mod/Vae Victis 0.4.1 for mapforge" 
