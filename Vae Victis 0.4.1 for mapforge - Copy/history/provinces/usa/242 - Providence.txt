@@ -1,8 +1,0 @@
-owner = CAR
-controller = CAR
-add_core = CAR
-trade_goods = coal
-railroad = 1
-life_rating = 37
-1861.1.1 = { railroad = 3 }
-

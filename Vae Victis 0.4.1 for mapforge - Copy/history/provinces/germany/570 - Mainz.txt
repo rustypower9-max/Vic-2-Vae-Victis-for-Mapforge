@@ -1,7 +1,0 @@
-owner = ALE
-controller = ALE
-add_core = ALE
-trade_goods = sulphur
-life_rating = 38
-
- 

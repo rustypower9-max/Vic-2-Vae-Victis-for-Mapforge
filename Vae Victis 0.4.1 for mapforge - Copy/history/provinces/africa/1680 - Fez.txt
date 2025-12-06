@@ -1,7 +1,0 @@
-owner = MOR
-controller = MOR
-add_core = MOR
-trade_goods = grain
-railroad = 1
-life_rating = 35
-

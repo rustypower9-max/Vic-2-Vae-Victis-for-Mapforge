@@ -1,7 +1,0 @@
-owner = POR
-controller = POR
-add_core = PHL
-colonial = 2
-trade_goods = tobacco
-life_rating = 32
- 

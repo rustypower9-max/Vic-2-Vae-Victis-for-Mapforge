@@ -1,8 +1,0 @@
-owner = PER
-controller = PER
-colonial = 2
-#add_core = INO
-trade_goods = iron
-life_rating = 32
-
- 

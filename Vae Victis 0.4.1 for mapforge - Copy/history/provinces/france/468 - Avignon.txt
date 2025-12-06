@@ -1,9 +1,0 @@
-owner = CAT
-controller = CAT
-add_core = CAT
-
-railroad = 1
-trade_goods = sulphur
-life_rating = 38
-1861.1.1 = { railroad = 3 }
-

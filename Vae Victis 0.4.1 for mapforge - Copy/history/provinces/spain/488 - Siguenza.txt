@@ -1,7 +1,0 @@
-owner = TRT
-controller = TRT
-add_core = TRT
-trade_goods = grain
-life_rating = 35
-1861.1.1 = { railroad = 2 }
-

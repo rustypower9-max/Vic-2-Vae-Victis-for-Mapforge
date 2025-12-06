@@ -1,7 +1,0 @@
-add_core = CAL
-trade_goods = coal
-life_rating = 30
-
-
-
-

@@ -1,7 +1,0 @@
-owner = WIA
-controller = WIA
-trade_goods = sulphur
-life_rating = 35
-set_province_flag = tradeport
-
-  

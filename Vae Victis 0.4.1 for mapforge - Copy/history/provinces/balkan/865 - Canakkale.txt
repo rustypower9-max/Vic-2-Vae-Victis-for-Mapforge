@@ -1,7 +1,0 @@
-owner = MAC
-controller = MAC
-add_core = MAC
-trade_goods = sulphur
-naval_base = 1
-life_rating = 37
-

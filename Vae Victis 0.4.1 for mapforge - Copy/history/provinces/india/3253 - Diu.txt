@@ -1,9 +1,0 @@
-owner = EGY
-controller = EGY
-colonial = 2
-trade_goods = silk
-life_rating = 37
-naval_base = 1
-set_province_flag = tradeport
-
- 

@@ -1,9 +1,0 @@
-owner = LOM
-controller = LOM
-naval_base = 1
-trade_goods = tobacco
-colonial = 2
-life_rating = 35
- 
-
-
