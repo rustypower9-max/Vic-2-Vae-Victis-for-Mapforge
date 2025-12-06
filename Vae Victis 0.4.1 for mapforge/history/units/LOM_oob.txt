@@ -66,66 +66,282 @@ leader = {
 
 
 army = {
-	name = "Arma dei Carabinieri"
+	name = "1.Armi Congiunte"
 	location = 720
 	regiment = {
-		name= "1.Carabinieri"
+		name= "1.Carabinieri Regi"
 		type = hussar
 		home = 720
 	}
 
 	regiment = {
-		name= "2.Carabinieri"
+		name= "1.Fanteria di Linea"
 		type = infantry
 		home = 722
 	}
 
 	regiment = {
-		name= "1.Carabinieri Reali"
+		name= "2.Fanteria di Linea"
 		type = infantry
 		home = 720
 	}
 
 	regiment = {
-		name= "2.Carabinieri Reali"
+		name= "3.Fanteria di Linea"
 		type = infantry
 		home = 472
 	}
 	
 	regiment = {
-		name= "1.Fanteria di Linea"
+		name= "4.Fanteria di Linea"
 		type = infantry
 		home = 724
 	}
 
 	regiment = {
-		name= "2.Fanteria di Linea"
+		name= "1.Artiglieria di Linea"
 		type = artillery
 		home = 723
 	}
 
 	regiment = {
-		name= "3.Fanteria di Linea"
+		name= "2.Artiglieria di Linea"
 		type = artillery
 		home = 725
 	}
 
 	regiment = {
-		name= "1.Granatieri di Sardegna"
+		name= "3.Artiglieria di Linea"
 		type = artillery
-		home = 765
+		home = 725
 	}
 
 	regiment = {
-		name= "2.Granatieri di Sardegna"
+		name= "4.Artiglieria di Linea"
 		type = artillery
-		home = 766
+		home = 465
+	}
+
+	regiment = {
+		name= "5.Artiglieria di Linea"
+		type = artillery
+		home = 720
+	}
+}
+
+army = {
+	name = "2.Armi Congiunte"
+	location = 739
+	regiment = {
+		name= "2.Carabinieri Regi"
+		type = hussar
+		home = 3255
+	}
+
+	regiment = {
+		name= "1.Bersaglieri"
+		type = infantry
+		home = 3255
 	}
 
 	regiment = {
 		name= "2.Bersaglieri"
+		type = infantry
+		home = 724
+	}
+
+	regiment = {
+		name= "3.Bersaglieri"
+		type = infantry
+		home = 725
+	}
+	
+	regiment = {
+		name= "4.Bersaglieri"
+		type = infantry
+		home = 740
+	}
+
+	regiment = {
+		name= "6.Artiglieria di Linea"
+		type = artillery
+		home = 738
+	}
+	
+	regiment = {
+		name= "7.Artiglieria di Linea"
+		type = artillery
+		home = 739
+	}
+
+	regiment = {
+		name= "8.Artiglieria di Linea"
+		type = artillery
+		home = 741
+	}
+
+	regiment = {
+		name= "9.Artiglieria di Linea"
 		type = artillery
 		home = 465
+	}
+	
+	regiment = {
+		name= "10.Artiglieria di Linea"
+		type = artillery
+		home = 721
+	}
+}
+
+army = {
+	name = "1.Sentinelle"
+	location = 726
+	regiment = {
+		name= "1.Ussari Allati"
+		type = hussar
+		home = 607
+	}
+
+	regiment = {
+		name= "2.Ussari Allati"
+		type = hussar
+		home = 609
+	}
+
+	regiment = {
+		name= "11.Artiglieria di Linea"
+		type = artillery
+		home = 726
+	}
+
+	regiment = {
+		name= "12.Artiglieria di Linea"
+		type = artillery
+		home = 609
+	}
+
+	regiment = {
+		name= "13.Artiglieria di Linea"
+		type = artillery
+		home = 722
+	}
+
+	regiment = {
+		name= "14.Artiglieria di Linea"
+		type = artillery
+		home = 2568
+	}
+
+	regiment = {
+		name= "15.Artiglieria di Linea"
+		type = artillery
+		home = 726
+	}
+
+	regiment = {
+		name= "16.Artiglieria di Linea"
+		type = artillery
+		home = 726
+	}
+
+	regiment = {
+		name= "17.Artiglieria di Linea"
+		type = artillery
+		home = 727
+	}
+
+	regiment = {
+		name= "18.Artiglieria di Linea"
+		type = artillery
+		home = 728
+	}
+
+	regiment = {
+		name= "19.Artiglieria di Linea"
+		type = artillery
+		home = 731
+	}
+
+	regiment = {
+		name= "20.Artiglieria di Linea"
+		type = artillery
+		home = 731
+	}
+}
+
+army = {
+	name = "2.Sentinelle"
+	location = 730
+	regiment = {
+		name= "3.Ussari Allati"
+		type = hussar
+		home = 734
+	}
+
+	regiment = {
+		name= "4.Ussari Allati"
+		type = hussar
+		home = 730
+	}
+
+	regiment = {
+		name= "21.Artiglieria di Linea"
+		type = artillery
+		home = 732
+	}
+
+	regiment = {
+		name= "22.Artiglieria di Linea"
+		type = artillery
+		home = 729
+	}
+
+	regiment = {
+		name= "23.Artiglieria di Linea"
+		type = artillery
+		home = 729
+	}
+
+	regiment = {
+		name= "24.Artiglieria di Linea"
+		type = artillery
+		home = 733
+	}
+
+	regiment = {
+		name= "25.Artiglieria di Linea"
+		type = artillery
+		home = 611
+	}
+
+	regiment = {
+		name= "26.Artiglieria di Linea"
+		type = artillery
+		home = 603
+	}
+
+	regiment = {
+		name= "27.Artiglieria di Linea"
+		type = artillery
+		home = 726
+	}
+
+	regiment = {
+		name= "28.Artiglieria di Linea"
+		type = artillery
+		home = 606
+	}
+
+	regiment = {
+		name= "29.Artiglieria di Linea"
+		type = artillery
+		home = 605
+	}
+
+	regiment = {
+		name= "30.Artiglieria di Linea"
+		type = artillery
+		home = 604
 	}
 }
 
